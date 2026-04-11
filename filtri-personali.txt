@@ -12,9 +12,9 @@
 ! 2. SPAM & SCAM (Abused Low-Cost TLDs)
 ! 2. SPAM & TRUFFE (TLD a basso costo abusati)
 ! ---------------------------------------------------------------
-||top^$important
-||gdn^$important
-||xyz^$important
+||*.top^$important
+||*.gdn^$important
+||*.xyz^$important
 
 ! ---------------------------------------------------------------
 ! 3. ANTI-BYPASS (DoH & Private Relay Prevention)
