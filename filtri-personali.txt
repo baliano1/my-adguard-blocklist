@@ -28,5 +28,3 @@
 ! 4. CUSTOM BLACKLIST (Phishing / C2 / Malware)
 ! 4. BLACKLIST PERSONALIZZATA (Phishing / C2 / Malware)
 ! ---------------------------------------------------------------
-! Add your specific IoCs below / Aggiungi i tuoi IoC specifici qui sotto
-! ||malicious-domain.com^
