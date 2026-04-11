@@ -45,6 +45,5 @@ To ensure maximum efficacy and leave no blind spots for threat actors, the rules
 2. Go to **Filters** -> **DNS blocklists** -> **Add blocklist** -> **Add a custom list**.
 3. Choose a name and paste the RAW link of this repository:
    `https://raw.githubusercontent.com/baliano1/my-adguard-blocklist/main/filtri-personali.txt`
-   *(Make sure to replace "filtri-personali.txt" with your exact file name).*
 
 ⚠️ **Warning:** The aggressive nature of this list (especially the total blackout of entire TLDs) might break some IoT smart devices or specific online stores. Monitor your AdGuard Query Log to troubleshoot any potential false positives.
