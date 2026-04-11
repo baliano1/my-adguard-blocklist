@@ -20,7 +20,6 @@ Per garantire la massima efficacia e non lasciare alcun "punto cieco" agli attac
 2. Vai su **Filtri** -> **DNS Blocklists** -> **Aggiungi blocco** -> **Aggiungi una lista personalizzata**.
 3. Inserisci un nome a tua scelta e incolla il link RAW di questa repository:
    `https://raw.githubusercontent.com/baliano1/my-adguard-blocklist/main/filtri-personali.txt`
-   *(Assicurati di sostituire "filtri-personali.txt" con il nome esatto del tuo file).*
 
 ⚠️ **Attenzione:** L'aggressività di questa lista (in particolare il blocco totale di alcuni TLD) potrebbe impedire il corretto funzionamento di dispositivi IoT o acquisti su siti specifici. Controlla il tuo Query Log in AdGuard per individuare eventuali falsi positivi.
 
