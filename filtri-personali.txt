@@ -2,11 +2,11 @@
 ! 1. GEOBLOCKING (High-Risk Countries / APT Threats)
 ! 1. GEOBLOCKING (Paesi ad Alto Rischio / Minacce APT)
 ! ---------------------------------------------------------------
-||ru^$important
-||cn^$important
-||ir^$important
-||kp^$important
-||by^$important
+||*.ru^$important
+||*.cn^$important
+||*.ir^$important
+||*.kp^$important
+||*.by^$important
 
 ! ---------------------------------------------------------------
 ! 2. SPAM & SCAM (Abused Low-Cost TLDs)
