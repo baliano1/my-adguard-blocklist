@@ -1,1 +1,32 @@
+! ---------------------------------------------------------------
+! 1. GEOBLOCKING (High-Risk Countries / APT Threats)
+! 1. GEOBLOCKING (Paesi ad Alto Rischio / Minacce APT)
+! ---------------------------------------------------------------
+||ru^$important
+||cn^$important
+||ir^$important
+||kp^$important
+||by^$important
 
+! ---------------------------------------------------------------
+! 2. SPAM & SCAM (Abused Low-Cost TLDs)
+! 2. SPAM & TRUFFE (TLD a basso costo abusati)
+! ---------------------------------------------------------------
+||top^$important
+||gdn^$important
+||xyz^$important
+
+! ---------------------------------------------------------------
+! 3. ANTI-BYPASS (DoH & Private Relay Prevention)
+! 3. ANTI-BYPASS (Prevenzione DoH e Private Relay)
+! ---------------------------------------------------------------
+||use-application-dns.net^$important
+||mask.icloud.com^$important
+||mask-h2.icloud.com^$important
+
+! ---------------------------------------------------------------
+! 4. CUSTOM BLACKLIST (Phishing / C2 / Malware)
+! 4. BLACKLIST PERSONALIZZATA (Phishing / C2 / Malware)
+! ---------------------------------------------------------------
+! Add your specific IoCs below / Aggiungi i tuoi IoC specifici qui sotto
+! ||malicious-domain.com^
