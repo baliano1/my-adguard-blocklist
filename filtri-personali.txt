@@ -16,6 +16,7 @@
 ||*.gdn^$important
 ||*.xyz^$important
 
+
 ! ---------------------------------------------------------------
 ! 3. ANTI-BYPASS (DoH & Private Relay Prevention)
 ! 3. ANTI-BYPASS (Prevenzione DoH e Private Relay)
@@ -28,4 +29,134 @@
 ! 4. CUSTOM BLACKLIST (Phishing / C2 / Malware)
 ! 4. BLACKLIST PERSONALIZZATA (Phishing / C2 / Malware)
 ! ---------------------------------------------------------------
-||*.artistiquehair.ro^$important
+
+! --- 4.1 FAKE GOV & TAXES (Phishing Agenzia Entrate, IRS, BZSt) ---
+||*.agenziaentrate.icu^$important
+||*.bzst-infomieren.icu^$important
+||*.bzstinform.icu^$important
+||*.entratezza.com^$important
+||*.entratezza-ia.com^$important
+||*.fortunezza.com^$important
+||*.fortunezza.org^$important
+||*.mytaxclientcopy.com^$important
+||*.irs-contact-payments.com^$important
+
+! --- 4.2 FAKE TRADING, AI & FINANCE (Scam Brokers, Crypto, Phishing) ---
+||*.roccanazionale.com^$important
+||*.roccanazionaleia.it^$important
+||*.roccanazionale-ia.org^$important
+||*.roccanazionale-it.com^$important
+||*.valorixai.it^$important
+||*.valorixai-it.fyi^$important
+||*.zenterovlima.pro^$important
+||*.drydenpartners.com^$important
+||*.go-market-ltd.net^$important
+||*.atfglobalx.co^$important
+||*.lsegcapital.com^$important
+||*.pftcertx.com^$important
+||*.pftcertx.it^$important
+||*.elite-flows.com^$important
+||*.campo-borsante.com^$important
+||*.campo-borsante.org^$important
+||*.campoborsante.com^$important
+||*.campo-borsante.net^$important
+||*.oxelvian.it^$important
+||*.oxelvian.net^$important
+||*.oxelvian.io^$important
+||*.oxelvian.tech^$important
+||*.oxelvian-it.net^$important
+||*.eryxavin.net^$important
+||*.eryxavin.org^$important
+||*.eryxavinit.com^$important
+||*.kapidexnx.net^$important
+||*.stetradingonline.com^$important
+||*.finoglob.com^$important
+||*.glq-investors.com^$important
+||*.swiss-pay.io^$important
+||*.stone-vest-ltd.com^$important
+||*.apolloxpro.com^$important
+||*.apollox-pro.vip^$important
+||*.ftifinancelimited.com^$important
+||*.servelius.org^$important
+||*.oysteryx-ophonlie.com^$important
+||*.fruenza.net^$important
+||*.fruenza.info^$important
+||*.puramonetivo.com^$important
+||*.pura-monetivo.com^$important
+||*.puramonetivo.net^$important
+||*.iggroup24.life^$important
+||*.montblancltd.com^$important
+||*.eurogpb.com^$important
+||*.alpha-connects.com^$important
+||*.levaquant.com^$important
+||*.levaquant.org^$important
+||*.darwinexitltd.com^$important
+||*.capitalai-ltd.com^$important
+||*.gpbulllhound.com^$important
+
+! --- 4.3 FAKE E-COMMERCE & OLYMPICS 2026 (Scam / Credential Harvesting) ---
+||*.2026winterdeals.top^$important
+||*.olympics-save.top^$important
+||*.olympics2026.top^$important
+||*.postolympicsale.com^$important
+||*.sale-olympics.top^$important
+||*.shopolympics-eu.top^$important
+||*.winter0lympicsstore.top^$important
+||*.winterolympics.top^$important
+||*.2026olympics.shop^$important
+||*.olympics-2026.shop^$important
+||*.olympics-2026.top^$important
+||*.olympics-eu.top^$important
+||*.olympics-hot.shop^$important
+||*.olympics-hot.top^$important
+||*.olympics-sale.shop^$important
+||*.olympics-sale.top^$important
+||*.olympics-top.shop^$important
+||*.olympics2026.store^$important
+
+! --- 4.4 BRAND IMPERSONATION (Social, Crypto Wallets, Tech, Delivery) ---
+||*.amazon-clone-blue-ten.vercel.app^$important
+||*.login-amazon-account.com^$important
+||*.netflix-clone-jade-beta.vercel.app^$important
+||*.facedook.services^$important
+||*.facebook-clone-theta-nine.vercel.app^$important
+||*.facebookztv.com^$important
+||*.instagram-dio-azure.vercel.app^$important
+||*.lnstagrarn.vercel.app^$important
+||*.web.whatsapp.jo.hl.cn^$important
+||*.apple-grx-support-online.com^$important
+||*.att-rsshelp.com^$important
+||*.paypal-opladen.be^$important
+||*.dhlinfos.link^$important
+||*.uspsdelivery-service.com^$important
+||*.loginnnaolcccom.weebly.com^$important
+||*.adobe-pdf-sick-alley.surge.sh^$important
+||*.gift-steam-discord.com^$important
+||*.orange-france24.yolasite.com^$important
+||*.anydeesk.ink^$important
+||*.phantom.baby^$important
+||*.base-swap-dex.pages.dev^$important
+||*.validate-robinhood.com^$important
+||*.con-baseulogrn.godaddysites.com^$important
+||*.conbase.top^$important
+||*.supp0rt-coinbase.com^$important
+||*.accessopenseamints8.vercel.app^$important
+||*.ledger-security-online.com^$important
+||*.mexce.live^$important
+
+! --- 4.5 DGA & MALICIOUS INFRASTRUCTURE (C2, Spam) ---
+||*.uiu258.it^$important
+||*.m1gqv.it^$important
+||*.dfh226.it^$important
+||*.yuy257.it^$important
+||*.fgd326.it^$important
+||*.asd952.it^$important
+||*.cufjaj.id^$important
+
+! --- 4.6 MISCELLANEOUS & COMPROMISED HOSTS ---
+||*.lc-pi-com.preview-domain.com^$important
+||*.servecdn.my^$important
+||*.biducaconfeitos.com.br^$important
+||*.wakiss.com^$important
+||*.markitos.shop^$important
+||*.threemanshop.com^$important
