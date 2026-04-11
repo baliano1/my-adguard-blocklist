@@ -28,3 +28,4 @@
 ! 4. CUSTOM BLACKLIST (Phishing / C2 / Malware)
 ! 4. BLACKLIST PERSONALIZZATA (Phishing / C2 / Malware)
 ! ---------------------------------------------------------------
+||*.artistiquehair.ro^$important
