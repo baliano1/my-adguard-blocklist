@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-12 17:00:47
+! Ultimo aggiornamento automatico: 2026-04-12 18:42:42
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -207,7 +207,6 @@
 ||*.auth356usngwd0c85bdrvsharepoint.capitolelectrics.com^$important
 ||*.avbackup.acionline.de^$important
 ||*.backupso.com^$important
-||*.bacollections.com^$important
 ||*.bankgarantia.ru^$important
 ||*.base-mainnet.pages.dev^$important
 ||*.bbos.minet.vn^$important
@@ -229,7 +228,6 @@
 ||*.boaofamerica.com^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
-||*.boydjackson.org^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridge-manage.wixstudio.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -238,11 +236,13 @@
 ||*.bvaco.com^$important
 ||*.bybitloginnn.gitbook.io^$important
 ||*.c.fi3.me^$important
+||*.c2.mc-live.online^$important
 ||*.cad.659t.cn^$important
 ||*.caixagreen.online^$important
 ||*.cambodiatouristservice.com^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
@@ -270,7 +270,6 @@
 ||*.continentalgroup.net.in^$important
 ||*.controliumbt.com^$important
 ||*.coralasargetia.ro^$important
-||*.coralpac.com^$important
 ||*.corporacioncrf.com^$important
 ||*.creativevoltage.com^$important
 ||*.crimefreesoftware.com^$important
@@ -297,7 +296,6 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
 ||*.diluz07.github.io^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
@@ -339,7 +337,6 @@
 ||*.esr.ro^$important
 ||*.estudio.ythan.com.br^$important
 ||*.etinsendmail.com^$important
-||*.etinsendmail.net^$important
 ||*.evangroup.ru^$important
 ||*.everycarebd.com^$important
 ||*.ewd000thc7.cc^$important
@@ -354,6 +351,7 @@
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fasterthanai.github.io^$important
+||*.femilamom.net^$important
 ||*.fenbushijujuefuwu.com^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
@@ -362,7 +360,6 @@
 ||*.filezilla.cc^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
-||*.fonij.cm^$important
 ||*.ftp.ywxww.net^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
@@ -392,7 +389,6 @@
 ||*.hobobot.net^$important
 ||*.homepage-global.wixstudio.com^$important
 ||*.homestartapps.wixstudio.com^$important
-||*.hostealo.com^$important
 ||*.hotellacastellana.com.uy^$important
 ||*.hotelsignbkngguest.help^$important
 ||*.hqweb.id.vn^$important
@@ -438,6 +434,7 @@
 ||*.kamin-premium.ru^$important
 ||*.karelbugwac.github.io^$important
 ||*.kassykas.github.io^$important
+||*.kavacanada.ca^$important
 ||*.keilo-jermailer.com^$important
 ||*.kendala-akun.mangoboost.biz.id^$important
 ||*.kerryglow.info^$important
@@ -461,7 +458,6 @@
 ||*.lejrmakei.com^$important
 ||*.lejrmakei.net^$important
 ||*.libss.0x504.com^$important
-||*.like.exphelp.life^$important
 ||*.linchens.com^$important
 ||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
@@ -486,6 +482,7 @@
 ||*.meetvideogoogle.com^$important
 ||*.metaameklogin.webflow.io^$important
 ||*.metamaskchromeextensionn.blogspot.com^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mgtms.cc^$important
 ||*.microsoft-clone-neon.vercel.app^$important
 ||*.mistralkorea.ru^$important
@@ -524,14 +521,12 @@
 ||*.nookaharshavardhan.github.io^$important
 ||*.notifyhubss.net^$important
 ||*.ntade-2.cfd^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.o3pjh3hs.paragonbloomera.digital^$important
 ||*.officialapps-suites.wixstudio.com^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onyxcyberedge.de^$important
 ||*.onyxfortifypro.de^$important
@@ -630,6 +625,7 @@
 ||*.setup-bridge-tze.zapier.app^$important
 ||*.setupproducts.com^$important
 ||*.sg123.net^$important
+||*.sgindustries.lk^$important
 ||*.shahamanatme.com^$important
 ||*.shanthan4444.github.io^$important
 ||*.shekharscript.github.io^$important
@@ -689,6 +685,7 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
+||*.todayallmatchprediction.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.tr.2026-padisahbet.com^$important
@@ -711,6 +708,7 @@
 ||*.vagler.ru^$important
 ||*.varunvarunsr05-cp.github.io^$important
 ||*.vault88x.secure-efficient2.su^$important
+||*.vcc-library.uk^$important
 ||*.verify.itpatches.com^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -726,7 +724,6 @@
 ||*.vrajras.com^$important
 ||*.web2.pancake.run^$important
 ||*.webcstore.pw^$important
-||*.webdriver-select.vg^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsappxx2026.binzaminrandow.site^$important
 ||*.whatsloiu.cc^$important
