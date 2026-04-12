@@ -2,9 +2,9 @@ name: Aggiornamento Feed OSINT
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Ogni notte alle 03:00
-  workflow_dispatch: # Permette l'avvio manuale
-
+    - cron: '0 */3 * * *'  # Esegue al minuto 0 di ogni ora divisibile per 3 (0, 3, 6, 9, ecc.)
+  workflow_dispatch:
+  
 permissions:
   contents: write
 
