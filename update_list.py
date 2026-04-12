@@ -1,70 +1,69 @@
 import requests
 from urllib.parse import urlparse
 from datetime import datetime
+import os
 
-# Usiamo un 'set' per evitare domini duplicati tra le varie fonti
+# Configurazione
+FILE_NAME = "filtri-personali.txt"
+MARKER = "! --- START OF AUTOMATED FEED ---"
 domini_malevoli = set()
 
-print("Inizio il download dei feed OSINT...")
+print("Inizio raccolta IoC...")
 
-# --- 1. ABUSE.CH: URLhaus (Malware Distribution) ---
+# --- FEED 1: URLhaus (Malware) ---
 try:
-    print("Scaricamento URLhaus...")
-    urlhaus_url = "https://urlhaus.abuse.ch/downloads/hostfile/"
-    r = requests.get(urlhaus_url, timeout=10)
+    r = requests.get("https://urlhaus.abuse.ch/downloads/hostfile/", timeout=15)
     for line in r.text.splitlines():
-        # Il formato è "127.0.0.1 dominio.com"
         if line.startswith("127.0.0.1") and "localhost" not in line:
-            dominio = line.split()[1].strip()
-            domini_malevoli.add(dominio)
-except Exception as e:
-    print(f"Errore URLhaus: {e}")
+            domini_malevoli.add(line.split()[1].strip())
+except: print("Errore URLhaus")
 
-# --- 2. ABUSE.CH: ThreatFox (C2 Infrastructure) ---
+# --- FEED 2: ThreatFox (C2) ---
 try:
-    print("Scaricamento ThreatFox...")
-    # Feed CSV con i domini recenti
-    threatfox_url = "https://threatfox.abuse.ch/export/csv/domains/recent/"
-    r = requests.get(threatfox_url, timeout=10)
+    r = requests.get("https://threatfox.abuse.ch/export/csv/domains/recent/", timeout=15)
     for line in r.text.splitlines():
         if not line.startswith("#") and '","' in line:
-            # Estrazione rozza ma efficace della colonna dominio dal CSV
             parti = line.split('","')
             if len(parti) > 2:
-                dominio = parti[2].replace('"', '').strip()
-                domini_malevoli.add(dominio)
-except Exception as e:
-    print(f"Errore ThreatFox: {e}")
+                domini_malevoli.add(parti[2].replace('"', '').strip())
+except: print("Errore ThreatFox")
 
-# --- 3. OPENPHISH (Campagne Phishing Zero-Day) ---
+# --- FEED 3: OpenPhish (Phishing) ---
 try:
-    print("Scaricamento OpenPhish...")
-    openphish_url = "https://openphish.com/feed.txt"
-    r = requests.get(openphish_url, timeout=10)
+    r = requests.get("https://openphish.com/feed.txt", timeout=15)
     for line in r.text.splitlines():
         if line.startswith("http"):
-            # OpenPhish fornisce URL completi, a noi serve solo il dominio radice
-            dominio = urlparse(line).netloc
-            dominio = dominio.split(':')[0] # Rimuove eventuali porte (es. :8080)
+            dominio = urlparse(line).netloc.split(':')[0]
             domini_malevoli.add(dominio)
-except Exception as e:
-    print(f"Errore OpenPhish: {e}")
+except: print("Errore OpenPhish")
 
-# --- SCRITTURA DEL FILE PER ADGUARD ---
-print(f"Totale domini unici raccolti: {len(domini_malevoli)}")
-
-with open("osint-feed.txt", "w") as file:
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    file.write(f"! --- FEED OSINT AUTOMATICO ---\n")
-    file.write(f"! Aggiornato il: {timestamp}\n")
-    file.write(f"! Fonti: URLhaus, ThreatFox, OpenPhish\n")
-    file.write(f"! Totale IoC: {len(domini_malevoli)}\n")
-    file.write(f"! --------------------------------------\n\n")
+# --- ELABORAZIONE FILE ---
+if os.path.exists(FILE_NAME):
+    with open(FILE_NAME, "r") as f:
+        linee = f.readlines()
     
-    # Applica la formattazione Zero Trust ordinando in ordine alfabetico
-    for dominio in sorted(domini_malevoli):
-        # Evitiamo di inserire stringhe vuote o IP diretti se vogliamo solo domini
-        if dominio:
-            file.write(f"||{dominio}^$important\n")
+    # Cerchiamo dove finisce la tua parte manuale
+    nuovo_contenuto = []
+    for l in linee:
+        nuovo_contenuto.append(l)
+        if MARKER in l:
+            break
+    else:
+        # Se il marker non esiste, lo aggiungiamo in fondo
+        if nuovo_contenuto and not nuovo_contenuto[-1].endswith("\n"):
+            nuovo_contenuto.append("\n")
+        nuovo_contenuto.append(MARKER + "\n")
 
-print("File osint-feed.txt generato con successo!")
+    # Scrittura finale
+    with open(FILE_NAME, "w") as f:
+        f.writelines(nuovo_contenuto)
+        f.write(f"! Ultimo aggiornamento automatico: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        
+        # Inserimento domini con sintassi richiesta
+        for dom in sorted(domini_malevoli):
+            if dom and "." in dom: # Verifica minima che sia un dominio
+                f.write(f"||*.{dom}^$important\n")
+
+    print(f"File {FILE_NAME} aggiornato con {len(domini_malevoli)} nuovi domini.")
+else:
+    print(f"Errore: il file {FILE_NAME} non esiste!")
