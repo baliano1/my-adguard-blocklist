@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-12 18:42:42
+! Ultimo aggiornamento automatico: 2026-04-12 21:32:13
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -176,7 +176,6 @@
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.admin.metamask.eu.cc^$important
-||*.agence-immobiliere-lyon.com^$important
 ||*.aktifkaanpayllaaterr4.resmi-yaa3.my.id^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -351,7 +350,6 @@
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fasterthanai.github.io^$important
-||*.femilamom.net^$important
 ||*.fenbushijujuefuwu.com^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
@@ -625,7 +623,6 @@
 ||*.setup-bridge-tze.zapier.app^$important
 ||*.setupproducts.com^$important
 ||*.sg123.net^$important
-||*.sgindustries.lk^$important
 ||*.shahamanatme.com^$important
 ||*.shanthan4444.github.io^$important
 ||*.shekharscript.github.io^$important
@@ -675,7 +672,6 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tehreem234344.github.io^$important
-||*.telecomsa.xyz^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
@@ -724,6 +720,7 @@
 ||*.vrajras.com^$important
 ||*.web2.pancake.run^$important
 ||*.webcstore.pw^$important
+||*.webdriver-select.vg^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsappxx2026.binzaminrandow.site^$important
 ||*.whatsloiu.cc^$important
