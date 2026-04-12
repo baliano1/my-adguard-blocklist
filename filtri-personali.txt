@@ -160,3 +160,7 @@
 ||*.wakiss.com^$important
 ||*.markitos.shop^$important
 ||*.threemanshop.com^$important
+
+! --- START OF AUTOMATED FEED ---
+
+
