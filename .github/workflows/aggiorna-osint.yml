@@ -1,0 +1,39 @@
+name: Aggiornamento Feed OSINT
+
+# Esegui lo script ogni giorno alle 03:00 di notte (UTC)
+# e permetti anche l'avvio manuale (workflow_dispatch)
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+# Permessi necessari per salvare il nuovo file nel repository
+permissions:
+  contents: write
+
+jobs:
+  aggiorna-blocklist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona il repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Installa le dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Esegui lo script di Threat Intelligence
+        run: python update_list.py
+
+      - name: Salva e carica le modifiche (Commit & Push)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add osint-feed.txt
+          # Se non ci sono modifiche (file identico), evita di fare commit a vuoto
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Aggiornamento automatico IoC OSINT" && git push)
