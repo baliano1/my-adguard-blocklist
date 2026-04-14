@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-14 19:10:11
+! Ultimo aggiornamento automatico: 2026-04-14 21:49:23
 ||*.0022a601.pphost.net^$important
 ||*.10q2026.github.io^$important
 ||*.111101111.ru^$important
@@ -176,6 +176,7 @@
 ||*.3bdduo-bit.github.io^$important
 ||*.9o394zg7.paragonbloomera.digital^$important
 ||*.aaronart.com^$important
+||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.accounts.marketwebb.me^$important
@@ -185,6 +186,7 @@
 ||*.admin.gestroom.it^$important
 ||*.adobeready.online^$important
 ||*.aedcofragrances.com^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.akshay-sharma777.github.io^$important
 ||*.alarmline.com.br^$important
 ||*.alimqulov.uz^$important
@@ -223,6 +225,7 @@
 ||*.b247r.xyz^$important
 ||*.b247t.xyz^$important
 ||*.b47488.com^$important
+||*.backupso.com^$important
 ||*.banban87.github.io^$important
 ||*.bankgarantia.ru^$important
 ||*.basetrading.org^$important
@@ -327,6 +330,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dpd.fluxlati.cfd^$important
 ||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
@@ -345,7 +349,6 @@
 ||*.esdgte2.pages.dev^$important
 ||*.espaminoles452543.vercel.app^$important
 ||*.espaminoles45354354.vercel.app^$important
-||*.esr.ro^$important
 ||*.estudio.ythan.com.br^$important
 ||*.eth.modefi8o.com^$important
 ||*.etinsendmail.com^$important
@@ -391,7 +394,6 @@
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
 ||*.gobiotechpestcontrol.com^$important
-||*.gohelpertechnologies.in^$important
 ||*.google-services.cc^$important
 ||*.goragalo.live^$important
 ||*.govauinboxupdate-alert.com^$important
@@ -421,8 +423,8 @@
 ||*.icloud-imagens.com^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
-||*.ijbfi.pk^$important
 ||*.ilonermailc.com^$important
+||*.ilonermailc.net^$important
 ||*.im.nbpublic.com^$important
 ||*.img.ipxxxx.com^$important
 ||*.imshauryaa.github.io^$important
@@ -433,6 +435,7 @@
 ||*.inmbau.com^$important
 ||*.inner.website^$important
 ||*.innlive.in^$important
+||*.inomanliner.net^$important
 ||*.insantmsgr.my.webshar.es^$important
 ||*.inuclo.com^$important
 ||*.ipfs.io^$important
@@ -499,6 +502,7 @@
 ||*.loginservice.cloud^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lon-01.dlo4d.com^$important
+||*.londonairportstransfer.co.uk^$important
 ||*.losmatres0402404.vercel.app^$important
 ||*.low.exphelp.life^$important
 ||*.luizmatoso.com.br^$important
@@ -508,9 +512,9 @@
 ||*.m37q.xyz^$important
 ||*.m9thskmy.paragonbloomera.digital^$important
 ||*.magina.online^$important
+||*.magnusworkspace.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mailer-kjermjs.com^$important
-||*.mailer-kjermjs.net^$important
 ||*.malupieng.com.br^$important
 ||*.malware-trezore.zapier.app^$important
 ||*.manas-yadav-45.github.io^$important
@@ -558,6 +562,7 @@
 ||*.okhan.net^$important
 ||*.okkymadasari.net^$important
 ||*.oknoplastik.sk^$important
+||*.omax.com.pk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onlineicloud.support^$important
 ||*.onyxcyberedge.de^$important
@@ -574,6 +579,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.padisahbet-hizligiris.vip^$important
 ||*.palharesinformatica.com.br^$important
+||*.panychurasc0.com^$important
 ||*.pay.aqiu6.com^$important
 ||*.paypalverification.netlify.app^$important
 ||*.payroll.elevatebrandimage.de^$important
@@ -644,11 +650,13 @@
 ||*.satyam3019-tech.github.io^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
+||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.separadordecc.com^$important
 ||*.sfunited.club^$important
 ||*.sg123.net^$important
+||*.sgindustries.lk^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.sharmabhay07-coder.github.io^$important
@@ -662,6 +670,7 @@
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
 ||*.smtp85283528129.click^$important
+||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.sohbetci.com^$important
 ||*.solar-sanat.net^$important
@@ -716,7 +725,6 @@
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.thunderous-brigadeiros-0344cb.netlify.app^$important
-||*.ticpc8a.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.tr.padisahbet-hizligiris.vip^$important
@@ -793,6 +801,7 @@
 ||*.www.espaminoles45354354.vercel.app^$important
 ||*.www.falzberger-shop.at^$important
 ||*.www.first-security-verden.de^$important
+||*.www.flatpower.at^$important
 ||*.www.flybirdexpbd.com^$important
 ||*.www.forminformation.blogspot.com^$important
 ||*.www.himbeeren.weebly.com^$important
@@ -866,6 +875,7 @@
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
 ||*.xuezha.net^$important
+||*.xx.kak.is^$important
 ||*.xyfsd.com^$important
 ||*.yaseenibnkhan.github.io^$important
 ||*.yongtai.cn^$important
