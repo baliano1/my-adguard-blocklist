@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-15 05:21:30
+! Ultimo aggiornamento automatico: 2026-04-15 07:27:23
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -226,7 +226,6 @@
 ||*.avbackup.acionline.de^$important
 ||*.azambeigh.github.io^$important
 ||*.baba-jeje.github.io^$important
-||*.backupso.com^$important
 ||*.bafybeicdaibqcinsl5c2zhd7jgycr5pefqe3bann36wpwwqi2gmjnbzb6u.ipfs.dweb.link^$important
 ||*.bankgarantia.ru^$important
 ||*.bbos.minet.vn^$important
@@ -267,6 +266,7 @@
 ||*.chetan980.github.io^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.claiminvites06.vercel.app^$important
@@ -317,7 +317,6 @@
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
-||*.digitalonline.cl^$important
 ||*.dilkesh06.github.io^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
@@ -375,6 +374,7 @@
 ||*.faiza-03.github.io^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
+||*.femilamom.net^$important
 ||*.fenbushijujuefuwu.com^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
@@ -424,6 +424,7 @@
 ||*.himanshu8in.github.io^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.homecaremovers.com^$important
 ||*.hotellacastellana.com.uy^$important
 ||*.hqweb.id.vn^$important
@@ -540,6 +541,7 @@
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
 ||*.moment.wasmer.app^$important
+||*.mondesignweb.com^$important
 ||*.movtime76.shop^$important
 ||*.msedge.vg^$important
 ||*.mudassirraheel.github.io^$important
@@ -594,7 +596,6 @@
 ||*.palharesinformatica.com.br^$important
 ||*.panychurasc0.com^$important
 ||*.paras4308.github.io^$important
-||*.pay.aqiu6.com^$important
 ||*.payalahuja18.github.io^$important
 ||*.pcupd.com^$important
 ||*.pdfplugout.com^$important
@@ -702,6 +703,7 @@
 ||*.solar-sanat.net^$important
 ||*.souvik2857.github.io^$important
 ||*.spacemanslot88.games^$important
+||*.spoar.org.in^$important
 ||*.spotify-clone-blue.vercel.app^$important
 ||*.spotify-clone-eight-sepia.vercel.app^$important
 ||*.spotify-clone-green.vercel.app^$important
@@ -727,7 +729,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swatii-git.github.io^$important
-||*.swiftfusion.tech^$important
 ||*.swisborg-lgn.webflow.io^$important
 ||*.sx-58.github.io^$important
 ||*.tajalrayhan.com^$important
@@ -818,7 +819,6 @@
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chenwangqiao.com^$important
@@ -908,5 +908,6 @@
 ||*.yy.kak.is^$important
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
+||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
 ||*.zyroaim.com^$important
