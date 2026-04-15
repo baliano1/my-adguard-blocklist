@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-15 19:13:19
+! Ultimo aggiornamento automatico: 2026-04-15 21:49:21
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -267,7 +267,6 @@
 ||*.capitalonem.pages.dev^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
-||*.cause-impact.com^$important
 ||*.ccleaner.gl^$important
 ||*.cconnects-xfinity.weebly.com^$important
 ||*.cdaonline.com.ar^$important
@@ -339,6 +338,7 @@
 ||*.divorcemenadvice.highheelsplace.com^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
+||*.dl.armour-inc-down.net^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
