@@ -42,26 +42,26 @@ if os.path.exists(FILE_NAME):
     with open(FILE_NAME, "r") as f:
         linee = f.readlines()
     
-    # Cerchiamo dove finisce la tua parte manuale
+   
     nuovo_contenuto = []
     for l in linee:
         nuovo_contenuto.append(l)
         if MARKER in l:
             break
     else:
-        # Se il marker non esiste, lo aggiungiamo in fondo
+        
         if nuovo_contenuto and not nuovo_contenuto[-1].endswith("\n"):
             nuovo_contenuto.append("\n")
         nuovo_contenuto.append(MARKER + "\n")
 
-    # Scrittura finale
+    
     with open(FILE_NAME, "w") as f:
         f.writelines(nuovo_contenuto)
         f.write(f"! Ultimo aggiornamento automatico: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         
-        # Inserimento domini con sintassi richiesta
+        
         for dom in sorted(domini_malevoli):
-            if dom and "." in dom: # Verifica minima che sia un dominio
+            if dom and "." in dom: 
                 f.write(f"||*.{dom}^$important\n")
 
     print(f"File {FILE_NAME} aggiornato con {len(domini_malevoli)} nuovi domini.")
