@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-15 13:19:13
+! Ultimo aggiornamento automatico: 2026-04-15 16:03:01
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -424,7 +424,6 @@
 ||*.globaltechbilling.com^$important
 ||*.gohelpertechnologies.in^$important
 ||*.google-services.cc^$important
-||*.googmeetinginvitation.com^$important
 ||*.goplanet.digital^$important
 ||*.governofederal.io^$important
 ||*.grandvegasbet.com.br^$important
@@ -458,6 +457,7 @@
 ||*.igacorp.conohawing.com^$important
 ||*.igra123.com^$important
 ||*.ilonermailc.com^$important
+||*.ilonermailc.net^$important
 ||*.img.ipxxxx.com^$important
 ||*.in-oman-liner.com^$important
 ||*.indeanapolice.cc^$important
@@ -559,6 +559,7 @@
 ||*.mmex-robuux2025.netlify.app^$important
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
+||*.mondesignweb.com^$important
 ||*.mosaiftech89.github.io^$important
 ||*.movtime76.shop^$important
 ||*.mpanjaka.weebly.com^$important
@@ -725,7 +726,6 @@
 ||*.solicitelimiteextradisponivelnu.s3.us-east-005.backblazeb2.com^$important
 ||*.solicitescoreprime.s3.us-east-005.backblazeb2.com^$important
 ||*.spacemanslot88.games^$important
-||*.spoar.org.in^$important
 ||*.static-103-160-197-181.unpl.net^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
