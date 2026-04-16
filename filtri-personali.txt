@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-16 07:28:04
+! Ultimo aggiornamento automatico: 2026-04-16 10:13:49
 ||*.0022a601.pphost.net^$important
 ||*.084793.com^$important
 ||*.111101111.ru^$important
@@ -172,11 +172,11 @@
 ||*.1717.1000uc.com^$important
 ||*.176.65.148.189.ptr.pfcloud.network^$important
 ||*.204.76.203.168.ptr.pfcloud.network^$important
+||*.248bestmoon.click^$important
 ||*.2cpd365m.plaque5tucco.digital^$important
 ||*.365456.net^$important
 ||*.453000048943749.weebly.com^$important
 ||*.46.107.230.43.in-addr.arpa^$important
-||*.FGx8SNCa4txePA.sh4^$important
 ||*.aamnanoreen2.github.io^$important
 ||*.aaronart.com^$important
 ||*.aarti7m.github.io^$important
@@ -320,6 +320,7 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
@@ -330,7 +331,6 @@
 ||*.docu-sign-firmar.vercel.app^$important
 ||*.domister.online^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.mvip8.ru^$important
 ||*.down.pcclear.com^$important
@@ -509,17 +509,16 @@
 ||*.logo-no-041501.pages.dev^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lon-01.dlo4d.com^$important
-||*.londonairportstransfer.co.uk^$important
 ||*.loogin-comndex.godaddysites.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.mabhishek-dev.github.io^$important
 ||*.macquarierewardsa-home.info^$important
 ||*.magina.online^$important
 ||*.maharlpg.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mailer-kjermjs.com^$important
-||*.mailer-kjermjs.net^$important
 ||*.mailreference.fr^$important
 ||*.malupieng.com.br^$important
 ||*.marsalek.cy^$important
@@ -627,7 +626,6 @@
 ||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
-||*.ritee.in^$important
 ||*.ritesh1282.github.io^$important
 ||*.robertrowe.com^$important
 ||*.robiox.com.af^$important
@@ -769,6 +767,7 @@
 ||*.westpacone-homesg.info^$important
 ||*.westpacone-homesz.info^$important
 ||*.westpacrewardshop2025c.click^$important
+||*.whtempdomain.com^$important
 ||*.widexenmexico.com.mx^$important
 ||*.willbeanfeddeals.shop^$important
 ||*.windomstatetheater.com^$important
