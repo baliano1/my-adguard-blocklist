@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-16 16:20:51
+! Ultimo aggiornamento automatico: 2026-04-16 19:07:58
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -173,17 +173,18 @@
 ||*.2cpd365m.plaque5tucco.digital^$important
 ||*.46.107.230.43.in-addr.arpa^$important
 ||*.aaronart.com^$important
+||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
-||*.agence-immobiliere-lyon.com^$important
 ||*.ai-mayank.github.io^$important
 ||*.airbnb-1869ae.webflow.io^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
+||*.allister.ee^$important
 ||*.allsydevs.com^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-gamma-ecru.vercel.app^$important
@@ -215,21 +216,16 @@
 ||*.auth.verifiedbadgebluepage.sbs^$important
 ||*.authentication.ms^$important
 ||*.authstart-terezor.github.io^$important
-||*.autoconfig.atlcpatax.com^$important
-||*.autodiscover.atlcpatax.com^$important
 ||*.avbackup.acionline.de^$important
 ||*.backupso.com^$important
 ||*.bankgarantia.ru^$important
-||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
 ||*.bendigo-homesa.info^$important
 ||*.bergetom08-sys.github.io^$important
-||*.biducaconfeitos.com.br^$important
 ||*.binance.verify-login.org^$important
 ||*.bitcoins.homes^$important
 ||*.bitmartlogin.webflow.io^$important
 ||*.bkngextranetreservcontrolpanel.com^$important
-||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -248,6 +244,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catalogo.castrouria.com^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.cause-impact.com^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
@@ -265,7 +262,6 @@
 ||*.clone-netflix-proj.vercel.app^$important
 ||*.cloudstay168.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.cnsqarrlogin.webflow.io^$important
 ||*.cnsqarrlogzn.webflow.io^$important
 ||*.co-emas.com^$important
@@ -346,7 +342,6 @@
 ||*.epanpano.com^$important
 ||*.estudio.ythan.com.br^$important
 ||*.etinsendmail.com^$important
-||*.etinsendmail.net^$important
 ||*.evangroup.ru^$important
 ||*.eventi.comunicazioni-sicure.it^$important
 ||*.everycarebd.com^$important
@@ -356,6 +351,7 @@
 ||*.fakeflix-web-app.vercel.app^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
+||*.femilamom.net^$important
 ||*.fenbushijujuefuwu.com^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
@@ -408,6 +404,7 @@
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
 ||*.ilonermailc.com^$important
+||*.ilonermailc.net^$important
 ||*.img.ipxxxx.com^$important
 ||*.in-oman-liner.com^$important
 ||*.indeanapolice.cc^$important
@@ -460,6 +457,7 @@
 ||*.lejrmakei.com^$important
 ||*.lejrmakei.net^$important
 ||*.libss.0x504.com^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.lloydsbank-homesa.info^$important
 ||*.lloydsbank-homesb.info^$important
@@ -472,12 +470,13 @@
 ||*.loginservice.cloud^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lon-01.dlo4d.com^$important
+||*.londonairportstransfer.co.uk^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.macquarierewardsa-home.info^$important
+||*.magnusworkspace.com^$important
 ||*.maidforyou1985.com^$important
-||*.mail.atlcpatax.com^$important
 ||*.mailer-kjermjs.com^$important
 ||*.mailer-kjermjs.net^$important
 ||*.mailer8-log.mdbgo.io^$important
@@ -495,9 +494,11 @@
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
+||*.mondesignweb.com^$important
 ||*.movtime76.shop^$important
 ||*.mrbestman.github.io^$important
 ||*.msedge.vg^$important
+||*.msgrouppolicy.vg^$important
 ||*.muledo.com^$important
 ||*.multi-factor.link^$important
 ||*.mundocarnes.cl^$important
@@ -572,6 +573,7 @@
 ||*.pop3.riszq.com^$important
 ||*.portal-kucoin-login-info.typedream.app^$important
 ||*.priyagarg2518.github.io^$important
+||*.protherapycenter.com^$important
 ||*.ptshopee-229.blogspot.com^$important
 ||*.ptshopee-27.blogspot.com^$important
 ||*.ptshopee222.blogspot.com^$important
@@ -626,14 +628,17 @@
 ||*.save.jnrsmcu.com^$important
 ||*.sazlamoibiama.duckdns.org^$important
 ||*.scainseto.com.br^$important
+||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.secure-datalink.org^$important
 ||*.seller.allegroshop.cyou^$important
 ||*.separadordecc.com^$important
+||*.servicioslogisticosdyc.com^$important
 ||*.sesdigitalsolutions.com^$important
 ||*.sfunited.club^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopee0109.blogspot.com^$important
@@ -654,7 +659,6 @@
 ||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
-||*.soniderosunidos.com^$important
 ||*.spacemanslot88.games^$important
 ||*.spoar.org.in^$important
 ||*.spotify-clone-sandy-delta.vercel.app^$important
@@ -713,7 +717,6 @@
 ||*.trustwallet.cloudyhost.org^$important
 ||*.twitch.ist^$important
 ||*.ukguk71.ru^$important
-||*.un1rw11q4u.com^$important
 ||*.uniform-factory.ae^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -737,6 +740,7 @@
 ||*.vinihero1.github.io^$important
 ||*.virus-control.com^$important
 ||*.visam.info^$important
+||*.visapics.info^$important
 ||*.visualwikicloud.com^$important
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
@@ -780,7 +784,6 @@
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chadwondermagic.com^$important
@@ -885,6 +888,7 @@
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
 ||*.www.zelquora.com^$important
+||*.www.zhikey.com^$important
 ||*.xdcq3.com^$important
 ||*.xenon.studio^$important
 ||*.xfinity-108298.weeblysite.com^$important
