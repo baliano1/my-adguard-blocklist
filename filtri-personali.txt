@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-16 05:28:25
+! Ultimo aggiornamento automatico: 2026-04-16 07:28:04
 ||*.0022a601.pphost.net^$important
 ||*.084793.com^$important
 ||*.111101111.ru^$important
@@ -196,6 +196,7 @@
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.admin.kucoin-app.cc^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.ahmed-qureshi-dev.github.io^$important
 ||*.ahv3ctpms4e.it-support-group.com^$important
 ||*.airbnb-clone-2-sigma.vercel.app^$important
@@ -240,6 +241,7 @@
 ||*.basedeampliacao.s3.us-east-005.backblazeb2.com^$important
 ||*.bbos.minet.vn^$important
 ||*.bendigo-homesa.info^$important
+||*.bertticleaning.com^$important
 ||*.biducaconfeitos.com.br^$important
 ||*.bitcoins.homes^$important
 ||*.bitvavo.klanthelpdesk.support^$important
@@ -254,10 +256,10 @@
 ||*.book.rollingvideogames.com^$important
 ||*.booking-confirmation6785175.com^$important
 ||*.booking.connectview.click^$important
-||*.boydjackson.org^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
+||*.brukva.shop^$important
 ||*.bvaco.com^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
@@ -318,7 +320,6 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
@@ -393,10 +394,12 @@
 ||*.fide-lltey.one^$important
 ||*.fidel-ltey.one^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filezilla.cc^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
+||*.fotosdepuebla.org^$important
 ||*.frostcrypt.org^$important
 ||*.ftp.ywxww.net^$important
 ||*.furystaff.tech^$important
@@ -406,8 +409,10 @@
 ||*.gashapon.verifytoken.com^$important
 ||*.gemincxologin.gitbook.io^$important
 ||*.geo-foundation.vg^$important
+||*.gerlimeri.net^$important
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
+||*.gohelpertechnologies.in^$important
 ||*.google-services.cc^$important
 ||*.goplanet.digital^$important
 ||*.gossipband.ie^$important
@@ -435,10 +440,12 @@
 ||*.hsbcrewards-homesb.info^$important
 ||*.hsbcrewardsa-homes.info^$important
 ||*.hsbcrewardsc-homes.info^$important
+||*.hseda.com^$important
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
 ||*.ilonermailc.com^$important
+||*.ilonermailc.net^$important
 ||*.img.ipxxxx.com^$important
 ||*.in-oman-liner.com^$important
 ||*.indeanapolice.cc^$important
@@ -446,6 +453,7 @@
 ||*.inmbau.com^$important
 ||*.innlive.in^$important
 ||*.innovativesr.com^$important
+||*.inomanliner.net^$important
 ||*.ipfs.io^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
@@ -457,7 +465,6 @@
 ||*.jain-divya1307.github.io^$important
 ||*.jawaratekno.com^$important
 ||*.jem-mialwe.com^$important
-||*.jem-mialwe.net^$important
 ||*.jfs.verifytoken.com^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
@@ -473,6 +480,7 @@
 ||*.kingproehl.verifytoken.com^$important
 ||*.kishore1803.github.io^$important
 ||*.km.tradeforexcopier.com^$important
+||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kp8990.github.io^$important
 ||*.kramersmarionnettes.com^$important
@@ -505,8 +513,6 @@
 ||*.loogin-comndex.godaddysites.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
-||*.maalamin.sch.id^$important
 ||*.mabhishek-dev.github.io^$important
 ||*.macquarierewardsa-home.info^$important
 ||*.magina.online^$important
@@ -521,7 +527,6 @@
 ||*.meetvideogoogle.com^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mgtms.cc^$important
-||*.missysgym.com^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
@@ -550,6 +555,7 @@
 ||*.nikhilkumar95f.github.io^$important
 ||*.noithaticon.vn^$important
 ||*.note-access-nj2w.rob-c2d.workers.dev^$important
+||*.nutrisc.com.br^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
@@ -571,9 +577,12 @@
 ||*.owlcity.ru^$important
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
+||*.panychurasc0.com^$important
+||*.parashopinstitut.com^$important
 ||*.parthrebhankar.github.io^$important
 ||*.pay.aqiu6.com^$important
 ||*.pc24.app^$important
+||*.pcupd.com^$important
 ||*.pdfplugout.com^$important
 ||*.pedagioonline.xyz^$important
 ||*.pemenangshopee87.blogspot.com^$important
@@ -648,6 +657,7 @@
 ||*.sesdigitalsolutions.com^$important
 ||*.sfunited.club^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopapi.facebook889.com^$important
@@ -664,6 +674,7 @@
 ||*.solar-sanat.net^$important
 ||*.soley-baldursdottir.systeme.io^$important
 ||*.spacemanslot88.games^$important
+||*.spoar.org.in^$important
 ||*.static-103-160-197-181.unpl.net^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
@@ -671,6 +682,7 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stgeorge-homesd.info^$important
+||*.stonecradle.com^$important
 ||*.store.communitydevdesing.shop^$important
 ||*.store.communitygamearts.co^$important
 ||*.store.workshopscommunityawards.com^$important
@@ -685,7 +697,7 @@
 ||*.survey.refassured.co^$important
 ||*.survey.refassured.com^$important
 ||*.sutterpoint.com^$important
-||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.syedasiddiqa.github.io^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -773,6 +785,7 @@
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.bandsnetworkers.digital^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chenwangqiao.com^$important
@@ -849,6 +862,7 @@
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
+||*.xdcq3.com^$important
 ||*.xdnalayanannmnew.agreement.biz.id^$important
 ||*.xenon.studio^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
@@ -857,7 +871,6 @@
 ||*.xshop.com.tr^$important
 ||*.xuezha.net^$important
 ||*.xx.kak.is^$important
-||*.xyfsd.com^$important
 ||*.yash-khandelwal-code.github.io^$important
 ||*.yaswanthmaddela.github.io^$important
 ||*.yazdan.narges-yazdanabadi13.workers.dev^$important
