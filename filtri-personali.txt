@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-17 18:56:32
+! Ultimo aggiornamento automatico: 2026-04-17 21:38:55
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -187,6 +187,7 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
+||*.allsydevs.com^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-lilac-two.vercel.app^$important
 ||*.amazon-clone-ten-rust.vercel.app^$important
@@ -405,6 +406,7 @@
 ||*.g1.1kes.com^$important
 ||*.gadomamada.com^$important
 ||*.galerisenimutiara.com^$important
+||*.genghis.yzz.me^$important
 ||*.geo-foundation.vg^$important
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
@@ -443,7 +445,6 @@
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
 ||*.inner.website^$important
-||*.innlive.in^$important
 ||*.inomanliner.net^$important
 ||*.insta-clon-jet.vercel.app^$important
 ||*.instagram-clone-taupe.vercel.app^$important
@@ -510,6 +511,7 @@
 ||*.mail.atlcpatax.com^$important
 ||*.mailer-kjermjs.com^$important
 ||*.mailer-kjermjs.net^$important
+||*.mailshare.it^$important
 ||*.malupieng.com.br^$important
 ||*.marsalek.cy^$important
 ||*.meetvideogoogle.com^$important
@@ -519,6 +521,7 @@
 ||*.micminecraft1.github.io^$important
 ||*.microservisetrue.vip^$important
 ||*.midasbuys.specialfors.com^$important
+||*.ministrew.info^$important
 ||*.mirzasaadb.github.io^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
@@ -807,6 +810,7 @@
 ||*.www.saf-oil.ru^$important
 ||*.www.salonmarketing.ca^$important
 ||*.www.sgeseducation.com^$important
+||*.www.shcgroup-vn.com^$important
 ||*.www.shopee2237.blogspot.com^$important
 ||*.www.shopeeid8989.blogspot.com^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
