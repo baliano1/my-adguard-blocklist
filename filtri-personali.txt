@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-17 13:13:17
+! Ultimo aggiornamento automatico: 2026-04-17 15:58:05
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -525,7 +525,6 @@
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
-||*.mondesignweb.com^$important
 ||*.movtime76.shop^$important
 ||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
