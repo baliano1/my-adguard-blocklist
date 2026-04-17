@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-17 02:14:13
+! Ultimo aggiornamento automatico: 2026-04-17 05:25:29
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -181,6 +181,7 @@
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aevilop.github.io^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.airbnb-clone-farukipekcom.vercel.app^$important
 ||*.alameens07.github.io^$important
 ||*.alarmline.com.br^$important
@@ -241,7 +242,6 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
-||*.boydjackson.org^$important
 ||*.br.verifytoken.com^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bregrei-nnolopre-a1f1246.pages.dev^$important
@@ -275,6 +275,7 @@
 ||*.clone-login-insta.vercel.app^$important
 ||*.cloudstay168.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coinbase-clone-silk.vercel.app^$important
 ||*.compimento.ba^$important
@@ -282,6 +283,7 @@
 ||*.contentmentfairnesspesky.com^$important
 ||*.continentalgroup.net.in^$important
 ||*.controliumbt.com^$important
+||*.coorsamexico.mx^$important
 ||*.coralasargetia.ro^$important
 ||*.corpdco-services-cibcfcib.cloudmersive.io^$important
 ||*.corporacioncrf.com^$important
@@ -380,6 +382,7 @@
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.friendlydomain.ru^$important
+||*.friendsofsclarc.org^$important
 ||*.frostcrypt.org^$important
 ||*.ftp.ywxww.net^$important
 ||*.furystaff.tech^$important
@@ -394,7 +397,6 @@
 ||*.glasklow.vercel.app^$important
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.goya.verifytoken.com^$important
 ||*.gretaruppousse.vercel.app^$important
@@ -422,6 +424,7 @@
 ||*.img.ipxxxx.com^$important
 ||*.imgabrielimartins.github.io^$important
 ||*.in-oman-liner.com^$important
+||*.incredibletadoba.com^$important
 ||*.indeanapolice.cc^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
@@ -436,7 +439,6 @@
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
 ||*.izogard.com^$important
-||*.jawaratekno.com^$important
 ||*.jem-mialwe.com^$important
 ||*.jem-mialwe.net^$important
 ||*.jin.com.my^$important
@@ -474,7 +476,6 @@
 ||*.libss.0x504.com^$important
 ||*.lightning.verifytoken.com^$important
 ||*.lilianaorganic.com^$important
-||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linkurl.pk^$important
 ||*.lloydsbank-homesa.info^$important
@@ -514,12 +515,10 @@
 ||*.milanosantos103.github.io^$important
 ||*.miliga.verifytoken.com^$important
 ||*.mirzasaadb.github.io^$important
-||*.miskolc-dugulaselharitas.hu^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
-||*.mondesignweb.com^$important
 ||*.movtime76.shop^$important
 ||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
@@ -571,7 +570,6 @@
 ||*.pay.aqiu6.com^$important
 ||*.paypal-logiin.blogspot.com^$important
 ||*.pc24.app^$important
-||*.pcupd.com^$important
 ||*.photgridyelow.site^$important
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
@@ -626,7 +624,6 @@
 ||*.sathya-the-bot.github.io^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
-||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
 ||*.search-4784989979-page.pages.dev^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -635,6 +632,7 @@
 ||*.separadordecc.com^$important
 ||*.sfunited.club^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shanpannobara.verifytoken.com^$important
 ||*.sharepoint2026iissjn-zynb.bolt.host^$important
@@ -644,6 +642,7 @@
 ||*.shopee-inc559.blogspot.com^$important
 ||*.shortlink.st^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.shreesaiseva.org^$important
 ||*.shy-grass-1585.itsvarexykvvphaawcayyow.workers.dev^$important
 ||*.silverhost.vg^$important
 ||*.site-5x01o9cnw.godaddysites.com^$important
@@ -682,7 +681,6 @@
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
-||*.thebrandmantra.in^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
@@ -751,7 +749,6 @@
 ||*.www.backupallfresh2030.com^$important
 ||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
-||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chenwangqiao.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.creditunion-authority.org^$important
@@ -815,7 +812,6 @@
 ||*.www.websitedesigningindia.biz^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.x-finity-comcast-sign-in.framer.website^$important
 ||*.x360gamestravado.verifytoken.com^$important
 ||*.xcosttmer-dnaidnoz.rodioun.biz.id^$important
