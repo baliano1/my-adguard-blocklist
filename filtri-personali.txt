@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-17 07:28:41
+! Ultimo aggiornamento automatico: 2026-04-17 10:12:12
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -177,6 +177,7 @@
 ||*.abdelrahman-basem.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
+||*.accesstelematics.com^$important
 ||*.ack.securebankinggroup.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
@@ -229,6 +230,7 @@
 ||*.avbackup.acionline.de^$important
 ||*.backupso.com^$important
 ||*.bankgarantia.ru^$important
+||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
 ||*.bechtel.us-sea-1.linodeobjects.com^$important
 ||*.bellsouth-att-signing-290628.webflow.io^$important
@@ -287,7 +289,6 @@
 ||*.contentmentfairnesspesky.com^$important
 ||*.continentalgroup.net.in^$important
 ||*.controliumbt.com^$important
-||*.coorsamexico.mx^$important
 ||*.coralasargetia.ro^$important
 ||*.corpdco-services-cibcfcib.cloudmersive.io^$important
 ||*.corporacioncrf.com^$important
@@ -321,6 +322,7 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.digitalonline.cl^$important
 ||*.discord-clone-mu-five.vercel.app^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
@@ -427,11 +429,11 @@
 ||*.img.ipxxxx.com^$important
 ||*.imgabrielimartins.github.io^$important
 ||*.in-oman-liner.com^$important
-||*.incredibletadoba.com^$important
 ||*.indeanapolice.cc^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
 ||*.inner.website^$important
+||*.inomanliner.net^$important
 ||*.insta-clone-application.vercel.app^$important
 ||*.ipfs.io^$important
 ||*.ircftp.net^$important
@@ -442,6 +444,7 @@
 ||*.izogard.com^$important
 ||*.jawaratekno.com^$important
 ||*.jem-mialwe.com^$important
+||*.jem-mialwe.net^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
 ||*.johnakinrandolph.com^$important
@@ -502,6 +505,7 @@
 ||*.mail.atlcpatax.com^$important
 ||*.mailbox.319447.com^$important
 ||*.mailer-kjermjs.com^$important
+||*.mailer-kjermjs.net^$important
 ||*.mailonlineatt-00732456.weeblysite.com^$important
 ||*.malupieng.com.br^$important
 ||*.marsalek.cy^$important
@@ -714,6 +718,7 @@
 ||*.vagler.ru^$important
 ||*.valfanto.com^$important
 ||*.vault88x.secure-efficient2.su^$important
+||*.vcc-library.uk^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
@@ -751,6 +756,7 @@
 ||*.www.backupallfresh2030.com^$important
 ||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
+||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chenwangqiao.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.creditunion-authority.org^$important
