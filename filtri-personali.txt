@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-18 18:43:39
+! Ultimo aggiornamento automatico: 2026-04-18 21:32:05
 ||*.0022a601.pphost.net^$important
 ||*.05lends.pics^$important
 ||*.109826-108720.weeblysite.com^$important
@@ -586,6 +586,7 @@
 ||*.ojang.pe.kr^$important
 ||*.ok-vsefotki.online^$important
 ||*.okhan.net^$important
+||*.omax.com.pk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onyxcyberedge.de^$important
 ||*.onyxfortifypro.de^$important
@@ -614,6 +615,7 @@
 ||*.polonyauniversiteleri.com.tr^$important
 ||*.portal.agency-partner-community.com^$important
 ||*.prateek8178.github.io^$important
+||*.prodimetal.com^$important
 ||*.productionmaza.cfd^$important
 ||*.productionmaza.cyou^$important
 ||*.productionmaza.sbs^$important
