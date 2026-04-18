@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-18 05:04:13
+! Ultimo aggiornamento automatico: 2026-04-18 07:03:36
 ||*.0022a601.pphost.net^$important
 ||*.05lends.pics^$important
 ||*.109826-108720.weeblysite.com^$important
@@ -188,7 +188,6 @@
 ||*.account16.agency-partnerhub-platform.com^$important
 ||*.accounts.bmwweb.technology^$important
 ||*.acms.saleseos.com^$important
-||*.adctanzania.co.tz^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.adob-document.online^$important
@@ -262,12 +261,12 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
+||*.boydjackson.org^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.brnsspubhub.in^$important
 ||*.brukva.shop^$important
-||*.bvaco.com^$important
 ||*.c.fi3.me^$important
 ||*.c0d4sp.x7k2q9.biz.id^$important
 ||*.c1826e37-baf7-182d-dc57-docviewer2.design-c0a.workers.dev^$important
@@ -286,6 +285,7 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.classylad.com^$important
@@ -305,7 +305,6 @@
 ||*.contentmentfairnesspesky.com^$important
 ||*.continentalgroup.net.in^$important
 ||*.controliumbt.com^$important
-||*.coorsamexico.mx^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
 ||*.corwineagles.com^$important
@@ -379,7 +378,6 @@
 ||*.epanpano.com^$important
 ||*.estudio.ythan.com.br^$important
 ||*.etinsendmail.com^$important
-||*.etinsendmail.net^$important
 ||*.etokrol.lol^$important
 ||*.eurogenerale.rscad.com.br^$important
 ||*.evangroup.ru^$important
@@ -391,7 +389,6 @@
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fasrinabox269.weebly.com^$important
-||*.femilamom.net^$important
 ||*.fenbushijujuefuwu.com^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
@@ -403,6 +400,7 @@
 ||*.flyingmutts.com^$important
 ||*.forogpolymer.com^$important
 ||*.friendlydomain.ru^$important
+||*.frozi.cc^$important
 ||*.ftp.ywxww.net^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
@@ -442,9 +440,9 @@
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
 ||*.ilonermailc.com^$important
+||*.ilonermailc.net^$important
 ||*.img.ipxxxx.com^$important
 ||*.in-oman-liner.com^$important
-||*.incredibletadoba.com^$important
 ||*.indeanapolice.cc^$important
 ||*.indicedeconfianca.s3.us-east-005.backblazeb2.com^$important
 ||*.injectroblox.ru^$important
@@ -464,7 +462,6 @@
 ||*.izocab.com^$important
 ||*.izogard.com^$important
 ||*.jem-mialwe.com^$important
-||*.jem-mialwe.net^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
@@ -580,7 +577,6 @@
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
-||*.omax.com.pk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onyxcyberedge.de^$important
 ||*.onyxfortifypro.de^$important
@@ -642,6 +638,7 @@
 ||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
+||*.ritee.in^$important
 ||*.rnyrlalsv.icu^$important
 ||*.robertrowe.com^$important
 ||*.robiox.com.af^$important
@@ -660,6 +657,7 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.sabungkingbet189.com^$important
 ||*.sadmatanza.com^$important
+||*.satuatlas.com^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
@@ -671,7 +669,6 @@
 ||*.separadordecc.com^$important
 ||*.sfunited.club^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shoopee.net^$important
 ||*.shop.mediasova.ru^$important
@@ -686,7 +683,6 @@
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.spacemanslot88.games^$important
-||*.spoar.org.in^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
@@ -896,5 +892,6 @@
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
+||*.zhigao5191.com^$important
 ||*.zorvex.life^$important
 ||*.zycdjz.com^$important
