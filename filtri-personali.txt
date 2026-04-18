@@ -162,13 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-18 02:05:09
+! Ultimo aggiornamento automatico: 2026-04-18 05:04:13
 ||*.0022a601.pphost.net^$important
 ||*.05lends.pics^$important
 ||*.109826-108720.weeblysite.com^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
+||*.176.65.148.173.ptr.pfcloud.network^$important
 ||*.1xlite-21418.bar^$important
 ||*.248bestmoon.click^$important
 ||*.27863.za.onsunless.com^$important
@@ -274,6 +275,7 @@
 ||*.cad.659t.cn^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.cause-impact.com^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
@@ -409,6 +411,7 @@
 ||*.gemini-console.com^$important
 ||*.genghis.yzz.me^$important
 ||*.geo-foundation.vg^$important
+||*.gerlimeri.net^$important
 ||*.getbased-ai.pages.dev^$important
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
@@ -460,7 +463,6 @@
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
 ||*.izogard.com^$important
-||*.jawaratekno.com^$important
 ||*.jem-mialwe.com^$important
 ||*.jem-mialwe.net^$important
 ||*.jin.com.my^$important
@@ -531,6 +533,7 @@
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
+||*.mockupcorporation.com^$important
 ||*.mogimall.com^$important
 ||*.moniqueve.github.io^$important
 ||*.moondoteth.github.io^$important
@@ -593,6 +596,7 @@
 ||*.owlcity.ru^$important
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
+||*.panychurasc0.com^$important
 ||*.papon895.github.io^$important
 ||*.pay.aqiu6.com^$important
 ||*.paylaternx-indonesias.sharphew.biz.id^$important
@@ -656,7 +660,6 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.sabungkingbet189.com^$important
 ||*.sadmatanza.com^$important
-||*.salessteer.com^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
@@ -680,7 +683,6 @@
 ||*.site-1enk6s1fm.godaddysites.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
-||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.spacemanslot88.games^$important
@@ -754,6 +756,7 @@
 ||*.valfanto.com^$important
 ||*.validatemail.webaccess-alert.com^$important
 ||*.vault88x.secure-efficient2.su^$important
+||*.vcc-library.uk^$important
 ||*.vercel21da7c9522ead969.vercel.app^$important
 ||*.vercel3266cbda4916e9a3.vercel.app^$important
 ||*.vercel7c0d7509f3a41bdd.vercel.app^$important
@@ -827,6 +830,7 @@
 ||*.www.kotojuki.com^$important
 ||*.www.longfeng188.com^$important
 ||*.www.medises.co.kr^$important
+||*.www.mevetlab.cl^$important
 ||*.www.mixturro.com^$important
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
@@ -857,6 +861,7 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.surl.li^$important
 ||*.www.tdejb.com^$important
