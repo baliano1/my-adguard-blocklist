@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-18 07:03:36
+! Ultimo aggiornamento automatico: 2026-04-18 09:44:03
 ||*.0022a601.pphost.net^$important
 ||*.05lends.pics^$important
 ||*.109826-108720.weeblysite.com^$important
@@ -685,7 +685,6 @@
 ||*.spacemanslot88.games^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
-||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
