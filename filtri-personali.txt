@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-18 12:56:37
+! Ultimo aggiornamento automatico: 2026-04-18 15:35:10
 ||*.0022a601.pphost.net^$important
 ||*.05lends.pics^$important
 ||*.109826-108720.weeblysite.com^$important
@@ -236,7 +236,6 @@
 ||*.bendigo-homesa.info^$important
 ||*.besolono.link^$important
 ||*.bestwebchlen.cyou^$important
-||*.biducaconfeitos.com.br^$important
 ||*.bigbadwolf.click^$important
 ||*.bigblograin.bond^$important
 ||*.bigboysclub.cyou^$important
@@ -252,6 +251,7 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
+||*.boydjackson.org^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -350,6 +350,7 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
+||*.dowonline.ru^$important
 ||*.dpd.bexlorina.cfd^$important
 ||*.dpd.bktfvd.cfd^$important
 ||*.dpd.calvirog.cfd^$important
@@ -502,7 +503,6 @@
 ||*.liannaca.github.io^$important
 ||*.libereseuaumentodelimitealto.s3.us-east-005.backblazeb2.com^$important
 ||*.libss.0x504.com^$important
-||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.lingering-frog-e644.fgniselbnsaojvfmceeosig.workers.dev^$important
 ||*.linhaextradisponivel.s3.us-east-005.backblazeb2.com^$important
@@ -535,7 +535,6 @@
 ||*.merchant-gateway.live^$important
 ||*.merengagoi.bond^$important
 ||*.messageriewebportailmail.dnsdyn.net^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.metta_meuskgolin.godaddysites.com^$important
 ||*.mgtms.cc^$important
 ||*.microblob.bond^$important
@@ -697,7 +696,6 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
-||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
 ||*.suncorp-homesa.info^$important
 ||*.suncorp-homesb.info^$important
