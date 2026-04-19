@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-19 18:43:51
+! Ultimo aggiornamento automatico: 2026-04-19 21:32:46
 ||*.0022a601.pphost.net^$important
 ||*.0vhliwtpj7vo.id.wasmer.app^$important
 ||*.1.sekhemonline.net^$important
@@ -385,6 +385,7 @@
 ||*.eqn9lr.web-sitemap.sekhemonline.net^$important
 ||*.estudio.ythan.com.br^$important
 ||*.etinsendmail.com^$important
+||*.etinsendmail.net^$important
 ||*.etokrol.lol^$important
 ||*.evangroup.ru^$important
 ||*.everycarebd.com^$important
