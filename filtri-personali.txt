@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-19 15:35:22
+! Ultimo aggiornamento automatico: 2026-04-19 18:43:51
 ||*.0022a601.pphost.net^$important
 ||*.0vhliwtpj7vo.id.wasmer.app^$important
 ||*.1.sekhemonline.net^$important
@@ -270,7 +270,6 @@
 ||*.bvaco.com^$important
 ||*.bvgdjzxmke.weeblysite.com^$important
 ||*.byubyugbyuhb.weeblysite.com^$important
-||*.c.fi3.me^$important
 ||*.ca-coinsquree-cdn--auths.webflow.io^$important
 ||*.ca-netcoins-app-com-auth.webflow.io^$important
 ||*.cad.659t.cn^$important
@@ -278,6 +277,7 @@
 ||*.careersconnect.work^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.cause-impact.com^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
@@ -347,6 +347,7 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
+||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.docusign-file.fyi^$important
@@ -384,7 +385,6 @@
 ||*.eqn9lr.web-sitemap.sekhemonline.net^$important
 ||*.estudio.ythan.com.br^$important
 ||*.etinsendmail.com^$important
-||*.etinsendmail.net^$important
 ||*.etokrol.lol^$important
 ||*.evangroup.ru^$important
 ||*.everycarebd.com^$important
@@ -394,9 +394,11 @@
 ||*.farschid.de^$important
 ||*.fastfixer.ae^$important
 ||*.fd.v2downf.shop^$important
+||*.femilamom.net^$important
 ||*.fenbushijujuefuwu.com^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filezilla.cc^$important
 ||*.first-security-verden.de^$important
@@ -421,7 +423,6 @@
 ||*.gfhjkl-101526.weeblysite.com^$important
 ||*.gitnikit.github.io^$important
 ||*.globalbank.us^$important
-||*.globaltechbilling.com^$important
 ||*.gooddogshop.click^$important
 ||*.goodgoodmoon.bond^$important
 ||*.google-services.cc^$important
@@ -434,6 +435,7 @@
 ||*.hex.arhamsoft.info^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.homecaremovers.com^$important
 ||*.homepage-btimart-auth-dem.webflow.io^$important
 ||*.hotellacastellana.com.uy^$important
@@ -458,8 +460,6 @@
 ||*.inlnk.co^$important
 ||*.inmbau.com^$important
 ||*.inner.website^$important
-||*.innlive.in^$important
-||*.inomanliner.net^$important
 ||*.instagramcom-instagramcom.blogspot.com^$important
 ||*.install-claude.com^$important
 ||*.insureongo.net^$important
@@ -472,6 +472,7 @@
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
 ||*.izogard.com^$important
+||*.jalebel7abeb.com^$important
 ||*.jathemanordubai.spahotel.guru^$important
 ||*.jawaratekno.com^$important
 ||*.jaytechomes.com^$important
@@ -504,9 +505,7 @@
 ||*.kuzina-teatr.ru^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
-||*.leanmaestro.com^$important
 ||*.lejrmakei.com^$important
-||*.lejrmakei.net^$important
 ||*.lesjardsdumarais.spahotel.guru^$important
 ||*.libss.0x504.com^$important
 ||*.lindenappliances.co.za^$important
@@ -587,6 +586,7 @@
 ||*.noithaticon.vn^$important
 ||*.notifyhubss.net^$important
 ||*.nrmlogistics.ro^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oauth---en--sso----kucoin.webflow.io^$important
@@ -596,10 +596,7 @@
 ||*.ok-vsefotki.online^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
-||*.omax.com.pk^$important
 ||*.onfiltre.com.tr^$important
-||*.onyxcyberedge.de^$important
-||*.onyxfortifypro.de^$important
 ||*.onyxguardify.de^$important
 ||*.onyxguardwave.de^$important
 ||*.onyxphantomlock.de^$important
@@ -729,6 +726,7 @@
 ||*.tandan-sawit.github.io^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
+||*.techtattva.in^$important
 ||*.tecnologiamedica.mx^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
@@ -762,6 +760,7 @@
 ||*.vagler.ru^$important
 ||*.valfanto.com^$important
 ||*.vault88x.secure-efficient2.su^$important
+||*.vcc-library.uk^$important
 ||*.vercel1c7e346235f63d5a.vercel.app^$important
 ||*.verifymxxx.webcindario.com^$important
 ||*.versaclean.com.br^$important
@@ -837,7 +836,6 @@
 ||*.www.kotojuki.com^$important
 ||*.www.longfeng188.com^$important
 ||*.www.medises.co.kr^$important
-||*.www.mevetlab.cl^$important
 ||*.www.mixturro.com^$important
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
@@ -884,6 +882,7 @@
 ||*.www.xpjaa.com^$important
 ||*.www.xpjoo.com^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.x117e.xyz^$important
 ||*.x9a.sekhemonline.net^$important
 ||*.xdcq3.com^$important
@@ -905,5 +904,6 @@
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
+||*.zoommeetingg.click^$important
 ||*.zorvex.life^$important
 ||*.zycdjz.com^$important
