@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-19 07:15:18
+! Ultimo aggiornamento automatico: 2026-04-19 09:44:03
 ||*.0022a601.pphost.net^$important
 ||*.1.sekhemonline.net^$important
 ||*.111101111.ru^$important
@@ -285,6 +285,7 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.citadesmrocentraldubai.spahotel.guru^$important
 ||*.cl.ssouy.com^$important
@@ -441,6 +442,7 @@
 ||*.ig.do^$important
 ||*.igra123.com^$important
 ||*.ilonermailc.com^$important
+||*.ilonermailc.net^$important
 ||*.img.ipxxxx.com^$important
 ||*.in-oman-liner.com^$important
 ||*.indeanapolice.cc^$important
