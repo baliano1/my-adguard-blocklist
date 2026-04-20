@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-20 08:02:20
+! Ultimo aggiornamento automatico: 2026-04-20 10:45:20
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -250,7 +250,6 @@
 ||*.cad.659t.cn^$important
 ||*.capepanwaphuk.spahotel.guru^$important
 ||*.capitalone-11r.pages.dev^$important
-||*.careersconnect.work^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cbncxhgbv.weebly.com^$important
@@ -409,6 +408,7 @@
 ||*.globaltechbilling.com^$important
 ||*.google-services.cc^$important
 ||*.granadaluxurybelekfamilykidscept.spahotel.guru^$important
+||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gtps4change.org^$important
 ||*.gutando.com^$important
@@ -549,7 +549,6 @@
 ||*.netflix-phi-nine.vercel.app^$important
 ||*.new.quranushaiqer.org.sa^$important
 ||*.noithaticon.vn^$important
-||*.nrmlogistics.ro^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oblionts.com^$important
@@ -558,6 +557,7 @@
 ||*.ok-vsefotki.online^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
+||*.omax.com.pk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onyxguardify.de^$important
 ||*.onyxguardwave.de^$important
