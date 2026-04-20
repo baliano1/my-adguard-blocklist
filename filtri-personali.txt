@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-20 19:01:18
+! Ultimo aggiornamento automatico: 2026-04-20 21:43:14
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -305,6 +305,7 @@
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
+||*.digitalcode.sa^$important
 ||*.discord-login-page.vercel.app^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
@@ -399,7 +400,6 @@
 ||*.globaltechbilling.com^$important
 ||*.google-services.cc^$important
 ||*.gorgeous-puffpuff-d1509c.netlify.app^$important
-||*.graviana.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gtps4change.org^$important
@@ -407,7 +407,6 @@
 ||*.haberimnoktasi.shop^$important
 ||*.hanoiprimegarden.spahotel.guru^$important
 ||*.hasalltalent.com^$important
-||*.hemailsendlin.com^$important
 ||*.himanshuraj-drafts.github.io^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
