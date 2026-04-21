@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-21 19:07:42
+! Ultimo aggiornamento automatico: 2026-04-21 21:41:49
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -241,6 +241,7 @@
 ||*.careersconnect.work^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.cause-impact.com^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
@@ -331,7 +332,6 @@
 ||*.educaex.net^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.energy63.ru^$important
 ||*.ensions.xyz^$important
@@ -438,6 +438,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledhgybh-shkvh.pages.dev^$important
 ||*.libss.0x504.com^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.llojin-mettaamak-uk.godaddysites.com^$important
 ||*.lnslagram.github.io^$important
@@ -513,6 +514,7 @@
 ||*.mobshah.com^$important
 ||*.modernremotely.com^$important
 ||*.mogimall.com^$important
+||*.mondesignweb.com^$important
 ||*.mosselnet.co.za^$important
 ||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
@@ -601,7 +603,6 @@
 ||*.scaleshop-asdasdasdasd-0-ws.netlify.app^$important
 ||*.scaleshop-testarteste-0-3x.netlify.app^$important
 ||*.scaleshop-testarteste-0-mx.netlify.app^$important
-||*.schenckel.com.br^$important
 ||*.scsvkucoin.top^$important
 ||*.sdvgpro.ru^$important
 ||*.sea.as0u8f7.eu.org^$important
@@ -647,6 +648,7 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tech.chickletsinthekitchen.com^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
