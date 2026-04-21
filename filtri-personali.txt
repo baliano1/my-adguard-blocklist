@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-21 13:19:46
+! Ultimo aggiornamento automatico: 2026-04-21 16:08:43
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -238,9 +238,9 @@
 ||*.bvaco.com^$important
 ||*.c.fi3.me^$important
 ||*.c2.mc-live.online^$important
-||*.cad.659t.cn^$important
 ||*.campaigns.strategic-digital-zone.com^$important
 ||*.careersconnect.work^$important
+||*.castroycontadores.com^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccleaner.gl^$important
@@ -635,7 +635,6 @@
 ||*.solar-sanat.net^$important
 ||*.sosotoybuy.hopto.org^$important
 ||*.spacemanslot88.games^$important
-||*.spoar.org.in^$important
 ||*.sso-auth.com^$important
 ||*.sso-security.com^$important
 ||*.static-host-zt85am7j-nano.eu-central-1.clawcloudrun.com^$important
@@ -711,7 +710,6 @@
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
-||*.wire2spell.com^$important
 ||*.wisdomheart.org^$important
 ||*.wittenhorst.eu^$important
 ||*.www-roblox.co^$important
