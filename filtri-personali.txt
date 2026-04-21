@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-21 02:23:27
+! Ultimo aggiornamento automatico: 2026-04-21 05:24:54
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -274,7 +274,6 @@
 ||*.cloudstay168.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
-||*.cnc.xenema.vip^$important
 ||*.cnsqarrlogon.webflow.io^$important
 ||*.co-emas.com^$important
 ||*.codashops.event-topup.com^$important
@@ -315,7 +314,6 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
 ||*.dishaagrawal-tech.github.io^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
@@ -536,7 +534,6 @@
 ||*.noithaticon.vn^$important
 ||*.notifaccountmeta.weeblysite.com^$important
 ||*.notifyhubss.net^$important
-||*.nusatoyota.co.id^$important
 ||*.nwemail.weeblysite.com^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
@@ -546,8 +543,6 @@
 ||*.ojang.pe.kr^$important
 ||*.ok-vsefotki.online^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
-||*.omax.com.pk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onyxguardify.de^$important
 ||*.onyxguardwave.de^$important
@@ -627,7 +622,6 @@
 ||*.serdtfngbfv3.pages.dev^$important
 ||*.serhatf.github.io^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shagunmishra26.github.io^$important
 ||*.shahamanatme.com^$important
 ||*.shahina72sheikh.github.io^$important
@@ -708,7 +702,6 @@
 ||*.valfanto.com^$important
 ||*.validacionclientepichincha.ct.ws^$important
 ||*.vault88x.secure-efficient2.su^$important
-||*.vcc-library.uk^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
@@ -740,7 +733,6 @@
 ||*.www.automobile-bk.de^$important
 ||*.www.awscfdns.com^$important
 ||*.www.backupallfresh2030.com^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chenwangqiao.com^$important
@@ -784,6 +776,7 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
@@ -799,6 +792,7 @@
 ||*.www.wfreverse.info^$important
 ||*.www.xn--imtoken-171ltw107dxw7l.top^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
+||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
 ||*.x.vodxz.icu^$important
 ||*.xdcq3.com^$important
