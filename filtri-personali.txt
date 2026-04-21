@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-21 07:45:20
+! Ultimo aggiornamento automatico: 2026-04-21 10:17:13
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -229,7 +229,6 @@
 ||*.bellsouth-att-sign-in-dad5cc.webflow.io^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bezpiecznyserwerpocztyelektronicznej.pl^$important
-||*.biducaconfeitos.com.br^$important
 ||*.bio-sr.com^$important
 ||*.bkmr.verifytoken.com^$important
 ||*.blessdayservices.org^$important
@@ -315,6 +314,7 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
 ||*.dishaagrawal-tech.github.io^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
@@ -420,7 +420,6 @@
 ||*.indeanapolice.cc^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
-||*.innlive.in^$important
 ||*.insta-login-clone.vercel.app^$important
 ||*.intoxa.github.io^$important
 ||*.invoicenotices.com^$important
@@ -637,7 +636,6 @@
 ||*.shqdown.ggzuhao.com^$important
 ||*.shreya-dixit210.github.io^$important
 ||*.shubnumsulima2.github.io^$important
-||*.silverhost.vg^$important
 ||*.site-rq5m5et7b.godaddysites.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
