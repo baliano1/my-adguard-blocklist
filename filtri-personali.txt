@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-22 13:21:01
+! Ultimo aggiornamento automatico: 2026-04-22 16:07:14
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -503,6 +503,7 @@
 ||*.mundocarnes.cl^$important
 ||*.my-auth.com^$important
 ||*.my-bllockifi-logg-in.webflow.io^$important
+||*.mygrocerbox.com^$important
 ||*.n.vs108.com^$important
 ||*.ncxps.com^$important
 ||*.neilshairdressers.co.uk^$important
