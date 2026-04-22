@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-22 05:23:04
+! Ultimo aggiornamento automatico: 2026-04-22 07:28:40
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -223,6 +223,7 @@
 ||*.augsburg-auto.com^$important
 ||*.avbackup.acionline.de^$important
 ||*.b237fo.xyz^$important
+||*.backupso.com^$important
 ||*.bafybeifhkli7dfi6brfwr3637krztfkps6yf26wqe45ks7mq23jkrg5pzm.ipfs.dweb.link^$important
 ||*.base-note-bc65.p-qqvrc942.workers.dev^$important
 ||*.bbos.minet.vn^$important
@@ -233,6 +234,7 @@
 ||*.biducaconfeitos.com.br^$important
 ||*.bio-sr.com^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blocfk-filogin.gitbook.io^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -242,7 +244,6 @@
 ||*.book.rollingvideogames.com^$important
 ||*.booking.stayconfirm.org^$important
 ||*.boydjackson.org^$important
-||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.business.agency-partner-invoice.com^$important
@@ -255,6 +256,7 @@
 ||*.carltontower.spahotel.guru^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.cause-impact.com^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
@@ -307,12 +309,12 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
 ||*.did.li^$important
 ||*.different-collection-292746.framer.app^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
-||*.dl.armour-inc-down.net^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dlvryintl.com^$important
@@ -327,7 +329,6 @@
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
-||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
@@ -385,6 +386,7 @@
 ||*.frozi.cc^$important
 ||*.ftp.ywxww.net^$important
 ||*.furystaff.tech^$important
+||*.fz.tiansys.cn^$important
 ||*.g2.1kes.com^$important
 ||*.geamnnilogiinnn.godaddysites.com^$important
 ||*.geo-foundation.vg^$important
@@ -421,6 +423,7 @@
 ||*.importantdocumentspreviewonlinecom.pages.dev^$important
 ||*.inc-icloud.support^$important
 ||*.indeanapolice.cc^$important
+||*.indexsearchfindresult.com^$important
 ||*.indonesiasnforms.confirenews.com^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
@@ -503,6 +506,7 @@
 ||*.meng-explorer.github.io^$important
 ||*.meta.agency-partner-invoice.com^$important
 ||*.metotmimarlik.com.tr^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mgtms.cc^$important
 ||*.microsoft.account.trustedentity.com^$important
 ||*.microsoft.authorised-support.com^$important
@@ -515,7 +519,6 @@
 ||*.mockupcorporation.com^$important
 ||*.modernremotely.com^$important
 ||*.mogimall.com^$important
-||*.mondesignweb.com^$important
 ||*.mosselnet.co.za^$important
 ||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
@@ -532,7 +535,6 @@
 ||*.new.quranushaiqer.org.sa^$important
 ||*.newformx-dnaacostmer.coilerzhou.com^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ob1phqqu.degassing-mould.digital^$important
@@ -541,8 +543,6 @@
 ||*.officmaqgatrtsrgfacr.m5jk7xvczpdzwqzaqa6k9cfgzwafg8aspyjq2gf9uc.abrdns.com^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
-||*.omax.com.pk^$important
 ||*.onfiltre.com.tr^$important
 ||*.online-app.internetrix.info^$important
 ||*.online-dot-citi-dot-com.jp.gmproxy.org^$important
@@ -611,10 +611,12 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.sabungkingbet189.com^$important
 ||*.safebank.onl^$important
+||*.sakuraloyalty.com^$important
 ||*.salary.increase.michelin.e-docssign.net^$important
 ||*.save.jnrsmcu.com^$important
 ||*.savyrewards.roblox-635.workers.dev^$important
 ||*.scainseto.com.br^$important
+||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
 ||*.search.app^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -622,6 +624,7 @@
 ||*.separadordecc.com^$important
 ||*.sequence.leovenuestyle.com^$important
 ||*.serviciosestrategicos03.shop^$important
+||*.servicioslogisticosdyc.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
@@ -662,6 +665,7 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swisspasslogen-6295.twil.io^$important
 ||*.sync-net-jq6r.p-l9b2vdvo.workers.dev^$important
+||*.take-care.africa^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
