@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-22 07:28:40
+! Ultimo aggiornamento automatico: 2026-04-22 10:17:34
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -244,6 +244,7 @@
 ||*.book.rollingvideogames.com^$important
 ||*.booking.stayconfirm.org^$important
 ||*.boydjackson.org^$important
+||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.business.agency-partner-invoice.com^$important
@@ -256,7 +257,6 @@
 ||*.carltontower.spahotel.guru^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
-||*.cause-impact.com^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
@@ -267,7 +267,6 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.citypotbeach.spahotel.guru^$important
 ||*.cl.ssouy.com^$important
@@ -275,7 +274,6 @@
 ||*.clipaid.app^$important
 ||*.cloudstay168.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compimento.ba^$important
 ||*.compuserviceonline.com.br^$important
@@ -309,7 +307,6 @@
 ||*.dezcom.com^$important
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
 ||*.did.li^$important
 ||*.different-collection-292746.framer.app^$important
 ||*.disk.accord1key.cn^$important
@@ -329,6 +326,7 @@
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
+||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
@@ -352,6 +350,7 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.emoto.mk^$important
 ||*.en-cloud-coinsquare-us.square.site^$important
 ||*.en.securebanking.com.sg^$important
 ||*.en.taichuan.com^$important
@@ -395,6 +394,7 @@
 ||*.globalbank.us^$important
 ||*.globalcoda.moba-gamers.com^$important
 ||*.globaltechbilling.com^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.gohelpdesk.co.uk^$important
 ||*.google-services.cc^$important
 ||*.greenf.alexion.rs^$important
@@ -410,6 +410,7 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.homecaremovers.com^$important
+||*.hostealo.com^$important
 ||*.hotellacastellana.com.uy^$important
 ||*.hqweb.id.vn^$important
 ||*.hseda.com^$important
@@ -441,6 +442,7 @@
 ||*.izocab.com^$important
 ||*.izogard.com^$important
 ||*.j331c.xyz^$important
+||*.jawaratekno.com^$important
 ||*.jieyo-ohdk-45jv.c-01md9x3b.workers.dev^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
@@ -451,6 +453,7 @@
 ||*.kavacanada.ca^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
+||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kontosicheringprufung.com^$important
 ||*.kramersmarionnettes.com^$important
@@ -463,6 +466,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.libss.0x504.com^$important
 ||*.lihi2.me^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.link.web3-ledgerconnect.com^$important
 ||*.lively-recipe-860e.lilliankaisleylrnild3331.workers.dev^$important
@@ -506,7 +510,6 @@
 ||*.meng-explorer.github.io^$important
 ||*.meta.agency-partner-invoice.com^$important
 ||*.metotmimarlik.com.tr^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mgtms.cc^$important
 ||*.microsoft.account.trustedentity.com^$important
 ||*.microsoft.authorised-support.com^$important
@@ -516,9 +519,9 @@
 ||*.mitsisgali.spahotel.guru^$important
 ||*.mlodge.spahotel.guru^$important
 ||*.mobshah.com^$important
-||*.mockupcorporation.com^$important
 ||*.modernremotely.com^$important
 ||*.mogimall.com^$important
+||*.mondesignweb.com^$important
 ||*.mosselnet.co.za^$important
 ||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
@@ -535,6 +538,7 @@
 ||*.new.quranushaiqer.org.sa^$important
 ||*.newformx-dnaacostmer.coilerzhou.com^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ob1phqqu.degassing-mould.digital^$important
@@ -543,6 +547,7 @@
 ||*.officmaqgatrtsrgfacr.m5jk7xvczpdzwqzaqa6k9cfgzwafg8aspyjq2gf9uc.abrdns.com^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.online-app.internetrix.info^$important
 ||*.online-dot-citi-dot-com.jp.gmproxy.org^$important
@@ -569,6 +574,7 @@
 ||*.polonyauniversiteleri.com.tr^$important
 ||*.profile.agency-programs-partners.com^$important
 ||*.projektpdf.weebly.com^$important
+||*.protherapycenter.com^$important
 ||*.pub-35312b95baf4482f8dd1d6c35e6943a1.r2.dev^$important
 ||*.pub-502b05dd72194beeb3dbb59e5ca29d96.r2.dev^$important
 ||*.pub-8c1c14c3b0d64d0099312bb4670f2e23.r2.dev^$important
@@ -611,8 +617,8 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.sabungkingbet189.com^$important
 ||*.safebank.onl^$important
-||*.sakuraloyalty.com^$important
 ||*.salary.increase.michelin.e-docssign.net^$important
+||*.sanjaydharmraj.in^$important
 ||*.save.jnrsmcu.com^$important
 ||*.savyrewards.roblox-635.workers.dev^$important
 ||*.scainseto.com.br^$important
@@ -624,7 +630,6 @@
 ||*.separadordecc.com^$important
 ||*.sequence.leovenuestyle.com^$important
 ||*.serviciosestrategicos03.shop^$important
-||*.servicioslogisticosdyc.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
@@ -665,7 +670,6 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swisspasslogen-6295.twil.io^$important
 ||*.sync-net-jq6r.p-l9b2vdvo.workers.dev^$important
-||*.take-care.africa^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -749,7 +753,6 @@
 ||*.www.flybirdexpbd.com^$important
 ||*.www.gagajazz.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.j283y.xyz^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -789,7 +792,6 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
@@ -807,7 +809,6 @@
 ||*.www.websitedesigningindia.biz^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.xdcq3.com^$important
 ||*.xenon.studio^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
