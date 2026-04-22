@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-22 19:09:37
+! Ultimo aggiornamento automatico: 2026-04-22 21:48:30
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -225,6 +225,7 @@
 ||*.biducaconfeitos.com.br^$important
 ||*.bitmertlogiuyn.webflow.io^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
@@ -299,12 +300,12 @@
 ||*.dfopetroleum.com^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dhruvsingh-1.github.io^$important
-||*.dialkwik.in^$important
 ||*.diepost-schweiz.bolt.host^$important
 ||*.dileepfullstackdev.github.io^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
+||*.dl.armour-inc-down.net^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dlvryintl.com^$important
@@ -477,6 +478,7 @@
 ||*.madroxreborn.lol^$important
 ||*.magnusworkspace.com^$important
 ||*.maidforyou1985.com^$important
+||*.mail.ssadownload.top^$important
 ||*.malupieng.com.br^$important
 ||*.markway.ru^$important
 ||*.marsalek.cy^$important
