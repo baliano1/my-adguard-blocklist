@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-22 02:13:00
+! Ultimo aggiornamento automatico: 2026-04-22 05:23:04
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -265,6 +265,7 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.citypotbeach.spahotel.guru^$important
 ||*.cl.ssouy.com^$important
@@ -290,6 +291,7 @@
 ||*.crowneplazalondondocklsbyihg.spahotel.guru^$important
 ||*.crypto-corexchange.com^$important
 ||*.crystalpvp.ru^$important
+||*.cs.go.kg^$important
 ||*.csg-app.com^$important
 ||*.ct3-24.ru^$important
 ||*.cuocthivetranh2026.github.io^$important
@@ -377,7 +379,6 @@
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.forms.visme.co^$important
-||*.fotosdepuebla.org^$important
 ||*.free-spraying.pages.dev^$important
 ||*.freebrainrots.cc^$important
 ||*.friendlydomain.ru^$important
@@ -437,7 +438,6 @@
 ||*.izocab.com^$important
 ||*.izogard.com^$important
 ||*.j331c.xyz^$important
-||*.jalebel7abeb.com^$important
 ||*.jieyo-ohdk-45jv.c-01md9x3b.workers.dev^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
@@ -448,7 +448,6 @@
 ||*.kavacanada.ca^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
-||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kontosicheringprufung.com^$important
 ||*.kramersmarionnettes.com^$important
@@ -459,7 +458,6 @@
 ||*.landonirwin.com^$important
 ||*.lavanyajoshi1404.github.io^$important
 ||*.lawfirm.paperbirdtech.com^$important
-||*.leanmaestro.com^$important
 ||*.libss.0x504.com^$important
 ||*.lihi2.me^$important
 ||*.lindnerelektroanlagen.de^$important
@@ -514,6 +512,7 @@
 ||*.mitsisgali.spahotel.guru^$important
 ||*.mlodge.spahotel.guru^$important
 ||*.mobshah.com^$important
+||*.mockupcorporation.com^$important
 ||*.modernremotely.com^$important
 ||*.mogimall.com^$important
 ||*.mondesignweb.com^$important
@@ -641,7 +640,6 @@
 ||*.someone155.github.io^$important
 ||*.sosotoybuy.hopto.org^$important
 ||*.spacemanslot88.games^$important
-||*.spoar.org.in^$important
 ||*.spuiten.weebly.com^$important
 ||*.sso--auth--ndax--cdn.webflow.io^$important
 ||*.sso-trezor-io-logn-cdn-authf.grapedrop.net^$important
@@ -703,6 +701,7 @@
 ||*.valfanto.com^$important
 ||*.validar-acceso.iceiy.com^$important
 ||*.validar-datos-365.iceiy.com^$important
+||*.vcc-library.uk^$important
 ||*.verication-casefb339057.vercel.app^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -731,6 +730,7 @@
 ||*.www.automobile-bk.de^$important
 ||*.www.b237fp.xyz^$important
 ||*.www.backupallfresh2030.com^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.bet9382.com^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
