@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-23 19:03:57
+! Ultimo aggiornamento automatico: 2026-04-23 21:42:46
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -370,6 +370,7 @@
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fnxx.info^$important
+||*.fonij.cm^$important
 ||*.forsale.dynadot.com^$important
 ||*.friendlydomain.ru^$important
 ||*.frontend-mentor-easy-bank-landing-page.vercel.app^$important
@@ -606,6 +607,7 @@
 ||*.securityawareness.cc^$important
 ||*.separadordecc.com^$important
 ||*.serviciosdeseguridad.iceiy.com^$important
+||*.servicioslogisticosdyc.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
