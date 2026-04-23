@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-23 07:47:12
+! Ultimo aggiornamento automatico: 2026-04-23 10:19:28
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.1169412198.14auth.us^$important
@@ -448,7 +448,6 @@
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
-||*.ijbfi.pk^$important
 ||*.ikt-oyx-biz-ukp-jet-sp31ct1.pages.dev^$important
 ||*.img.ipxxxx.com^$important
 ||*.indeanapolice.cc^$important
@@ -659,7 +658,6 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stelvik-frondel-biz-granix-sornel-nd13kt12.pages.dev^$important
-||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
 ||*.sudan-daily.net^$important
 ||*.support.clz.kr^$important
