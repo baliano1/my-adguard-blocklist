@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-23 05:27:33
+! Ultimo aggiornamento automatico: 2026-04-23 07:47:12
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.1169412198.14auth.us^$important
@@ -177,7 +177,6 @@
 ||*.990w-ifo2-yn6s.alllprolifesafety.workers.dev^$important
 ||*.aahyqdeapm.webflow.io^$important
 ||*.aaronart.com^$important
-||*.acaviationsupplies.com^$important
 ||*.acbcr.ro^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acccount-center-passwords-and-security-housexew.pages.dev^$important
@@ -240,7 +239,6 @@
 ||*.bbos.minet.vn^$important
 ||*.benq-vice.s3.us-east-2.amazonaws.com^$important
 ||*.beoauto.alexion.rs^$important
-||*.biducaconfeitos.com.br^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -261,7 +259,6 @@
 ||*.bvaco.com^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
-||*.careersconnect.work^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccleaner.gl^$important
@@ -276,7 +273,6 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chronos-sarl-xbw.1c4a473a7a5c2da254228e99.workers.dev^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.clienthogyufowaeohawhesauoi.duckdns.org^$important
@@ -294,13 +290,13 @@
 ||*.controliumbt.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
+||*.corwineagles.com^$important
 ||*.costruindolimitespravoce.s3.us-east-005.backblazeb2.com^$important
 ||*.cpofficial.com^$important
 ||*.cr.rwks0876.workers.dev^$important
 ||*.creativevoltage.com^$important
 ||*.creditunion-authority.org^$important
 ||*.crimefreesoftware.com^$important
-||*.cryoshield.co.za^$important
 ||*.crystalpvp.ru^$important
 ||*.csg-app.com^$important
 ||*.ct3-24.ru^$important
@@ -344,6 +340,7 @@
 ||*.disabled.reportsmanagerbase.click^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -426,6 +423,7 @@
 ||*.fxa-hmd-biz3-rkp-zvn-sp4ect1.pages.dev^$important
 ||*.fyiajbrp.jolik.biz.id^$important
 ||*.fz.tiansys.cn^$important
+||*.galerisenimutiara.com^$important
 ||*.gb.mamamiya.app^$important
 ||*.geo-foundation.vg^$important
 ||*.getamarin.ro^$important
@@ -435,7 +433,6 @@
 ||*.goto.now^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
-||*.gtps4change.org^$important
 ||*.gutando.com^$important
 ||*.hanveq-solti-biz-pelrox-kentra-sp9ct12.pages.dev^$important
 ||*.hasalltalent.com^$important
@@ -451,6 +448,7 @@
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
+||*.ijbfi.pk^$important
 ||*.ikt-oyx-biz-ukp-jet-sp31ct1.pages.dev^$important
 ||*.img.ipxxxx.com^$important
 ||*.indeanapolice.cc^$important
@@ -474,7 +472,6 @@
 ||*.jawaratekno.com^$important
 ||*.jin.com.my^$important
 ||*.jir-tra-biz-fap-vri-sp6ct3.pages.dev^$important
-||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
 ||*.jyothishmathi.in^$important
 ||*.kamin-premium.ru^$important
@@ -515,6 +512,7 @@
 ||*.lurex-hold.pages.dev^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
+||*.maalamin.sch.id^$important
 ||*.madroxreborn.lol^$important
 ||*.magnusworkspace.com^$important
 ||*.maidforyou1985.com^$important
@@ -554,7 +552,6 @@
 ||*.new.quranushaiqer.org.sa^$important
 ||*.noithaticon.vn^$important
 ||*.nol-dre-biz-tep-iro-sp8ct3.pages.dev^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ob1phqqu.degassing-mould.digital^$important
@@ -563,7 +560,6 @@
 ||*.ok-vsefotki.online^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
-||*.omax.com.pk^$important
 ||*.onedrivedocufils.weebly.com^$important
 ||*.onfiltre.com.tr^$important
 ||*.onyxguardify.de^$important
@@ -626,7 +622,6 @@
 ||*.robertrowe.com^$important
 ||*.roblox.com.bn^$important
 ||*.rolino-biz-lenvax-29126.pages.dev^$important
-||*.rosewoodlaminates.com^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
@@ -634,6 +629,7 @@
 ||*.sabungkingbet189.com^$important
 ||*.sachin-6.github.io^$important
 ||*.satyasmishra19.github.io^$important
+||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
@@ -642,19 +638,16 @@
 ||*.separadordecc.com^$important
 ||*.server.cpanelmanager.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.sharepoint.document-share.services^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.silavo-biz-quenit-30261.pages.dev^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
 ||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
-||*.soniderosunidos.com^$important
 ||*.sorkin-lavto-biz-metrol-qarven-sp9ct12.pages.dev^$important
 ||*.spacemanslot88.games^$important
 ||*.specific-career-377904.framer.app^$important
@@ -666,6 +659,7 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stelvik-frondel-biz-granix-sornel-nd13kt12.pages.dev^$important
+||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
 ||*.sudan-daily.net^$important
 ||*.support.clz.kr^$important
@@ -705,7 +699,6 @@
 ||*.vagler.ru^$important
 ||*.valfanto.com^$important
 ||*.vanillamods.xyz^$important
-||*.vcc-library.uk^$important
 ||*.verication-casefb381513.vercel.app^$important
 ||*.verication-casefb726811.vercel.app^$important
 ||*.verication-casefb858920.vercel.app^$important
@@ -725,7 +718,6 @@
 ||*.vrelix-stentor-biz-klanel-sorvik-nd13kt12.pages.dev^$important
 ||*.w1.1kes.com^$important
 ||*.webaccess-email.mx^$important
-||*.webcstore.pw^$important
 ||*.webdriver-select.vg^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
@@ -743,6 +735,7 @@
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.bantrixyservicepoint.us^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chenwangqiao.com^$important
