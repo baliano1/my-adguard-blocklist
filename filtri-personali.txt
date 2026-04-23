@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-23 13:22:23
+! Ultimo aggiornamento automatico: 2026-04-23 16:27:24
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -758,7 +758,6 @@
 ||*.www.luckiestmint504.vercel.app^$important
 ||*.www.maxpower01.com^$important
 ||*.www.medises.co.kr^$important
-||*.www.mevetlab.cl^$important
 ||*.www.microsoft-landing-page-wine.vercel.app^$important
 ||*.www.misrechecuus21452542.vercel.app^$important
 ||*.www.mixturro.com^$important
