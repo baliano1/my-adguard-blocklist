@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-24 05:32:35
+! Ultimo aggiornamento automatico: 2026-04-24 07:58:57
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.121gle.senes.at^$important
@@ -193,7 +193,6 @@
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
 ||*.alphalocetes.com^$important
-||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amazonclone-two-gamma.vercel.app^$important
 ||*.anjisha616.github.io^$important
@@ -269,6 +268,7 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.claimsinfo.maxstoday.com^$important
@@ -373,7 +373,6 @@
 ||*.explore4.wasmer.app^$important
 ||*.explorer.vg^$important
 ||*.f9ln.noreply8.us^$important
-||*.facanha.com.br^$important
 ||*.facebook-clone-pi.vercel.app^$important
 ||*.fakabeiiabarco.com^$important
 ||*.fakers.co.jp^$important
@@ -422,6 +421,7 @@
 ||*.hotellacastellana.com.uy^$important
 ||*.house-jpcont.com^$important
 ||*.hqweb.id.vn^$important
+||*.hseda.com^$important
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
@@ -476,12 +476,10 @@
 ||*.loginservice.cloud^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lon-01.dlo4d.com^$important
-||*.londonairportstransfer.co.uk^$important
 ||*.lucrenasho.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.dtwyiqnl9ods.com^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.mabuthe-rmasonline-hotel-resort.site^$important
 ||*.mabuthermas.buzz^$important
 ||*.madroxreborn.lol^$important
@@ -527,6 +525,7 @@
 ||*.nodu1718.odns.fr^$important
 ||*.noithaticon.vn^$important
 ||*.notifiyedexpress.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.officials.ink^$important
@@ -562,7 +561,6 @@
 ||*.pouprelo.online^$important
 ||*.process.invoice-partners-agency.com^$important
 ||*.profile.meta-agency-center.com^$important
-||*.protherapycenter.com^$important
 ||*.proveed0r-login2026.zya.me^$important
 ||*.provisaodeseguranca.s3.us-east-005.backblazeb2.com^$important
 ||*.provisionamentodeabril.s3.us-east-005.backblazeb2.com^$important
@@ -590,7 +588,6 @@
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.rinshudeveloper.github.io^$important
-||*.ritee.in^$important
 ||*.robertrowe.com^$important
 ||*.robiox.com.ps^$important
 ||*.roblox.com.bn^$important
@@ -824,5 +821,4 @@
 ||*.yzpjl-slqm-ecez.p-48oc8l1k.workers.dev^$important
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
-||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
