@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-24 07:58:57
+! Ultimo aggiornamento automatico: 2026-04-24 10:19:24
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.121gle.senes.at^$important
@@ -588,6 +588,7 @@
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.rinshudeveloper.github.io^$important
+||*.ritee.in^$important
 ||*.robertrowe.com^$important
 ||*.robiox.com.ps^$important
 ||*.roblox.com.bn^$important
