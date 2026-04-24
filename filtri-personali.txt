@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-24 02:25:30
+! Ultimo aggiornamento automatico: 2026-04-24 05:32:35
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.121gle.senes.at^$important
@@ -186,6 +186,7 @@
 ||*.admin.gestroom.it^$important
 ||*.admin.invoice-partners-agency.com^$important
 ||*.adobe-xaf.azavier-cavion-dropons-com-s-account.workers.dev^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.alarmline.com.br^$important
 ||*.aliceblue-wasp-214350.hostingersite.com^$important
 ||*.alineeleuterio.com.br^$important
@@ -227,7 +228,6 @@
 ||*.bafybeiej3ntsxyjofgabr7fwsfnasqkcx6gfzocf2ncresca5jlzv4tkzy.ipfs.infura-ipfs.io^$important
 ||*.bafybeifpqhyzn73oe4u5fepceonr6hbpvffuxj7vikwnwh3wkrp2v3blei.ipfs.dweb.link^$important
 ||*.baucarshopee1466.weebly.com^$important
-||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
 ||*.bdod739-spec.github.io^$important
 ||*.beautifulfairyclinik.com^$important
@@ -285,6 +285,7 @@
 ||*.compimento.ba^$important
 ||*.compuserviceonline.com.br^$important
 ||*.contentmentfairnesspesky.com^$important
+||*.continentalgroup.net.in^$important
 ||*.controlcenter-odic.webflow.io^$important
 ||*.controliumbt.com^$important
 ||*.conversemy.store^$important
@@ -366,6 +367,7 @@
 ||*.erzurumyoresel.com^$important
 ||*.estudio.ythan.com.br^$important
 ||*.evangroup.ru^$important
+||*.eventourarte.cl^$important
 ||*.everycarebd.com^$important
 ||*.evixmail.com^$important
 ||*.explore4.wasmer.app^$important
@@ -420,7 +422,6 @@
 ||*.hotellacastellana.com.uy^$important
 ||*.house-jpcont.com^$important
 ||*.hqweb.id.vn^$important
-||*.hseda.com^$important
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
@@ -560,7 +561,6 @@
 ||*.portal.rodiviasdigitalpedagiobrasil.com^$important
 ||*.pouprelo.online^$important
 ||*.process.invoice-partners-agency.com^$important
-||*.prodimetal.com^$important
 ||*.profile.meta-agency-center.com^$important
 ||*.protherapycenter.com^$important
 ||*.proveed0r-login2026.zya.me^$important
@@ -630,6 +630,7 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
 ||*.sudan-daily.net^$important
@@ -718,7 +719,6 @@
 ||*.vrajras.com^$important
 ||*.w2.1kes.com^$important
 ||*.wassss92passsso.weebly.com^$important
-||*.webdriver-select.vg^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsapp-clone-frontend-liart.vercel.app^$important
 ||*.widexenmexico.com.mx^$important
@@ -758,7 +758,6 @@
 ||*.www.konsor.ru^$important
 ||*.www.kotojuki.com^$important
 ||*.www.longfeng188.com^$important
-||*.www.maxpower01.com^$important
 ||*.www.medises.co.kr^$important
 ||*.www.microsoft.merilo.za.com^$important
 ||*.www.mixturro.com^$important
