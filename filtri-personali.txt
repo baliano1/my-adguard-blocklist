@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-24 18:44:38
+! Ultimo aggiornamento automatico: 2026-04-24 21:43:59
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -309,6 +309,7 @@
 ||*.dispatch.e-verif-notice.com^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
+||*.dl.armour-inc-down.net^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -551,6 +552,7 @@
 ||*.rahul-rb-frontend.github.io^$important
 ||*.ramirex.ro^$important
 ||*.rangfacdesqert.duckdns.org^$important
+||*.raw.flameblox.com^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.recommend.partner-program-center.com^$important
@@ -594,7 +596,6 @@
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.shreyagupta45.github.io^$important
 ||*.shreyajaiswal0808.github.io^$important
 ||*.signin.broker^$important
@@ -699,6 +700,7 @@
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.vkrlspgbnadcrlapwbmalzrsgxtybrnaop.rest^$important
+||*.volainc.co^$important
 ||*.vrajras.com^$important
 ||*.w3bb-d4naa.cxbb-ofisiaaal.biz.id^$important
 ||*.wassss92passsso.weebly.com^$important
