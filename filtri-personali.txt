@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-25 02:06:53
+! Ultimo aggiornamento automatico: 2026-04-25 05:09:12
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.1111365zw.net^$important
@@ -171,7 +171,6 @@
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.2404xplmkt.saudiwba.me^$important
-||*.6ak-tehnik.si^$important
 ||*.aaronart.com^$important
 ||*.abinrajesh.github.io^$important
 ||*.acaviationsupplies.com^$important
@@ -365,6 +364,7 @@
 ||*.flyingmutts.com^$important
 ||*.fonij.cm^$important
 ||*.forcafinanceira.s3.us-east-005.backblazeb2.com^$important
+||*.forxtra.com^$important
 ||*.freeflow-digital.in.net^$important
 ||*.friendlydomain.ru^$important
 ||*.frozi.cc^$important
@@ -477,7 +477,6 @@
 ||*.member01033.agency-system-gateway.com^$important
 ||*.meng-explorer.github.io^$important
 ||*.metamaskwallett.blogspot.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mgtms.cc^$important
 ||*.microsoft365niyn.weebly.com^$important
 ||*.mistralkorea.ru^$important
@@ -498,6 +497,7 @@
 ||*.muezu.cn^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
+||*.mvmconstructores.com^$important
 ||*.mygrocerbox.com^$important
 ||*.n.vs108.com^$important
 ||*.naser4737.github.io^$important
@@ -518,7 +518,6 @@
 ||*.novocomunicado.s3.us-east-005.backblazeb2.com^$important
 ||*.novopatamar.s3.us-east-005.backblazeb2.com^$important
 ||*.nusatoyota.co.id^$important
-||*.nutrisc.com.br^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.officials.ink^$important
@@ -636,6 +635,7 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sync.agency-system-gateway.com^$important
 ||*.t3ln.contactsite.us^$important
+||*.tajalrayhan.com^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -665,7 +665,6 @@
 ||*.type-uphold-----sso.typedream.app^$important
 ||*.ukguk71.ru^$important
 ||*.uniform-factory.ae^$important
-||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.update.volam2005pk.com^$important
