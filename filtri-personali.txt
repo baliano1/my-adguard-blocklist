@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-25 07:10:58
+! Ultimo aggiornamento automatico: 2026-04-25 09:50:08
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.1111365zw.net^$important
@@ -251,6 +251,7 @@
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
+||*.bvaco.com^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
 ||*.careersconnect.work^$important
@@ -453,6 +454,7 @@
 ||*.ledgfh-gyjsbf.pages.dev^$important
 ||*.leedgr-logen-us.weebly.com^$important
 ||*.lekshmi-2003.github.io^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linn-eska.de^$important
 ||*.lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev^$important
@@ -482,6 +484,7 @@
 ||*.mogimall.com^$important
 ||*.mohini-kumar2005.github.io^$important
 ||*.mosselnet.co.za^$important
+||*.mothertouch.ac.zw^$important
 ||*.mrgamal07.github.io^$important
 ||*.mritunjay121003.github.io^$important
 ||*.mrqadir090-qadir.github.io^$important
@@ -614,7 +617,6 @@
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
-||*.sudan-daily.net^$important
 ||*.superbmodifytoks.netlify.app^$important
 ||*.support-ledger.github.io^$important
 ||*.support.clz.kr^$important
@@ -643,6 +645,7 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
+||*.ticpc8a.com^$important
 ||*.tiktokxl-1330623827.pichk.myqcloud.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
