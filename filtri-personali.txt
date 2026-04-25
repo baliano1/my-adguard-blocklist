@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-25 12:58:33
+! Ultimo aggiornamento automatico: 2026-04-25 15:37:11
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -188,11 +188,13 @@
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.administrator.invoice-partners-agency.com^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.agency.invoice-ads-program.com^$important
 ||*.ahv3ctpms4e.timeforsurveys.com^$important
 ||*.airbnb-clone-final.vercel.app^$important
 ||*.aktifkaanpaylattess4.file-resmii2.my.id^$important
 ||*.alarmline.com.br^$important
+||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
 ||*.alternativas.ru^$important
@@ -268,7 +270,9 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
+||*.cl.distritovagas.com^$important
 ||*.cl.ssouy.com^$important
 ||*.clipaid.app^$important
 ||*.cloudstay168.com^$important
@@ -318,7 +322,6 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
-||*.dl.armour-inc-down.net^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -335,7 +338,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dpd.barmetiko.cfd^$important
 ||*.dpd.brenakito.cfd^$important
@@ -378,6 +380,7 @@
 ||*.dpd.yrenakito.cfd^$important
 ||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
+||*.drhenrylopez.com^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
@@ -386,9 +389,9 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.emailspro.store^$important
-||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.energy63.ru^$important
+||*.enotpidarmot.pw^$important
 ||*.epanpano.com^$important
 ||*.estudio.ythan.com.br^$important
 ||*.eurostarsmateralasuite.spahotel.guru^$important
@@ -422,6 +425,7 @@
 ||*.geo-foundation.vg^$important
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.greenf.alexion.rs^$important
 ||*.growth.agency-partner-management.com^$important
@@ -484,17 +488,16 @@
 ||*.kuzina-teatr.ru^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
+||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.links.sdfdgwe.com^$important
 ||*.local-update.com^$important
 ||*.login1.invoice-partners-agency.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lon-01.dlo4d.com^$important
-||*.londonairportstransfer.co.uk^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumiaressmallluxurysoftheworld.spahotel.guru^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.m.resmii-padisahbet.com^$important
 ||*.magnusworkspace.com^$important
 ||*.maidforyou1985.com^$important
@@ -508,9 +511,9 @@
 ||*.member59.partner-hub-platform.com^$important
 ||*.member95.partner-hub-platform.com^$important
 ||*.members.invoice-partners-agency.com^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mgtms.cc^$important
 ||*.mhedoio.com^$important
-||*.miskolc-dugulaselharitas.hu^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
@@ -543,7 +546,6 @@
 ||*.officials.ink^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onedrivesms.weebly.com^$important
 ||*.onfiltre.com.tr^$important
 ||*.onyxguardify.de^$important
@@ -561,7 +563,6 @@
 ||*.paypal.auth-sharefile.com^$important
 ||*.pcupd.com^$important
 ||*.pearlexecutiveapartments.spahotel.guru^$important
-||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.play-amazon-uk.click^$important
 ||*.pns.org.pk^$important
@@ -627,12 +628,13 @@
 ||*.sk-comtel.com^$important
 ||*.skykamerantalya.spahotel.guru^$important
 ||*.smartermail.host^$important
-||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.sohamdarshak.github.io^$important
 ||*.solar-sanat.net^$important
+||*.sonra.eutialyson.com^$important
 ||*.spacemanslot88.games^$important
 ||*.spectacular-confidence-794399.framer.app^$important
+||*.spoar.org.in^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
