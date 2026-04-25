@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-25 18:46:41
+! Ultimo aggiornamento automatico: 2026-04-25 21:34:01
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -641,7 +641,6 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
-||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
 ||*.sudan-daily.net^$important
 ||*.supplychain.servirtual.cl^$important
