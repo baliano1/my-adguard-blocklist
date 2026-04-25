@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-25 05:09:12
+! Ultimo aggiornamento automatico: 2026-04-25 07:10:58
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.1111365zw.net^$important
@@ -182,6 +182,7 @@
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.adrishikharchowdhury.github.io^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.airb.app^$important
 ||*.akash-b2005.github.io^$important
 ||*.akash-muddhana.github.io^$important
@@ -239,6 +240,7 @@
 ||*.bikugithub.github.io^$important
 ||*.biriyachu.github.io^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
@@ -249,7 +251,6 @@
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
-||*.bvaco.com^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
 ||*.careersconnect.work^$important
@@ -270,7 +271,6 @@
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.clipaid.app^$important
-||*.cloudnewsfeed.com^$important
 ||*.cloudstay168.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
@@ -279,7 +279,6 @@
 ||*.compuserviceonline.com.br^$important
 ||*.connectors.agency-system-gateway.com^$important
 ||*.contentmentfairnesspesky.com^$important
-||*.continentalgroup.net.in^$important
 ||*.controliumbt.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
@@ -344,6 +343,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.emailspro.store^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.energy63.ru^$important
 ||*.engrmansoor304.github.io^$important
 ||*.epanpano.com^$important
@@ -362,9 +362,7 @@
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
-||*.fonij.cm^$important
 ||*.forcafinanceira.s3.us-east-005.backblazeb2.com^$important
-||*.forxtra.com^$important
 ||*.freeflow-digital.in.net^$important
 ||*.friendlydomain.ru^$important
 ||*.frozi.cc^$important
@@ -414,7 +412,6 @@
 ||*.idapple-i.support^$important
 ||*.idstaffaruba.bar^$important
 ||*.igra123.com^$important
-||*.indeanapolice.cc^$important
 ||*.indexsearchfindresult.com^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
@@ -453,11 +450,9 @@
 ||*.kuzina-teatr.ru^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
-||*.leanmaestro.com^$important
 ||*.ledgfh-gyjsbf.pages.dev^$important
 ||*.leedgr-logen-us.weebly.com^$important
 ||*.lekshmi-2003.github.io^$important
-||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linn-eska.de^$important
 ||*.lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev^$important
@@ -486,7 +481,6 @@
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
 ||*.mohini-kumar2005.github.io^$important
-||*.mondesignweb.com^$important
 ||*.mosselnet.co.za^$important
 ||*.mrgamal07.github.io^$important
 ||*.mritunjay121003.github.io^$important
@@ -517,13 +511,11 @@
 ||*.novaetapadisponivel.s3.us-east-005.backblazeb2.com^$important
 ||*.novocomunicado.s3.us-east-005.backblazeb2.com^$important
 ||*.novopatamar.s3.us-east-005.backblazeb2.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.officials.ink^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onknyvip.sdfdwew.com^$important
 ||*.onyxguardify.de^$important
@@ -585,7 +577,6 @@
 ||*.sarjeel12.github.io^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
-||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.secureactivitysett726411.li^$important
@@ -623,6 +614,7 @@
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
+||*.sudan-daily.net^$important
 ||*.superbmodifytoks.netlify.app^$important
 ||*.support-ledger.github.io^$important
 ||*.support.clz.kr^$important
@@ -678,7 +670,6 @@
 ||*.uyhgr.edgeone.app^$important
 ||*.vagler.ru^$important
 ||*.valfanto.com^$important
-||*.vanillamods.xyz^$important
 ||*.verication-casefb584496.vercel.app^$important
 ||*.verifypass.pw^$important
 ||*.versaclean.com.br^$important
@@ -696,6 +687,7 @@
 ||*.wap.tiktokshopwholesale.com^$important
 ||*.web2.pancake.run^$important
 ||*.web3.pancake.run^$important
+||*.webcstore.pw^$important
 ||*.webfun.website^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
@@ -727,6 +719,7 @@
 ||*.www.flybirdexpbd.com^$important
 ||*.www.giminee-loggo.godaddysites.com^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.is.gd^$important
 ||*.www.jozefinskiatelje.si^$important
