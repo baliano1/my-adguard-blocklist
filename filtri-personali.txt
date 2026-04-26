@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-26 07:24:51
+! Ultimo aggiornamento automatico: 2026-04-26 09:52:02
 ||*.0022a601.pphost.net^$important
 ||*.01122255.com^$important
 ||*.028426.com^$important
@@ -397,7 +397,6 @@
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
 ||*.gmgracing.com^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
