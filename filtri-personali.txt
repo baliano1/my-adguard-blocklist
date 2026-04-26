@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-26 13:00:19
+! Ultimo aggiornamento automatico: 2026-04-26 15:39:11
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -417,6 +417,7 @@
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.halfmillion-iq.com^$important
+||*.happytugsbakery.com^$important
 ||*.hasalltalent.com^$important
 ||*.hbmeeng.com^$important
 ||*.hitman-pro.ru^$important
@@ -639,6 +640,7 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
+||*.tiacreation.club^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.tr.jetbahisadresii.com^$important
