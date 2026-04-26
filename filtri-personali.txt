@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-26 05:36:51
+! Ultimo aggiornamento automatico: 2026-04-26 07:24:51
 ||*.0022a601.pphost.net^$important
 ||*.01122255.com^$important
 ||*.028426.com^$important
@@ -177,7 +177,6 @@
 ||*.9026163741.github.io^$important
 ||*.aaronart.com^$important
 ||*.able-neptune-166625.framer.app^$important
-||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.account.invoice-ads-agency.com^$important
@@ -398,6 +397,7 @@
 ||*.globalbank.us^$important
 ||*.globaltechbilling.com^$important
 ||*.gmgracing.com^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
@@ -419,6 +419,7 @@
 ||*.i.404.pm^$important
 ||*.i2mind.com^$important
 ||*.icoffeecloud.com^$important
+||*.icupsa.com.mx^$important
 ||*.igra123.com^$important
 ||*.indexsearchfindresult.com^$important
 ||*.information.invoice-partners-agency.com^$important
@@ -430,7 +431,6 @@
 ||*.ipfs.io^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.isometricsindia.co.in^$important
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
 ||*.izogard.com^$important
@@ -466,7 +466,6 @@
 ||*.lon-01.dlo4d.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.magnusworkspace.com^$important
 ||*.maidforyou1985.com^$important
 ||*.marketing.invoice-ads-agency.com^$important
@@ -576,6 +575,7 @@
 ||*.riderspin.com^$important
 ||*.rikotake.site^$important
 ||*.rikotake.store^$important
+||*.ritee.in^$important
 ||*.robertrowe.com^$important
 ||*.roblox.com.bn^$important
 ||*.robloxt.cv^$important
@@ -622,18 +622,19 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.steam66.cn^$important
+||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
 ||*.sucursalvrtla.duckdns.org^$important
+||*.sudan-daily.net^$important
 ||*.sumukha2121.github.io^$important
 ||*.support.clz.kr^$important
 ||*.suru123474.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.tajalrayhan.com^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
