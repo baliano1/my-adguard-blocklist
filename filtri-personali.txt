@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-27 08:19:12
+! Ultimo aggiornamento automatico: 2026-04-27 11:01:15
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -344,7 +344,6 @@
 ||*.easy-bank-landing-page-weblytic.vercel.app^$important
 ||*.easybrand.vn^$important
 ||*.electri.billregulator.com^$important
-||*.elevenhold.hu^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emmanuel3186.github.io^$important
@@ -454,7 +453,6 @@
 ||*.m.galabett1071.com^$important
 ||*.m.galabett1075.com^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.m160k.xyz^$important
 ||*.magnusworkspace.com^$important
 ||*.maidforyou1985.com^$important
