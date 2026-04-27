@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-27 19:15:26
+! Ultimo aggiornamento automatico: 2026-04-27 21:55:08
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -284,6 +284,7 @@
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.dapp.metacorehealth.com^$important
+||*.darkstarcore.dexisnetflow.garden^$important
 ||*.data.yhydl.com^$important
 ||*.dcdivas.com^$important
 ||*.dcrun.co.uk^$important
@@ -378,7 +379,6 @@
 ||*.globaltechbilling.com^$important
 ||*.gmxkundenser.weebly.com^$important
 ||*.google-services.cc^$important
-||*.gossipband.ie^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
