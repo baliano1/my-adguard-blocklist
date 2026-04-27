@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-27 02:31:44
+! Ultimo aggiornamento automatico: 2026-04-27 05:51:14
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -174,7 +174,6 @@
 ||*.8989.partner-invoice-network.com^$important
 ||*.9al62yq7.souf1atwindow.digital^$important
 ||*.aaronart.com^$important
-||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.accounts.9023423.cfd^$important
@@ -209,11 +208,12 @@
 ||*.ardena.pro^$important
 ||*.areyouready.co.za^$important
 ||*.arnab-zt.github.io^$important
-||*.arpausa.com.ec^$important
 ||*.artacom.com.br^$important
 ||*.asl-company.ru^$important
 ||*.atasapka.com.tr^$important
+||*.audicontadores.com^$important
 ||*.augsburg-auto.com^$important
+||*.aurorabolnica.co.rs^$important
 ||*.avbackup.acionline.de^$important
 ||*.b262n.xyz^$important
 ||*.backupso.com^$important
@@ -249,12 +249,12 @@
 ||*.c.3656vip4726.cc^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
-||*.caldas-pires.pt^$important
 ||*.careersconnect.work^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn-clouds.ru^$important
 ||*.cdn.file6.goodid.com^$important
 ||*.cdn.sessionspy.com^$important
 ||*.celebratingseniors.net^$important
@@ -283,11 +283,9 @@
 ||*.controliumbt.com^$important
 ||*.conversemy.pro^$important
 ||*.coralasargetia.ro^$important
-||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
 ||*.crimefreesoftware.com^$important
-||*.cryoshield.co.za^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
@@ -340,6 +338,7 @@
 ||*.dowonline.ru^$important
 ||*.dpd-torvera.link^$important
 ||*.dpd.jfnsfghb.cfd^$important
+||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dusttv.com^$important
@@ -347,6 +346,7 @@
 ||*.easy-bank-landing-page-weblytic.vercel.app^$important
 ||*.easybrand.vn^$important
 ||*.electri.billregulator.com^$important
+||*.elevenhold.hu^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emmanuel3186.github.io^$important
@@ -405,7 +405,6 @@
 ||*.homecaremovers.com^$important
 ||*.hotellacastellana.com.uy^$important
 ||*.hqweb.id.vn^$important
-||*.hseda.com^$important
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.ig.do^$important
@@ -434,7 +433,6 @@
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kishore1803.github.io^$important
-||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kramersmarionnettes.com^$important
 ||*.krisidev.com^$important
@@ -491,7 +489,6 @@
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
-||*.mosselnet.co.za^$important
 ||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
 ||*.msnlivesconfirms.fwh.is^$important
@@ -537,7 +534,6 @@
 ||*.pid.fly160.com^$important
 ||*.pilardevs.github.io^$important
 ||*.planetariumobil.ro^$important
-||*.pns.org.pk^$important
 ||*.pobedastaff.ru^$important
 ||*.polonyauniversiteleri.com.tr^$important
 ||*.pranjal501.github.io^$important
@@ -607,7 +603,6 @@
 ||*.solar-sanat.net^$important
 ||*.sonra.eutialyson.com^$important
 ||*.spacemanslot88.games^$important
-||*.spoar.org.in^$important
 ||*.spotify-login.vercel.app^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
@@ -616,7 +611,6 @@
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.studiogioeli.it^$important
-||*.sudan-daily.net^$important
 ||*.suivre-tracbilities.com^$important
 ||*.supersafed.standard.us-east-1.oortstorages.com^$important
 ||*.support-legderlive-us--learn.typedream.app^$important
@@ -635,6 +629,7 @@
 ||*.thebrandmantra.in^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
+||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
@@ -687,10 +682,11 @@
 ||*.vrajras.com^$important
 ||*.walletconnect.yusihk.com^$important
 ||*.wallpra.net-sh.sbs^$important
+||*.wearjora.com^$important
 ||*.web3.pancake.run^$important
 ||*.website.mypetapp.co.za^$important
+||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
-||*.wittenhorst.eu^$important
 ||*.wm-webmail-shaw31.framer.website^$important
 ||*.woolardsauto.com^$important
 ||*.ww.lhvietvghy.ct.ws^$important
@@ -781,9 +777,11 @@
 ||*.www.websitedesigningindia.biz^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.www.zoyue.com.cn^$important
 ||*.x-chain.pages.dev^$important
 ||*.xdcq3.com^$important
+||*.xenon.studio^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
 ||*.xn--b1afiqif6c.xn--p1ai^$important
 ||*.xn--yh4bx88a.com^$important
