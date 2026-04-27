@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-27 13:46:17
+! Ultimo aggiornamento automatico: 2026-04-27 16:24:21
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.1717.1000uc.com^$important
@@ -375,7 +375,6 @@
 ||*.gemimi.zeabur.app^$important
 ||*.geminimlogico.godaddysites.com^$important
 ||*.gemuilgeefn.godaddysites.com^$important
-||*.geo-foundation.vg^$important
 ||*.geuminilozgin-en.godaddysites.com^$important
 ||*.gidingmolikng-us.godaddysites.com^$important
 ||*.globalbank.us^$important
@@ -428,6 +427,7 @@
 ||*.kernalstress.st^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
+||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kramersmarionnettes.com^$important
 ||*.krisidev.com^$important
@@ -457,6 +457,7 @@
 ||*.lon-01.dlo4d.com^$important
 ||*.londonairportstransfer.co.uk^$important
 ||*.lsuba.spahotel.guru^$important
+||*.luizmatoso.com.br^$important
 ||*.lumennix.live^$important
 ||*.luxzzc2servers.my.id^$important
 ||*.m.galabetyenigirisadresi.com^$important
@@ -485,6 +486,7 @@
 ||*.mgtms.cc^$important
 ||*.mi-etta-mask-logjin.godaddysites.com^$important
 ||*.microsoft-clone-five.vercel.app^$important
+||*.missileperformance.hu^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
@@ -569,6 +571,7 @@
 ||*.robiox.com.ve^$important
 ||*.roblox.mq^$important
 ||*.rochesterchampselysees.spahotel.guru^$important
+||*.rosewoodlaminates.com^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
 ||*.saabeee-netflix.vercel.app^$important
