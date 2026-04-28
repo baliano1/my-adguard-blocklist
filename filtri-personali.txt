@@ -162,12 +162,13 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-28 13:58:51
+! Ultimo aggiornamento automatico: 2026-04-28 16:49:05
 ||*.0022a601.pphost.net^$important
 ||*.1015gamelogin.org^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
+||*.1oade4-zone.sunmeadow.garden^$important
 ||*.1qre64dqdpek06f6ih710vuh9p-4310f933-01ac-4df2-9220-3bfd7579a9c0.proof-proxy.ziflow.net^$important
 ||*.2025ifspartnermeet.com^$important
 ||*.486220whitedevil.github.io^$important
@@ -191,6 +192,7 @@
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
 ||*.almost-netflix.vercel.app^$important
+||*.alt-w1nd.leafspring.garden^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-sable-rho.vercel.app^$important
 ||*.amazon-clone-seven-opal.vercel.app^$important
@@ -222,6 +224,8 @@
 ||*.auth.re^$important
 ||*.autobaenasl.com^$important
 ||*.avbackup.acionline.de^$important
+||*.azur3-branch.sunmeadow.garden^$important
+||*.b74fa.mossgrove.garden^$important
 ||*.backupso.com^$important
 ||*.bafkreidavxb33ilwoggf5u4ohvednhgxvetwrt64mrdbcljzha23rvlnbq.ipfs.dweb.link^$important
 ||*.bafkreifkkgoibd3uuo3a4ivve6yihmqzmu54i6qvz255afvhrmt5dawbyu.ipfs.dweb.link^$important
@@ -246,6 +250,7 @@
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.broad7-grid.shadowpeak.garden^$important
+||*.brookcano.sunmeadow.garden^$important
 ||*.brt.gmdble.help^$important
 ||*.bvaco.com^$important
 ||*.c.fi3.me^$important
@@ -270,6 +275,7 @@
 ||*.civi-opti.shadowpeak.garden^$important
 ||*.cl.ssouy.com^$important
 ||*.clipaid.app^$important
+||*.clisan.mossgrove.garden^$important
 ||*.cloudstay168.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.memxzf.com^$important
@@ -278,6 +284,7 @@
 ||*.codder-sw.github.io^$important
 ||*.coded404-see.mdbgo.io^$important
 ||*.com-leedgr-strt.weebly.com^$important
+||*.comp-vine.greenbloom.garden^$important
 ||*.compimento.ba^$important
 ||*.compuserviceonline.com.br^$important
 ||*.conferinta.sper.ro^$important
@@ -285,6 +292,7 @@
 ||*.continentalgroup.net.in^$important
 ||*.contratolivmsn365acti.iceiy.com^$important
 ||*.controliumbt.com^$important
+||*.coorsamexico.mx^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
@@ -294,6 +302,7 @@
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
 ||*.ct3-24.ru^$important
+||*.culturebold.rosevale.garden^$important
 ||*.cutt.ly^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -356,6 +365,7 @@
 ||*.etomoidomen.cfd^$important
 ||*.evangroup.ru^$important
 ||*.everycarebd.com^$important
+||*.ew559.sunmeadow.garden^$important
 ||*.explorer.vg^$important
 ||*.f.digitalmaillane.com^$important
 ||*.f4ct0-span.lightforge.garden^$important
@@ -367,7 +377,6 @@
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
-||*.filt3-scope.lightforge.garden^$important
 ||*.first-clarity-706633.framer.app^$important
 ||*.first-security-verden.de^$important
 ||*.flow-share-qlpw.inbox-share.workers.dev^$important
@@ -397,17 +406,20 @@
 ||*.grantexx.gr^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
+||*.gtps4change.org^$important
 ||*.gutando.com^$important
 ||*.halfmillion-iq.com^$important
 ||*.handlerfalc.voidstream.garden^$important
 ||*.happytugsbakery.com^$important
 ||*.haris7868.github.io^$important
 ||*.hasalltalent.com^$important
+||*.hillwest.mossgrove.garden^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.homecaremovers.com^$important
 ||*.homepage-btimart-auth-o.webflow.io^$important
+||*.honestlab.voidstream.garden^$important
 ||*.hoseasunny.github.io^$important
 ||*.hostfastland.dexisnetflow.garden^$important
 ||*.hotellacastellana.com.uy^$important
@@ -418,12 +430,15 @@
 ||*.i.404.pm^$important
 ||*.icloud-imagens.com^$important
 ||*.icoffeecloud.com^$important
+||*.ie78lu.greenbloom.garden^$important
+||*.if8drhcl.greenbloom.garden^$important
 ||*.igra123.com^$important
 ||*.indexsearchfindresult.com^$important
 ||*.info-alert.net^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
 ||*.inner.website^$important
+||*.innerflee.rosevale.garden^$important
 ||*.innlive.in^$important
 ||*.insidergroup.pages.dev^$important
 ||*.instagram-clone-iota-three.vercel.app^$important
@@ -450,7 +465,9 @@
 ||*.jyothishmathi.in^$important
 ||*.kamin-premium.ru^$important
 ||*.kavacanada.ca^$important
+||*.kelcrest9ar.sunmeadow.garden^$important
 ||*.kelcrestet.frosthaven.garden^$important
+||*.kellinear1.rosevale.garden^$important
 ||*.khalid9096.github.io^$important
 ||*.khoancatbetong89.vn^$important
 ||*.khushh1711.github.io^$important
@@ -463,6 +480,7 @@
 ||*.kuccooienlcgin.godaddysites.com^$important
 ||*.kucoxinlogiin.webflow.io^$important
 ||*.kuzina-teatr.ru^$important
+||*.l4tt1c-index.greenbloom.garden^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lddgr-live-dessktop.weebly.com^$important
@@ -500,6 +518,7 @@
 ||*.member28.agency-ad-portal.com^$important
 ||*.member36.digital-agency-network.net^$important
 ||*.memberremember11mch-c56a1.wasmer.app^$important
+||*.meta-v0ca.sunmeadow.garden^$important
 ||*.metabluefire.qivorpaknode.garden^$important
 ||*.metamakakslogi-us.godaddysites.com^$important
 ||*.metamcak-logun.gitbook.io^$important
@@ -521,17 +540,21 @@
 ||*.nayan235.github.io^$important
 ||*.ncxps.com^$important
 ||*.nelees.com^$important
+||*.neo-payl0.mossgrove.garden^$important
 ||*.netcoinlogi-section.webflow.io^$important
 ||*.netcoinsloginz.webflow.io^$important
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nk-nitya.github.io^$important
 ||*.noirmondsite4.qivorpaknode.garden^$important
 ||*.noithaticon.vn^$important
+||*.nor-meshix.mossgrove.garden^$important
 ||*.normark3en.shadowpeak.garden^$important
 ||*.notifyhubss.net^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
+||*.o6iz.rosevale.garden^$important
+||*.ob53rv-mesh.greenbloom.garden^$important
 ||*.officials.ink^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
@@ -571,6 +594,7 @@
 ||*.priyal-srivastava.github.io^$important
 ||*.proemails.shop^$important
 ||*.projectlicks-box06.vercel.app^$important
+||*.proto-hyp3r.mossgrove.garden^$important
 ||*.psee.io^$important
 ||*.pub-50a5df9778fb46d6a3eac4e9e970f850.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -661,9 +685,11 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftbann.voidstream.garden^$important
 ||*.sysvert7holz.qivorpaknode.garden^$important
+||*.tal-crestis.greenbloom.garden^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
+||*.targ3t9-panel.rosevale.garden^$important
 ||*.taskironland.zexislinkhub.garden^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
@@ -687,6 +713,7 @@
 ||*.tr.jetbahis-giris.vip^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezoriowaleto.webflow.io^$important
+||*.triggeveri.voidstream.garden^$important
 ||*.trtmyanmar.com^$important
 ||*.trustcert.wasmer.app^$important
 ||*.twhsl-qkns-r1he.p-5jwrf2lw.workers.dev^$important
@@ -705,6 +732,7 @@
 ||*.valfanto.com^$important
 ||*.vcc-library.uk^$important
 ||*.vdhni4a34mgmixv3sozqnkquylzzgz73qczkceui7ichkghgkg3q.gatewaypie.com^$important
+||*.velvetlayout.rosevale.garden^$important
 ||*.verificaciiones365-email.iceiy.com^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
