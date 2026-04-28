@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-28 19:28:44
+! Ultimo aggiornamento automatico: 2026-04-28 21:54:40
 ||*.0022a601.pphost.net^$important
 ||*.1015gamelogin.org^$important
 ||*.111101111.ru^$important
@@ -176,7 +176,6 @@
 ||*.9al62yq7.souf1atwindow.digital^$important
 ||*.aamaurie7-lab.github.io^$important
 ||*.abdullahhamdani4.github.io^$important
-||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.acms.saleseos.com^$important
@@ -207,6 +206,7 @@
 ||*.aramexciam.ciamlogin.com^$important
 ||*.ardena.pro^$important
 ||*.areyouready.co.za^$important
+||*.aridlogicnode.canyonsyncgate.garden^$important
 ||*.artacom.com.br^$important
 ||*.arub.digitalagefraud.com^$important
 ||*.asl-company.ru^$important
@@ -234,6 +234,7 @@
 ||*.bleuzeit8zone.dexisnetflow.garden^$important
 ||*.blogs.sokun.jp^$important
 ||*.bltturizm.com^$important
+||*.blue8hostunit.oceanicmeshbit.garden^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
@@ -303,6 +304,7 @@
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deathmatchuk.com^$important
+||*.deep7siteview.oceanicmeshbit.garden^$important
 ||*.deepflix-ui.vercel.app^$important
 ||*.delp-heizungsbau.de^$important
 ||*.derekludlow.com^$important
@@ -339,10 +341,13 @@
 ||*.drift2logicnet.tundraflowunit.garden^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dulcet-dango-e8b01d.netlify.app^$important
+||*.dust4hostunit.canyonsyncgate.garden^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.easybank-nine.vercel.app^$important
 ||*.easybrand.vn^$important
+||*.echomeshsite.canyonsyncgate.garden^$important
+||*.edgehostunit.vertexurbanhub.garden^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
@@ -403,6 +408,7 @@
 ||*.hard5logicbox.basaltlogicnode.garden^$important
 ||*.haris7868.github.io^$important
 ||*.hasalltalent.com^$important
+||*.highmeshway.vertexurbanhub.garden^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
@@ -442,7 +448,6 @@
 ||*.iwx.ltz.mybluehost.me^$important
 ||*.izocab.com^$important
 ||*.izogard.com^$important
-||*.jawaratekno.com^$important
 ||*.jetbahis-giris.vip^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
@@ -472,6 +477,7 @@
 ||*.libss.0x504.com^$important
 ||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
+||*.line5taskhub.vertexurbanhub.garden^$important
 ||*.links.votrentreprise.com^$important
 ||*.linn-eska.de^$important
 ||*.loadpetitstar.zexislinkhub.garden^$important
@@ -555,9 +561,11 @@
 ||*.pathnoirbaum1.zexislinkhub.garden^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
+||*.peak8zoneview.canyonsyncgate.garden^$important
 ||*.petitwaldnet.dexisnetflow.garden^$important
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
+||*.plotwavegate.vertexurbanhub.garden^$important
 ||*.pns.org.pk^$important
 ||*.pobedastaff.ru^$important
 ||*.pointrougesoft.zexislinkhub.garden^$important
@@ -611,6 +619,8 @@
 ||*.saadjaved.dev^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.sabungkingbet189.com^$important
+||*.saltpathbase.oceanicmeshbit.garden^$important
+||*.sand6tasksys.canyonsyncgate.garden^$important
 ||*.sandhyaj2912.github.io^$important
 ||*.sateliteapple.support^$important
 ||*.save.jnrsmcu.com^$important
@@ -620,6 +630,7 @@
 ||*.sdvgpro.ru^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.separadordecc.com^$important
+||*.servicioslogisticosdyc.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
@@ -629,6 +640,7 @@
 ||*.shop.tkkuajinfui.icu^$important
 ||*.shopee.shenpmailcom.top^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.side9pathsite.vertexurbanhub.garden^$important
 ||*.signin.broker^$important
 ||*.signmeta_maskk2.godaddysites.com^$important
 ||*.signup6.agency-ad-hub.com^$important
@@ -660,10 +672,12 @@
 ||*.support.clz.kr^$important
 ||*.support258.agency-partner-manage.com^$important
 ||*.support290.media-agency-manage.com^$important
+||*.surf3logicgate.oceanicmeshbit.garden^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sysvert7holz.qivorpaknode.garden^$important
 ||*.talentrecruitments.com^$important
+||*.tall5logicnet.pylonstaticnet.garden^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.taskironland.zexislinkhub.garden^$important
@@ -681,8 +695,10 @@
 ||*.thtp2.volamngayxua.net^$important
 ||*.thwolhath16-wq.github.io^$important
 ||*.tiacreation.club^$important
+||*.tidemeshnode.oceanicmeshbit.garden^$important
 ||*.tiktokvart.github.io^$important
 ||*.toolshare.com.tr^$important
+||*.top2logicnet.vertexurbanhub.garden^$important
 ||*.top8onlinegame.com^$important
 ||*.tr.ee^$important
 ||*.tr.jetbahis-giris.vip^$important
@@ -719,10 +735,12 @@
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.vrajras.com^$important
+||*.wave4zoneyview.oceanicmeshbit.garden^$important
 ||*.web-git-10-01-tempswapfinalbugbash-uniswap.vercel.app^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
+||*.windpathgate.canyonsyncgate.garden^$important
 ||*.wittenhorst.eu^$important
 ||*.wvw-roblox.co^$important
 ||*.www.38apicenter.us^$important
