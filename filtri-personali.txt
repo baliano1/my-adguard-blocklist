@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-04-29 08:11:42
+! Ultimo aggiornamento automatico: 2026-04-29 10:53:23
 ||*.0022a601.pphost.net^$important
 ||*.09-appinstall.top^$important
 ||*.111101111.ru^$important
@@ -170,6 +170,7 @@
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
+||*.1aun0-zone.verd1ya.garden^$important
 ||*.1oade4-zone.sunmeadow.garden^$important
 ||*.217.60.241.36.ptr.pfcloud.network^$important
 ||*.37dmj.leafspring.garden^$important
@@ -264,6 +265,7 @@
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.bright3nodeview.cryptovoxelsync.garden^$important
+||*.bright3nodeview.kinetichostbit.garden^$important
 ||*.brightworks.cz^$important
 ||*.broad7-grid.shadowpeak.garden^$important
 ||*.brookcano.sunmeadow.garden^$important
@@ -343,6 +345,7 @@
 ||*.deathmatchuk.com^$important
 ||*.deep7siteview.oceanicmeshbit.garden^$important
 ||*.deepcloud9base.cryptovoxelsync.garden^$important
+||*.deepcloud9base.kinetichostbit.garden^$important
 ||*.deepsurve.leafspring.garden^$important
 ||*.delp-heizungsbau.de^$important
 ||*.deltahostgate.pixelstormbase.garden^$important
@@ -482,6 +485,7 @@
 ||*.gtps4change.org^$important
 ||*.guinnipraffaela36904-dinimos352470-manine30624.pages.dev^$important
 ||*.gutando.com^$important
+||*.halfmillion-iq.com^$important
 ||*.handlerfalc.voidstream.garden^$important
 ||*.happytugsbakery.com^$important
 ||*.hard5logicbox.basaltlogicnode.garden^$important
@@ -507,6 +511,7 @@
 ||*.hxiueawy.eu.cc^$important
 ||*.i.404.pm^$important
 ||*.iclouddispositivo.us^$important
+||*.iclu.peta1un.garden^$important
 ||*.icoffeecloud.com^$important
 ||*.idzformn.pololuxs.biz.id^$important
 ||*.ie78lu.greenbloom.garden^$important
@@ -597,7 +602,10 @@
 ||*.lon-01.dlo4d.com^$important
 ||*.londonairportstransfer.co.uk^$important
 ||*.lonesis-345534-ghibanto-lipoka.pages.dev^$important
+||*.loose-mesh.grove5s.garden^$important
 ||*.ltri15591-arch.github.io^$important
+||*.lum-forgeal.peta1un.garden^$important
+||*.lumfluxor.verd1ya.garden^$important
 ||*.lunar2waveunit.alphafluxnode.garden^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -700,6 +708,7 @@
 ||*.pcupd.com^$important
 ||*.peak8zoneview.canyonsyncgate.garden^$important
 ||*.petitwaldnet.dexisnetflow.garden^$important
+||*.photonstage.verd1ya.garden^$important
 ||*.pid.fly160.com^$important
 ||*.pitchzoneyview.astrolinkview.garden^$important
 ||*.pitchzoneyview.sonicwavehost.garden^$important
@@ -728,6 +737,7 @@
 ||*.protherapycenter.com^$important
 ||*.proto-hyp3r.mossgrove.garden^$important
 ||*.proxyfastzone.cryptovoxelsync.garden^$important
+||*.proxyfastzone.kinetichostbit.garden^$important
 ||*.pub-11e6504d5d9a40ff97bcd3d5ee476ec8.r2.dev^$important
 ||*.pub-5f9157fad7fd426bad68e1875cc4842e.r2.dev^$important
 ||*.pub-699e84f217f5423c837b00ebdb05ca69.r2.dev^$important
@@ -746,6 +756,7 @@
 ||*.quant9wavegate.quantumpathnet.garden^$important
 ||*.quarry.789greeting.com^$important
 ||*.quor-draet.leafspring.garden^$important
+||*.r1dge2-stream.grove5s.garden^$important
 ||*.radiant7path.orbitmeshunit.garden^$important
 ||*.rafayrehman786.github.io^$important
 ||*.rapid8wavenet.pixelstormbase.garden^$important
@@ -764,6 +775,7 @@
 ||*.riderspin.com^$important
 ||*.ridistrict.comwww.xdzuot6a.ridistrict.com^$important
 ||*.ritee.in^$important
+||*.rivspectr.peta1un.garden^$important
 ||*.rlkz.stoneflare.garden^$important
 ||*.robertrowe.com^$important
 ||*.roblox.com.kz^$important
@@ -795,12 +807,14 @@
 ||*.sec.xiaoshabi.nl^$important
 ||*.senju.lol^$important
 ||*.separadordecc.com^$important
+||*.ser-venet.grove5s.garden^$important
 ||*.serlineis.frosthaven.garden^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shahrukh00abdulrauf-ux.github.io^$important
 ||*.shieldpurelink.cryptovoxelsync.garden^$important
+||*.shieldpurelink.kinetichostbit.garden^$important
 ||*.shinenetview.quartzprismcloud.garden^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopee7878.blogspot.com^$important
@@ -808,10 +822,12 @@
 ||*.side9pathsite.vertexurbanhub.garden^$important
 ||*.sifthostunit.silicapathsys.garden^$important
 ||*.signalwestport.cryptovoxelsync.garden^$important
+||*.signalwestport.kinetichostbit.garden^$important
 ||*.silicon7point.silicongateway.garden^$important
 ||*.silverhost.vg^$important
 ||*.sk-comtel.com^$important
 ||*.slon--2.cc^$important
+||*.slowprim.verd1ya.garden^$important
 ||*.smartermail.host^$important
 ||*.smartmesh1sys.orbitmeshunit.garden^$important
 ||*.smoothmeshway.marblewavebase.garden^$important
@@ -822,6 +838,7 @@
 ||*.solarpointnet.alphafluxnode.garden^$important
 ||*.solforgeal3.lightforge.garden^$important
 ||*.solidpathlink.basaltlogicnode.garden^$important
+||*.soltide9is.grove5s.garden^$important
 ||*.sonic4wavehub.astrolinkview.garden^$important
 ||*.sonic4wavehub.sonicwavehost.garden^$important
 ||*.spacemanslot88.games^$important
@@ -863,6 +880,7 @@
 ||*.sysvert7holz.mivorpulsegate.garden^$important
 ||*.sysvert7holz.qivorpaknode.garden^$important
 ||*.tal-crestis.greenbloom.garden^$important
+||*.taldraa.verd1ya.garden^$important
 ||*.talentrecruitments.com^$important
 ||*.tall5logicnet.pylonstaticnet.garden^$important
 ||*.tanishr28.github.io^$important
@@ -899,6 +917,7 @@
 ||*.tpxovsr.lightforge.garden^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trendscan8meta.cryptovoxelsync.garden^$important
+||*.trendscan8meta.kinetichostbit.garden^$important
 ||*.triggeveri.voidstream.garden^$important
 ||*.trtmyanmar.com^$important
 ||*.tyret-1-ya.028426.com^$important
@@ -925,6 +944,7 @@
 ||*.valfanto.com^$important
 ||*.vastlogicweb.orbitmeshunit.garden^$important
 ||*.vcc-library.uk^$important
+||*.vdlk32.peta1un.garden^$important
 ||*.vector3sitehub.cobaltpathsys.garden^$important
 ||*.vector3sitehub.vectorpointsite.garden^$important
 ||*.velvetlayout.rosevale.garden^$important
@@ -943,6 +963,7 @@
 ||*.vividmeshflow.zenithflowgrid.garden^$important
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
+||*.vkl2j.grove5s.garden^$important
 ||*.vladiuse.github.io^$important
 ||*.vormarkor.frosthaven.garden^$important
 ||*.vrmirror.pages.dev^$important
@@ -1053,10 +1074,12 @@
 ||*.xuezha.net^$important
 ||*.yashgrover27.github.io^$important
 ||*.youtransfer.net^$important
+||*.yqql69g.grove5s.garden^$important
 ||*.yxhe.voidstream.garden^$important
 ||*.zain04mirza-afk.github.io^$important
 ||*.zamilgroups.com^$important
 ||*.zanu24-1lopem.pages.dev^$important
+||*.zenforgeos3.peta1un.garden^$important
 ||*.zhigao5191.com^$important
 ||*.zincflowbase.silicongateway.garden^$important
 ||*.zincflowbase.zenithdockunit.garden^$important
