@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-02 18:55:21
+! Ultimo aggiornamento automatico: 2026-05-02 21:37:37
 ||*.0gf8.breadpotho1e.surf^$important
 ||*.0rgan3-port.gabard-viewed.surf^$important
 ||*.10gic-mark.retellin8tolle.bet^$important
@@ -184,7 +184,6 @@
 ||*.7309h.puro2tal.surf^$important
 ||*.781q.convinc8mission.bet^$important
 ||*.789greeting.com^$important
-||*.82db.notice-ohlamon.surf^$important
 ||*.8ugxvfg.decommiss-mint.bet^$important
 ||*.9000-firebase-workz-1772003296885.cluster-cbeiita7rbe7iuwhvjs5zww2i4.cloudworkstations.dev^$important
 ||*.9hfs-mwm5-mg0h.countryviewss-communitycaremidwest-com-s-account.workers.dev^$important
@@ -224,6 +223,7 @@
 ||*.ancwr.top^$important
 ||*.animaxstudio09.github.io^$important
 ||*.ansa1104.github.io^$important
+||*.apex.urbanflowbase.lat^$important
 ||*.api-secured.tari8lax.surf^$important
 ||*.api-v12.foersteron.work^$important
 ||*.api.baimless.com^$important
@@ -253,6 +253,7 @@
 ||*.auth.smartlogicgate.lat^$important
 ||*.autobaenasl.com^$important
 ||*.avbackup.acionline.de^$important
+||*.axis.silvermoonlight.lat^$important
 ||*.axis4logicnet.torquegridunit.bet^$important
 ||*.aysha-7.github.io^$important
 ||*.azambeigh.github.io^$important
@@ -281,12 +282,14 @@
 ||*.bitsmeshnode.sara5byte.surf^$important
 ||*.bjddfihfiwf.iceiy.com^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blobir.vori7nex.surf^$important
 ||*.blockchain-logiine.webflow.io^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
+||*.bolt.silvermoonlight.lat^$important
 ||*.bolt9taskhub.torquegridunit.bet^$important
 ||*.bombayonline.in^$important
 ||*.bond4pathgate.deno2link.surf^$important
@@ -305,6 +308,7 @@
 ||*.burnmeshnode.chaevodh0t.bet^$important
 ||*.bvaco.com^$important
 ||*.bvqqeahv3ctpms4e.mycorporate-rewards.com^$important
+||*.byte.powertechlink.lat^$important
 ||*.byte1logicnet.pilo1byte.surf^$important
 ||*.byte4pathgate.sora5link.surf^$important
 ||*.byte5logicnet.sara5byte.surf^$important
@@ -472,6 +476,7 @@
 ||*.easybrand.vn^$important
 ||*.ebay-c.com^$important
 ||*.ecards.pictures^$important
+||*.echo.urbanflowbase.lat^$important
 ||*.edge-v6.rolfgrassinger.work^$important
 ||*.edoctransfer.mx^$important
 ||*.electri.billregulator.com^$important
@@ -527,6 +532,7 @@
 ||*.flowhostunit.expresser-pray.bet^$important
 ||*.flowhostunit.felo7wave.surf^$important
 ||*.flowmeshnode.kineticgatehub.bet^$important
+||*.flux.silvermoonlight.lat^$important
 ||*.flyingmutts.com^$important
 ||*.foci5taskhub.mero2beam.surf^$important
 ||*.form7-beam.herod-terminology.bet^$important
@@ -545,6 +551,7 @@
 ||*.galerisenimutiara.com^$important
 ||*.gate.clearviewcloud.lat^$important
 ||*.gate.physiolpo1icy.lat^$important
+||*.gate.urbanflowbase.lat^$important
 ||*.gate5pathgate.mori9port.surf^$important
 ||*.gearhostunit.torquegridunit.bet^$important
 ||*.gebyarshopee-78.blogspot.com^$important
@@ -565,6 +572,7 @@
 ||*.google-services.cc^$important
 ||*.grecokitchens.com^$important
 ||*.greenf.alexion.rs^$important
+||*.grid.powertechlink.lat^$important
 ||*.grid5pathgate.felo7zone.surf^$important
 ||*.grid6pathgate.tensorlogicbox.bet^$important
 ||*.grid8logicway.tavi8grid.surf^$important
@@ -601,6 +609,7 @@
 ||*.hold8taskhub.piva1save.surf^$important
 ||*.homecaremovers.com^$important
 ||*.hopmeshnode.dusherport2ge.bet^$important
+||*.host.urbanflowbase.lat^$important
 ||*.hostunitgate.lookin8back.bet^$important
 ||*.hostunitgate.neto7cloud.surf^$important
 ||*.hot9taskhub.grov6mira.bet^$important
@@ -641,6 +650,8 @@
 ||*.izogard.com^$important
 ||*.jack4pathgate.so8laven.bet^$important
 ||*.jaiswalsnehil.github.io^$important
+||*.jawaratekno.com^$important
+||*.jazz.oceanwavepoint.lat^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
 ||*.joinmeshsite.deno2link.surf^$important
@@ -686,6 +697,7 @@
 ||*.libss.0x504.com^$important
 ||*.lightmeshsite.mero2beam.surf^$important
 ||*.lightning.verifytoken.com^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linehostunit.peta1vrix.bet^$important
 ||*.linemeshnode.vectorpathsys.bet^$important
@@ -762,6 +774,7 @@
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
 ||*.mock7taskhub.kutsy-proquac.bet^$important
+||*.mode.urbanflowbase.lat^$important
 ||*.mogimall.com^$important
 ||*.mosselnet.co.za^$important
 ||*.motifroy.gabard-viewed.surf^$important
@@ -782,6 +795,7 @@
 ||*.name--sso-u-phold--cdnn-t.typedream.app^$important
 ||*.ncxps.com^$important
 ||*.nelees.com^$important
+||*.neon.powertechlink.lat^$important
 ||*.net-flix-rust.vercel.app^$important
 ||*.netcoinlogin-shop.webflow.io^$important
 ||*.netflix-clone-alpha-sand.vercel.app^$important
@@ -801,13 +815,14 @@
 ||*.nodu1718.odns.fr^$important
 ||*.noithaticon.vn^$important
 ||*.nonehostunit.eleuther-stupidity.bet^$important
-||*.norcrest6ex.family-man.surf^$important
 ||*.notify-nts.info^$important
 ||*.notifyhubss.net^$important
+||*.nova.powertechlink.lat^$important
 ||*.null1taskhub.eleuther-stupidity.bet^$important
 ||*.null8siteview.mori9port.surf^$important
 ||*.null9siteview.dismemb7harlot.bet^$important
 ||*.null9siteview.sora5link.surf^$important
+||*.nx88.silvermoonlight.lat^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.o8x1lij5.archive-shlyah.digital^$important
@@ -991,6 +1006,7 @@
 ||*.site9siteview.deno2link.surf^$important
 ||*.site9siteview.matrixhostbit.bet^$important
 ||*.sk-comtel.com^$important
+||*.skip.urbanflowbase.lat^$important
 ||*.sky.brightsunray.lat^$important
 ||*.sky4meshnode.neto7cloud.surf^$important
 ||*.slot7logicnet.peta1vrix.bet^$important
@@ -1042,12 +1058,14 @@
 ||*.sumitawatade1718.github.io^$important
 ||*.sun.brightsunray.lat^$important
 ||*.support.clz.kr^$important
+||*.surf.oceanwavepoint.lat^$important
 ||*.surf2taskhub.felo7wave.surf^$important
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swopewoodspecialties.com^$important
 ||*.sync.fastworknode.lat^$important
+||*.sync.powertechlink.lat^$important
 ||*.sync4logicway.vaxi4sync.surf^$important
 ||*.sync5logicnet.sora5link.surf^$important
 ||*.sys.028426.com^$important
@@ -1069,6 +1087,7 @@
 ||*.temp-f8.herbertrutt.work^$important
 ||*.temp.greenforestsky.lat^$important
 ||*.temp4pathgate.kutsy-proquac.bet^$important
+||*.tengfeidn.cn^$important
 ||*.term4logicway.centenary-kurgan.bet^$important
 ||*.term5siteview.years-quackery.bet^$important
 ||*.test.peperoncinochepassione.it^$important
@@ -1091,7 +1110,6 @@
 ||*.timemeshsite.years-quackery.bet^$important
 ||*.tint7logicnet.colorfu1prep.bet^$important
 ||*.toj4.dark-salittle.bet^$important
-||*.tokentrav.saget-sly.surf^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.top9pathgate.nexo7peak.surf^$important
@@ -1236,6 +1254,7 @@
 ||*.www.login-ledgger-load-io-gateway.vercel.app^$important
 ||*.www.longfeng188.com^$important
 ||*.www.medises.co.kr^$important
+||*.www.mevetlab.cl^$important
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
@@ -1295,8 +1314,10 @@
 ||*.zamilgroups.com^$important
 ||*.zencrest8al.lami4qor.surf^$important
 ||*.zenglobalenerji.com^$important
+||*.zeno.silvermoonlight.lat^$important
 ||*.zenvaleet.herod-terminology.bet^$important
 ||*.zero7pathgate.eleuther-stupidity.bet^$important
+||*.zeta.powertechlink.lat^$important
 ||*.zhigao5191.com^$important
 ||*.zone5pathgate.tavi8grid.surf^$important
 ||*.zone7logicnet.felo7zone.surf^$important
