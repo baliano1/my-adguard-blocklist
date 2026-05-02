@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-02 07:28:29
+! Ultimo aggiornamento automatico: 2026-05-02 09:56:48
 ||*.0926alsl7-ctrl.github.io^$important
 ||*.0nlinebqnking-hunt1ngton.otzo.com^$important
 ||*.10gic-mark.retellin8tolle.bet^$important
@@ -194,6 +194,7 @@
 ||*.access.skaparade.com^$important
 ||*.acehostunit.so8laven.bet^$important
 ||*.acms.saleseos.com^$important
+||*.admin.archiv-checkered.surf^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.adobe-5zj.nova-tooleyoil-com-s-account.workers.dev^$important
@@ -237,6 +238,7 @@
 ||*.areahostunit.tensorlogicbox.bet^$important
 ||*.areameshnode.felo7zone.surf^$important
 ||*.areyouready.co.za^$important
+||*.ark-fluxis.faint-gather.surf^$important
 ||*.arnav418.github.io^$important
 ||*.ashvec.puro2tal.surf^$important
 ||*.asl-company.ru^$important
@@ -302,6 +304,7 @@
 ||*.bond4pathgate.deno2link.surf^$important
 ||*.book.rollingvideogames.com^$important
 ||*.bracell.latitude.net.br^$important
+||*.brave.archiv-checkered.surf^$important
 ||*.bridge-trazor-en-io-es.pages.dev^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -355,6 +358,7 @@
 ||*.contentmentfairnesspesky.com^$important
 ||*.continentalgroup.net.in^$important
 ||*.controliumbt.com^$important
+||*.conv-line.faint-gather.surf^$important
 ||*.coralasargetia.ro^$important
 ||*.core-logic.herbertrutt.work^$important
 ||*.core.anythin8weaned.surf^$important
@@ -382,6 +386,7 @@
 ||*.damiancollier.com^$important
 ||*.danaaa-indoneesiaaa.t3rb4ru2026.my.id^$important
 ||*.darkdelivery.convinc8mission.bet^$important
+||*.dash.installer-catip.surf^$important
 ||*.dash2taskhub.expresser-pray.bet^$important
 ||*.dash3taskhub.colorist-resignat.bet^$important
 ||*.dash7taskhub.kineticgatehub.bet^$important
@@ -456,6 +461,7 @@
 ||*.edge-v6.rolfgrassinger.work^$important
 ||*.edge.anythin8weaned.surf^$important
 ||*.edu4life.github.io^$important
+||*.eggsalt.clogg-opposition.surf^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.eloji-dominic.github.io^$important
@@ -526,10 +532,12 @@
 ||*.g3ne-cast.puro2tal.surf^$important
 ||*.gadomamada.com^$important
 ||*.galerisenimutiara.com^$important
+||*.game.longwave5hot.surf^$important
 ||*.gate.clearviewcloud.lat^$important
 ||*.gate.physiolpo1icy.lat^$important
 ||*.gate5pathgate.mori9port.surf^$important
 ||*.geamini-log-us.godaddysites.com^$important
+||*.gear.installer-catip.surf^$important
 ||*.gearhostunit.torquegridunit.bet^$important
 ||*.geminelogix.godaddysites.com^$important
 ||*.geo-foundation.vg^$important
@@ -658,6 +666,7 @@
 ||*.kelvenet8.dark-salittle.bet^$important
 ||*.key6taskhub.cryptosyncflow.bet^$important
 ||*.khoancatbetong89.vn^$important
+||*.kick.installer-catip.surf^$important
 ||*.kimyen.net^$important
 ||*.king6taskhub.so8laven.bet^$important
 ||*.kiocxonlogin.gitbook.io^$important
@@ -688,6 +697,7 @@
 ||*.leafhostunit.goddess-tapir.bet^$important
 ||*.leap7pathgate.quantumbitlink.bet^$important
 ||*.lenshostunit.mero2beam.surf^$important
+||*.leo.longwave5hot.surf^$important
 ||*.libss.0x504.com^$important
 ||*.lightmeshsite.mero2beam.surf^$important
 ||*.lindenappliances.co.za^$important
@@ -884,6 +894,7 @@
 ||*.r0bl0x.vercel.app^$important
 ||*.ramirex.ro^$important
 ||*.rapidassay.producer5chming.bet^$important
+||*.rar.sculpture5traight.surf^$important
 ||*.rate5pathgate.flo3xaren.bet^$important
 ||*.ray.brightsunray.lat^$important
 ||*.ray2logicway.mero2beam.surf^$important
@@ -902,12 +913,14 @@
 ||*.rep4-node.furrow-praise.bet^$important
 ||*.repa1r-track.producer5chming.bet^$important
 ||*.repocra.decommiss-mint.bet^$important
+||*.resolvergrani.faint-gather.surf^$important
 ||*.rest3taskhub.kali9drift.surf^$important
 ||*.restmeshnode.inertianetway.bet^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.rich4taskhub.colorfu1prep.bet^$important
 ||*.richmeshsite.verd7loka.bet^$important
+||*.risk.sculpture5traight.surf^$important
 ||*.ritee.in^$important
 ||*.rn3asur-spool.coraprimat0sis.bet^$important
 ||*.robertrowe.com^$important
@@ -992,6 +1005,7 @@
 ||*.slowmeshnode.kali9drift.surf^$important
 ||*.slxhibx.herod-terminology.bet^$important
 ||*.smartermail.host^$important
+||*.snap.installer-catip.surf^$important
 ||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.softpayload.retellin8tolle.bet^$important
@@ -1143,6 +1157,7 @@
 ||*.vivek1199.github.io^$important
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
+||*.vlkr.faint-gather.surf^$important
 ||*.vlog.clearviewcloud.lat^$important
 ||*.vlog.physiolpo1icy.lat^$important
 ||*.vnario.github.io^$important
@@ -1156,6 +1171,7 @@
 ||*.waithostunit.kren3sync.surf^$important
 ||*.wammapoke-voifruwop-f2d180.pages.dev^$important
 ||*.wardes.vori7nex.surf^$important
+||*.wascold.clogg-opposition.surf^$important
 ||*.wash8siteview.felo7wave.surf^$important
 ||*.watc-forma.sena9vix.surf^$important
 ||*.waterpumpske.blogspot.com^$important
@@ -1261,6 +1277,7 @@
 ||*.www.starcountry.net^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
+||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.tyc3959.com^$important
 ||*.www.udobrit.ru^$important
@@ -1294,6 +1311,7 @@
 ||*.zhigao5191.com^$important
 ||*.zone5pathgate.tavi8grid.surf^$important
 ||*.zone7logicnet.felo7zone.surf^$important
+||*.zoom.installer-catip.surf^$important
 ||*.zsc.com.pk^$important
 ||*.zycdjz.com^$important
 ||*.zzpy.dark-salittle.bet^$important
