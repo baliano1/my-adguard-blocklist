@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-03 02:38:10
+! Ultimo aggiornamento automatico: 2026-05-03 05:56:09
 ||*.04aht.faint-gather.surf^$important
 ||*.084793.com^$important
 ||*.0gf8.breadpotho1e.surf^$important
@@ -252,9 +252,9 @@
 ||*.ashvec.puro2tal.surf^$important
 ||*.asiaengrs.com^$important
 ||*.asistenciam4il2026.github.io^$important
-||*.asl-company.ru^$important
 ||*.atasapka.com.tr^$important
 ||*.atlas.monop-oriental.surf^$important
+||*.atlas.urbanlogicgrid.lat^$important
 ||*.atom.magicgoldlogic.lat^$important
 ||*.audicontadores.com^$important
 ||*.augsburg-auto.com^$important
@@ -280,12 +280,12 @@
 ||*.beam8pathgate.mero2beam.surf^$important
 ||*.beoauto.alexion.rs^$important
 ||*.beta.casino-fascin.surf^$important
+||*.beta.rapidfirepixel.lat^$important
 ||*.bitsmeshnode.sara5byte.surf^$important
 ||*.blessdayservices.org^$important
 ||*.blobir.vori7nex.surf^$important
 ||*.blog12452315.blogspot.com^$important
 ||*.blogs.sokun.jp^$important
-||*.blue.brightskyway.lat^$important
 ||*.blue.clogg-opposition.surf^$important
 ||*.bmdcompany.com^$important
 ||*.bnbtigercom.vercel.app^$important
@@ -312,6 +312,7 @@
 ||*.bvaco.com^$important
 ||*.byte.archiv-checkered.surf^$important
 ||*.byte.powertechlink.lat^$important
+||*.byte.urbanlogicgrid.lat^$important
 ||*.byte1logicnet.pilo1byte.surf^$important
 ||*.byte4pathgate.sora5link.surf^$important
 ||*.byte5logicnet.sara5byte.surf^$important
@@ -379,6 +380,7 @@
 ||*.customer-support-system-contact-support-unit.pages.dev^$important
 ||*.customer-support-system-customer-aid-center.pages.dev^$important
 ||*.cyber.monop-oriental.surf^$important
+||*.cyber.rapidfirepixel.lat^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
@@ -408,6 +410,7 @@
 ||*.deepika190207.github.io^$important
 ||*.delp-heizungsbau.de^$important
 ||*.delta.longwave5hot.surf^$important
+||*.delta.silverwoodhub.lat^$important
 ||*.demo.admin.ataloa.com^$important
 ||*.derekludlow.com^$important
 ||*.desi3-route.fina1vrub.surf^$important
@@ -472,6 +475,7 @@
 ||*.echo.urbanflowbase.lat^$important
 ||*.edge-v6.rolfgrassinger.work^$important
 ||*.edge.anythin8weaned.surf^$important
+||*.edge.oceanstormview.lat^$important
 ||*.eggsalt.clogg-opposition.surf^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
@@ -492,6 +496,7 @@
 ||*.f.digitalmaillane.com^$important
 ||*.f1310.saget-sly.surf^$important
 ||*.f245p.xyz^$important
+||*.facanha.com.br^$important
 ||*.fade2pathgate.colorfu1prep.bet^$important
 ||*.fakers.co.jp^$important
 ||*.falzahrani-hup.github.io^$important
@@ -525,10 +530,10 @@
 ||*.flowhostunit.colorist-resignat.bet^$important
 ||*.flowhostunit.felo7wave.surf^$important
 ||*.flux.mintur8ency.surf^$important
+||*.flux.rapidfirepixel.lat^$important
 ||*.flux.silvermoonlight.lat^$important
 ||*.flyingmutts.com^$important
 ||*.foci5taskhub.mero2beam.surf^$important
-||*.frost.darkwinterlab.lat^$important
 ||*.frozi.cc^$important
 ||*.ftp.ywxww.net^$important
 ||*.ftsif.handker-unicamer.surf^$important
@@ -556,7 +561,6 @@
 ||*.glosuppl.family-man.surf^$important
 ||*.glow8siteview.colorfu1prep.bet^$important
 ||*.glow8taskhub.voda4flux.surf^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.gold.clogg-opposition.surf^$important
 ||*.gold.puregoldkey.lat^$important
 ||*.google-services.cc^$important
@@ -587,9 +591,9 @@
 ||*.healthiestbd.com^$important
 ||*.heat5logicnet.chaevodh0t.bet^$important
 ||*.heat5pathgate.voda4flux.surf^$important
+||*.help.postsupport.net^$important
 ||*.helpz-blckfip.webflow.io^$important
 ||*.herb-store.herbertrutt.work^$important
-||*.high.brightskyway.lat^$important
 ||*.high7logicnet.nexo7peak.surf^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
@@ -618,6 +622,7 @@
 ||*.index-fte.christina-parsons-charter-comm-com-s-account.workers.dev^$important
 ||*.infonodeunit.tula8data.surf^$important
 ||*.infra.monop-oriental.surf^$important
+||*.infra.rapidfirepixel.lat^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
 ||*.instalaciones-de-comunicacion.mx^$important
@@ -627,7 +632,6 @@
 ||*.ipfs.io^$important
 ||*.ircftp.net^$important
 ||*.iron.sculpture5traight.surf^$important
-||*.iron.solidstonecore.lat^$important
 ||*.isiore.com.co^$important
 ||*.isometricsindia.co.in^$important
 ||*.itpageshubinn.com^$important
@@ -759,6 +763,7 @@
 ||*.meta-agency.invoice-ads-agency.com^$important
 ||*.meta-debit.invoice-ads-program.com^$important
 ||*.meta.monop-oriental.surf^$important
+||*.meta.oceanstormview.lat^$important
 ||*.metamask-work.com^$important
 ||*.metamaskwalletcustomerservice.blogspot.com^$important
 ||*.metumskusa-logiiin.github.io^$important
@@ -814,6 +819,7 @@
 ||*.next5pathgate.vaxi4sync.surf^$important
 ||*.nobl-desi.puro2tal.surf^$important
 ||*.node.fastworknode.lat^$important
+||*.node.rapidfirepixel.lat^$important
 ||*.noithaticon.vn^$important
 ||*.nomankhan5667.github.io^$important
 ||*.norcrest6ex.family-man.surf^$important
@@ -842,6 +848,7 @@
 ||*.opensea-nftbox02-psi.vercel.app^$important
 ||*.optionsface.028426.com^$important
 ||*.orbit.casino-fascin.surf^$important
+||*.orbit.urbanlogicgrid.lat^$important
 ||*.orub3g.chi8nondanyl.surf^$important
 ||*.owlcity.ru^$important
 ||*.oxfordmobilexray.com^$important
@@ -882,6 +889,7 @@
 ||*.pr4iri-point.inconprofitab1e.surf^$important
 ||*.preetamp6000.github.io^$important
 ||*.prime.longwave5hot.surf^$important
+||*.prime.rapidfirepixel.lat^$important
 ||*.proto-l4tti.nexo5mir.surf^$important
 ||*.prox.fastworknode.lat^$important
 ||*.proxy-gate.foersteron.work^$important
@@ -890,6 +898,7 @@
 ||*.public.gensparkspace.com^$important
 ||*.pulkit161001.github.io^$important
 ||*.pulse.fiverfle8ma.surf^$important
+||*.pulse.silverwoodhub.lat^$important
 ||*.pulse.starlightnova.lat^$important
 ||*.pure.magicgoldlogic.lat^$important
 ||*.pure.puregoldkey.lat^$important
@@ -944,7 +953,6 @@
 ||*.roblox.com.kz^$important
 ||*.robloxr.cv^$important
 ||*.rock.sculpture5traight.surf^$important
-||*.rock.solidstonecore.lat^$important
 ||*.rolf-admin.rolfgrassinger.work^$important
 ||*.root-hub.foersteron.work^$important
 ||*.root.greenforesthub.lat^$important
@@ -967,7 +975,6 @@
 ||*.sakshatbansal007.github.io^$important
 ||*.salt.oceanwavepoint.lat^$important
 ||*.sand.sculpture5traight.surf^$important
-||*.satuatlas.com^$important
 ||*.save.jnrsmcu.com^$important
 ||*.save1logicnet.piva1save.surf^$important
 ||*.save4pathgate.sara5byte.surf^$important
@@ -994,7 +1001,6 @@
 ||*.silverhost.vg^$important
 ||*.sistema.028426.com^$important
 ||*.site-view3.sarahkapsreit.work^$important
-||*.site.darkwinterlab.lat^$important
 ||*.site.greenforestsky.lat^$important
 ||*.site7siteview.tavi8grid.surf^$important
 ||*.site8siteview.colorist-resignat.bet^$important
@@ -1012,6 +1018,7 @@
 ||*.solar-sanat.net^$important
 ||*.solvaleis.lami4qor.surf^$important
 ||*.sonic.longwave5hot.surf^$important
+||*.sonic.urbanlogicgrid.lat^$important
 ||*.sony.freightinternationalservices.com^$important
 ||*.soupack.handker-unicamer.surf^$important
 ||*.souvikgit123.github.io^$important
@@ -1080,6 +1087,7 @@
 ||*.test.login.usfreespeech.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tetra.mintur8ency.surf^$important
+||*.tetra.oceanstormview.lat^$important
 ||*.tgdrbxm.nexo5mir.surf^$important
 ||*.thakurdeepali430-hue.github.io^$important
 ||*.thanisha3011.github.io^$important
@@ -1109,6 +1117,7 @@
 ||*.totalvalidationemail.weebly.com^$important
 ||*.tqdgt.inconprofitab1e.surf^$important
 ||*.trace.archiv-checkered.surf^$important
+||*.trace.silverwoodhub.lat^$important
 ||*.transit-sur.nexo5mir.surf^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.travel-refund.com^$important
@@ -1125,6 +1134,7 @@
 ||*.ukguk71.ru^$important
 ||*.ultra.credits-center.com^$important
 ||*.ultra.monop-oriental.surf^$important
+||*.ultra.silverwoodhub.lat^$important
 ||*.ultrafal.notice-ohlamon.surf^$important
 ||*.uniform-factory.ae^$important
 ||*.up-blockfi.webflow.io^$important
@@ -1198,7 +1208,6 @@
 ||*.wildlan.breadpotho1e.surf^$important
 ||*.wind.coldwindy.lat^$important
 ||*.windomstatetheater.com^$important
-||*.wing.brightskyway.lat^$important
 ||*.wint7-zone.tari8lax.surf^$important
 ||*.wittenhorst.eu^$important
 ||*.wood.greenforesthub.lat^$important
