@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-03 08:00:56
+! Ultimo aggiornamento automatico: 2026-05-03 10:01:49
 ||*.04aht.faint-gather.surf^$important
 ||*.084793.com^$important
 ||*.0gf8.breadpotho1e.surf^$important
@@ -225,6 +225,7 @@
 ||*.amazonwebservices.security-unauthorised-request.com^$important
 ||*.ankit-2404.github.io^$important
 ||*.apex.urbanflowbase.lat^$important
+||*.apex.wintercoldlab.lat^$important
 ||*.api-secured.tari8lax.surf^$important
 ||*.api-v12.foersteron.work^$important
 ||*.api.baimless.com^$important
@@ -270,6 +271,7 @@
 ||*.bal-f7.bnaumann87.work^$important
 ||*.bala6-forge.notice-ohlamon.surf^$important
 ||*.base.anythin8weaned.surf^$important
+||*.base.wintercoldlab.lat^$important
 ||*.basehostunit.kali9drift.surf^$important
 ||*.basemeshsite.tula8data.surf^$important
 ||*.bbos.minet.vn^$important
@@ -283,10 +285,12 @@
 ||*.blog12452315.blogspot.com^$important
 ||*.blogs.sokun.jp^$important
 ||*.blue.clogg-opposition.surf^$important
+||*.blue.magicflowpoint.lat^$important
 ||*.bmdcompany.com^$important
 ||*.bnbtigercom.vercel.app^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
+||*.bolt.brightskycore.lat^$important
 ||*.bolt.darkstonebase.lat^$important
 ||*.bolt.installer-catip.surf^$important
 ||*.bolt.silvermoonlight.lat^$important
@@ -470,6 +474,7 @@
 ||*.echo.urbanflowbase.lat^$important
 ||*.edge-v6.rolfgrassinger.work^$important
 ||*.edge.anythin8weaned.surf^$important
+||*.edge.wintercoldlab.lat^$important
 ||*.eggsalt.clogg-opposition.surf^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
@@ -498,6 +503,7 @@
 ||*.fast.boldfirestep.lat^$important
 ||*.fast.brightsunray.lat^$important
 ||*.fast.clogg-opposition.surf^$important
+||*.fast.magicflowpoint.lat^$important
 ||*.fast1siteview.vaxi4sync.surf^$important
 ||*.fast7siteview.chaevodh0t.bet^$important
 ||*.fast9siteview.kren3sync.surf^$important
@@ -542,8 +548,10 @@
 ||*.gate.clearviewcloud.lat^$important
 ||*.gate.physiolpo1icy.lat^$important
 ||*.gate.urbanflowbase.lat^$important
+||*.gate.wintercoldlab.lat^$important
 ||*.gate5pathgate.mori9port.surf^$important
 ||*.gauravkumar002.github.io^$important
+||*.gear.brightskycore.lat^$important
 ||*.gear.installer-catip.surf^$important
 ||*.geo-0ffer.chi8nondanyl.surf^$important
 ||*.geo-foundation.vg^$important
@@ -629,7 +637,6 @@
 ||*.izogard.com^$important
 ||*.jackson-jeffrey-wilson.github.io^$important
 ||*.jaminiilllogiin_jamini.godaddysites.com^$important
-||*.jawaratekno.com^$important
 ||*.jayantchaudhary1980.github.io^$important
 ||*.jazz.oceanwavepoint.lat^$important
 ||*.jeffrin-samuel.github.io^$important
@@ -655,6 +662,7 @@
 ||*.key.puregoldkey.lat^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kick.boldfirestep.lat^$important
+||*.kick.brightskycore.lat^$important
 ||*.kick.installer-catip.surf^$important
 ||*.kilo.casino-fascin.surf^$important
 ||*.kimyen.net^$important
@@ -755,7 +763,6 @@
 ||*.meta.monop-oriental.surf^$important
 ||*.metamask-work.com^$important
 ||*.metamaskwalletcustomerservice.blogspot.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.metumskusa-logiiin.github.io^$important
 ||*.mgtms.cc^$important
 ||*.mhjony420.github.io^$important
@@ -872,6 +879,7 @@
 ||*.point.archiv-checkered.surf^$important
 ||*.pointhostunit.nexo7peak.surf^$important
 ||*.polonyauniversiteleri.com.tr^$important
+||*.poon.solidstonecore.lat^$important
 ||*.port.coldwindy.lat^$important
 ||*.portmeshnode.sora5link.surf^$important
 ||*.postelnini.mk^$important
@@ -888,11 +896,13 @@
 ||*.pulkit161001.github.io^$important
 ||*.pulse.fiverfle8ma.surf^$important
 ||*.pulse.silverwoodhub.lat^$important
+||*.pure.magicflowpoint.lat^$important
 ||*.pure.magicgoldlogic.lat^$important
 ||*.pure.puregoldkey.lat^$important
 ||*.pure4siteview.mero2beam.surf^$important
 ||*.pure8siteview.neto7cloud.surf^$important
 ||*.pureneu.handker-unicamer.surf^$important
+||*.qanti.solidstonecore.lat^$important
 ||*.qiniuyunxz.yxflzs.com^$important
 ||*.quant.fiverfle8ma.surf^$important
 ||*.quej77v5.acce1eratpacify.digital^$important
@@ -989,6 +999,7 @@
 ||*.sistema.028426.com^$important
 ||*.site-view3.sarahkapsreit.work^$important
 ||*.site.greenforestsky.lat^$important
+||*.site.wintercoldlab.lat^$important
 ||*.site7siteview.tavi8grid.surf^$important
 ||*.site8siteview.colorist-resignat.bet^$important
 ||*.site8siteview.felo7zone.surf^$important
@@ -996,6 +1007,7 @@
 ||*.sk-comtel.com^$important
 ||*.skip.urbanflowbase.lat^$important
 ||*.sky.brightsunray.lat^$important
+||*.sky.magicflowpoint.lat^$important
 ||*.sky4meshnode.neto7cloud.surf^$important
 ||*.slowmeshnode.kali9drift.surf^$important
 ||*.smartermail.host^$important
@@ -1019,6 +1031,7 @@
 ||*.srv.physiolpo1icy.lat^$important
 ||*.staging.hrxfggig.professorflapjacks.com^$important
 ||*.star.darknightstar.lat^$important
+||*.star.magicflowpoint.lat^$important
 ||*.star4taskhub.nexo7peak.surf^$important
 ||*.starboyonkar.github.io^$important
 ||*.starthostunit.colorfu1prep.bet^$important
@@ -1127,6 +1140,7 @@
 ||*.upchemicals.co.in^$important
 ||*.upd-naum.bnaumann87.work^$important
 ||*.upd.greenforestsky.lat^$important
+||*.upd.wintercoldlab.lat^$important
 ||*.update.cg100iii.com^$important
 ||*.update.volam2005pk.com^$important
 ||*.updatextraconzteam.weebly.com^$important
@@ -1141,7 +1155,6 @@
 ||*.varaddandagavhal.github.io^$important
 ||*.vast2pathgate.neto7cloud.surf^$important
 ||*.vault.magicgoldlogic.lat^$important
-||*.vcc-library.uk^$important
 ||*.vector.archiv-checkered.surf^$important
 ||*.vedavikasd.github.io^$important
 ||*.vellithon1.fina1vrub.surf^$important
@@ -1155,6 +1168,7 @@
 ||*.videomeetgoogle.com^$important
 ||*.view.brightskyway.lat^$important
 ||*.view.brightsunray.lat^$important
+||*.view.magicflowpoint.lat^$important
 ||*.view2siteview.nexo7peak.surf^$important
 ||*.view3logicway.karo3view.surf^$important
 ||*.vincentdemiero.com^$important
@@ -1284,5 +1298,6 @@
 ||*.zhigao5191.com^$important
 ||*.zone5pathgate.tavi8grid.surf^$important
 ||*.zone7logicnet.felo7zone.surf^$important
+||*.zoom.brightskycore.lat^$important
 ||*.zoom.installer-catip.surf^$important
 ||*.zycdjz.com^$important
