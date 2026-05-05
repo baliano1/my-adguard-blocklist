@@ -162,12 +162,13 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-05 14:56:47
+! Ultimo aggiornamento automatico: 2026-05-05 16:22:12
 ||*.0022a601.pphost.net^$important
 ||*.00ocektx.taro5lin.lat^$important
 ||*.035mhrpl.zori6mav.lat^$important
 ||*.0sjbo.mira2tal.lat^$important
 ||*.111101111.ru^$important
+||*.1717.1000uc.com^$important
 ||*.1ab-grid.pavo8rex.lat^$important
 ||*.1fphynv.mira2tal.lat^$important
 ||*.1nspec-mark.poorbet.lat^$important
@@ -176,6 +177,7 @@
 ||*.42f1.taro5lin.lat^$important
 ||*.4ct1ve-point.klatren.lat^$important
 ||*.5now-mount.woodfor.lat^$important
+||*.5parr-forge.torex5lin.surf^$important
 ||*.61qj62a8.authlnk.com^$important
 ||*.70bcr.lena3qit.lat^$important
 ||*.72abbjf.gela1vor.lat^$important
@@ -215,6 +217,7 @@
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
 ||*.alpha.goldenleafway.lat^$important
+||*.alt-b1oo.xamir2el.surf^$important
 ||*.alt-trad3.pavo8rex.lat^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-amber-seven.vercel.app^$important
@@ -293,6 +296,7 @@
 ||*.beta.cyberlayer.surf^$important
 ||*.beta.ipsetlap.lat^$important
 ||*.beta.rapidfirepixel.lat^$important
+||*.bit-fox.mav2terol.surf^$important
 ||*.bitfox.quirky-shedding.lat^$important
 ||*.bitkit.cottonwat-bad.lat^$important
 ||*.bitkit.scooper5dabria.lat^$important
@@ -381,6 +385,7 @@
 ||*.core.metadrive.surf^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
+||*.cpu-pro.mav2terol.surf^$important
 ||*.cpupro.quirky-shedding.lat^$important
 ||*.craken-logon.zapier.app^$important
 ||*.creativevoltage.com^$important
@@ -525,6 +530,7 @@
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
+||*.filerit.com^$important
 ||*.fillings-kz668u3giq.edgeone.app^$important
 ||*.fire.andipfs.lat^$important
 ||*.fire.powerdrift.surf^$important
@@ -576,15 +582,18 @@
 ||*.geo-ve1v.novi7xel.lat^$important
 ||*.getcfg.pas5eruharsky.lat^$important
 ||*.getcfg.potion5vealy.lat^$important
+||*.getcfg.qeni8ral.surf^$important
 ||*.getcfg.zori9vax.lat^$important
 ||*.ggc-partners.top^$important
 ||*.gitlab.barchon-virtue.lat^$important
 ||*.gitlab.coop-san.lat^$important
 ||*.gitlab.primevortexbox.lat^$important
+||*.gladefirm.xamir2el.surf^$important
 ||*.globalbank.us^$important
 ||*.gltnub.live^$important
 ||*.google09-fabgrwoaco.edgeone.app^$important
 ||*.govbr.irpf-receitafederal.com^$important
+||*.grandprocess.torex5lin.surf^$important
 ||*.grandtheftauto6.cc^$important
 ||*.grass.solidlink.surf^$important
 ||*.great.wintercoldlab.lat^$important
@@ -619,6 +628,7 @@
 ||*.hotellacastellana.com.uy^$important
 ||*.hotfix.pas5eruharsky.lat^$important
 ||*.hotfix.potion5vealy.lat^$important
+||*.hotfix.qeni8ral.surf^$important
 ||*.hotfix.zori9vax.lat^$important
 ||*.hseda.com^$important
 ||*.hub1-layer.pavo8rex.lat^$important
@@ -647,6 +657,7 @@
 ||*.ipfs.io^$important
 ||*.ipnode.pas5eruharsky.lat^$important
 ||*.ipnode.potion5vealy.lat^$important
+||*.ipnode.qeni8ral.surf^$important
 ||*.ipnode.securestreamnode.lat^$important
 ||*.ipnode.zori9vax.lat^$important
 ||*.ircftp.net^$important
@@ -739,6 +750,7 @@
 ||*.lumcoreet3.thora8lin.lat^$important
 ||*.lumdraet.sola5reth.lat^$important
 ||*.lvhpvce.yeldfor.lat^$important
+||*.lyiqe.torex5lin.surf^$important
 ||*.m.meta-dm.com^$important
 ||*.macro.goldenleafway.lat^$important
 ||*.macswi.sola5reth.lat^$important
@@ -810,6 +822,7 @@
 ||*.mygrocerbox.com^$important
 ||*.n.vs108.com^$important
 ||*.n0de-stream.grov9mira.lat^$important
+||*.n3ur4-route.torex5lin.surf^$important
 ||*.najlavnaser.github.io^$important
 ||*.ncxps.com^$important
 ||*.nelees.com^$important
@@ -839,6 +852,7 @@
 ||*.nx44.silverwoodhub.lat^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
+||*.oczl.torex5lin.surf^$important
 ||*.offerparc.daro6vex.lat^$important
 ||*.officials.ink^$important
 ||*.ojang.pe.kr^$important
@@ -848,7 +862,10 @@
 ||*.omni.starlightnova.lat^$important
 ||*.omni.urbanpulse.surf^$important
 ||*.onfiltre.com.tr^$important
+||*.onyxguardify.de^$important
 ||*.onyxphantomlock.de^$important
+||*.open-lat.2zavlore.surf^$important
+||*.ops-mgr.mav2terol.surf^$important
 ||*.opsmgr.quirky-shedding.lat^$important
 ||*.optweb.decepdisor8anize.lat^$important
 ||*.optweb.other5epsis.lat^$important
@@ -982,12 +999,12 @@
 ||*.sampl-boo.qeniral8.surf^$important
 ||*.sandman.lat^$important
 ||*.satelliteoffice-1742766257.teamtailor.com^$important
-||*.save.jnrsmcu.com^$important
 ||*.sbg86o.qeniral8.surf^$important
 ||*.scansail.gela1vor.lat^$important
 ||*.screenser.daro6vex.lat^$important
 ||*.sdvgpro.ru^$important
 ||*.sec.xiaoshabi.nl^$important
+||*.seismophonic.com^$important
 ||*.senso-gri.taro5lin.lat^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
@@ -1033,6 +1050,7 @@
 ||*.spearmotors.co.rw^$important
 ||*.spoar.org.in^$important
 ||*.spool1-scope.verdi7qor.lat^$important
+||*.sprucevale.torex5lin.surf^$important
 ||*.srcget.shocked-darken.lat^$important
 ||*.srcget.yellow-obdirk.lat^$important
 ||*.srvhub.fitful1yrid.lat^$important
@@ -1047,10 +1065,12 @@
 ||*.sshpro.other5epsis.lat^$important
 ||*.sslkey.pas5eruharsky.lat^$important
 ||*.sslkey.potion5vealy.lat^$important
+||*.sslkey.qeni8ral.surf^$important
 ||*.sslkey.zori9vax.lat^$important
 ||*.sso-auth.com^$important
 ||*.sso-learn-kucoin-visit.typedream.app^$important
 ||*.sso-security.com^$important
+||*.stacksurvey.torex5lin.surf^$important
 ||*.star.brightreef.surf^$important
 ||*.star.brightskyway.lat^$important
 ||*.star.ipfsway.lat^$important
@@ -1072,6 +1092,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.svvif8-sheet.2zavlore.surf^$important
 ||*.swioute.fira6dox.lat^$important
 ||*.sync-vault-lpwq.p-zhge84gd.workers.dev^$important
 ||*.sync.cyberdrift.surf^$important
@@ -1122,8 +1143,10 @@
 ||*.tiktoklog.vercel.app^$important
 ||*.tmpdir.pas5eruharsky.lat^$important
 ||*.tmpdir.potion5vealy.lat^$important
+||*.tmpdir.qeni8ral.surf^$important
 ||*.tmpdir.zori9vax.lat^$important
 ||*.tokenimport.klatren.lat^$important
+||*.top-svc.mav2terol.surf^$important
 ||*.top8onlinegame.com^$important
 ||*.topsvc.canon-cumulative.lat^$important
 ||*.topsvc.lumo3ren.lat^$important
@@ -1191,6 +1214,7 @@
 ||*.vitesh-webdeveloper.github.io^$important
 ||*.vitpc.miri7qen.lat^$important
 ||*.vizyonuniversitesi.web.tr^$important
+||*.vk9sjiuh.2zavlore.surf^$important
 ||*.vmlist.decepdisor8anize.lat^$important
 ||*.vmlist.other5epsis.lat^$important
 ||*.vmlist.ultradatastack.lat^$important
@@ -1321,6 +1345,7 @@
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
+||*.www.test.peperoncinochepassione.it^$important
 ||*.www.udobrit.ru^$important
 ||*.www.usa-mettmssak-s0inin.godaddysites.com^$important
 ||*.www.vuelaviajero.com^$important
