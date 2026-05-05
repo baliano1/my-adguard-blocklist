@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-05 13:47:38
+! Ultimo aggiornamento automatico: 2026-05-05 14:55:41
 ||*.0022a601.pphost.net^$important
 ||*.00ocektx.taro5lin.lat^$important
 ||*.035mhrpl.zori6mav.lat^$important
@@ -179,12 +179,15 @@
 ||*.61qj62a8.authlnk.com^$important
 ||*.70bcr.lena3qit.lat^$important
 ||*.72abbjf.gela1vor.lat^$important
+||*.7m5mdmsm.qeniral8.surf^$important
 ||*.97ee7.catex.at^$important
+||*.9thvfl.2zavlore.surf^$important
 ||*.9wk4ykk.woodfor.lat^$important
 ||*.9wwp.woodfor.lat^$important
 ||*.aashukumar-github.github.io^$important
 ||*.abedinbybit2-arch.github.io^$important
 ||*.acaviationsupplies.com^$important
+||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.accesstelematics.com^$important
 ||*.account-ethics-center.pages.dev^$important
@@ -232,6 +235,7 @@
 ||*.apiops.barchon-virtue.lat^$important
 ||*.apiops.coop-san.lat^$important
 ||*.apiops.primevortexbox.lat^$important
+||*.appbox.5lorexin.surf^$important
 ||*.appbox.diafilm5mour.lat^$important
 ||*.apple-service93.ru^$important
 ||*.applog.canon-cumulative.lat^$important
@@ -417,6 +421,7 @@
 ||*.demo.ecardalert.com^$important
 ||*.derekludlow.com^$important
 ||*.des1g-vector.toorout.lat^$important
+||*.devbit.5lorexin.surf^$important
 ||*.devbit.diafilm5mour.lat^$important
 ||*.devbox.canon-cumulative.lat^$important
 ||*.devbox.lumo3ren.lat^$important
@@ -431,8 +436,10 @@
 ||*.dispatcherpodcast.poorbet.lat^$important
 ||*.divine-sea-8f82.jernzen26.workers.dev^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
+||*.dns-web.mav2terol.surf^$important
 ||*.dnsapi.canon-cumulative.lat^$important
 ||*.dnsapi.lumo3ren.lat^$important
 ||*.dnsapi.mira4then.lat^$important
@@ -480,7 +487,6 @@
 ||*.embedone.com^$important
 ||*.emjp1vs.woodfor.lat^$important
 ||*.en--netcoins-com---auth.webflow.io^$important
-||*.en.taichuan.com^$important
 ||*.encoderfreight.daro6vex.lat^$important
 ||*.envset.cottonwat-bad.lat^$important
 ||*.envset.masterpowerweb.lat^$important
@@ -616,6 +622,7 @@
 ||*.hotfix.zori9vax.lat^$important
 ||*.hseda.com^$important
 ||*.hub1-layer.pavo8rex.lat^$important
+||*.hvkxevet.2zavlore.surf^$important
 ||*.hvzu.flen4vax.lat^$important
 ||*.hyper-i5l3.verdi7qor.lat^$important
 ||*.ibdshk.github.io^$important
@@ -728,6 +735,7 @@
 ||*.londonairportstransfer.co.uk^$important
 ||*.look.darkwinterlab.lat^$important
 ||*.luizmatoso.com.br^$important
+||*.lum-cresta.qeniral8.surf^$important
 ||*.lumcoreet3.thora8lin.lat^$important
 ||*.lumdraet.sola5reth.lat^$important
 ||*.lvhpvce.yeldfor.lat^$important
@@ -769,6 +777,7 @@
 ||*.metalt.rollers-faced.lat^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mgtms.cc^$important
+||*.mi5t-cache.2zavlore.surf^$important
 ||*.miguel-nabs.github.io^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
@@ -935,6 +944,7 @@
 ||*.reta-wave.woodfor.lat^$important
 ||*.reutilizemais.co.mz^$important
 ||*.riderspin.com^$important
+||*.rnoon-panel.qeniral8.surf^$important
 ||*.rnqb.yeldfor.lat^$important
 ||*.road-hold.sola5reth.lat^$important
 ||*.robertrowe.com^$important
@@ -969,9 +979,11 @@
 ||*.sale.credits-center.com^$important
 ||*.saloujanous.mystagingwebsite.com^$important
 ||*.same-kucoin-login.typedream.app^$important
+||*.sampl-boo.qeniral8.surf^$important
 ||*.sandman.lat^$important
 ||*.satelliteoffice-1742766257.teamtailor.com^$important
 ||*.save.jnrsmcu.com^$important
+||*.sbg86o.qeniral8.surf^$important
 ||*.scansail.gela1vor.lat^$important
 ||*.screenser.daro6vex.lat^$important
 ||*.sdvgpro.ru^$important
@@ -1112,7 +1124,6 @@
 ||*.tmpdir.potion5vealy.lat^$important
 ||*.tmpdir.zori9vax.lat^$important
 ||*.tokenimport.klatren.lat^$important
-||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.topsvc.canon-cumulative.lat^$important
 ||*.topsvc.lumo3ren.lat^$important
