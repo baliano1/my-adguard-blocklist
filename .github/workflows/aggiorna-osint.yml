@@ -11,11 +11,15 @@ permissions:
 jobs:
   aggiorna-blocklist:
     runs-on: ubuntu-latest
+    env:
+      # Questa riga elimina il warning di Node.js 20 su azioni vecchie (come checkout@v4)
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Scarica tutta la cronologia per evitare problemi di rebase
+          fetch-depth: 0 
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,21 +32,9 @@ jobs:
       - name: Run script
         run: python update_list.py
 
+      # Sostituisce tutto il blocco manuale di Git
       - name: Commit and Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Forza il recupero delle modifiche remote
-          git fetch origin main
-          git reset --soft origin/main
-          
-          git add filtri-personali.txt
-          
-          # Verifica se ci sono cambiamenti nell'area di stage
-          if ! git diff --cached --quiet; then
-            git commit -m "OSINT Update: $(date +'%Y-%m-%d')"
-            git push origin main
-          else
-            echo "Nessuna modifica rilevata, salto il push."
-          fi
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "OSINT Update: Aggiornamento automatico"
+          file_pattern: "filtri-personali.txt"
