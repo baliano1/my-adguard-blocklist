@@ -2,8 +2,8 @@ name: Aggiornamento Feed OSINT
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Gira ogni 3 ore
-  workflow_dispatch: # Permette l'avvio manuale
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,9 +14,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Scarica tutta la cronologia per evitare problemi di rebase
 
       - name: Setup Python
-        uses: actions/setup-python@v5 # Aggiornato a v5 per Node 24
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -31,16 +33,16 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Sincronizza il repository per evitare l'errore "cannot lock ref"
-          git pull origin main --rebase
+          # Forza il recupero delle modifiche remote
+          git fetch origin main
+          git reset --soft origin/main
           
-          # Aggiungi il file specifico o tutti i file modificati
           git add filtri-personali.txt
           
-          # Commit e Push solo se ci sono cambiamenti
+          # Verifica se ci sono cambiamenti nell'area di stage
           if ! git diff --cached --quiet; then
             git commit -m "OSINT Update: $(date +'%Y-%m-%d')"
             git push origin main
           else
-            echo "Nessuna modifica rilevata."
+            echo "Nessuna modifica rilevata, salto il push."
           fi
