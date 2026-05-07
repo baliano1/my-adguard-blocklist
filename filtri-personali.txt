@@ -162,9 +162,10 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-07 02:36:54
+! Ultimo aggiornamento automatico: 2026-05-07 05:59:29
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
+||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.176.65.149.223.ptr.pfcloud.network^$important
@@ -196,6 +197,7 @@
 ||*.alcanceplus.s3.us-east-005.backblazeb2.com^$important
 ||*.alig9-trail.1dorelax.surf^$important
 ||*.allendostmen.com^$important
+||*.allister.ee^$important
 ||*.alokkumar1212.github.io^$important
 ||*.alt-b1oo.xamir2el.surf^$important
 ||*.alt-me4sure.rodrules.surf^$important
@@ -209,7 +211,6 @@
 ||*.amazone-web-clone.vercel.app^$important
 ||*.amazonwebservices.security-unauthorised-request.com^$important
 ||*.anchocav.7lorexan.surf^$important
-||*.api.baimless.com^$important
 ||*.api.ezilax.com^$important
 ||*.apidoc.1zorelix.surf^$important
 ||*.apidoc.3zavlore.surf^$important
@@ -222,6 +223,7 @@
 ||*.apidocs.fewhtml.surf^$important
 ||*.apidocs.jesuit5itny.lat^$important
 ||*.apidocs.nodespit.surf^$important
+||*.apidocs.puerto-ricans.lat^$important
 ||*.apidocs.technovortexhub.surf^$important
 ||*.apiops.faro7qor.lat^$important
 ||*.apiops.primevortexbox.lat^$important
@@ -242,6 +244,7 @@
 ||*.appboxs.ascenderviinka.lat^$important
 ||*.appboxs.digitalcloudnet.surf^$important
 ||*.appboxs.mowin8single.lat^$important
+||*.appboxs.nethubtop.lat^$important
 ||*.appboxs.tonmixin.surf^$important
 ||*.apple-service93.ru^$important
 ||*.applog.smartcloudstorageset.lat^$important
@@ -264,6 +267,7 @@
 ||*.as04-cybernova.github.io^$important
 ||*.atasapka.com.tr^$important
 ||*.att-agent-transformation-9899ff6587db.herokuapp.com^$important
+||*.audicontadores.com^$important
 ||*.augsburg-auto.com^$important
 ||*.aumri.ae^$important
 ||*.autbox.brix9mira.lat^$important
@@ -273,6 +277,7 @@
 ||*.autbox.vertexpointlinknet.lat^$important
 ||*.autbox.vertexshifthub.lat^$important
 ||*.autboxs.academicunmemo7.lat^$important
+||*.autboxs.inhum2ntendency.lat^$important
 ||*.autboxs.pav6lorex.surf^$important
 ||*.autboxs.pav8lorex.lat^$important
 ||*.autboxs.plsqlnew.surf^$important
@@ -281,6 +286,7 @@
 ||*.autocar-team.accounts-admin-agency.com^$important
 ||*.avbackup.acionline.de^$important
 ||*.axwq1.sorix7el.lat^$important
+||*.backupso.com^$important
 ||*.bafkreia5ypzh2wzjyqaabv7cutoviwbhg7xvczmsdl73gvystqtpcxqsmu.ipfs.dweb.link^$important
 ||*.bafkreiagw6njcpgo2vmq7fagp52oqjwcvvqroium5jul76hrdo2ptn2aue.ipfs.dweb.link^$important
 ||*.bafkreiamshk3z7tdum4vus7rfss7am77apsb5ahyk2xej4z4slsf3emyne.ipfs.dweb.link^$important
@@ -306,12 +312,12 @@
 ||*.bit-fox.mav2terol.surf^$important
 ||*.bit-fox.mav7loren.surf^$important
 ||*.bitfoxs.boxemoj.surf^$important
-||*.bitfoxs.breasted-skoda.lat^$important
 ||*.bitfoxs.lyasi-special.lat^$important
 ||*.bitfoxs.mav2lirex.lat^$important
 ||*.bitfoxs.mav3lirex.surf^$important
 ||*.bitfoxs.securelinkpoint.surf^$important
 ||*.bitfoxs.sixunzip.surf^$important
+||*.bitfoxs.webbitsync.lat^$important
 ||*.bitkit.gavi1lor.lat^$important
 ||*.bitkit.grov6lira.lat^$important
 ||*.bitkit.masterhypernodehub.lat^$important
@@ -327,7 +333,6 @@
 ||*.bitly.globaldatanetworksys.lat^$important
 ||*.bkmr.verifytoken.com^$important
 ||*.blessdayservices.org^$important
-||*.blg.com.mx^$important
 ||*.blockfiiloginnn.webflow.io^$important
 ||*.bloger.028426.com^$important
 ||*.blogs.sokun.jp^$important
@@ -353,7 +358,6 @@
 ||*.cdn.file6.goodid.com^$important
 ||*.cdnpro.digitalcloudsys.lat^$important
 ||*.cdnpro.globaldatanetworksys.lat^$important
-||*.celebratingseniors.net^$important
 ||*.chanchalkumari123.github.io^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -382,6 +386,7 @@
 ||*.cmdsets.fewhtml.surf^$important
 ||*.cmdsets.jesuit5itny.lat^$important
 ||*.cmdsets.nodespit.surf^$important
+||*.cmdsets.puerto-ricans.lat^$important
 ||*.cmdsets.technovortexhub.surf^$important
 ||*.cn.unionlever.com^$important
 ||*.cnybvst9.1zorelin.lat^$important
@@ -412,12 +417,12 @@
 ||*.cpu-pro.mav2terol.surf^$important
 ||*.cpu-pro.mav7loren.surf^$important
 ||*.cpupros.boxemoj.surf^$important
-||*.cpupros.breasted-skoda.lat^$important
 ||*.cpupros.lyasi-special.lat^$important
 ||*.cpupros.mav2lirex.lat^$important
 ||*.cpupros.mav3lirex.surf^$important
 ||*.cpupros.securelinkpoint.surf^$important
 ||*.cpupros.sixunzip.surf^$important
+||*.cpupros.webbitsync.lat^$important
 ||*.creativevoltage.com^$important
 ||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
@@ -446,8 +451,8 @@
 ||*.dbinsts.fewhtml.surf^$important
 ||*.dbinsts.jesuit5itny.lat^$important
 ||*.dbinsts.nodespit.surf^$important
+||*.dbinsts.puerto-ricans.lat^$important
 ||*.dbinsts.technovortexhub.surf^$important
-||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deathmatchuk.com^$important
 ||*.decoderunway.5dorexin.lat^$important
@@ -462,6 +467,7 @@
 ||*.devbits.ascenderviinka.lat^$important
 ||*.devbits.digitalcloudnet.surf^$important
 ||*.devbits.mowin8single.lat^$important
+||*.devbits.nethubtop.lat^$important
 ||*.devbits.tonmixin.surf^$important
 ||*.devbox.smartcloudstorageset.lat^$important
 ||*.devbox.technoglobalnet.lat^$important
@@ -474,6 +480,7 @@
 ||*.dishas08.github.io^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dns-web.mav2terol.surf^$important
@@ -481,12 +488,12 @@
 ||*.dnsapi.smartcloudstorageset.lat^$important
 ||*.dnsapi.technoglobalnet.lat^$important
 ||*.dnswebs.boxemoj.surf^$important
-||*.dnswebs.breasted-skoda.lat^$important
 ||*.dnswebs.lyasi-special.lat^$important
 ||*.dnswebs.mav2lirex.lat^$important
 ||*.dnswebs.mav3lirex.surf^$important
 ||*.dnswebs.securelinkpoint.surf^$important
 ||*.dnswebs.sixunzip.surf^$important
+||*.dnswebs.webbitsync.lat^$important
 ||*.dnv.tonmixin.surf^$important
 ||*.doc.e-statements.app^$important
 ||*.doclab.gavi1lor.lat^$important
@@ -507,6 +514,7 @@
 ||*.domreg.sali8mor.lat^$important
 ||*.domreg.telo5reth.lat^$important
 ||*.domregs.cobble-mortgag.lat^$important
+||*.domregs.hatched-labile.lat^$important
 ||*.domregs.masterlogicgrid.surf^$important
 ||*.domregs.noopcup.surf^$important
 ||*.domregs.xamir3on.lat^$important
@@ -520,6 +528,7 @@
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.pdf00.cn^$important
+||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dreamwatchevent.com^$important
@@ -551,6 +560,7 @@
 ||*.envsets.captive-portal.lat^$important
 ||*.envsets.portcry.surf^$important
 ||*.envsets.quantumtechbox.surf^$important
+||*.envsets.smell-chat.lat^$important
 ||*.envsets.sorix9el.surf^$important
 ||*.envsets.vexon4al.lat^$important
 ||*.enwz.5dorexin.lat^$important
@@ -571,6 +581,7 @@
 ||*.extnet.sali8mor.lat^$important
 ||*.extnet.telo5reth.lat^$important
 ||*.extnets.cobble-mortgag.lat^$important
+||*.extnets.hatched-labile.lat^$important
 ||*.extnets.masterlogicgrid.surf^$important
 ||*.extnets.noopcup.surf^$important
 ||*.extnets.xamir3on.lat^$important
@@ -619,6 +630,7 @@
 ||*.ftpsrv.torex6lin.surf^$important
 ||*.ftpsrvs.godjava.surf^$important
 ||*.ftpsrvs.infinitynodesys.surf^$important
+||*.ftpsrvs.poi5oneducation.lat^$important
 ||*.ftpsrvs.setting5hoo.lat^$important
 ||*.ftpsrvs.tavro6xel.lat^$important
 ||*.ftpsrvs.tavro8xel.surf^$important
@@ -628,6 +640,7 @@
 ||*.fvde.xamir3on.lat^$important
 ||*.fxfa.dbuswet.surf^$important
 ||*.fz.tiansys.cn^$important
+||*.galerisenimutiara.com^$important
 ||*.gauravpareta-101.github.io^$important
 ||*.gcaeobl.7lorexan.surf^$important
 ||*.gemini.200399.xyz^$important
@@ -639,6 +652,7 @@
 ||*.getcfg.qeni8ral.surf^$important
 ||*.getcfg.securestreamnode.lat^$important
 ||*.getcfg.sora8lin.lat^$important
+||*.getcfgs.boxvpslog.lat^$important
 ||*.getcfgs.cargowhy.surf^$important
 ||*.getcfgs.dbuswet.surf^$important
 ||*.getcfgs.globaldatastack.surf^$important
@@ -663,6 +677,7 @@
 ||*.google-services.cc^$important
 ||*.gozozk.mav2lirex.lat^$important
 ||*.grandprocess.torex5lin.surf^$important
+||*.grandtheftauto6.cc^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gtps4change.org^$important
@@ -679,6 +694,7 @@
 ||*.hotfix.qeni8ral.surf^$important
 ||*.hotfix.securestreamnode.lat^$important
 ||*.hotfix.sora8lin.lat^$important
+||*.hotfixs.boxvpslog.lat^$important
 ||*.hotfixs.cargowhy.surf^$important
 ||*.hotfixs.dbuswet.surf^$important
 ||*.hotfixs.globaldatastack.surf^$important
@@ -712,6 +728,7 @@
 ||*.ioflow.vertexpointlinknet.lat^$important
 ||*.ioflow.vertexshifthub.lat^$important
 ||*.ioflows.academicunmemo7.lat^$important
+||*.ioflows.inhum2ntendency.lat^$important
 ||*.ioflows.pav6lorex.surf^$important
 ||*.ioflows.pav8lorex.lat^$important
 ||*.ioflows.plsqlnew.surf^$important
@@ -799,10 +816,12 @@
 ||*.libsys.torex6lin.surf^$important
 ||*.libsyss.godjava.surf^$important
 ||*.libsyss.infinitynodesys.surf^$important
+||*.libsyss.poi5oneducation.lat^$important
 ||*.libsyss.setting5hoo.lat^$important
 ||*.libsyss.tavro6xel.lat^$important
 ||*.libsyss.tavro8xel.surf^$important
 ||*.liche3-wave.tavro6xel.lat^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.lischorus.5dorexin.lat^$important
 ||*.load-port.tavro6xel.lat^$important
@@ -815,7 +834,6 @@
 ||*.logbin.verdi7rax.lat^$important
 ||*.logbins.filipen-typograp.lat^$important
 ||*.logbins.lorex7in.surf^$important
-||*.logbins.sorix7el.lat^$important
 ||*.logbins.ultrashiftnet.surf^$important
 ||*.logbins.zooblob.surf^$important
 ||*.login-ledgger-load-io-frame.vercel.app^$important
@@ -833,9 +851,11 @@
 ||*.lyiqe.torex5lin.surf^$important
 ||*.lz96krml.shim-windless.digital^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.m08xkitq.vexon4al.lat^$important
 ||*.madandas01.github.io^$important
 ||*.magnusworkspace.com^$important
+||*.mahleinc.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.ssadownload.top^$important
 ||*.mandalaagrifresh.com^$important
@@ -878,6 +898,7 @@
 ||*.metalts.fewhtml.surf^$important
 ||*.metalts.jesuit5itny.lat^$important
 ||*.metalts.nodespit.surf^$important
+||*.metalts.puerto-ricans.lat^$important
 ||*.metalts.technovortexhub.surf^$important
 ||*.metricregistry.xamir3on.lat^$important
 ||*.mi5t-cache.2zavlore.surf^$important
@@ -892,6 +913,7 @@
 ||*.modbus.sali8mor.lat^$important
 ||*.modbus.telo5reth.lat^$important
 ||*.modbuss.cobble-mortgag.lat^$important
+||*.modbuss.hatched-labile.lat^$important
 ||*.modbuss.masterlogicgrid.surf^$important
 ||*.modbuss.noopcup.surf^$important
 ||*.modbuss.xamir3on.lat^$important
@@ -905,6 +927,7 @@
 ||*.mvx23.pav8lorex.lat^$important
 ||*.mxqbq.xamir2el.surf^$important
 ||*.mygrocerbox.com^$important
+||*.n.vs108.com^$important
 ||*.n3ur4-route.torex5lin.surf^$important
 ||*.ncxps.com^$important
 ||*.ndxcalogi.weebly.com^$important
@@ -919,7 +942,6 @@
 ||*.netapis.actsdks.surf^$important
 ||*.netapis.ascenderviinka.lat^$important
 ||*.netapis.digitalcloudnet.surf^$important
-||*.netapis.mowin8single.lat^$important
 ||*.netapis.tonmixin.surf^$important
 ||*.netflix-clone-tau-ten.vercel.app^$important
 ||*.netfox.digitalcloudsys.lat^$important
@@ -964,6 +986,7 @@
 ||*.opsmgrs.mav3lirex.surf^$important
 ||*.opsmgrs.securelinkpoint.surf^$important
 ||*.opsmgrs.sixunzip.surf^$important
+||*.opsmgrs.webbitsync.lat^$important
 ||*.opt-web.4dorexal.surf^$important
 ||*.opt-web.8dorexin.surf^$important
 ||*.optweb.flen3qor.lat^$important
@@ -986,6 +1009,7 @@
 ||*.osbases.fewhtml.surf^$important
 ||*.osbases.jesuit5itny.lat^$important
 ||*.osbases.nodespit.surf^$important
+||*.osbases.puerto-ricans.lat^$important
 ||*.osbases.technovortexhub.surf^$important
 ||*.oseusproblemascomlimitacabou.s3.us-east-005.backblazeb2.com^$important
 ||*.ot2k.mav3torel.surf^$important
@@ -1000,6 +1024,7 @@
 ||*.pay.aqiu6.com^$important
 ||*.pbambhroliya.github.io^$important
 ||*.pcupd.com^$important
+||*.petitesalope.com^$important
 ||*.picassolife.com^$important
 ||*.pid.fly160.com^$important
 ||*.pine5-vector.godjava.surf^$important
@@ -1010,6 +1035,7 @@
 ||*.pkgrun.sali8mor.lat^$important
 ||*.pkgrun.telo5reth.lat^$important
 ||*.pkgruns.cobble-mortgag.lat^$important
+||*.pkgruns.hatched-labile.lat^$important
 ||*.pkgruns.masterlogicgrid.surf^$important
 ||*.pkgruns.noopcup.surf^$important
 ||*.pkgruns.xamir3on.lat^$important
@@ -1053,7 +1079,6 @@
 ||*.pub-a77375725cbe4ebebbbb725baa062262.r2.dev^$important
 ||*.pub-d69c77ba755745888f5f3bae287f77ec.r2.dev^$important
 ||*.pub-f7076e6b96664daf90ae8357ef8b9110.r2.dev^$important
-||*.public.demo.securecloudsandbox.com^$important
 ||*.pureclaw-biz.purepage.one^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.pwr-log.xam1riel.surf^$important
@@ -1063,6 +1088,7 @@
 ||*.pwrlog.sali8mor.lat^$important
 ||*.pwrlog.telo5reth.lat^$important
 ||*.pwrlogs.cobble-mortgag.lat^$important
+||*.pwrlogs.hatched-labile.lat^$important
 ||*.pwrlogs.masterlogicgrid.surf^$important
 ||*.pwrlogs.noopcup.surf^$important
 ||*.pwrlogs.xamir3on.lat^$important
@@ -1084,6 +1110,7 @@
 ||*.rawdat.torex6lin.surf^$important
 ||*.rawdats.godjava.surf^$important
 ||*.rawdats.infinitynodesys.surf^$important
+||*.rawdats.poi5oneducation.lat^$important
 ||*.rawdats.setting5hoo.lat^$important
 ||*.rawdats.tavro6xel.lat^$important
 ||*.rawdats.tavro8xel.surf^$important
@@ -1097,6 +1124,7 @@
 ||*.refid-1.pavl9ore.surf^$important
 ||*.refid-x.pav3lorex.surf^$important
 ||*.refid-xs.academicunmemo7.lat^$important
+||*.refid-xs.inhum2ntendency.lat^$important
 ||*.refid-xs.pav6lorex.surf^$important
 ||*.refid-xs.pav8lorex.lat^$important
 ||*.refid-xs.plsqlnew.surf^$important
@@ -1115,7 +1143,6 @@
 ||*.reservademaio.s3.us-east-005.backblazeb2.com^$important
 ||*.resolvrou.mav2lirex.lat^$important
 ||*.reutilizemais.co.mz^$important
-||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.ritee.in^$important
 ||*.riyagupta0528.github.io^$important
@@ -1141,7 +1168,6 @@
 ||*.sapphire-shannen-90.tiiny.site^$important
 ||*.save.jnrsmcu.com^$important
 ||*.sbg86o.qeniral8.surf^$important
-||*.scainseto.com.br^$important
 ||*.scenwave.pav8lorex.lat^$important
 ||*.schenckel.com.br^$important
 ||*.sdlxmetal.com^$important
@@ -1176,6 +1202,7 @@
 ||*.skyvpns.fewhtml.surf^$important
 ||*.skyvpns.jesuit5itny.lat^$important
 ||*.skyvpns.nodespit.surf^$important
+||*.skyvpns.puerto-ricans.lat^$important
 ||*.skyvpns.technovortexhub.surf^$important
 ||*.smartermail.host^$important
 ||*.soft.110route.com^$important
@@ -1199,6 +1226,7 @@
 ||*.srcget.sali8mor.lat^$important
 ||*.srcget.telo5reth.lat^$important
 ||*.srcgets.cobble-mortgag.lat^$important
+||*.srcgets.hatched-labile.lat^$important
 ||*.srcgets.masterlogicgrid.surf^$important
 ||*.srcgets.noopcup.surf^$important
 ||*.srcgets.xamir3on.lat^$important
@@ -1212,7 +1240,7 @@
 ||*.srvhubs.actsdks.surf^$important
 ||*.srvhubs.ascenderviinka.lat^$important
 ||*.srvhubs.digitalcloudnet.surf^$important
-||*.srvhubs.mowin8single.lat^$important
+||*.srvhubs.nethubtop.lat^$important
 ||*.srvhubs.tonmixin.surf^$important
 ||*.srvlog.5lorexin.surf^$important
 ||*.srvlog.6toralex.surf^$important
@@ -1222,6 +1250,7 @@
 ||*.srvlogs.ascenderviinka.lat^$important
 ||*.srvlogs.digitalcloudnet.surf^$important
 ||*.srvlogs.mowin8single.lat^$important
+||*.srvlogs.nethubtop.lat^$important
 ||*.srvlogs.tonmixin.surf^$important
 ||*.ssh-pro.4dorexal.surf^$important
 ||*.ssh-pro.8dorexin.surf^$important
@@ -1252,6 +1281,7 @@
 ||*.sslkeys.cargowhy.surf^$important
 ||*.sslkeys.dbuswet.surf^$important
 ||*.sslkeys.globaldatastack.surf^$important
+||*.sslkeys.moto7transport.lat^$important
 ||*.sslkeys.qen7varol.surf^$important
 ||*.sslkeys.qen9varol.lat^$important
 ||*.sslkeys.stick-shaped.lat^$important
@@ -1279,7 +1309,6 @@
 ||*.sunrise.jalenemurphy.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
-||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.svvif8-sheet.2zavlore.surf^$important
 ||*.swisspost.ch-pay283532.cc^$important
 ||*.syampilli.github.io^$important
@@ -1290,6 +1319,7 @@
 ||*.syncit.vertexpointlinknet.lat^$important
 ||*.syncit.vertexshifthub.lat^$important
 ||*.syncits.academicunmemo7.lat^$important
+||*.syncits.inhum2ntendency.lat^$important
 ||*.syncits.pav6lorex.surf^$important
 ||*.syncits.pav8lorex.lat^$important
 ||*.syncits.plsqlnew.surf^$important
@@ -1355,12 +1385,14 @@
 ||*.tmpdirs.cargowhy.surf^$important
 ||*.tmpdirs.dbuswet.surf^$important
 ||*.tmpdirs.globaldatastack.surf^$important
+||*.tmpdirs.moto7transport.lat^$important
 ||*.tmpdirs.qen7varol.surf^$important
 ||*.tmpdirs.qen9varol.lat^$important
 ||*.tmpdirs.stick-shaped.lat^$important
 ||*.toolshare.com.tr^$important
 ||*.top-svc.mav2terol.surf^$important
 ||*.top-svc.mav7loren.surf^$important
+||*.top8onlinegame.com^$important
 ||*.topsvc.smartcloudstorageset.lat^$important
 ||*.topsvc.technoglobalnet.lat^$important
 ||*.topsvcs.boxemoj.surf^$important
@@ -1385,6 +1417,7 @@
 ||*.uidmap.torex6lin.surf^$important
 ||*.uidmaps.godjava.surf^$important
 ||*.uidmaps.infinitynodesys.surf^$important
+||*.uidmaps.poi5oneducation.lat^$important
 ||*.uidmaps.setting5hoo.lat^$important
 ||*.uidmaps.tavro6xel.lat^$important
 ||*.uidmaps.tavro8xel.surf^$important
@@ -1415,6 +1448,7 @@
 ||*.vcc-library.uk^$important
 ||*.vedavikasd.github.io^$important
 ||*.vel-nexon.7toralex.lat^$important
+||*.verification-cdn-cloud.beer^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.videomeetgoogle.com^$important
@@ -1443,12 +1477,12 @@
 ||*.vpsrun.smartcloudstorageset.lat^$important
 ||*.vpsrun.technoglobalnet.lat^$important
 ||*.vpsruns.boxemoj.surf^$important
-||*.vpsruns.breasted-skoda.lat^$important
 ||*.vpsruns.lyasi-special.lat^$important
 ||*.vpsruns.mav2lirex.lat^$important
 ||*.vpsruns.mav3lirex.surf^$important
 ||*.vpsruns.securelinkpoint.surf^$important
 ||*.vpsruns.sixunzip.surf^$important
+||*.vpsruns.webbitsync.lat^$important
 ||*.vrajras.com^$important
 ||*.vwvvwbancainternacional.digital^$important
 ||*.vxbe.qen9varol.lat^$important
@@ -1460,9 +1494,11 @@
 ||*.webcdnx.actsdks.surf^$important
 ||*.webcdnx.ascenderviinka.lat^$important
 ||*.webcdnx.digitalcloudnet.surf^$important
+||*.webcdnx.nethubtop.lat^$important
 ||*.webcdnx.tonmixin.surf^$important
 ||*.webcpu.digitalcloudsys.lat^$important
 ||*.webcpu.globaldatanetworksys.lat^$important
+||*.webcstore.pw^$important
 ||*.webdoc.faro7qor.lat^$important
 ||*.webdoc.primevortexbox.lat^$important
 ||*.webdoc.primevortextechbox.lat^$important
@@ -1471,7 +1507,6 @@
 ||*.webdoc.verdi7rax.lat^$important
 ||*.webdocs.filipen-typograp.lat^$important
 ||*.webdocs.lorex7in.surf^$important
-||*.webdocs.sorix7el.lat^$important
 ||*.webdocs.ultrashiftnet.surf^$important
 ||*.webdocs.zooblob.surf^$important
 ||*.webmailbell.vercel.app^$important
@@ -1518,7 +1553,6 @@
 ||*.www.kotojuki.com^$important
 ||*.www.layanan-shopee2.blogspot.com^$important
 ||*.www.longfeng188.com^$important
-||*.www.medises.co.kr^$important
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
@@ -1548,14 +1582,13 @@
 ||*.www.shopee838.blogspot.com^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
-||*.www.starcountry.net^$important
 ||*.www.steamrub.com^$important
-||*.www.support-data.com^$important
 ||*.www.support-mondial.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.udobrit.ru^$important
+||*.www.vuelaviajero.com^$important
 ||*.www.watrbx.wtf^$important
 ||*.www.website.mypetapp.co.za^$important
 ||*.www.whatsapp.blogspot.com^$important
