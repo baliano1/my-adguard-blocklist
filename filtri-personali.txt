@@ -162,24 +162,30 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-07 08:45:34
+! Ultimo aggiornamento automatico: 2026-05-07 11:08:06
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.176.65.149.223.ptr.pfcloud.network^$important
+||*.30vw.mav8loren.lat^$important
+||*.3ohr8brt.qen2virex.lat^$important
 ||*.4dapt3-node.pavlore9.surf^$important
+||*.4rray-dock.7zorelax.lat^$important
 ||*.50cia8-route.3toravix.lat^$important
 ||*.5cri-logic.xamir3on.lat^$important
 ||*.5dk-array.tavro6xel.lat^$important
 ||*.5parr-forge.torex5lin.surf^$important
+||*.5t4g3-port.3toravix.lat^$important
 ||*.5udd-signal.qen9varol.lat^$important
 ||*.64bd7001ee38684d1f26ca3c--incredible-sfogliatella-f1a54c.netlify.app^$important
+||*.75aohwq.qen2virex.lat^$important
 ||*.7m5mdmsm.qeniral8.surf^$important
 ||*.8rvi.noopcup.surf^$important
 ||*.9sgsurs.vexon3ar.surf^$important
 ||*.9thvfl.2zavlore.surf^$important
 ||*.a1ig-vector.vexon3ar.surf^$important
+||*.aakrutitexture.in^$important
 ||*.abdelsalamhesham-droid.github.io^$important
 ||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -192,6 +198,7 @@
 ||*.afsilaafi.github.io^$important
 ||*.agence-immobiliere-lyon.com^$important
 ||*.agency-meta.invoice-ads-manager.com^$important
+||*.agmdojf.7zorelax.lat^$important
 ||*.ajibolahannah.github.io^$important
 ||*.akshay-phogat.github.io^$important
 ||*.alarmline.com.br^$important
@@ -235,6 +242,7 @@
 ||*.apiopss.fatovism-r2ccoon.lat^$important
 ||*.apiopss.filipen-typograp.lat^$important
 ||*.apiopss.lorex7in.surf^$important
+||*.apiopss.openlinksys.lat^$important
 ||*.apiopss.ultrashiftnet.surf^$important
 ||*.appbox.5lorexin.surf^$important
 ||*.appbox.6toralex.surf^$important
@@ -256,13 +264,16 @@
 ||*.appsrch.fatovism-r2ccoon.lat^$important
 ||*.appsrch.filipen-typograp.lat^$important
 ||*.appsrch.lorex7in.surf^$important
+||*.appsrch.openlinksys.lat^$important
 ||*.appsrch.ultrashiftnet.surf^$important
 ||*.appsrch.zooblob.surf^$important
 ||*.ardena.pro^$important
 ||*.areyouready.co.za^$important
+||*.arkdraor.mav8loren.lat^$important
 ||*.arkvenex1.godjava.surf^$important
 ||*.arra-track.5dorexin.lat^$important
 ||*.as04-cybernova.github.io^$important
+||*.atasapka.com.tr^$important
 ||*.att-agent-transformation-9899ff6587db.herokuapp.com^$important
 ||*.audicontadores.com^$important
 ||*.augsburg-auto.com^$important
@@ -280,7 +291,6 @@
 ||*.autboxs.primeflowspace.surf^$important
 ||*.autboxs.softworkapi.lat^$important
 ||*.authentication.ms^$important
-||*.autobaenasl.com^$important
 ||*.autocar-team.accounts-admin-agency.com^$important
 ||*.avbackup.acionline.de^$important
 ||*.axwq1.sorix7el.lat^$important
@@ -323,6 +333,7 @@
 ||*.bitkit.vexo3nar.surf^$important
 ||*.bitkit.vexon4al.surf^$important
 ||*.bitkits.captive-portal.lat^$important
+||*.bitkits.linkdevbase.lat^$important
 ||*.bitkits.portcry.surf^$important
 ||*.bitkits.quantumtechbox.surf^$important
 ||*.bitkits.sorix9el.surf^$important
@@ -361,8 +372,8 @@
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
-||*.chiptune.com^$important
 ||*.chungminhtaichinhsaigon.net^$important
+||*.ciabjdb.mav8loren.lat^$important
 ||*.cilla300.github.io^$important
 ||*.cirshift.portcry.surf^$important
 ||*.cl.ssouy.com^$important
@@ -422,10 +433,8 @@
 ||*.crystalpvp.ru^$important
 ||*.crystalreef.vexon3ar.surf^$important
 ||*.cs.go.kg^$important
-||*.csg-app.com^$important
 ||*.ct3-24.ru^$important
 ||*.d.14yaa.com^$important
-||*.d.wanyouxi7.com^$important
 ||*.d3c0de-scope.xamir3on.lat^$important
 ||*.damaca.vn^$important
 ||*.damiancollier.com^$important
@@ -493,6 +502,7 @@
 ||*.doclab.vexo3nar.surf^$important
 ||*.doclab.vexon4al.surf^$important
 ||*.doclabs.captive-portal.lat^$important
+||*.doclabs.linkdevbase.lat^$important
 ||*.doclabs.portcry.surf^$important
 ||*.doclabs.quantumtechbox.surf^$important
 ||*.doclabs.smell-chat.lat^$important
@@ -605,6 +615,7 @@
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
+||*.filte-path.7zorelax.lat^$important
 ||*.finu-fayiz.github.io^$important
 ||*.first-security-verden.de^$important
 ||*.fl4me-field.qen9varol.lat^$important
@@ -664,6 +675,7 @@
 ||*.globalbank.us^$important
 ||*.glofabric.5dorexin.lat^$important
 ||*.gnqv4r.boxemoj.surf^$important
+||*.go1d8-core.mav8loren.lat^$important
 ||*.google-services.cc^$important
 ||*.gozozk.mav2lirex.lat^$important
 ||*.grandprocess.torex5lin.surf^$important
@@ -719,6 +731,7 @@
 ||*.ioflows.pav8lorex.lat^$important
 ||*.ioflows.plsqlnew.surf^$important
 ||*.ioflows.primeflowspace.surf^$important
+||*.ioflows.softworkapi.lat^$important
 ||*.iontrai.pavlore9.surf^$important
 ||*.ipfs.io^$important
 ||*.ipni4.qen9varol.lat^$important
@@ -787,6 +800,7 @@
 ||*.lanhop.vexo3nar.surf^$important
 ||*.lanhop.vexon4al.surf^$important
 ||*.lanhops.captive-portal.lat^$important
+||*.lanhops.linkdevbase.lat^$important
 ||*.lanhops.portcry.surf^$important
 ||*.lanhops.quantumtechbox.surf^$important
 ||*.lanhops.sorix9el.surf^$important
@@ -821,6 +835,7 @@
 ||*.logbins.fatovism-r2ccoon.lat^$important
 ||*.logbins.filipen-typograp.lat^$important
 ||*.logbins.lorex7in.surf^$important
+||*.logbins.openlinksys.lat^$important
 ||*.logbins.ultrashiftnet.surf^$important
 ||*.logbins.zooblob.surf^$important
 ||*.login-ledgger-load-io-frame.vercel.app^$important
@@ -841,6 +856,7 @@
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m08xkitq.vexon4al.lat^$important
+||*.m0del9-spool.mav8loren.lat^$important
 ||*.madandas01.github.io^$important
 ||*.magnusworkspace.com^$important
 ||*.mahleinc.com^$important
@@ -912,7 +928,6 @@
 ||*.mvx23.pav8lorex.lat^$important
 ||*.mxqbq.xamir2el.surf^$important
 ||*.mygrocerbox.com^$important
-||*.mykitchenindonesia.com^$important
 ||*.n.vs108.com^$important
 ||*.n3ur4-route.torex5lin.surf^$important
 ||*.ncxps.com^$important
@@ -953,6 +968,7 @@
 ||*.oczl.torex5lin.surf^$important
 ||*.officials.ink^$important
 ||*.ohkmpt.tavro6xel.lat^$important
+||*.oixkxhga.qen2virex.lat^$important
 ||*.oiyksxf.vexon3ar.surf^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
@@ -976,6 +992,7 @@
 ||*.optwebs.5dorexin.lat^$important
 ||*.optwebs.clampe7outback.lat^$important
 ||*.optwebs.cybermetagrid.surf^$important
+||*.optwebs.datarunkey.lat^$important
 ||*.optwebs.mel2vrax.surf^$important
 ||*.optwebs.rodrules.surf^$important
 ||*.osbase.1zorelix.surf^$important
@@ -1047,6 +1064,7 @@
 ||*.proxys.vexo3nar.surf^$important
 ||*.proxys.vexon4al.surf^$important
 ||*.proxyss.captive-portal.lat^$important
+||*.proxyss.linkdevbase.lat^$important
 ||*.proxyss.portcry.surf^$important
 ||*.proxyss.quantumtechbox.surf^$important
 ||*.proxyss.sorix9el.surf^$important
@@ -1134,6 +1152,7 @@
 ||*.roblox.com.ge^$important
 ||*.robloxr.com.es^$important
 ||*.root-cul.xamir3on.lat^$important
+||*.roughvocal.mav8loren.lat^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rurareag.vexon4al.lat^$important
 ||*.rxquickpay.com^$important
@@ -1146,11 +1165,13 @@
 ||*.salemacro.xamir2el.surf^$important
 ||*.sami607-ui.github.io^$important
 ||*.sampl-boo.qeniral8.surf^$important
+||*.sandman.qen2virex.lat^$important
 ||*.sapphire-shannen-90.tiiny.site^$important
 ||*.sbg86o.qeniral8.surf^$important
 ||*.scainseto.com.br^$important
 ||*.scenwave.pav8lorex.lat^$important
 ||*.sdlxmetal.com^$important
+||*.sec.dashabi.in^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.secure-hub.partner-programhub.com^$important
 ||*.seismophonic.com^$important
@@ -1248,6 +1269,7 @@
 ||*.sshpros.chemistry5till.lat^$important
 ||*.sshpros.clampe7outback.lat^$important
 ||*.sshpros.cybermetagrid.surf^$important
+||*.sshpros.datarunkey.lat^$important
 ||*.sshpros.mel2vrax.surf^$important
 ||*.sshpros.rodrules.surf^$important
 ||*.sslkey.extremesecureline.lat^$important
@@ -1266,6 +1288,7 @@
 ||*.static.ilclock.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.steadymeasure.qen2virex.lat^$important
 ||*.steam66.cn^$important
 ||*.straight-lavender-dmg1wzzmq7.edgeone.app^$important
 ||*.subcli.gavi1lor.lat^$important
@@ -1275,6 +1298,7 @@
 ||*.subcli.vexo3nar.surf^$important
 ||*.subcli.vexon4al.surf^$important
 ||*.subclis.captive-portal.lat^$important
+||*.subclis.linkdevbase.lat^$important
 ||*.subclis.portcry.surf^$important
 ||*.subclis.quantumtechbox.surf^$important
 ||*.subclis.sorix9el.surf^$important
@@ -1300,6 +1324,7 @@
 ||*.syncits.pav8lorex.lat^$important
 ||*.syncits.plsqlnew.surf^$important
 ||*.syncits.primeflowspace.surf^$important
+||*.syncits.softworkapi.lat^$important
 ||*.syskey.faro7qor.lat^$important
 ||*.syskey.primevortexbox.lat^$important
 ||*.syskey.primevortextechbox.lat^$important
@@ -1309,6 +1334,7 @@
 ||*.syskeys.fatovism-r2ccoon.lat^$important
 ||*.syskeys.filipen-typograp.lat^$important
 ||*.syskeys.lorex7in.surf^$important
+||*.syskeys.openlinksys.lat^$important
 ||*.syskeys.ultrashiftnet.surf^$important
 ||*.syskeys.zooblob.surf^$important
 ||*.sysops.digitalcloudsys.lat^$important
@@ -1328,6 +1354,7 @@
 ||*.taskids.pav8lorex.lat^$important
 ||*.taskids.plsqlnew.surf^$important
 ||*.taskids.primeflowspace.surf^$important
+||*.taskids.softworkapi.lat^$important
 ||*.tcp-con.4dorexal.surf^$important
 ||*.tcp-con.8dorexin.surf^$important
 ||*.tcpcon.flen3qor.lat^$important
@@ -1338,6 +1365,7 @@
 ||*.tcpcons.chemistry5till.lat^$important
 ||*.tcpcons.clampe7outback.lat^$important
 ||*.tcpcons.cybermetagrid.surf^$important
+||*.tcpcons.datarunkey.lat^$important
 ||*.tcpcons.mel2vrax.surf^$important
 ||*.tcpcons.rodrules.surf^$important
 ||*.tecunonline.com^$important
@@ -1350,7 +1378,6 @@
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
-||*.theoremaoliveoil.com^$important
 ||*.thread-mark.7toralex.lat^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
@@ -1418,6 +1445,7 @@
 ||*.usrgrps.chemistry5till.lat^$important
 ||*.usrgrps.clampe7outback.lat^$important
 ||*.usrgrps.cybermetagrid.surf^$important
+||*.usrgrps.datarunkey.lat^$important
 ||*.usrgrps.mel2vrax.surf^$important
 ||*.usrgrps.rodrules.surf^$important
 ||*.uykfqn.pavlore9.surf^$important
@@ -1499,6 +1527,7 @@
 ||*.workspace-pro.credit-agency-meta.com^$important
 ||*.workspace.credit-agency-meta.com^$important
 ||*.workspace.partner-programhub.com^$important
+||*.wornod.qen2virex.lat^$important
 ||*.wvdaavfk.2zavlore.surf^$important
 ||*.www.365applicationweb.com^$important
 ||*.www.365protectedhub.com^$important
@@ -1521,7 +1550,6 @@
 ||*.www.facebookf9.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.hseda.com^$important
-||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.konsor.ru^$important
 ||*.www.kotojuki.com^$important
