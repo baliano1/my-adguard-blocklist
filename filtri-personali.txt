@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-07 14:00:09
+! Ultimo aggiornamento automatico: 2026-05-07 16:46:59
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -193,6 +193,7 @@
 ||*.adaest.top^$important
 ||*.admin.byte.in.ua^$important
 ||*.agam-rouge.vercel.app^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.airbnb-1869ae.webflow.io^$important
 ||*.airbnb-clone-coral.vercel.app^$important
 ||*.airbnb-seven-lime.vercel.app^$important
@@ -413,6 +414,7 @@
 ||*.ct3-24.ru^$important
 ||*.curly-violet-5dd4.jujuan98.workers.dev^$important
 ||*.cw435608.tw1.ru^$important
+||*.cwpjb6yk.arch-vivarium.lat^$important
 ||*.d.wanyouxi7.com^$important
 ||*.d3c0de-scope.xamir3on.lat^$important
 ||*.damiancollier.com^$important
@@ -437,7 +439,6 @@
 ||*.dcwblida.dz^$important
 ||*.deathmatchuk.com^$important
 ||*.decoderunway.5dorexin.lat^$important
-||*.delp-heizungsbau.de^$important
 ||*.derekludlow.com^$important
 ||*.devbit.5lorexin.surf^$important
 ||*.devbit.6toralex.surf^$important
@@ -786,6 +787,7 @@
 ||*.ledger-livenanox-customer-supportcd.vercel.app^$important
 ||*.ledgercomstart.webflow.io^$important
 ||*.ledzer-com-start.webflow.io^$important
+||*.lettercinema.vexon6ar.lat^$important
 ||*.libss.0x504.com^$important
 ||*.libsys.cryptoshiftgridsys.lat^$important
 ||*.libsys.infinitydatagrid.lat^$important
@@ -1001,6 +1003,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.pack-bar.1zorelin.lat^$important
 ||*.palharesinformatica.com.br^$important
+||*.parcboo.vexon6ar.lat^$important
 ||*.pay.aqiu6.com^$important
 ||*.paypalfrancetransfert23-cell.github.io^$important
 ||*.pcupd.com^$important
@@ -1067,6 +1070,7 @@
 ||*.radiant-churros-e037bf.netlify.app^$important
 ||*.raghu457.github.io^$important
 ||*.ramirex.ro^$important
+||*.rapid-forge.vexon6ar.lat^$important
 ||*.rawdat.cryptoshiftgridsys.lat^$important
 ||*.rawdat.infinitydatagrid.lat^$important
 ||*.rawdat.nira6qen.lat^$important
@@ -1327,7 +1331,6 @@
 ||*.tehnomag.rs^$important
 ||*.telkom-logiin-page.weebly.com^$important
 ||*.telkomzimbra.weebly.com^$important
-||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.thebrandmantra.in^$important
 ||*.theholidayroads.com^$important
@@ -1336,8 +1339,8 @@
 ||*.theoremaoliveoil.com^$important
 ||*.thre-thic.pav1mirex.lat^$important
 ||*.thread-mark.7toralex.lat^$important
-||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
+||*.tina.gautengsound.co.za^$important
 ||*.tmpdir.extremesecureline.lat^$important
 ||*.tmpdir.qen2vrax.surf^$important
 ||*.tmpdir.qeni8ral.surf^$important
@@ -1387,6 +1390,7 @@
 ||*.ultra-narr0.mav8loren.lat^$important
 ||*.un1o-loop.tavro4xel.lat^$important
 ||*.undian-whatsapp58.blogspot.com^$important
+||*.unhoq4.arch-vivarium.lat^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.update.volam2005pk.com^$important
