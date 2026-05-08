@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-08 13:42:57
+! Ultimo aggiornamento automatico: 2026-05-08 16:11:44
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.123.ywxww.net^$important
@@ -174,6 +174,7 @@
 ||*.1oc44-span.pastor-publicist.lat^$important
 ||*.1oc4l-node.xamir9el.lat^$important
 ||*.1vz4le.airport-clar.lat^$important
+||*.25smp.audiheadboa7d.lat^$important
 ||*.30vw.mav8loren.lat^$important
 ||*.3ohr8brt.qen2virex.lat^$important
 ||*.4mnyykj.pastor-publicist.lat^$important
@@ -185,11 +186,13 @@
 ||*.5igna-line.years-very.lat^$important
 ||*.5pru3-trail.sorix3en.lat^$important
 ||*.5t4g3-port.3toravix.lat^$important
+||*.5torm-sync.porukau8ar.lat^$important
 ||*.5udd-signal.qen9varol.lat^$important
 ||*.60ba43cebd4a64a98757663b.netlify.app^$important
 ||*.6995847.5doreval.lat^$important
 ||*.69zhzd.tavro4xel.lat^$important
 ||*.75aohwq.qen2virex.lat^$important
+||*.859wyr.porukau8ar.lat^$important
 ||*.85ot.years-very.lat^$important
 ||*.891ax6si.baked5ham.lat^$important
 ||*.8rvi.noopcup.surf^$important
@@ -220,7 +223,6 @@
 ||*.allister.ee^$important
 ||*.allrounder745.github.io^$important
 ||*.alok78001.github.io^$important
-||*.alt-5cene.priesthood-in.lat^$important
 ||*.alt-c0mp.years-very.lat^$important
 ||*.alt-me4sure.rodrules.surf^$important
 ||*.am6xg75.buckish-nabere.lat^$important
@@ -230,7 +232,6 @@
 ||*.apidocs.1zorelin.lat^$important
 ||*.apidocs.fewhtml.surf^$important
 ||*.apidocs.jesuit5itny.lat^$important
-||*.apidocs.modeall.lat^$important
 ||*.apidocs.nodespit.surf^$important
 ||*.apidocs.puerto-ricans.lat^$important
 ||*.apidocs.srvappsite.lat^$important
@@ -266,6 +267,7 @@
 ||*.arkdraor.mav8loren.lat^$important
 ||*.arkvenex1.godjava.surf^$important
 ||*.arkvenon1.represent-skittish.lat^$important
+||*.arnnav.colonist-proph.lat^$important
 ||*.arra-track.5dorexin.lat^$important
 ||*.arrangehimalayas.com^$important
 ||*.arvind67951.github.io^$important
@@ -291,16 +293,15 @@
 ||*.axwq1.sorix7el.lat^$important
 ||*.ayesha1178.github.io^$important
 ||*.ayushmali2008.github.io^$important
+||*.backupso.com^$important
 ||*.balancebold.expo5ejouer.lat^$important
 ||*.bansalpratham.github.io^$important
 ||*.basi-wave.5doreval.lat^$important
 ||*.battery-ledger-live-login-cdn-us-ch-nine.vercel.app^$important
 ||*.battery-support-ledger-livelogin-e7-mu.vercel.app^$important
-||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bezpieczneudostepnianieplikow.pl^$important
-||*.bgkdrlm.sprutte5t.lat^$important
 ||*.bill-facebook.invoice-ads-program.com^$important
 ||*.binance-1-2-11-uniswap.vercel.app^$important
 ||*.birc6-trail.fixionmunici9al.lat^$important
@@ -323,8 +324,8 @@
 ||*.bitmarrtzslogin.webflow.io^$important
 ||*.bitmartlogiinu.webflow.io^$important
 ||*.bjzm628x.5doreval.lat^$important
-||*.blessdayservices.org^$important
 ||*.blit.co.za^$important
+||*.blogs.sokun.jp^$important
 ||*.blyaddddd.vercel.app^$important
 ||*.bmdcompany.com^$important
 ||*.bnet.playm8ru.win^$important
@@ -373,7 +374,6 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chrome-extension.jdhlmbbkcnblagpianmgafolcpmlmbfa.ledger-live-extension.xyz^$important
-||*.chuguadventures.co.tz^$important
 ||*.ciabjdb.mav8loren.lat^$important
 ||*.cirshift.portcry.surf^$important
 ||*.cl.ssouy.com^$important
@@ -408,7 +408,6 @@
 ||*.config-meta.invoice-ads-manager.com^$important
 ||*.confirmation-meta.invoice-ads-manager.com^$important
 ||*.connect-space.credit-agency-meta.com^$important
-||*.contentmentfairnesspesky.com^$important
 ||*.controliumbt.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corwineagles.com^$important
@@ -525,6 +524,7 @@
 ||*.dpd.ntqylxzwpr.cfd^$important
 ||*.dpd.pjqkvrxlyt.cfd^$important
 ||*.dpd.zolartrix.cfd^$important
+||*.dptfcl.rataj-vertky.lat^$important
 ||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
 ||*.dubaitechnicalservice.ae^$important
@@ -532,7 +532,10 @@
 ||*.duskamp.tavro6xel.lat^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
+||*.dyn-fluxix.porukau8ar.lat^$important
 ||*.dyn-venen.hundred5elf.lat^$important
+||*.dynline1a.diesel-stark.lat^$important
+||*.dynmarka.swimsuit-unable.lat^$important
 ||*.dynmarkar8.xamir3on.lat^$important
 ||*.dynmesh5et.xamir9el.lat^$important
 ||*.e31txu7.eight-education.lat^$important
@@ -543,6 +546,7 @@
 ||*.eciepxlt.solid5lowly.digital^$important
 ||*.edcft2.pages.dev^$important
 ||*.edoctransfer.mx^$important
+||*.efk47wb3.skewedencro2ch.lat^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
@@ -577,12 +581,14 @@
 ||*.faithfultin.5dorexin.lat^$important
 ||*.famous223-hub.github.io^$important
 ||*.farschid.de^$important
+||*.fclmwfzz.colonist-proph.lat^$important
 ||*.fd.v2downf.shop^$important
 ||*.fertas.com.tr^$important
 ||*.ffjc9r7.vexon4al.lat^$important
 ||*.fideliprofile.cyou^$important
 ||*.file.blackint3.com^$important
 ||*.filte-path.7zorelax.lat^$important
+||*.finalcampaign.porukau8ar.lat^$important
 ||*.first-security-verden.de^$important
 ||*.fl4me-field.qen9varol.lat^$important
 ||*.flow-bann.byerottin8.lat^$important
@@ -631,6 +637,7 @@
 ||*.gozozk.mav2lirex.lat^$important
 ||*.grandtheftauto6.cc^$important
 ||*.greenf.alexion.rs^$important
+||*.grim-wave.rataj-vertky.lat^$important
 ||*.grp-atoiner-kalev.pages.dev^$important
 ||*.grupo-conde.com^$important
 ||*.grupomcperu.com^$important
@@ -641,10 +648,12 @@
 ||*.guidance-enhancement-lab.pages.dev^$important
 ||*.gunsandmetallica.github.io^$important
 ||*.gutando.com^$important
+||*.gwq4.skewedencro2ch.lat^$important
 ||*.h1ll-switch.pav1mirex.lat^$important
 ||*.handlerharvest.fewhtml.surf^$important
 ||*.hardwarewallete7ledger-live-login-c-three.vercel.app^$important
 ||*.harikalolla.github.io^$important
+||*.harrain.diesel-stark.lat^$important
 ||*.hasalltalent.com^$important
 ||*.help-ledger-live-login-wallet-suppo-two.vercel.app^$important
 ||*.help-ledger-live-loginwallet-suppor.vercel.app^$important
@@ -665,11 +674,11 @@
 ||*.hotfixs.moto7transport.lat^$important
 ||*.hotfixs.qen9varol.lat^$important
 ||*.hotfixs.stick-shaped.lat^$important
+||*.howgsr7.porukau8ar.lat^$important
 ||*.hseda.com^$important
 ||*.hughssherika896572396.pages.dev^$important
 ||*.hvr071.pav1mirex.lat^$important
 ||*.hylfg.com^$important
-||*.hyper-n4rro.sprutte5t.lat^$important
 ||*.hypersprout.portcry.surf^$important
 ||*.i.404.pm^$important
 ||*.ieke13.7toralex.lat^$important
@@ -678,10 +687,10 @@
 ||*.iiuctower.com^$important
 ||*.image-mesh.xamir9el.lat^$important
 ||*.imagedraw.mav2lirex.lat^$important
-||*.importdeep.sprutte5t.lat^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
 ||*.inner.website^$important
+||*.insightmemo.expo5ejouer.lat^$important
 ||*.invoice-facebook.invoice-ads-program.com^$important
 ||*.ioflow.pav3lorex.surf^$important
 ||*.ioflows.academicunmemo7.lat^$important
@@ -702,8 +711,10 @@
 ||*.ipnodes.qen9varol.lat^$important
 ||*.ipnodes.stick-shaped.lat^$important
 ||*.ircftp.net^$important
+||*.irfw.rataj-vertky.lat^$important
 ||*.irngvd.pav1mirex.lat^$important
 ||*.isometricsindia.co.in^$important
+||*.itage.expo5ejouer.lat^$important
 ||*.itfr9qb.sorix7el.lat^$important
 ||*.itssprout.com^$important
 ||*.ivorywol.sorix7el.lat^$important
@@ -732,6 +743,7 @@
 ||*.jyothishmathi.in^$important
 ||*.kasneb.or.ke^$important
 ||*.kavacanada.ca^$important
+||*.kekie27.skewedencro2ch.lat^$important
 ||*.kelfluxum.actsdks.surf^$important
 ||*.kelmeshon.airport-clar.lat^$important
 ||*.kernel-azur.represent-skittish.lat^$important
@@ -740,6 +752,7 @@
 ||*.kimyen.net^$important
 ||*.kit-technisch.adjust.workers.dev^$important
 ||*.kokorostore.it^$important
+||*.komv9kg.swimsuit-unable.lat^$important
 ||*.konsor.ru^$important
 ||*.kramersmarionnettes.com^$important
 ||*.ktifkan-dana-paylater.0zl9.my.id^$important
@@ -764,6 +777,7 @@
 ||*.ledger-login-nanox-helpdesk-cdn-us.vercel.app^$important
 ||*.ledggr-com-io.pages.dev^$important
 ||*.lettercinema.vexon6ar.lat^$important
+||*.lfvkqfz.diesel-stark.lat^$important
 ||*.libss.0x504.com^$important
 ||*.libsyss.cloudtaskgo.lat^$important
 ||*.libsyss.godjava.surf^$important
@@ -793,6 +807,7 @@
 ||*.login-verify-outlook.wuaze.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lon-01.dlo4d.com^$important
+||*.londonairportstransfer.co.uk^$important
 ||*.luizmatoso.com.br^$important
 ||*.lum-valeon.3toravix.lat^$important
 ||*.lummarkex8.noopcup.surf^$important
@@ -861,6 +876,7 @@
 ||*.moledynam.vexon6ar.lat^$important
 ||*.monogramline.com^$important
 ||*.mosselnet.co.za^$important
+||*.mount9-crest.rataj-vertky.lat^$important
 ||*.msgrouppolicy.vg^$important
 ||*.mspase.com^$important
 ||*.muaythai.sport^$important
@@ -868,7 +884,6 @@
 ||*.mundocarnes.cl^$important
 ||*.mvx23.pav8lorex.lat^$important
 ||*.mx648.com^$important
-||*.myayurvedashoppe.com^$important
 ||*.mygrocerbox.com^$important
 ||*.myshop.7-11.com.peyrt.top^$important
 ||*.n.vs108.com^$important
@@ -877,6 +892,7 @@
 ||*.ncxps.com^$important
 ||*.nelees.com^$important
 ||*.neo-anch0r.7zorelax.lat^$important
+||*.neo-carg0.skewedencro2ch.lat^$important
 ||*.neotcdk.7toralex.lat^$important
 ||*.net-man.8dorexin.surf^$important
 ||*.netapis.7toralex.lat^$important
@@ -897,6 +913,7 @@
 ||*.netmans.rodrules.surf^$important
 ||*.neuralcra.arch-vivarium.lat^$important
 ||*.neurocivi.sorix3en.lat^$important
+||*.new.quranushaiqer.org.sa^$important
 ||*.noithaticon.vn^$important
 ||*.norcrest9os.represent-skittish.lat^$important
 ||*.norlineor.hundred5elf.lat^$important
@@ -909,6 +926,7 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
+||*.oak-branch.swimsuit-unable.lat^$important
 ||*.officials.ink^$important
 ||*.ohkmpt.tavro6xel.lat^$important
 ||*.oixkxhga.qen2virex.lat^$important
@@ -1006,6 +1024,7 @@
 ||*.qdgpv.p7ickmuch.lat^$important
 ||*.qiniuyunxz.yxflzs.com^$important
 ||*.qulxjkdn.byerottin8.lat^$important
+||*.quor-draet.centrifuge-four.lat^$important
 ||*.quorlith0or.sorix7el.lat^$important
 ||*.quornexal.1zorelin.lat^$important
 ||*.qxodg.sorix3en.lat^$important
@@ -1062,6 +1081,7 @@
 ||*.sandman.qen2virex.lat^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
+||*.sceneform.salvat5pozar.lat^$important
 ||*.scenwave.pav8lorex.lat^$important
 ||*.sdsdsdcx.credits-center.com^$important
 ||*.sdvgpro.ru^$important
@@ -1071,9 +1091,13 @@
 ||*.secure-datalink.org^$important
 ||*.secure-live-ledger-walletlogin-ch.vercel.app^$important
 ||*.separadordecc.com^$important
+||*.sermarkal8.expo5ejouer.lat^$important
 ||*.sg123.net^$important
+||*.sh1e1d8-trail.diesel-stark.lat^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
+||*.shapegate.rataj-vertky.lat^$important
+||*.shapegeyse.centrifuge-four.lat^$important
 ||*.shellengi.pastor-publicist.lat^$important
 ||*.shop.mediasova.ru^$important
 ||*.shore-leaf.pastor-publicist.lat^$important
@@ -1090,6 +1114,7 @@
 ||*.skyvpns.puerto-ricans.lat^$important
 ||*.skyvpns.srvappsite.lat^$important
 ||*.skyvpns.technovortexhub.surf^$important
+||*.slate1-pulse.audiheadboa7d.lat^$important
 ||*.snowvolt.3toravix.lat^$important
 ||*.sol-tidea.pav8lorex.lat^$important
 ||*.solar-sanat.net^$important
@@ -1103,7 +1128,6 @@
 ||*.src-get.xamir9on.surf^$important
 ||*.srcgets.cobble-mortgag.lat^$important
 ||*.srcgets.fastexitnow.lat^$important
-||*.srcgets.gzipsea.lat^$important
 ||*.srcgets.hatched-labile.lat^$important
 ||*.srcgets.masterlogicgrid.surf^$important
 ||*.srcgets.noopcup.surf^$important
@@ -1159,7 +1183,7 @@
 ||*.steadymeasure.qen2virex.lat^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
-||*.sub-s3cur.assonanceka1e.lat^$important
+||*.sub-4sh.porukau8ar.lat^$important
 ||*.subcli.vexon4al.surf^$important
 ||*.subclis.captive-portal.lat^$important
 ||*.subclis.linkdevbase.lat^$important
@@ -1170,7 +1194,6 @@
 ||*.subclis.vexon4al.lat^$important
 ||*.subscriber-meta.invoice-ads-manager.com^$important
 ||*.subt13-flow.qen9varol.lat^$important
-||*.sudan-daily.net^$important
 ||*.sudclient.1zorelin.lat^$important
 ||*.sumeshofficial.github.io^$important
 ||*.supplyvau.fixionmunici9al.lat^$important
@@ -1263,6 +1286,7 @@
 ||*.trivaleum8.tavro6xel.lat^$important
 ||*.trtmyanmar.com^$important
 ||*.true.fastexitnow.lat^$important
+||*.tvqib.centrifuge-four.lat^$important
 ||*.uidmap.tavro5xel.surf^$important
 ||*.uidmaps.cloudtaskgo.lat^$important
 ||*.uidmaps.godjava.surf^$important
@@ -1304,7 +1328,6 @@
 ||*.vel-nexon.7toralex.lat^$important
 ||*.velmeshos.eight-education.lat^$important
 ||*.velvet-frame.vexon6ar.lat^$important
-||*.velvetcalm.5toravex.lat^$important
 ||*.verification-cdn-cloud.beer^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -1323,6 +1346,7 @@
 ||*.vmlists.mel2vrax.surf^$important
 ||*.vmlists.rodrules.surf^$important
 ||*.vorcore5ex.1zorelin.lat^$important
+||*.vordrais9.audiheadboa7d.lat^$important
 ||*.vpsruns.barbos-slimy.lat^$important
 ||*.vpsruns.boxemoj.surf^$important
 ||*.vpsruns.breasted-skoda.lat^$important
@@ -1356,7 +1380,6 @@
 ||*.wfvof3o.boxemoj.surf^$important
 ||*.wg1wa8.xamir9el.lat^$important
 ||*.whpayment.ru^$important
-||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wintersubtle.1zorelin.lat^$important
 ||*.wittenhorst.eu^$important
@@ -1397,6 +1420,7 @@
 ||*.www.login-verify-outlook.wuaze.com^$important
 ||*.www.longfeng188.com^$important
 ||*.www.lucky-bet365.com.cn^$important
+||*.www.medises.co.kr^$important
 ||*.www.mevetlab.cl^$important
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
@@ -1404,7 +1428,6 @@
 ||*.www.netflix-clone-pi-three.vercel.app^$important
 ||*.www.notbak.com^$important
 ||*.www.o-shop.com^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.playtown.co.za^$important
 ||*.www.public-xi-lemon.vercel.app^$important
@@ -1427,6 +1450,7 @@
 ||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.toraburan.com^$important
+||*.www.udobrit.ru^$important
 ||*.www.vuelaviajero.com^$important
 ||*.www.website.mypetapp.co.za^$important
 ||*.www.websitedesigningindia.biz^$important
@@ -1435,6 +1459,7 @@
 ||*.www.zhikey.com^$important
 ||*.wxuwbd.represent-skittish.lat^$important
 ||*.x8jh7qqg.die-reformer.digital^$important
+||*.x9hs.rataj-vertky.lat^$important
 ||*.xdcq3.com^$important
 ||*.xenon.studio^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
@@ -1454,8 +1479,8 @@
 ||*.zenspirea.byerottin8.lat^$important
 ||*.zentideis4.priesthood-in.lat^$important
 ||*.zhangjie-whatsapp.com.cn^$important
+||*.zhe9.diesel-stark.lat^$important
 ||*.zhigao5191.com^$important
-||*.ziparks.addport.lat^$important
 ||*.ziparks.cloudtaskgo.lat^$important
 ||*.ziparks.godjava.surf^$important
 ||*.ziparks.infinitynodesys.surf^$important
