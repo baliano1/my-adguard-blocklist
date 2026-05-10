@@ -162,10 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-10 02:40:54
+! Ultimo aggiornamento automatico: 2026-05-10 06:08:34
 ||*.0022a601.pphost.net^$important
 ||*.03f7.nova7frame.life^$important
 ||*.111101111.ru^$important
+||*.1717.1000uc.com^$important
 ||*.1vz4le.airport-clar.lat^$important
 ||*.1ws11.rataj-vertky.lat^$important
 ||*.25smp.audiheadboa7d.lat^$important
@@ -208,7 +209,6 @@
 ||*.action-meta.accounts-admin-agency.com^$important
 ||*.adm.fastbitbox.pics^$important
 ||*.admin.byte.in.ua^$important
-||*.admin.gestroom.it^$important
 ||*.advertising-meta.program-ads-agency.com^$important
 ||*.aesgauji.sorix1ar.lat^$important
 ||*.agency-facebook.program-ads-agency.com^$important
@@ -218,7 +218,6 @@
 ||*.aktiifkan-payllaterrs4.from-resmi3.my.id^$important
 ||*.alarmline.com.br^$important
 ||*.aligncolu.xamir4al.lat^$important
-||*.alineeleuterio.com.br^$important
 ||*.allegro.oef10943920.shop^$important
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
@@ -250,11 +249,13 @@
 ||*.apidocserv.1zarelin.pics^$important
 ||*.apidocserv.2zorevin.pics^$important
 ||*.apidocserv.cloudstackproc.pics^$important
+||*.apidocserv.nodesystemcore.pics^$important
 ||*.apidocserv.systemcorelinkx.pics^$important
 ||*.apiops.softnetlink.pics^$important
 ||*.apiopss.1navorex.lat^$important
 ||*.apiopss.scornful-up.lat^$important
 ||*.apiopss.vbytetap.lat^$important
+||*.apiopsstat.coderlogicbase.pics^$important
 ||*.apiopsstat.sorix2en.pics^$important
 ||*.app.appzcvb.com^$important
 ||*.app.clouditapp.pics^$important
@@ -267,10 +268,12 @@
 ||*.appboxs.6toralix.lat^$important
 ||*.appboxs.dimchown.lat^$important
 ||*.appboxs.dreamer5hrew.lat^$important
+||*.apple-service93.ru^$important
 ||*.application-meta.accounts-admin-agency.com^$important
 ||*.appsrch.1navorex.lat^$important
 ||*.appsrch.scornful-up.lat^$important
 ||*.appsrch.vbytetap.lat^$important
+||*.appsrchcli.coderlogicbase.pics^$important
 ||*.appsrchcli.sorix1ar.pics^$important
 ||*.appsrchcli.sorix2en.pics^$important
 ||*.appsrchcli.surgeon-snoot.lat^$important
@@ -338,6 +341,7 @@
 ||*.bitfoxcore.mav7voren.pics^$important
 ||*.bitfoxcore.radio-technic.lat^$important
 ||*.bitfoxcore.technodesupply.pics^$important
+||*.bitfoxcoreunit.cloudflowops.co^$important
 ||*.bitfoxcoreunit.webdataprocunit.pics^$important
 ||*.bitfoxs.comforter-panel.lat^$important
 ||*.bitfoxs.mav1voren.lat^$important
@@ -346,7 +350,6 @@
 ||*.bitkitmaps.openapiservicex.pics^$important
 ||*.bitkitmaps.vexon3ix.pics^$important
 ||*.bitkitmaps.vexon4ar.pics^$important
-||*.bitkitmapsmgr.infrasettopview.pics^$important
 ||*.bitkits.mel6vator.lat^$important
 ||*.bitkits.peat-scoop.lat^$important
 ||*.bitkits.sixbaud.lat^$important
@@ -410,6 +413,7 @@
 ||*.chip.intelcar.pics^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
+||*.chungminhtaichinhsaigon.net^$important
 ||*.circuit-scope.lomov-stroganal.lat^$important
 ||*.citiretailservices.citibankonlline.com^$important
 ||*.cl.ssouy.com^$important
@@ -421,6 +425,7 @@
 ||*.clip3-stream.buckish-nabere.lat^$important
 ||*.clipaid.app^$important
 ||*.clone-facebook-ten.vercel.app^$important
+||*.cloud.cloudflowops.co^$important
 ||*.cloud.cloudproxyserv.pics^$important
 ||*.cloudstay168.com^$important
 ||*.clusterend.3lunavex.life^$important
@@ -429,6 +434,7 @@
 ||*.cmdset.systemcorelinkx.pics^$important
 ||*.cmdsetproc.1zarelin.pics^$important
 ||*.cmdsetproc.cloudstackproc.pics^$important
+||*.cmdsetproc.nodesystemcore.pics^$important
 ||*.cmdsets.2zorevin.lat^$important
 ||*.cmdsets.modeall.lat^$important
 ||*.co-emas.com^$important
@@ -450,6 +456,7 @@
 ||*.core.fielddie.pics^$important
 ||*.core.infrastructurerun.pics^$important
 ||*.core.systemlogicops.pics^$important
+||*.corestack.netlogicstack.co^$important
 ||*.corporacioncrf.com^$important
 ||*.covcalm.narrownessoutri8ht.pics^$important
 ||*.cove-sdk.di7ectkoshevoy.lat^$important
@@ -458,10 +465,12 @@
 ||*.cpu.intelcar.pics^$important
 ||*.cpu.webcfgbase.pics^$important
 ||*.cpu.websyncbox.pics^$important
+||*.cpuprocessormgr.cloudflowops.co^$important
 ||*.cpuprocessormgr.webdataprocunit.pics^$important
 ||*.cpupros.comforter-panel.lat^$important
 ||*.cpupros.mav1voren.lat^$important
 ||*.cpupros.mayservo.lat^$important
+||*.cpuprosmgr.coderworkflow.pics^$important
 ||*.cpuprosmgr.mav2lorix.pics^$important
 ||*.cpuprosmgr.mav7voren.pics^$important
 ||*.cpuprosmgr.radio-technic.lat^$important
@@ -494,6 +503,7 @@
 ||*.dbinstlist.1zarelin.pics^$important
 ||*.dbinstlist.2zorevin.pics^$important
 ||*.dbinstlist.cloudstackproc.pics^$important
+||*.dbinstlist.nodesystemcore.pics^$important
 ||*.dbinsts.2zorevin.lat^$important
 ||*.dbinsts.enricher-exclam.lat^$important
 ||*.dbinsts.modeall.lat^$important
@@ -514,8 +524,10 @@
 ||*.devbits.dimchown.lat^$important
 ||*.devbits.dreamer5hrew.lat^$important
 ||*.devbits.netinfrahubsys.pics^$important
+||*.devbits.netlogicstack.co^$important
 ||*.devbitscfg.5toralix.pics^$important
 ||*.devbitscfg.7toravex.pics^$important
+||*.devbitscfg.devlogicmaster.pics^$important
 ||*.devbitscfg.globalnetviewer.pics^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
@@ -535,6 +547,8 @@
 ||*.dnswebs.comforter-panel.lat^$important
 ||*.dnswebs.mav1voren.lat^$important
 ||*.dnswebs.mayservo.lat^$important
+||*.dnswebsrvs.cloudflowops.co^$important
+||*.dnswebsrvs.coderworkflow.pics^$important
 ||*.dnswebsrvs.mav2lorix.pics^$important
 ||*.dnswebsrvs.mav7voren.pics^$important
 ||*.dnswebsrvs.radio-technic.lat^$important
@@ -592,12 +606,10 @@
 ||*.efk47wb3.skewedencro2ch.lat^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.emberpetal.zen-5lora.life^$important
 ||*.emuw.priesthood-in.lat^$important
 ||*.en.taichuan.com^$important
 ||*.env.vpssysnet.pics^$important
-||*.envset.infrasettopview.pics^$important
 ||*.envset.vpsgateway.pics^$important
 ||*.envsetproc.guess-relevation.lat^$important
 ||*.envsetproc.openapiservicex.pics^$important
@@ -657,6 +669,7 @@
 ||*.fllegi2j.nanovo5kull.pics^$important
 ||*.flow-bann.byerottin8.lat^$important
 ||*.flow.looprim.pics^$important
+||*.flowmaster.cloudflowops.co^$important
 ||*.flush.flushgot.pics^$important
 ||*.flyingmutts.com^$important
 ||*.fox-glow.nanovo5kull.pics^$important
@@ -664,9 +677,11 @@
 ||*.frozi.cc^$important
 ||*.ftp.fastbitbox.pics^$important
 ||*.ftp.fastrunbase.pics^$important
+||*.ftpsrv.fastnetgateview.pics^$important
 ||*.ftpsrvnode.datalinkcenter.pics^$important
 ||*.ftpsrvnode.tavro5xen.pics^$important
 ||*.ftpsrvnode.tavro8xel.pics^$important
+||*.ftpsrvnode.webstackengine.pics^$important
 ||*.ftpsrvs.addport.lat^$important
 ||*.ftpsrvs.alien2tedchisel.lat^$important
 ||*.ftpsrvs.tavro9xel.lat^$important
@@ -687,6 +702,7 @@
 ||*.getcfghubs.nomination5yak.lat^$important
 ||*.getcfghubs.qen3larex.pics^$important
 ||*.getcfghubs.qen9vorel.pics^$important
+||*.getcfghubs.techopsruntime.pics^$important
 ||*.getcfghubs.webcfgmanager.pics^$important
 ||*.getcfgs.ipsetsew.lat^$important
 ||*.getcfgs.overdoitework.lat^$important
@@ -705,6 +721,7 @@
 ||*.glob.globalnodeviewset.pics^$important
 ||*.global-defe.swimsuit-unable.lat^$important
 ||*.globalbank.us^$important
+||*.gmdigital.space^$important
 ||*.goldefer.sorix1ar.lat^$important
 ||*.google-services.cc^$important
 ||*.grandtheftauto6.cc^$important
@@ -729,6 +746,7 @@
 ||*.hotfixpack.nomination5yak.lat^$important
 ||*.hotfixpack.qen3larex.pics^$important
 ||*.hotfixpack.qen9vorel.pics^$important
+||*.hotfixpack.techopsruntime.pics^$important
 ||*.hotfixpack.webcfgmanager.pics^$important
 ||*.hotfixs.ipsetsew.lat^$important
 ||*.hotfixs.overdoitework.lat^$important
@@ -774,6 +792,7 @@
 ||*.ipnode.cloudviewtop.pics^$important
 ||*.ipnodeclis.qen3larex.pics^$important
 ||*.ipnodeclis.qen9vorel.pics^$important
+||*.ipnodeclis.techopsruntime.pics^$important
 ||*.ipnodeclis.webcfgmanager.pics^$important
 ||*.ipnodeclisys.cloudstacklogic.pics^$important
 ||*.ipnodes.ipsetsew.lat^$important
@@ -819,11 +838,12 @@
 ||*.kelspire4en.skewedencro2ch.lat^$important
 ||*.kelven4en.baked5ham.lat^$important
 ||*.key.rowlocks.pics^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.klhadsd.adi8hesplayer.pics^$important
 ||*.klj.gangaoadmin.cyou^$important
+||*.kokorostore.it^$important
 ||*.komv9kg.swimsuit-unable.lat^$important
+||*.konsor.ru^$important
 ||*.kptc.xamir4al.lat^$important
 ||*.kramersmarionnettes.com^$important
 ||*.kukoenvee-idd.gitbook.io^$important
@@ -834,7 +854,6 @@
 ||*.lanhoppath.guess-relevation.lat^$important
 ||*.lanhoppath.vexon3ix.pics^$important
 ||*.lanhoppath.vexon4ar.pics^$important
-||*.lanhoppathsys.infrasettopview.pics^$important
 ||*.lanhops.mel6vator.lat^$important
 ||*.lanhops.peat-scoop.lat^$important
 ||*.lanhops.sixbaud.lat^$important
@@ -851,10 +870,12 @@
 ||*.libsyspath.datalinkcenter.pics^$important
 ||*.libsyspath.tavro5xen.pics^$important
 ||*.libsyspath.tavro8xel.pics^$important
+||*.libsyspath.webstackengine.pics^$important
 ||*.libsyspathview.fastnetgateview.pics^$important
 ||*.libsyss.addport.lat^$important
 ||*.libsyss.alien2tedchisel.lat^$important
 ||*.libsyss.tavro9xel.lat^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.link.cloudproxyserv.pics^$important
 ||*.link.fastlinkprovider.pics^$important
@@ -879,11 +900,13 @@
 ||*.login-ledgger-load-io-queue.vercel.app^$important
 ||*.login-plus.credit-agency-meta.com^$important
 ||*.logmanagementsys.netinfrahubsys.pics^$important
+||*.logmanagementsys.netlogicstack.co^$important
 ||*.logs.coderlap.pics^$important
 ||*.logs.netloghubs.pics^$important
 ||*.logs.netnodeset.pics^$important
 ||*.logs.openlogmgr.pics^$important
 ||*.logs.serverdatahub.pics^$important
+||*.logviewsys.devlogicmaster.pics^$important
 ||*.logviewsys.globalnetviewer.pics^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lon-01.dlo4d.com^$important
@@ -959,7 +982,6 @@
 ||*.metaltscfg.1zarelin.pics^$important
 ||*.metaltscfg.2zorevin.pics^$important
 ||*.metaltscfg.cloudstackproc.pics^$important
-||*.metaltscfgmgr.systemcorelinkx.pics^$important
 ||*.metamkzlgano.gitbook.io^$important
 ||*.mgr.openlogmgr.pics^$important
 ||*.microb3-layer.cloak-custody.pics^$important
@@ -978,6 +1000,7 @@
 ||*.modbus.openapiserv.pics^$important
 ||*.modbus.openapiservicedata.pics^$important
 ||*.modbusdata.cabardian-year.lat^$important
+||*.modbusdata.datalinkservice.pics^$important
 ||*.modbusdata.systemcoreunit.pics^$important
 ||*.modbusdata.xamir1ol.pics^$important
 ||*.modbusdata.xamir4al.pics^$important
@@ -998,11 +1021,13 @@
 ||*.neo-carg0.skewedencro2ch.lat^$important
 ||*.neonwallet.app^$important
 ||*.net.infrastructurerun.pics^$important
+||*.net.netlogicstack.co^$important
 ||*.net.networkstackmgr.pics^$important
 ||*.net.openlogmgr.pics^$important
 ||*.netapiprot.5toralix.pics^$important
 ||*.netapiprot.7toravex.pics^$important
 ||*.netapiprot.cereal5pesivet.lat^$important
+||*.netapiprot.devlogicmaster.pics^$important
 ||*.netapiprot.globalnetviewer.pics^$important
 ||*.netapis.6toralix.lat^$important
 ||*.netapis.dimchown.lat^$important
@@ -1010,7 +1035,6 @@
 ||*.netman.skynodecfg.pics^$important
 ||*.netmanproc.6doreval.pics^$important
 ||*.netmanproc.9doreval.pics^$important
-||*.netmanproc.infraworkspace.pics^$important
 ||*.netmanproc.krat5urface.lat^$important
 ||*.netmans.ipfspie.lat^$important
 ||*.netmans.lorex7in.lat^$important
@@ -1034,7 +1058,6 @@
 ||*.nor-venix.mixruby.life^$important
 ||*.norflux9ar.scient-telograyka.lat^$important
 ||*.norva-kelra-biz-sunor-zxha22526z-glanex.pages.dev^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oak-branch.swimsuit-unable.lat^$important
@@ -1048,6 +1071,7 @@
 ||*.opnsea0penseamint46.vercel.app^$important
 ||*.ops.linkrunops.pics^$important
 ||*.ops.softwincli.pics^$important
+||*.opsmgr.cloudflowops.co^$important
 ||*.opsmgr.webdataprocunit.pics^$important
 ||*.opsmgr.websyncbox.pics^$important
 ||*.opsmgrs.comforter-panel.lat^$important
@@ -1119,7 +1143,6 @@
 ||*.podcamoss.colonist-proph.lat^$important
 ||*.pop.mailban.pics^$important
 ||*.portail-dsi.fr^$important
-||*.postelnini.mk^$important
 ||*.printposte.colonist-proph.lat^$important
 ||*.private-access.credit-agency-meta.com^$important
 ||*.private2-port.5toravex.lat^$important
@@ -1139,15 +1162,15 @@
 ||*.proto-qu4rr.narrownessoutri8ht.pics^$important
 ||*.proxy.cloudproxyserv.pics^$important
 ||*.proxy.vpsgateway.pics^$important
-||*.proxys.infrasettopview.pics^$important
+||*.proxyservmgr.netlogicstack.co^$important
 ||*.proxyss.mel6vator.lat^$important
 ||*.proxyss.peat-scoop.lat^$important
 ||*.proxyss.sixbaud.lat^$important
 ||*.proxysserv.guess-relevation.lat^$important
-||*.proxysserv.openapiservicex.pics^$important
 ||*.proxysserv.vexon3ix.pics^$important
 ||*.proxysserv.vexon4ar.pics^$important
 ||*.pub-fbf3a87d05664d999912dfd2bd8b8dcc.r2.dev^$important
+||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.pwrlog.openapiserv.pics^$important
 ||*.pwrlogs.comrade-dec1ine.lat^$important
@@ -1184,7 +1207,6 @@
 ||*.rawdats.tavro9xel.lat^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reagentshield.zen-5lora.life^$important
-||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
 ||*.reef7-line.centrifuge-four.lat^$important
@@ -1239,7 +1261,6 @@
 ||*.sathya-the-bot.github.io^$important
 ||*.satyamgupta121.github.io^$important
 ||*.save.jnrsmcu.com^$important
-||*.scainseto.com.br^$important
 ||*.sceneform.salvat5pozar.lat^$important
 ||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
@@ -1293,6 +1314,7 @@
 ||*.src.openapiserv.pics^$important
 ||*.src.openlogmgr.pics^$important
 ||*.srcgetproc.cabardian-year.lat^$important
+||*.srcgetproc.datalinkservice.pics^$important
 ||*.srcgetproc.openapiservicedata.pics^$important
 ||*.srcgetproc.systemcoreunit.pics^$important
 ||*.srcgetproc.xamir1ol.pics^$important
@@ -1320,11 +1342,13 @@
 ||*.srvlogview.cereal5pesivet.lat^$important
 ||*.srvnode.netinfrahubsys.pics^$important
 ||*.srvnode.netlogicstack.co^$important
+||*.srvnodehub.devlogicmaster.pics^$important
 ||*.srvnodehub.globalnetviewer.pics^$important
 ||*.ssh.skyprodoc.pics^$important
 ||*.sshbin.cloudstacklogic.pics^$important
 ||*.sshbinpath.qen3larex.pics^$important
 ||*.sshbinpath.qen9vorel.pics^$important
+||*.sshbinpath.techopsruntime.pics^$important
 ||*.sshbinpath.webcfgmanager.pics^$important
 ||*.sshbins.ipsetsew.lat^$important
 ||*.sshbins.overdoitework.lat^$important
@@ -1335,7 +1359,6 @@
 ||*.sshpros.parliament5almon.lat^$important
 ||*.sshproserv.6doreval.pics^$important
 ||*.sshproserv.9doreval.pics^$important
-||*.sshproserv.infraworkspace.pics^$important
 ||*.sshproserv.krat5urface.lat^$important
 ||*.ssl.cloudviewtop.pics^$important
 ||*.ssl.datasrvhub.pics^$important
@@ -1365,7 +1388,6 @@
 ||*.sub-wo1f.messy-zamai.pics^$important
 ||*.sub.vpsgateway.pics^$important
 ||*.sub.vpssysnet.pics^$important
-||*.subcli.infrasettopview.pics^$important
 ||*.subclidata.guess-relevation.lat^$important
 ||*.subclidata.openapiservicex.pics^$important
 ||*.subclidata.vexon3ix.pics^$important
@@ -1383,6 +1405,7 @@
 ||*.sutterpoint.com^$important
 ||*.svcd.tavro6xen.lat^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.sync.cloudflowops.co^$important
 ||*.sync.clouditapp.pics^$important
 ||*.sync.flushgot.pics^$important
 ||*.syncdusk.mirelax9.life^$important
@@ -1419,7 +1442,6 @@
 ||*.taskids.pav3mirex.lat^$important
 ||*.taskids.ratmedia.lat^$important
 ||*.taskids.residency5ilicat.lat^$important
-||*.taskidview.fastnetgatehub.pics^$important
 ||*.taskidview.fromj2nitor.lat^$important
 ||*.taskidview.pav6mirex.pics^$important
 ||*.taskidview.pav8mirel.pics^$important
@@ -1430,7 +1452,6 @@
 ||*.tcp.skyprodoc.pics^$important
 ||*.tcpconpath.6doreval.pics^$important
 ||*.tcpconpath.9doreval.pics^$important
-||*.tcpconpath.infraworkspace.pics^$important
 ||*.tcpconpath.krat5urface.lat^$important
 ||*.tcpcons.ipfspie.lat^$important
 ||*.tcpcons.lorex7in.lat^$important
@@ -1438,6 +1459,7 @@
 ||*.teach.link^$important
 ||*.team-meta.accounts-admin-agency.com^$important
 ||*.tech.coderlaptechnical.pics^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
@@ -1455,12 +1477,14 @@
 ||*.tmpdirs.qen7larex.lat^$important
 ||*.tmpdirsets.qen3larex.pics^$important
 ||*.tmpdirsets.qen9vorel.pics^$important
+||*.tmpdirsets.techopsruntime.pics^$important
 ||*.tmpdirsets.webcfgmanager.pics^$important
 ||*.tmpdirsetsys.cloudstacklogic.pics^$important
 ||*.tool-meta.accounts-admin-agency.com^$important
 ||*.top.webcfgbase.pics^$important
 ||*.top.websyncbox.pics^$important
 ||*.top8onlinegame.com^$important
+||*.topsvc.cloudflowops.co^$important
 ||*.topsvc.webdataprocunit.pics^$important
 ||*.topsvcs.comforter-panel.lat^$important
 ||*.topsvcs.mav1voren.lat^$important
@@ -1492,6 +1516,7 @@
 ||*.uidmapbits.herdpu7pose.lat^$important
 ||*.uidmapbits.tavro5xen.pics^$important
 ||*.uidmapbits.tavro8xel.pics^$important
+||*.uidmapbits.webstackengine.pics^$important
 ||*.uidmapbitsys.fastnetgateview.pics^$important
 ||*.uidmaps.addport.lat^$important
 ||*.uidmaps.alien2tedchisel.lat^$important
@@ -1561,6 +1586,7 @@
 ||*.vps.docsbed.pics^$important
 ||*.vps.webcfgbase.pics^$important
 ||*.vpsk.qen8vorel.lat^$important
+||*.vpsrun.cloudflowops.co^$important
 ||*.vpsrun.webdataprocunit.pics^$important
 ||*.vpsrun.websyncbox.pics^$important
 ||*.vpsrunproc.mav2lorix.pics^$important
@@ -1585,6 +1611,7 @@
 ||*.webcdnstat.5toralix.pics^$important
 ||*.webcdnstat.7toravex.pics^$important
 ||*.webcdnstat.cereal5pesivet.lat^$important
+||*.webcdnstat.devlogicmaster.pics^$important
 ||*.webcdnstat.globalnetviewer.pics^$important
 ||*.webcdnstat.netinfrahubsys.pics^$important
 ||*.webcdnstat.netlogicstack.co^$important
@@ -1597,6 +1624,7 @@
 ||*.webdocs.1navorex.lat^$important
 ||*.webdocs.scornful-up.lat^$important
 ||*.webdocs.vbytetap.lat^$important
+||*.webdocserv.coderlogicbase.pics^$important
 ||*.webdocserv.sorix1ar.pics^$important
 ||*.webdocserv.sorix2en.pics^$important
 ||*.webdocserv.surgeon-snoot.lat^$important
@@ -1635,6 +1663,7 @@
 ||*.www.help-liveledger-login-wallet-extens-zeta.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hseda.com^$important
+||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.is.gd^$important
 ||*.www.ivorytowertattoo.com^$important
 ||*.www.joyfullmint-drop3.vercel.app^$important
@@ -1674,7 +1703,6 @@
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
-||*.www.test.peperoncinochepassione.it^$important
 ||*.www.udobrit.ru^$important
 ||*.www.uniglobalaccountsupportty.weebly.com^$important
 ||*.www.vjusqe.shop^$important
@@ -1734,4 +1762,4 @@
 ||*.ziparkview.datalinkcenter.pics^$important
 ||*.ziparkview.herdpu7pose.lat^$important
 ||*.ziparkview.tavro8xel.pics^$important
-||*.zycdjz.com^$important
+||*.ziparkview.webstackengine.pics^$important
