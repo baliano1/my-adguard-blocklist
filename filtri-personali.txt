@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-11 19:43:24
+! Ultimo aggiornamento automatico: 2026-05-11 22:04:18
 ||*.0022a601.pphost.net^$important
 ||*.03f7.nova7frame.life^$important
 ||*.111101111.ru^$important
@@ -330,6 +330,7 @@
 ||*.bitmartloginx.webflow.io^$important
 ||*.bittbartihlogin.webflow.io^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bloom7-hinge.setqueueat.lat^$important
 ||*.bmdcompany.com^$important
@@ -383,6 +384,7 @@
 ||*.chinaapper.com^$important
 ||*.chip.intelcar.pics^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cinoa.com.ar^$important
 ||*.civicvehicl.scriptmesh.ink^$important
@@ -695,6 +697,7 @@
 ||*.hyper-c0ra.logicbyte.lat^$important
 ||*.hyper-w4ve.cloudmesh.lat^$important
 ||*.hz1v.didoprotecauth.lat^$important
+||*.i-love-git.com^$important
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.icount-notice.vercel.app^$important
