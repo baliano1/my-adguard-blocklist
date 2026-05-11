@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-11 02:50:42
+! Ultimo aggiornamento automatico: 2026-05-11 06:37:18
 ||*.0022a601.pphost.net^$important
 ||*.03f7.nova7frame.life^$important
 ||*.111101111.ru^$important
@@ -212,6 +212,7 @@
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.advertising-campaign-reporting-hub.pages.dev^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.aghw.pixelnode.lat^$important
 ||*.aktifkans-danax-paylter.tiaoxsid.my.id^$important
 ||*.alarmline.com.br^$important
@@ -270,10 +271,9 @@
 ||*.arktide8ex.queuedimsys.lat^$important
 ||*.armt.cloud^$important
 ||*.ashish-0712-web.github.io^$important
-||*.asiaengrs.com^$important
 ||*.assetprotect.queuedimsys.lat^$important
-||*.atasapka.com.tr^$important
 ||*.audicontadores.com^$important
+||*.augsburg-auto.com^$important
 ||*.aumri.ae^$important
 ||*.aut.bitflowapp.pics^$important
 ||*.aut.clouditapp.pics^$important
@@ -336,6 +336,7 @@
 ||*.brook-mesh.pixel-harbor.life^$important
 ||*.buffervoice.nova7frame.life^$important
 ||*.bus.intelcar.pics^$important
+||*.bvaco.com^$important
 ||*.c.fi3.me^$important
 ||*.c4che-pulse.earoauth.life^$important
 ||*.cache.flushgot.pics^$important
@@ -379,7 +380,6 @@
 ||*.clipaid.app^$important
 ||*.cloud.cloudflowops.co^$important
 ||*.cloud.cloudproxyserv.pics^$important
-||*.cloudstay168.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.clusterend.3lunavex.life^$important
 ||*.cmd.cloudflowops.co^$important
@@ -404,6 +404,7 @@
 ||*.comwebstat.pav6mirex.pics^$important
 ||*.comwebstat.pav8mirel.pics^$important
 ||*.continentalgroup.net.in^$important
+||*.controlhomecr.com^$important
 ||*.controliumbt.com^$important
 ||*.conv-wagon.cryptostack.lat^$important
 ||*.coralasargetia.ro^$important
@@ -427,6 +428,7 @@
 ||*.cpuprosmgr.technodesupply.pics^$important
 ||*.cqrsjc6.pixel-harbor.life^$important
 ||*.crawlerhidden.qorivault.life^$important
+||*.creativevoltage.com^$important
 ||*.crimefreesoftware.com^$important
 ||*.cry5t4-stream.wetshardauth.lat^$important
 ||*.cryptovault.codeflux.lat^$important
@@ -457,8 +459,6 @@
 ||*.dbit.netnodeset.pics^$important
 ||*.dbms.rowlocks.pics^$important
 ||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
-||*.deathmatchuk.com^$important
 ||*.deepion.narrownessoutri8ht.pics^$important
 ||*.defendid.us^$important
 ||*.delp-heizungsbau.de^$important
@@ -485,7 +485,6 @@
 ||*.divvanews.com^$important
 ||*.divyanshisaluja.github.io^$important
 ||*.dl.1003b.56a.com^$important
-||*.dl.dzqzd.com^$important
 ||*.dns.globalnodeviewset.pics^$important
 ||*.dns.webcfgbase.pics^$important
 ||*.dns.websyncbox.pics^$important
@@ -515,12 +514,10 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.mvip8.ru^$important
-||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
-||*.download.kaobeitu.com^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.downloadmaxfile.digital^$important
@@ -531,7 +528,6 @@
 ||*.drivescrip.div0rceskis5ing.pics^$important
 ||*.dsff.softwincli.pics^$important
 ||*.dubaitechnicalservice.ae^$important
-||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.dynamicregi.great-insue.pics^$important
 ||*.dynmark0on.kernelgrid.ink^$important
@@ -546,8 +542,6 @@
 ||*.edge.cloudproxyserv.pics^$important
 ||*.edisjkazndkqwsn.netlify.app^$important
 ||*.edoctransfer.com^$important
-||*.electri.billregulator.com^$important
-||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emberpetal.zen-5lora.life^$important
 ||*.en.taichuan.com^$important
@@ -611,7 +605,6 @@
 ||*.fundverify.nova7frame.life^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
-||*.galerisenimutiara.com^$important
 ||*.gauri426.github.io^$important
 ||*.geminuslogi.godaddysites.com^$important
 ||*.gemiximlogen.gitbook.io^$important
@@ -660,7 +653,6 @@
 ||*.help---cloud--ledger.webflow.io^$important
 ||*.hemasai333.github.io^$important
 ||*.hill-forge.cloak-custody.pics^$important
-||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hjr2411.github.io^$important
 ||*.hobobot.net^$important
@@ -672,7 +664,6 @@
 ||*.hotfix.cloudstacklogic.pics^$important
 ||*.hotfixpack.techopsruntime.pics^$important
 ||*.hotfixpack.webcfgmanager.pics^$important
-||*.hseda.com^$important
 ||*.ht7sq.devmatrix.lat^$important
 ||*.hub.datasrvhub.pics^$important
 ||*.hub.globalnodeviewset.pics^$important
@@ -720,6 +711,7 @@
 ||*.itssprout.com^$important
 ||*.iyneagxn.cloak-custody.pics^$important
 ||*.izocab.com^$important
+||*.izogard.com^$important
 ||*.j53n.vip^$important
 ||*.jahreed9.github.io^$important
 ||*.jawaratekno.com^$important
@@ -727,7 +719,6 @@
 ||*.jcko.qorivault.life^$important
 ||*.jeanjacquesbaudeau.github.io^$important
 ||*.jjn76gwl.3lunavex.life^$important
-||*.jlwz.cn^$important
 ||*.joao-hribeiro.github.io^$important
 ||*.jobadm.fastnetgateview.pics^$important
 ||*.jobadm.fastrunbase.pics^$important
@@ -826,12 +817,10 @@
 ||*.ly1p.mixruby.life^$important
 ||*.lzlwj.pages.dev^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.macroloop.logicstack.ink^$important
 ||*.madhubharathitl.github.io^$important
 ||*.magnusworkspace.com^$important
 ||*.mahleinc.com^$important
-||*.maidforyou1985.com^$important
 ||*.maikfsas.ywefdewtf.eu.org^$important
 ||*.mail.lucrativehiring.com^$important
 ||*.mail.mailban.pics^$important
@@ -975,13 +964,13 @@
 ||*.p1ne-track.pixel-harbor.life^$important
 ||*.p3.zbjimg.com^$important
 ||*.pal3t8-loop.messy-zamai.pics^$important
+||*.palharesinformatica.com.br^$important
 ||*.pappu773512-cmd.github.io^$important
 ||*.path.fastlinkprovider.pics^$important
 ||*.path.fielddie.pics^$important
 ||*.pay.aqiu6.com^$important
 ||*.paylessmini.com^$important
 ||*.pcupd.com^$important
-||*.petitesalope.com^$important
 ||*.pid.fly160.com^$important
 ||*.pipelin6-crest.qu2ntitative-tenero.pics^$important
 ||*.pkgrunstat.datalinkservice.pics^$important
@@ -1123,7 +1112,6 @@
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.script1-gate.lipshellcore.lat^$important
-||*.sdvgpro.ru^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -1144,7 +1132,6 @@
 ||*.shipdem.lipshellcore.lat^$important
 ||*.shiven5968.github.io^$important
 ||*.shop.mediasova.ru^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.shtruz494.github.io^$important
 ||*.si1e-branch.setqueueat.lat^$important
 ||*.sign.emptyp.xyz^$important
@@ -1232,7 +1219,6 @@
 ||*.suddenhar.currencysn0ut.pics^$important
 ||*.sunkonto.jalenemurphy.com^$important
 ||*.support.clz.kr^$important
-||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.svt-aletaharropact6825.pages.dev^$important
 ||*.swanresolver.cybernode.ink^$important
@@ -1292,6 +1278,7 @@
 ||*.thatdimensionalwebsite.com^$important
 ||*.thebrandmantra.in^$important
 ||*.theholidayroads.com^$important
+||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thesidsupreme.github.io^$important
@@ -1377,6 +1364,7 @@
 ||*.velvetstream.mirelax9.life^$important
 ||*.verification-cdn-cloud.beer^$important
 ||*.verification.healthyemployee.me^$important
+||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vfdksvkfndvkbnksfd-d8f9a7g0dzh9dads.z03.azurefd.net^$important
 ||*.vgd.vg^$important
@@ -1391,6 +1379,7 @@
 ||*.visualwikicloud.com^$important
 ||*.vita-not.scriptmesh.ink^$important
 ||*.vizyonuniversitesi.com.tr^$important
+||*.vizyonuniversitesi.web.tr^$important
 ||*.vmlistview.6doreval.pics^$important
 ||*.vmlistview.infraworkspace.pics^$important
 ||*.vmlistview.softnetworkset.pics^$important
@@ -1438,10 +1427,10 @@
 ||*.webmail.creditunion-authority.com^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whpayment.ru^$important
-||*.widexenmexico.com.mx^$important
 ||*.wildmemory.frostmirelens.life^$important
 ||*.wildmerg.nanovo5kull.pics^$important
 ||*.win.softwincli.pics^$important
+||*.wittenhorst.eu^$important
 ||*.wlr33mz.cloudvector.ink^$important
 ||*.woodcora.devmatrix.lat^$important
 ||*.work-with-us-31m.pages.dev^$important
@@ -1460,6 +1449,7 @@
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.baradua.it^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.busanopen.org^$important
@@ -1491,7 +1481,6 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.o-shop.com^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.personas-svp.vercel.app^$important
 ||*.www.playtown.co.za^$important
