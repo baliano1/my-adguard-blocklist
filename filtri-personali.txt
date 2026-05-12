@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-12 02:42:49
+! Ultimo aggiornamento automatico: 2026-05-12 06:12:59
 ||*.0022a601.pphost.net^$important
 ||*.01bced66.sweet-credit-9cdf.pages.dev^$important
 ||*.111101111.ru^$important
@@ -258,7 +258,6 @@
 ||*.bandwid-route.mixzipcore64.lat^$important
 ||*.banque-online.com^$important
 ||*.bay-loyal.cloudmesh.lat^$important
-||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
 ||*.beartrend.logicstack.ink^$important
 ||*.beoauto.alexion.rs^$important
@@ -312,7 +311,6 @@
 ||*.cl.ssouy.com^$important
 ||*.clipaid.app^$important
 ||*.cloud.cloudflowops.co^$important
-||*.cloudstay168.com^$important
 ||*.clover-infotech-internal.github.io^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cmd.cloudflowops.co^$important
@@ -454,7 +452,6 @@
 ||*.fdgfdg.center-meta-agency.com^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finance-ndax.pages.dev^$important
 ||*.finnest.ink^$important
@@ -467,7 +464,6 @@
 ||*.fonij.cm^$important
 ||*.forefern.pixelnode.lat^$important
 ||*.fortflarefn.github.io^$important
-||*.fotosdepuebla.org^$important
 ||*.free-antivir.us^$important
 ||*.free-instagram-followers-mocha.vercel.app^$important
 ||*.frozi.cc^$important
@@ -497,6 +493,7 @@
 ||*.gitlabhubs.logicstackhub.pics^$important
 ||*.globalbank.us^$important
 ||*.glokchapigui.co^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.gossipband.ie^$important
 ||*.gr1m-mark.userssawtone.lat^$important
@@ -797,6 +794,7 @@
 ||*.sab8942.github.io^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.sahanajambagi.github.io^$important
+||*.sakuraloyalty.com^$important
 ||*.sarthak312004.github.io^$important
 ||*.save.jnrsmcu.com^$important
 ||*.schenckel.com.br^$important
