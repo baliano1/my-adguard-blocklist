@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-12 19:46:15
+! Ultimo aggiornamento automatico: 2026-05-12 22:09:47
 ||*.0022a601.pphost.net^$important
 ||*.111101111.ru^$important
 ||*.121deo.senes.at^$important
@@ -272,6 +272,7 @@
 ||*.business-meta.busines-help-center.com^$important
 ||*.bvaco.com^$important
 ||*.c.fi3.me^$important
+||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.casual-trail.mixzipcore64.lat^$important
 ||*.cat.dashabi.in^$important
@@ -473,7 +474,6 @@
 ||*.gitlabhubs.logicstackhub.pics^$important
 ||*.globalbank.us^$important
 ||*.glokchapigui.co^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.gr1m-mark.userssawtone.lat^$important
 ||*.granitebroad.mixzipcore64.lat^$important
@@ -949,6 +949,7 @@
 ||*.vpsrun.cloudflowops.co^$important
 ||*.vpsrunproc.coderworkflow.pics^$important
 ||*.vr-codep.github.io^$important
+||*.vrajras.com^$important
 ||*.vvh3el-crest.cloudvector.ink^$important
 ||*.wamemd.logicstack.ink^$important
 ||*.warmhar.mixzipcore64.lat^$important
