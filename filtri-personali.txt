@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-12 06:12:59
+! Ultimo aggiornamento automatico: 2026-05-12 11:19:17
 ||*.0022a601.pphost.net^$important
 ||*.01bced66.sweet-credit-9cdf.pages.dev^$important
 ||*.111101111.ru^$important
@@ -278,7 +278,6 @@
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
 ||*.boosmars.lipshellcore.lat^$important
-||*.boydjackson.org^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridge-home--trezor.gitbook.io^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -295,7 +294,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.central.pr-universe.com^$important
 ||*.channe-grid.wetshardauth.lat^$important
@@ -406,7 +404,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.downloadmaxfile.digital^$important
 ||*.dowonline.ru^$important
 ||*.dpd.zplmqxjtrv.cfd^$important
@@ -428,6 +425,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emilemoraes.github.io^$important
+||*.emoto.mk^$important
 ||*.en.taichuan.com^$important
 ||*.enuganduladineshkumar.github.io^$important
 ||*.envset.infrasettopview.pics^$important
@@ -457,11 +455,9 @@
 ||*.finnest.ink^$important
 ||*.firewalll.b-cdn.net^$important
 ||*.first-security-verden.de^$important
-||*.fitforevercavan.ie^$important
 ||*.flowmaster.cloudflowops.co^$important
 ||*.flyingmutts.com^$important
 ||*.fnaver.netlify.app^$important
-||*.fonij.cm^$important
 ||*.forefern.pixelnode.lat^$important
 ||*.fortflarefn.github.io^$important
 ||*.free-antivir.us^$important
@@ -495,7 +491,6 @@
 ||*.glokchapigui.co^$important
 ||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
-||*.gossipband.ie^$important
 ||*.gr1m-mark.userssawtone.lat^$important
 ||*.granitebroad.mixzipcore64.lat^$important
 ||*.greenf.alexion.rs^$important
@@ -513,7 +508,6 @@
 ||*.home-rent-application.vercel.app^$important
 ||*.honestshape.wetshardauth.lat^$important
 ||*.hotel-stay77213.com^$important
-||*.hotellacastellana.com.uy^$important
 ||*.hotfix.cloudstack.pics^$important
 ||*.hotfixpack.techopsruntime.pics^$important
 ||*.hseda.com^$important
@@ -556,13 +550,11 @@
 ||*.jin.com.my^$important
 ||*.jjanahh274-eng.github.io^$important
 ||*.jkblog790.netlify.app^$important
-||*.jlwz.cn^$important
 ||*.joaogallindo-dev.github.io^$important
 ||*.jobadm.fastnetgateview.pics^$important
 ||*.jobadm.framevector.ink^$important
 ||*.jobadm.pixelmesh.pics^$important
 ||*.jobadmmgrs.webstackengine.pics^$important
-||*.jobhunters.ly^$important
 ||*.joyeriatauro.com^$important
 ||*.jsz.nyx.temporary.site^$important
 ||*.jyothishmathi.in^$important
@@ -576,7 +568,6 @@
 ||*.kidcarteer.b-cdn.net^$important
 ||*.kimyen.net^$important
 ||*.kixcoinlognin.gitbook.io^$important
-||*.kms.com.bd^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kramersmarionnettes.com^$important
@@ -696,7 +687,6 @@
 ||*.notifyhubss.net^$important
 ||*.novolimitepratodos.s3.us-east-005.backblazeb2.com^$important
 ||*.nr7571808-bit.github.io^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oakbalancer.setqueueat.lat^$important
@@ -744,6 +734,7 @@
 ||*.proxyservmgr.netlogicstack.co^$important
 ||*.proxysserv.infrapointbase.pics^$important
 ||*.proxysserv.openapiservicex.pics^$important
+||*.ptpilatesstudio.com^$important
 ||*.pub-1e5d76a3f07d40fca9aaa348be68acb6.r2.dev^$important
 ||*.pub-f4bf4b5c581d4d2fae8ac6d8e8ea7310.r2.dev^$important
 ||*.public-trezo.vercel.app^$important
@@ -796,7 +787,7 @@
 ||*.sahanajambagi.github.io^$important
 ||*.sakuraloyalty.com^$important
 ||*.sarthak312004.github.io^$important
-||*.save.jnrsmcu.com^$important
+||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
 ||*.script1-gate.lipshellcore.lat^$important
 ||*.sdvgpro.ru^$important
@@ -1023,6 +1014,7 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.free-instagram-followers-mocha.vercel.app^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.joyfullmint-drop7.vercel.app^$important
 ||*.www.jozefinskiatelje.si^$important
