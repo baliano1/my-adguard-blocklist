@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-13 14:26:21
+! Ultimo aggiornamento automatico: 2026-05-13 17:14:19
 ||*.0022a601.pphost.net^$important
 ||*.0605lkptar.enterprisepolicycenterassist.com^$important
 ||*.121deo.senes.at^$important
@@ -322,6 +322,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.downloadmaxfile.digital^$important
 ||*.dpd.ie-state.cc^$important
 ||*.dpd.ie-state.cyou^$important
@@ -359,6 +360,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -605,6 +607,7 @@
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.secureportal-access.com^$important
+||*.seducingdelirium.surf^$important
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.servpaypay.com^$important
@@ -694,7 +697,6 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tech-script-logic-unit-reference.wiki^$important
 ||*.techapiguard.co^$important
-||*.techtattva.in^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
@@ -705,6 +707,7 @@
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
+||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
