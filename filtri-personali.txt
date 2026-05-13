@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-13 19:50:48
+! Ultimo aggiornamento automatico: 2026-05-13 22:07:43
 ||*.0022a601.pphost.net^$important
 ||*.0605lkptar.enterprisepolicycenterassist.com^$important
 ||*.121deo.senes.at^$important
@@ -291,6 +291,7 @@
 ||*.datapulse.wiki^$important
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
+||*.decentralizedmessagingframework.wiki^$important
 ||*.delicate-darkness-0d16.vu6023546.workers.dev^$important
 ||*.delp-heizungsbau.de^$important
 ||*.derekludlow.com^$important
@@ -302,6 +303,7 @@
 ||*.digital-node-cloud-ops-manual.wiki^$important
 ||*.diligent-transportation-575027.framer.app^$important
 ||*.disk.accord1key.cn^$important
+||*.distributedobjectstoragenet.wiki^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -401,6 +403,7 @@
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.httpsfewapi.surf^$important
+||*.hypervisorresourcecontroller.wiki^$important
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
@@ -536,6 +539,7 @@
 ||*.oxfordmobilexray.com^$important
 ||*.p3.zbjimg.com^$important
 ||*.p9015zuh.unp2idvalk.digital^$important
+||*.packetdistributionmesh.wiki^$important
 ||*.palharesinformatica.com.br^$important
 ||*.passoverphysiqclass.wiki^$important
 ||*.passwordweb.wiki^$important
@@ -585,6 +589,7 @@
 ||*.robnhodlogen.gitbook.io^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rozy.standard.us-east-1.oortstorages.com^$important
+||*.runtimeexecutionlayer.wiki^$important
 ||*.russia24.icu^$important
 ||*.rxquickpay.com^$important
 ||*.s.teams-ca.com^$important
@@ -628,7 +633,6 @@
 ||*.stationnement-antai-gouv-infractions.g-stav.eu^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
-||*.stonecradle.com^$important
 ||*.streamprocessingnode.wiki^$important
 ||*.structural-indigo-cmk63zowrc-vtkcseflo2.edgeone.app^$important
 ||*.supervise-qualify-7p0ge8y.vercel.app^$important
@@ -691,6 +695,7 @@
 ||*.techapiguard.co^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
+||*.telemetry-observability-core.wiki^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
