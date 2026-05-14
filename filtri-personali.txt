@@ -162,12 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-14 06:22:45
+! Ultimo aggiornamento automatico: 2026-05-14 11:12:04
 ||*.0022a601.pphost.net^$important
 ||*.0iiyd3zxj8zai99woxyynypnlvi8z.gertiemoura.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
-||*.3brosstore.com^$important
 ||*.4bklvfdi.estradaannivers.digital^$important
 ||*.51523.file-open.surf^$important
 ||*.64bc33vp.chequecholeric.digital^$important
@@ -196,10 +195,8 @@
 ||*.ambiguous-champion-644796.framer.app^$important
 ||*.amir-mhd79.github.io^$important
 ||*.amzn-gong.s3.us-east-2.amazonaws.com^$important
-||*.analytical-traffic-audit-record-file.wiki^$important
 ||*.andjemztech.com^$important
 ||*.angelpatter.wiki^$important
-||*.antiq-telegraphyproduct.wiki^$important
 ||*.anushabilal2825.github.io^$important
 ||*.api-routing-one.vercel.app^$important
 ||*.api.baimless.com^$important
@@ -227,12 +224,8 @@
 ||*.bantuan-dana-indonesia.layanan-offcial.biz.id^$important
 ||*.battleground-midas.topup-mobiles.com^$important
 ||*.bbos.minet.vn^$important
-||*.beacontweezersbinge.wiki^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
-||*.binary-block-state-collection.wiki^$important
 ||*.binary-block-tabel-expert-get.wiki^$important
-||*.binary-buffer-overflow-protection-lab.wiki^$important
 ||*.blessdayservices.org^$important
 ||*.blockbook-tls-1.nodes.zelcore.io^$important
 ||*.blogs.sokun.jp^$important
@@ -244,7 +237,6 @@
 ||*.boydjackson.org^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
-||*.brightestprocexchange.wiki^$important
 ||*.brightworks.cz^$important
 ||*.briskinternet.com^$important
 ||*.bula-silomercitationlaptop.wiki^$important
@@ -272,6 +264,7 @@
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.clipaid.app^$important
+||*.cloud-infrastructure-management-platform.wiki^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cluster-module-deployment-standard-map.wiki^$important
 ||*.cn.unionlever.com^$important
@@ -291,7 +284,6 @@
 ||*.creativevoltage.com^$important
 ||*.crimefreesoftware.com^$important
 ||*.crimson-cake-a09c.hnfalipohiwlnjtncuahren.workers.dev^$important
-||*.crypt-algorithm-analysis-expert-board.wiki^$important
 ||*.cryptogrid.wiki^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -307,12 +299,12 @@
 ||*.datapulse.wiki^$important
 ||*.dc.crsorgi.gov.in.verifycertificatecrs.co.in^$important
 ||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
 ||*.dd1.qzz.io^$important
 ||*.decentralizedmessagingframework.wiki^$important
 ||*.decentralizedworkflowengine.wiki^$important
 ||*.delp-heizungsbau.de^$important
 ||*.derekludlow.com^$important
+||*.desk-sensor-tabel-tunnel-key.wiki^$important
 ||*.devmatrix.wiki^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
@@ -321,11 +313,13 @@
 ||*.digital-node-cloud-ops-manual.wiki^$important
 ||*.disabled-account.accounts-admin-agency.com^$important
 ||*.disk.accord1key.cn^$important
+||*.distributed-cache-storage-layer.wiki^$important
 ||*.distributed-source-element-package-site.wiki^$important
 ||*.distributedobjectstoragenet.wiki^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
+||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.documentsxx.s3.us-east-2.amazonaws.com^$important
 ||*.donkeytourscroatia.com^$important
@@ -360,12 +354,14 @@
 ||*.eaglefungustourismscreen.wiki^$important
 ||*.eastern247hospital.co.zw^$important
 ||*.easybrand.vn^$important
-||*.electri.billregulator.com^$important
+||*.edge-processing-network.wiki^$important
+||*.elevenhold.hu^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.en-setup-ledger.pages.dev^$important
 ||*.en-us-setup-ledger.pages.dev^$important
 ||*.en.taichuan.com^$important
+||*.engine-block-tabel-stream-key.wiki^$important
 ||*.enterprise-solution-buffer-utility-log.wiki^$important
 ||*.epanpano.com^$important
 ||*.essasuaoprtunidadenaoperde.s3.us-east-005.backblazeb2.com^$important
@@ -380,6 +376,7 @@
 ||*.fast.raidher.icu^$important
 ||*.fd.v2downf.shop^$important
 ||*.federated-runtime-network.wiki^$important
+||*.federated-storage-cluster-system.wiki^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
@@ -406,7 +403,6 @@
 ||*.gutando.com^$important
 ||*.hamsangwich.com^$important
 ||*.handout-voivodeshiplink.wiki^$important
-||*.hardware-resource-monitor-tool-box.wiki^$important
 ||*.hasalltalent.com^$important
 ||*.hassanrazaxcode-code.github.io^$important
 ||*.hemorrhoid-daydark.wiki^$important
@@ -424,7 +420,6 @@
 ||*.icoffeecloud.com^$important
 ||*.iedgar34.github.io^$important
 ||*.igra123.com^$important
-||*.immersevocalistidleness.wiki^$important
 ||*.infra-point-bits-service-atlas.wiki^$important
 ||*.ingresarquibhd.iceiy.com^$important
 ||*.injectroblox.ru^$important
@@ -437,6 +432,7 @@
 ||*.izocab.com^$important
 ||*.izogard.com^$important
 ||*.j55l.vip^$important
+||*.jalebel7abeb.com^$important
 ||*.jawaratekno.com^$important
 ||*.jin.com.my^$important
 ||*.jitka-curillova.systeme.io^$important
@@ -445,15 +441,14 @@
 ||*.jyothishmathi.in^$important
 ||*.jyotikukreti739.github.io^$important
 ||*.kavacanada.ca^$important
-||*.kernel-patch-update-release-history.wiki^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
+||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kramersmarionnettes.com^$important
 ||*.kshitij127a.github.io^$important
 ||*.landonirwin.com^$important
 ||*.laptoplink.wiki^$important
-||*.lara.com.ar^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.learn-desktop.pages.dev^$important
 ||*.ledg-com-us.pages.dev^$important
@@ -488,7 +483,6 @@
 ||*.marsalek.cy^$important
 ||*.master-system-data-core-wiki.wiki^$important
 ||*.me1amask-wullxtt.gitbook.io^$important
-||*.medicin-morisomtobeafraid.wiki^$important
 ||*.meetvideogoogle.com^$important
 ||*.member043.agency-connection-hub.com^$important
 ||*.member043.business-support-partner.com^$important
@@ -514,6 +508,7 @@
 ||*.metrics.gocloudmaps.com^$important
 ||*.microkernel-routing-engine.wiki^$important
 ||*.microservice-balancer-node.wiki^$important
+||*.microservice-control-plane-node.wiki^$important
 ||*.mistralkorea.ru^$important
 ||*.miststarvationsify.wiki^$important
 ||*.mitreart.com^$important
@@ -581,7 +576,6 @@
 ||*.prime-object-container-task-archive.wiki^$important
 ||*.pro-architecture-engineering-vault-info.wiki^$important
 ||*.promsyonvakti.cfd^$important
-||*.protherapycenter.com^$important
 ||*.psce.pw^$important
 ||*.pt6nyxsf.unseen-zorenka.digital^$important
 ||*.pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^$important
@@ -596,7 +590,6 @@
 ||*.qz.697539.com^$important
 ||*.r9chy91i.unseen-zorenka.digital^$important
 ||*.ramirex.ro^$important
-||*.ranojpegu.in^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
@@ -605,7 +598,6 @@
 ||*.refrigeracion.delmondexpress.com^$important
 ||*.registra-2026-credi-demon.vercel.app^$important
 ||*.reifenquick.de^$important
-||*.remote-sensor-proxy-tunnel-config.wiki^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
@@ -644,7 +636,6 @@
 ||*.setup-ledgeri.pages.dev^$important
 ||*.setup-leedger.pages.dev^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shorten.tv^$important
@@ -660,9 +651,9 @@
 ||*.solar-sanat.net^$important
 ||*.solicitemaioaumento.s3.us-east-005.backblazeb2.com^$important
 ||*.spgint.com^$important
+||*.spoar.org.in^$important
 ||*.sso-uphold-cdn.infinityfreeapp.com^$important
 ||*.stackforge.wiki^$important
-||*.stat-collection-engine-performance-view.wiki^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
@@ -708,10 +699,12 @@
 ||*.t-mobile.zwdvby.top^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
+||*.tapestryoftruth.com^$important
 ||*.tech-script-logic-unit-reference.wiki^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telemetry-observability-core.wiki^$important
+||*.telemetry-stream-hub.wiki^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
 ||*.tertsiyavocalsunseenfile.wiki^$important
@@ -727,7 +720,6 @@
 ||*.thtp2.volamngayxua.net^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
-||*.trace-route-diagnostic-signal-map.wiki^$important
 ||*.tradedsglobal.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
@@ -752,6 +744,7 @@
 ||*.vincentdemiero.com^$important
 ||*.virtual-compute-engine-template-doc.wiki^$important
 ||*.virtual-packet-gateway.wiki^$important
+||*.virtual-routing-gateway.wiki^$important
 ||*.virtual-session-broker.wiki^$important
 ||*.visam.info^$important
 ||*.vishnudas18.github.io^$important
@@ -783,7 +776,6 @@
 ||*.www.av7yd3eu.com^$important
 ||*.www.b35ttt.com^$important
 ||*.www.backupallfresh2030.com^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.bitly.cx^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
