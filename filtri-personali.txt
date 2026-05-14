@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-14 14:03:35
+! Ultimo aggiornamento automatico: 2026-05-14 16:58:46
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -272,6 +272,7 @@
 ||*.c2.mc-live.online^$important
 ||*.cad.659t.cn^$important
 ||*.cafe-club-oracle-card.wiki^$important
+||*.card-oracle-mac-laptop.wiki^$important
 ||*.cartaonotopo.s3.us-east-005.backblazeb2.com^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
@@ -389,6 +390,7 @@
 ||*.evangroup.ru^$important
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
+||*.expert-trading-academy.courses^$important
 ||*.facebook-id9875319.program-ads-agency.com^$important
 ||*.facebook-id9875320.program-ads-agency.com^$important
 ||*.facebook.loginpage.info^$important
@@ -408,7 +410,6 @@
 ||*.fnxx.info^$important
 ||*.fotolends.lat^$important
 ||*.fotomaxinstall.click^$important
-||*.fotosdepuebla.org^$important
 ||*.freelanceconnect.id^$important
 ||*.frozi.cc^$important
 ||*.fukt.link^$important
@@ -429,6 +430,7 @@
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
+||*.handout-voivo-desk-ship-link.wiki^$important
 ||*.handout-voivodeshiplink.wiki^$important
 ||*.hasalltalent.com^$important
 ||*.haus99.net^$important
@@ -485,6 +487,8 @@
 ||*.landonirwin.com^$important
 ||*.laptoplink.wiki^$important
 ||*.lawfirm.paperbirdtech.com^$important
+||*.layer-get-win-tron.wiki^$important
+||*.layer-obs-usget-tron.wiki^$important
 ||*.ledhgyd-vbchdhj.pages.dev^$important
 ||*.libss.0x504.com^$important
 ||*.lindenappliances.co.za^$important
@@ -504,6 +508,7 @@
 ||*.m.fyqn9810la0y.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.js88805.com^$important
+||*.m.meta-dm.com^$important
 ||*.m.padisahbet-2026.life^$important
 ||*.m1rz16og.poles-wrinkle.digital^$important
 ||*.magedmagdy2000.github.io^$important
@@ -511,6 +516,7 @@
 ||*.maidforyou1985.com^$important
 ||*.master-core-system-date-slink.wiki^$important
 ||*.master-system-data-core-wiki.wiki^$important
+||*.master-voivo-system-shop-slink.wiki^$important
 ||*.meetvideogoogle.com^$important
 ||*.member010.agency-digital-connect.com^$important
 ||*.member012.agency-digital-connect.com^$important
@@ -574,6 +580,7 @@
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oauth.salvcna.com^$important
+||*.obese-table-usweb-play.wiki^$important
 ||*.obese-uzousweb-play.wiki^$important
 ||*.observability-stream-hub.wiki^$important
 ||*.ohqvz201.unseen-zorenka.digital^$important
@@ -613,6 +620,7 @@
 ||*.postelnini.mk^$important
 ||*.prime-object-container-task-archive.wiki^$important
 ||*.pro-architecture-engineering-vault-info.wiki^$important
+||*.pro-cyber-defense.courses^$important
 ||*.protectsun.nl^$important
 ||*.pt6nyxsf.unseen-zorenka.digital^$important
 ||*.pub-f1e213d7f7cb4ce7ba1028767eebb8db.r2.dev^$important
@@ -673,6 +681,7 @@
 ||*.shukalbrinda-byte.github.io^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
+||*.smartworkflowmanagement.courses^$important
 ||*.smother-portf.file-open.surf^$important
 ||*.snooze-wontdrama.wiki^$important
 ||*.soft.110route.com^$important
@@ -680,7 +689,6 @@
 ||*.softwarefile.wiki^$important
 ||*.solar-sanat.net^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.sporternaehrung-lambertz.de^$important
 ||*.srbe.closer.website^$important
 ||*.sso-auth.com^$important
