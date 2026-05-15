@@ -162,9 +162,8 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-15 19:26:02
+! Ultimo aggiornamento automatico: 2026-05-15 21:56:59
 ||*.0022a601.pphost.net^$important
-||*.123.ywxww.net^$important
 ||*.135-125-245-221.cprapid.com^$important
 ||*.1717.1000uc.com^$important
 ||*.4bklvfdi.estradaannivers.digital^$important
@@ -193,6 +192,7 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
+||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amazingreinvite.de^$important
 ||*.analytical-traffic-audit-record-file.wiki^$important
@@ -244,6 +244,7 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
+||*.botanicalworkflow.garden^$important
 ||*.bq99ksyi.unseen-zorenka.digital^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -289,7 +290,6 @@
 ||*.contactdisrupwhite.wiki^$important
 ||*.containerfabric.wiki^$important
 ||*.containerorchestrationhub.wiki^$important
-||*.continentalgroup.net.in^$important
 ||*.continue-book-call.com^$important
 ||*.contribuinte2026.icu^$important
 ||*.controliumbt.com^$important
@@ -352,7 +352,6 @@
 ||*.dowonline.ru^$important
 ||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
-||*.drhenrylopez.com^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dunh1ll.github.io^$important
 ||*.dusttv.com^$important
@@ -378,7 +377,6 @@
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
 ||*.expert-trading-academy.courses^$important
-||*.facanha.com.br^$important
 ||*.fakers.co.jp^$important
 ||*.falacerta.com^$important
 ||*.farschid.de^$important
@@ -413,6 +411,7 @@
 ||*.grantexx.gr^$important
 ||*.grartfixstudio-commits.github.io^$important
 ||*.greenf.alexion.rs^$important
+||*.greenhousecontrolhub.garden^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.h204812.github.io^$important
@@ -424,7 +423,6 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
-||*.hold-holdskopetztakenaback.courses^$important
 ||*.hseda.com^$important
 ||*.hydropower-irrigation.garden^$important
 ||*.hypervisor-resource-grid.wiki^$important
@@ -540,7 +538,6 @@
 ||*.netcoinzlogin.webflow.io^$important
 ||*.netlixrenouvellement.my^$important
 ||*.network-security-ops-flow-base.wiki^$important
-||*.neural-atlas-code-flat.courses^$important
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nikhilrangale.github.io^$important
 ||*.nikita-2005desai.github.io^$important
@@ -549,6 +546,7 @@
 ||*.novaoportunidade.s3.us-east-005.backblazeb2.com^$important
 ||*.novoalvomaisacima.s3.us-east-005.backblazeb2.com^$important
 ||*.novoaumentoemergencial.s3.us-east-005.backblazeb2.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.obese-table-usweb-play.wiki^$important
@@ -588,7 +586,6 @@
 ||*.pro-architecture-engineering-vault-info.wiki^$important
 ||*.pro-cyber-defense.courses^$important
 ||*.proemails.shop^$important
-||*.proxy-matrix-kernel-on.courses^$important
 ||*.pt6nyxsf.unseen-zorenka.digital^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -624,7 +621,6 @@
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
-||*.sakuraloyalty.com^$important
 ||*.sana-khan2776.github.io^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
@@ -650,7 +646,6 @@
 ||*.shop.mediasova.ru^$important
 ||*.shopee-588.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.signal-late-it-folder.courses^$important
 ||*.sinkingyourself.courses^$important
 ||*.sk-comtel.com^$important
 ||*.slussentrafikskola.se^$important
@@ -856,6 +851,8 @@
 ||*.wechath5.westernunion.cloud^$important
 ||*.whbackend.ru^$important
 ||*.widexenmexico.com.mx^$important
+||*.wildflower-path-mapping.garden^$important
+||*.wildflower-routing-path.garden^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
 ||*.ws09ax4h.limous-nitout.digital^$important
