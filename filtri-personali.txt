@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-15 16:49:20
+! Ultimo aggiornamento automatico: 2026-05-15 19:26:02
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.135-125-245-221.cprapid.com^$important
@@ -238,7 +238,6 @@
 ||*.binary-block-tabel-expert-get.wiki^$important
 ||*.binary-buffer-overflow-protection-lab.wiki^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
@@ -252,7 +251,6 @@
 ||*.brightworks.cz^$important
 ||*.bula-silomercitationlaptop.wiki^$important
 ||*.bvaco.com^$important
-||*.byte-horizon-get-hash.courses^$important
 ||*.byte-stream-encryption-standard-base.wiki^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
@@ -296,6 +294,7 @@
 ||*.contribuinte2026.icu^$important
 ||*.controliumbt.com^$important
 ||*.coralasargetia.ro^$important
+||*.coralpac.com^$important
 ||*.core-access.partner-programhub.com^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
@@ -324,9 +323,7 @@
 ||*.dgpn-crypto.fr^$important
 ||*.dh-dhl-tracking.is-certified.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
 ||*.digobkp.store^$important
-||*.diphtongspecialchess.courses^$important
 ||*.disk.accord1key.cn^$important
 ||*.distributed-cache-storage-layer.wiki^$important
 ||*.distributed-source-element-package-site.wiki^$important
@@ -339,7 +336,6 @@
 ||*.doc.e-statements.app^$important
 ||*.doeusignsafe.vercel.app^$important
 ||*.donkeytourscroatia.com^$important
-||*.down-playing-folder-seven-ue.courses^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.mvip8.ru^$important
@@ -366,11 +362,11 @@
 ||*.edge-processing-network.courses^$important
 ||*.edge-processing-network.wiki^$important
 ||*.egmtransportes.cl^$important
-||*.eh-masled.courses^$important
 ||*.eklavya98.github.io^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.emaisboletos.com^$important
+||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.engine-block-tabel-stream-key.wiki^$important
 ||*.enterprise-security-log.courses^$important
@@ -382,6 +378,7 @@
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
 ||*.expert-trading-academy.courses^$important
+||*.facanha.com.br^$important
 ||*.fakers.co.jp^$important
 ||*.falacerta.com^$important
 ||*.farschid.de^$important
@@ -394,6 +391,7 @@
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
+||*.flora-security-base.garden^$important
 ||*.flyingmutts.com^$important
 ||*.fotomaxinstall.click^$important
 ||*.franzfinanz.de^$important
@@ -403,7 +401,6 @@
 ||*.fz.tiansys.cn^$important
 ||*.galerisenimutiara.com^$important
 ||*.gestionycobranzas.com^$important
-||*.get-folder-runtime-harbor.courses^$important
 ||*.girlytrans-fusion.wiki^$important
 ||*.glarsitttrain.wiki^$important
 ||*.global-infra-logic-get-hash.wiki^$important
@@ -429,13 +426,13 @@
 ||*.hobobot.net^$important
 ||*.hold-holdskopetztakenaback.courses^$important
 ||*.hseda.com^$important
+||*.hydropower-irrigation.garden^$important
 ||*.hypervisor-resource-grid.wiki^$important
 ||*.hypervisorcontrolplanegrid.wiki^$important
 ||*.hypervisorresourcecontroller.wiki^$important
 ||*.i.404.pm^$important
 ||*.i0zaakp5.monotheism-sled.digital^$important
 ||*.icoffeecloud.com^$important
-||*.icupsa.com.mx^$important
 ||*.igra123.com^$important
 ||*.immersevocalistidleness.wiki^$important
 ||*.incxz-ld.anym.biz.id^$important
@@ -469,7 +466,6 @@
 ||*.layer-get-win-tron.wiki^$important
 ||*.layer-obs-usget-tron.wiki^$important
 ||*.libss.0x504.com^$important
-||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linkku.me^$important
 ||*.local-update.com^$important
@@ -488,6 +484,7 @@
 ||*.maidforyou1985.com^$important
 ||*.mailoservice.flazio.com^$important
 ||*.master-core-system-date-slink.wiki^$important
+||*.master-planting-logic-manual.garden^$important
 ||*.master-voivo-system-shop-slink.wiki^$important
 ||*.masteringdigital-arch.courses^$important
 ||*.medicin-morisomtobeafraid.wiki^$important
@@ -591,20 +588,19 @@
 ||*.pro-architecture-engineering-vault-info.wiki^$important
 ||*.pro-cyber-defense.courses^$important
 ||*.proemails.shop^$important
+||*.proxy-matrix-kernel-on.courses^$important
 ||*.pt6nyxsf.unseen-zorenka.digital^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.q8gac86p.unseen-zorenka.digital^$important
 ||*.qe74wzzp.unseen-zorenka.digital^$important
 ||*.qiniuyunxz.yxflzs.com^$important
-||*.quantum-forge-nat.courses^$important
 ||*.quart-rantman.wiki^$important
 ||*.quickwebdevops.courses^$important
 ||*.qz.697539.com^$important
 ||*.r9chy91i.unseen-zorenka.digital^$important
 ||*.raadislam.com^$important
 ||*.ramirex.ro^$important
-||*.raptore.yzz.me^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reactivar-outlook365.iceiy.com^$important
 ||*.reactivar365msnouttk1z.fwh.is^$important
@@ -628,6 +624,7 @@
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
+||*.sakuraloyalty.com^$important
 ||*.sana-khan2776.github.io^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
@@ -654,6 +651,7 @@
 ||*.shopee-588.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.signal-late-it-folder.courses^$important
+||*.sinkingyourself.courses^$important
 ||*.sk-comtel.com^$important
 ||*.slussentrafikskola.se^$important
 ||*.smamanoor79-stack.github.io^$important
@@ -670,12 +668,10 @@
 ||*.stack-core-node-date-hash.wiki^$important
 ||*.stat-collection-engine-performance-view.wiki^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.steamcommunuty.com^$important
-||*.steel-glok-yes-valence.courses^$important
 ||*.streamprocessingnode.wiki^$important
 ||*.sub-substituteunfeignedflash.wiki^$important
 ||*.support.clz.kr^$important
@@ -846,7 +842,6 @@
 ||*.vincentdemiero.com^$important
 ||*.virtual-compute-engine-template-doc.wiki^$important
 ||*.virtual-packet-gateway.wiki^$important
-||*.virtual-pipeline-ten-it.courses^$important
 ||*.virtual-routing-gateway.wiki^$important
 ||*.virtual-session-broker.wiki^$important
 ||*.virtual-session-gateway.courses^$important
