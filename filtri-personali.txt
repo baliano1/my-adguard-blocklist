@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-15 13:59:56
+! Ultimo aggiornamento automatico: 2026-05-15 16:49:20
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.135-125-245-221.cprapid.com^$important
@@ -252,6 +252,7 @@
 ||*.brightworks.cz^$important
 ||*.bula-silomercitationlaptop.wiki^$important
 ||*.bvaco.com^$important
+||*.byte-horizon-get-hash.courses^$important
 ||*.byte-stream-encryption-standard-base.wiki^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
@@ -329,7 +330,6 @@
 ||*.disk.accord1key.cn^$important
 ||*.distributed-cache-storage-layer.wiki^$important
 ||*.distributed-source-element-package-site.wiki^$important
-||*.distributed-storage-layer.courses^$important
 ||*.distributedcache.courses^$important
 ||*.distributedobjectstoragenet.wiki^$important
 ||*.divvanews.com^$important
@@ -339,6 +339,7 @@
 ||*.doc.e-statements.app^$important
 ||*.doeusignsafe.vercel.app^$important
 ||*.donkeytourscroatia.com^$important
+||*.down-playing-folder-seven-ue.courses^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.mvip8.ru^$important
@@ -355,6 +356,7 @@
 ||*.dowonline.ru^$important
 ||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
+||*.drhenrylopez.com^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dunh1ll.github.io^$important
 ||*.dusttv.com^$important
@@ -387,6 +389,7 @@
 ||*.federated-runtime-network.wiki^$important
 ||*.federated-storage-cluster-system.wiki^$important
 ||*.fertas.com.tr^$important
+||*.fiinterchillers.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
@@ -400,6 +403,7 @@
 ||*.fz.tiansys.cn^$important
 ||*.galerisenimutiara.com^$important
 ||*.gestionycobranzas.com^$important
+||*.get-folder-runtime-harbor.courses^$important
 ||*.girlytrans-fusion.wiki^$important
 ||*.glarsitttrain.wiki^$important
 ||*.global-infra-logic-get-hash.wiki^$important
@@ -539,6 +543,7 @@
 ||*.netcoinzlogin.webflow.io^$important
 ||*.netlixrenouvellement.my^$important
 ||*.network-security-ops-flow-base.wiki^$important
+||*.neural-atlas-code-flat.courses^$important
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nikhilrangale.github.io^$important
 ||*.nikita-2005desai.github.io^$important
@@ -592,12 +597,14 @@
 ||*.q8gac86p.unseen-zorenka.digital^$important
 ||*.qe74wzzp.unseen-zorenka.digital^$important
 ||*.qiniuyunxz.yxflzs.com^$important
+||*.quantum-forge-nat.courses^$important
 ||*.quart-rantman.wiki^$important
 ||*.quickwebdevops.courses^$important
 ||*.qz.697539.com^$important
 ||*.r9chy91i.unseen-zorenka.digital^$important
 ||*.raadislam.com^$important
 ||*.ramirex.ro^$important
+||*.raptore.yzz.me^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reactivar-outlook365.iceiy.com^$important
 ||*.reactivar365msnouttk1z.fwh.is^$important
@@ -646,6 +653,7 @@
 ||*.shop.mediasova.ru^$important
 ||*.shopee-588.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.signal-late-it-folder.courses^$important
 ||*.sk-comtel.com^$important
 ||*.slussentrafikskola.se^$important
 ||*.smamanoor79-stack.github.io^$important
@@ -667,6 +675,7 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.steamcommunuty.com^$important
+||*.steel-glok-yes-valence.courses^$important
 ||*.streamprocessingnode.wiki^$important
 ||*.sub-substituteunfeignedflash.wiki^$important
 ||*.support.clz.kr^$important
@@ -837,6 +846,7 @@
 ||*.vincentdemiero.com^$important
 ||*.virtual-compute-engine-template-doc.wiki^$important
 ||*.virtual-packet-gateway.wiki^$important
+||*.virtual-pipeline-ten-it.courses^$important
 ||*.virtual-routing-gateway.wiki^$important
 ||*.virtual-session-broker.wiki^$important
 ||*.virtual-session-gateway.courses^$important
@@ -849,6 +859,7 @@
 ||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wechath5.westernunion.cloud^$important
+||*.whbackend.ru^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
