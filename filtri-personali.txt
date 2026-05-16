@@ -162,16 +162,18 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-16 13:15:49
+! Ultimo aggiornamento automatico: 2026-05-16 15:55:41
 ||*.0022a601.pphost.net^$important
 ||*.11udvmp9.polestennisplayer.digital^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.20-251-144-161.cprapid.com^$important
 ||*.39tc4pze.stack-forge.digital^$important
+||*.3brosstore.com^$important
 ||*.49h06cy9.pashtuns-study-rose-hip.digital^$important
 ||*.4oob20cq.sue-intentioned.digital^$important
 ||*.5nan0z8w.sniffingviableoffice.digital^$important
+||*.6ak-tehnik.si^$important
 ||*.8xorq0f0.after-diacritic.digital^$important
 ||*.991.1kes.com^$important
 ||*.9xbc3jzp.disorientbreak.digital^$important
@@ -211,6 +213,7 @@
 ||*.ardena.pro^$important
 ||*.areyouready.co.za^$important
 ||*.asynchronous-message-routing-framework.wiki^$important
+||*.asynchronouswatering-system.garden^$important
 ||*.atasapka.com.tr^$important
 ||*.audicontadores.com^$important
 ||*.augsburg-auto.com^$important
@@ -223,7 +226,6 @@
 ||*.bafkreibmvluyhqkdscm56yjdmnwikelvmj52u2jxprwvnurz5ugw3babaa.ipfs.dweb.link^$important
 ||*.bafybeifj7ml3mxg7ubs72fupwmnabu6sx7bbtwqsh6isqpbviyw6alwv4m.ipfs.dweb.link^$important
 ||*.bargecontradictionexcrement.courses^$important
-||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
 ||*.beacontweezersbinge.wiki^$important
 ||*.beoauto.alexion.rs^$important
@@ -241,6 +243,7 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
+||*.botanicalresourceengine.garden^$important
 ||*.botanicalworkflow.garden^$important
 ||*.bottom-less-waiter-natural.courses^$important
 ||*.bq99ksyi.unseen-zorenka.digital^$important
@@ -267,6 +270,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccne-hbfkg4d3aweycth0.z03.azurefd.net^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn-assets.xyz^$important
 ||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cggirdg7.neural-routing.digital^$important
@@ -275,12 +279,12 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cjjt9vzq.icewounded.digital^$important
 ||*.cl.ssouy.com^$important
 ||*.clipaid.app^$important
 ||*.cloud-infrastructure-management-platform.wiki^$important
-||*.cloud-infrastructure.garden^$important
 ||*.cloud-sync.courses^$important
 ||*.cloudinfrastructure.courses^$important
 ||*.cloudruntime.courses^$important
@@ -309,7 +313,6 @@
 ||*.csg-app.com^$important
 ||*.ct3-24.ru^$important
 ||*.culling-posture-on-folder.courses^$important
-||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.danaa-iindonesiaa.olgk.my.id^$important
@@ -339,6 +342,7 @@
 ||*.donkeytourscroatia.com^$important
 ||*.donutinsulinphilosophy.courses^$important
 ||*.down-playing-folder-seven-ue.courses^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.mvip8.ru^$important
 ||*.down.pcclear.com^$important
@@ -362,8 +366,8 @@
 ||*.dweixin.cn^$important
 ||*.easybrand.vn^$important
 ||*.ec2-100-24-254-151.compute-1.amazonaws.com^$important
+||*.ecosystemmanagementhub.garden^$important
 ||*.edge-network-hub.courses^$important
-||*.edge-network-on-hub.garden^$important
 ||*.edge-processing-network.courses^$important
 ||*.edge-processing-network.wiki^$important
 ||*.eh-masled.courses^$important
@@ -398,10 +402,12 @@
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flatten-goinghavethis-weight-lifting.courses^$important
+||*.flora-observability-core.garden^$important
 ||*.flora-security-base.garden^$important
 ||*.flyingmutts.com^$important
 ||*.focus-mutovka-transfer-able.courses^$important
 ||*.fotomaxinstall.click^$important
+||*.friendsofsclarc.org^$important
 ||*.frozi.cc^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
@@ -415,11 +421,11 @@
 ||*.gemini.oracle.gyronee.com^$important
 ||*.gestionycobranzas.com^$important
 ||*.get-folder-runtime-harbor.courses^$important
-||*.get-on-processing-engine.garden^$important
 ||*.global-infra-logic-get-hash.wiki^$important
 ||*.global-infra-node-date-hash.wiki^$important
 ||*.globalbank.us^$important
 ||*.gnashhusks.courses^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.grantexx.gr^$important
 ||*.great-bet365.com.cn^$important
@@ -482,6 +488,7 @@
 ||*.krc5t7kn.ripples-shark.digital^$important
 ||*.ktayyaba302-stack.github.io^$important
 ||*.landonirwin.com^$important
+||*.lapakwebsite.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layer-get-win-tron.wiki^$important
 ||*.layer-obs-usget-tron.wiki^$important
@@ -502,7 +509,6 @@
 ||*.m.meta-dm.com^$important
 ||*.m.tica-wx.com^$important
 ||*.madrigalscythianphenologist.courses^$important
-||*.mahleinc.com^$important
 ||*.maidforyou1985.com^$important
 ||*.master-core-system-date-slink.wiki^$important
 ||*.master-planting-logic-manual.garden^$important
@@ -510,6 +516,7 @@
 ||*.master4d.co^$important
 ||*.masteringdigital-arch.courses^$important
 ||*.meadow-processing-engine.garden^$important
+||*.meadowprocessingcenter.garden^$important
 ||*.medicin-morisomtobeafraid.wiki^$important
 ||*.meetvideogoogle.com^$important
 ||*.meinerechnungen.flazio.com^$important
@@ -518,14 +525,12 @@
 ||*.meta-id17616.invoice-partner.com^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mett-amuske-olglin.godaddysites.com^$important
-||*.micro-service-cluster.garden^$important
 ||*.microfloraobservatory.garden^$important
 ||*.microservice-control-plane-node.wiki^$important
 ||*.microservicecluster.courses^$important
 ||*.microservicehub.courses^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
-||*.mixed-on-storage-layer.garden^$important
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
 ||*.mosselnet.co.za^$important
@@ -536,6 +541,7 @@
 ||*.mygrocerbox.com^$important
 ||*.myzedd.site^$important
 ||*.n.vs108.com^$important
+||*.nanpe.eng.br^$important
 ||*.ncxps.com^$important
 ||*.nelees.com^$important
 ||*.netflix-clone-fff8b.web.app^$important
@@ -547,6 +553,7 @@
 ||*.nini4d.com^$important
 ||*.noithaticon.vn^$important
 ||*.noorbloach.github.io^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.obese-table-usweb-play.wiki^$important
@@ -571,6 +578,7 @@
 ||*.pcupd.com^$important
 ||*.petal-distribution-hub.garden^$important
 ||*.petitesalope.com^$important
+||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pns.org.pk^$important
@@ -643,6 +651,7 @@
 ||*.smartermail.host^$important
 ||*.smartworkflowmanagement.courses^$important
 ||*.smuggler-beluga-notion.courses^$important
+||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.spgint.com^$important
@@ -804,7 +813,6 @@
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
-||*.thatdimensionalwebsite.com^$important
 ||*.thebrandmantra.in^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
@@ -844,7 +852,6 @@
 ||*.videomeetgoogle.com^$important
 ||*.vim-bet365.com.cn^$important
 ||*.vincentdemiero.com^$important
-||*.virtual-gate-way.garden^$important
 ||*.virtual-pipeline-ten-it.courses^$important
 ||*.virtual-routing-gateway.wiki^$important
 ||*.virtual-session-gateway.courses^$important
@@ -966,7 +973,6 @@
 ||*.www.yh2513.com^$important
 ||*.www.your-bet365.com.cn^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.xenon.studio^$important
 ||*.xn--80akpgkmjf.xn--p1ai^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
