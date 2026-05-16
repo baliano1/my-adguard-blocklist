@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-16 07:59:57
+! Ultimo aggiornamento automatico: 2026-05-16 10:11:47
 ||*.0022a601.pphost.net^$important
 ||*.024365vip.com^$important
 ||*.11udvmp9.polestennisplayer.digital^$important
@@ -251,6 +251,7 @@
 ||*.bafkreihnxifzmjyq7ateafxv5tk2ref4yuo6d4k3jguxwgjpgrauz23mcq.ipfs.dweb.link^$important
 ||*.bagadoi101-code.github.io^$important
 ||*.bargecontradictionexcrement.courses^$important
+||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
 ||*.bdlimon063-creator.github.io^$important
 ||*.bdowvip.com^$important
@@ -315,6 +316,7 @@
 ||*.cl.ssouy.com^$important
 ||*.clipaid.app^$important
 ||*.cloud-infrastructure-management-platform.wiki^$important
+||*.cloud-infrastructure.garden^$important
 ||*.cloud-sync.courses^$important
 ||*.cloudinfrastructure.courses^$important
 ||*.cloudruntime.courses^$important
@@ -400,6 +402,7 @@
 ||*.easybrand.vn^$important
 ||*.eb.support-dmca.click^$important
 ||*.edge-network-hub.courses^$important
+||*.edge-network-on-hub.garden^$important
 ||*.edge-processing-network.courses^$important
 ||*.edge-processing-network.wiki^$important
 ||*.effortless-unicorn-56ea7a.netlify.app^$important
@@ -452,6 +455,7 @@
 ||*.galerisenimutiara.com^$important
 ||*.gestionycobranzas.com^$important
 ||*.get-folder-runtime-harbor.courses^$important
+||*.get-on-processing-engine.garden^$important
 ||*.global-infra-logic-get-hash.wiki^$important
 ||*.global-infra-node-date-hash.wiki^$important
 ||*.globalbank.us^$important
@@ -585,6 +589,7 @@
 ||*.mfacebock.com.vn^$important
 ||*.mfacebookk.com.vn^$important
 ||*.micro-fan-obs-plan.garden^$important
+||*.micro-service-cluster.garden^$important
 ||*.microfloraobservatory.garden^$important
 ||*.microservice-control-plane-node.wiki^$important
 ||*.microservicecluster.courses^$important
@@ -640,6 +645,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.p4l3fctz.bitter-salty.digital^$important
 ||*.packet-relay-engine.courses^$important
+||*.packet-relay-engine.garden^$important
 ||*.packet-routing-lab.courses^$important
 ||*.packetlattice.courses^$important
 ||*.palharesinformatica.com.br^$important
@@ -769,6 +775,7 @@
 ||*.tarvex.top^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
+||*.telemetry-folder-stream-core.garden^$important
 ||*.telemetry-stream-core.courses^$important
 ||*.telemetry-stream-hub.wiki^$important
 ||*.telemetrycore.courses^$important
