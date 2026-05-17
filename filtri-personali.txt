@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-17 19:04:15
+! Ultimo aggiornamento automatico: 2026-05-17 21:52:34
 ||*.0022a601.pphost.net^$important
 ||*.11udvmp9.polestennisplayer.digital^$important
 ||*.123.ywxww.net^$important
@@ -209,7 +209,6 @@
 ||*.amazonwebservices.security-unauthorised-request.com^$important
 ||*.ancient-parchment-archive.garden^$important
 ||*.andjemztech.com^$important
-||*.antbots-uni-resou-plats.garden^$important
 ||*.api.baimless.com^$important
 ||*.api.ezilax.com^$important
 ||*.app.appzcvb.com^$important
@@ -227,6 +226,7 @@
 ||*.augsburg-auto.com^$important
 ||*.aumri.ae^$important
 ||*.aurekh.com^$important
+||*.autobaenasl.com^$important
 ||*.automated-sprout-labs.garden^$important
 ||*.automaticresultnotice.weebly.com^$important
 ||*.avanteshipping.com^$important
@@ -266,6 +266,7 @@
 ||*.book.rollingvideogames.com^$important
 ||*.botan-it-getwork-flow.garden^$important
 ||*.botanicalautomationengine.garden^$important
+||*.botanicalmonitoringengine.garden^$important
 ||*.botanicalprocessingengine.garden^$important
 ||*.botanicalresourceengine.garden^$important
 ||*.botanicalworkflow.garden^$important
@@ -279,7 +280,6 @@
 ||*.byte-horizon-get-hash.courses^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
-||*.carcaran.com^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
@@ -298,7 +298,6 @@
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cjjt9vzq.icewounded.digital^$important
 ||*.cl.ssouy.com^$important
-||*.clamprob-folder-runtime-forge.garden^$important
 ||*.classes.bohobeautiful.app^$important
 ||*.clipaid.app^$important
 ||*.cloud-infrastructure.garden^$important
@@ -309,7 +308,6 @@
 ||*.clwoce8k.runtime-atlas.digital^$important
 ||*.cn.mpmxzu.com^$important
 ||*.cn.unionlever.com^$important
-||*.cntainrs-folders-giped-green-hub.garden^$important
 ||*.co-emas.com^$important
 ||*.coinbaselogie-pro.gitbook.io^$important
 ||*.compassionate-plans-884289.framer.app^$important
@@ -317,7 +315,6 @@
 ||*.conexaosegura.pt^$important
 ||*.considerate-kiwi-419137.framer.app^$important
 ||*.contact.botticelliri.com^$important
-||*.container-folder-gized-greenhub.garden^$important
 ||*.containerizedplantmesh.garden^$important
 ||*.containerizedworkflowengine.courses^$important
 ||*.continentalgroup.net.in^$important
@@ -357,6 +354,7 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
 ||*.dinamicargas.com.co^$important
 ||*.diphtongspecialchess.courses^$important
 ||*.disk.accord1key.cn^$important
@@ -365,18 +363,17 @@
 ||*.distributed-growth-network.garden^$important
 ||*.distributed-petal-network.garden^$important
 ||*.distributed-storage-layer.courses^$important
+||*.distributedgardenresource.garden^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
-||*.docktan-flexo-avastpig-engine.garden^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donutinsulinphilosophy.courses^$important
 ||*.down-playing-folder-seven-ue.courses^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
-||*.down.mvip8.ru^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
 ||*.download-api-endpoint.com^$important
@@ -411,7 +408,6 @@
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint-api-node.com^$important
-||*.epanpano.com^$important
 ||*.estudio.ythan.com.br^$important
 ||*.evangroup.ru^$important
 ||*.eventsyouwant.com^$important
@@ -419,7 +415,6 @@
 ||*.everycarebd.com^$important
 ||*.extensivedapnod.pages.dev^$important
 ||*.f237a.xyz^$important
-||*.facanha.com.br^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
@@ -439,7 +434,6 @@
 ||*.flatten-goinghavethis-weight-lifting.courses^$important
 ||*.flora-monitoring-core.garden^$important
 ||*.flora-observability-core.garden^$important
-||*.flora-obsrvs-ability-todo.garden^$important
 ||*.flora-processing-framework.garden^$important
 ||*.flora-security-base.garden^$important
 ||*.floriculture-mastery.garden^$important
@@ -460,7 +454,6 @@
 ||*.gestionycobranzas.com^$important
 ||*.get-folder-runtime-harbor.courses^$important
 ||*.get-on-processing-engine.garden^$important
-||*.get-shell-gard-frame-work.garden^$important
 ||*.gh-rizx.wasmer.app^$important
 ||*.giannibussoletti.github.io^$important
 ||*.gile.alwaysdata.net^$important
@@ -470,10 +463,12 @@
 ||*.globalbank.us^$important
 ||*.gmail.urgent.applerts.net^$important
 ||*.go.cmplistsonline.com^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.greenf.alexion.rs^$important
 ||*.greenhouse-climate-control-sys.garden^$important
 ||*.greenhousecontrolhub.garden^$important
+||*.greenhouseoperationscenter.garden^$important
 ||*.greenhouseoperationshub.garden^$important
 ||*.grupomcperu.com^$important
 ||*.guildy.top^$important
@@ -499,6 +494,7 @@
 ||*.igra123.com^$important
 ||*.infoworkerOne.com^$important
 ||*.infoworkerOne.org^$important
+||*.infra-blue-high-print.garden^$important
 ||*.inhalerotolaryngologist.courses^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
@@ -512,7 +508,6 @@
 ||*.ishmeeeeet04.github.io^$important
 ||*.isiore.com.co^$important
 ||*.isometricsindia.co.in^$important
-||*.it-irrigatn-cntrl-network-go.garden^$important
 ||*.itsadarsh21.github.io^$important
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
@@ -546,7 +541,6 @@
 ||*.lindnerelektroanlagen.de^$important
 ||*.linguistic-puzzle-solver.garden^$important
 ||*.linkdeingreso669.iceiy.com^$important
-||*.load-meadows-analytics-cntr.garden^$important
 ||*.local-update.com^$important
 ||*.login-access.partner-programhub.com^$important
 ||*.login.authorised-support.com^$important
@@ -584,7 +578,6 @@
 ||*.microwaved.info^$important
 ||*.midassbuy.officiall-rewards.com^$important
 ||*.missionpipecigar.com^$important
-||*.missysgym.com^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mixed-on-storage-layer.garden^$important
@@ -593,7 +586,6 @@
 ||*.mohdasad-dev.github.io^$important
 ||*.monstersStat.com^$important
 ||*.mosselnet.co.za^$important
-||*.motriztrading.com.br^$important
 ||*.mqo7n5b2.script-vault.digital^$important
 ||*.mstopsai.com^$important
 ||*.mubarakkhan-8710032.github.io^$important
@@ -624,7 +616,6 @@
 ||*.onfiltre.com.tr^$important
 ||*.online-email-update-jn.framer.website^$important
 ||*.online98377883.zya.me^$important
-||*.open-low-container-vector.garden^$important
 ||*.ostekStatmen.net^$important
 ||*.owlcity.ru^$important
 ||*.oxfordmobilexray.com^$important
@@ -642,6 +633,7 @@
 ||*.peaceful-koala-327418.framer.app^$important
 ||*.petal-distribution-hub.garden^$important
 ||*.petal-routing-platform.garden^$important
+||*.petaldistributionplatform.garden^$important
 ||*.petitesalope.com^$important
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
@@ -651,11 +643,11 @@
 ||*.pobedastaff.ru^$important
 ||*.postelnini.mk^$important
 ||*.pratikbarua-dev.github.io^$important
-||*.protherapycenter.com^$important
 ||*.proxy-matrix-kernel-on.courses^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.puffingsiterreorganize.courses^$important
 ||*.pvsa.gxfugy.cn^$important
+||*.qiniuyunxz.yxflzs.com^$important
 ||*.quantum-forge-nat.courses^$important
 ||*.qz.697539.com^$important
 ||*.qzrwml.adcampaign-identitycontrolgrid.me^$important
@@ -702,11 +694,11 @@
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.serv26clnt.justns.ru^$important
+||*.serverless-mesh-core-yet-go.garden^$important
 ||*.serverless-print-control-plane.garden^$important
 ||*.serverlesscontrolplane.courses^$important
 ||*.sg123.net^$important
 ||*.sgs68ivh.binary-dock.digital^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
@@ -724,6 +716,7 @@
 ||*.space-debris-trajectory.garden^$important
 ||*.spectrumnet-100341.weeblysite.com^$important
 ||*.spgint.com^$important
+||*.spoar.org.in^$important
 ||*.stackforgeacademy.courses^$important
 ||*.stage1-orschellx.com^$important
 ||*.static.ilclock.com^$important
@@ -731,7 +724,6 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam.valveverifyip.com^$important
-||*.steam66.cn^$important
 ||*.steamcomummity.ru^$important
 ||*.steel-glok-yes-valence.courses^$important
 ||*.sterlingreservewealth.info^$important
@@ -817,6 +809,7 @@
 ||*.wild-folder-routing-path.garden^$important
 ||*.wildfloragrowthsystem.garden^$important
 ||*.wildflorainfrastructure.garden^$important
+||*.wildfloraworkflowsystem.garden^$important
 ||*.wildflower-path-mapping.garden^$important
 ||*.wildflower-routing-path.garden^$important
 ||*.windomstatetheater.com^$important
