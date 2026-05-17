@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-17 13:13:55
+! Ultimo aggiornamento automatico: 2026-05-17 15:56:20
 ||*.0022a601.pphost.net^$important
 ||*.11udvmp9.polestennisplayer.digital^$important
 ||*.123.ywxww.net^$important
@@ -184,6 +184,7 @@
 ||*.9yg7582w.packet-lattice.digital^$important
 ||*.9yqks5fo.downplaying-sevenleague.digital^$important
 ||*.aakrutitexture.in^$important
+||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acc.partner-credit-submission.com^$important
 ||*.access.skaparade.com^$important
@@ -208,6 +209,7 @@
 ||*.amazonwebservices.security-unauthorised-request.com^$important
 ||*.ancient-parchment-archive.garden^$important
 ||*.andjemztech.com^$important
+||*.antbots-uni-resou-plats.garden^$important
 ||*.api.baimless.com^$important
 ||*.api.ezilax.com^$important
 ||*.app.appzcvb.com^$important
@@ -225,7 +227,6 @@
 ||*.augsburg-auto.com^$important
 ||*.aumri.ae^$important
 ||*.aurekh.com^$important
-||*.autobaenasl.com^$important
 ||*.automated-sprout-labs.garden^$important
 ||*.automaticresultnotice.weebly.com^$important
 ||*.avanteshipping.com^$important
@@ -268,7 +269,6 @@
 ||*.botanicalprocessingengine.garden^$important
 ||*.botanicalresourceengine.garden^$important
 ||*.botanicalworkflow.garden^$important
-||*.bots-unical-resource-platform.garden^$important
 ||*.bottom-less-waiter-natural.courses^$important
 ||*.bracell.latitude.net.br^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -308,7 +308,6 @@
 ||*.cn.mpmxzu.com^$important
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
-||*.coad-meadow-analytics-center.garden^$important
 ||*.coinbaselogie-pro.gitbook.io^$important
 ||*.compassionate-plans-884289.framer.app^$important
 ||*.compuserviceonline.com.br^$important
@@ -355,12 +354,12 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
 ||*.dinamicargas.com.co^$important
 ||*.diphtongspecialchess.courses^$important
 ||*.disk.accord1key.cn^$important
 ||*.distrib-ost-penal-network.garden^$important
 ||*.distributed-event-processing-lab.courses^$important
-||*.distributed-garden-framework.garden^$important
 ||*.distributed-growth-network.garden^$important
 ||*.distributed-petal-network.garden^$important
 ||*.distributed-storage-layer.courses^$important
@@ -369,6 +368,7 @@
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
+||*.docktan-flexo-avastpig-engine.garden^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donutinsulinphilosophy.courses^$important
 ||*.down-playing-folder-seven-ue.courses^$important
@@ -376,7 +376,6 @@
 ||*.down.fwqlt.com^$important
 ||*.down.mvip8.ru^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download-api-endpoint.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -436,14 +435,13 @@
 ||*.flatten-goinghavethis-weight-lifting.courses^$important
 ||*.flora-monitoring-core.garden^$important
 ||*.flora-observability-core.garden^$important
-||*.flora-observe-ability-engine.garden^$important
+||*.flora-obsrvs-ability-todo.garden^$important
 ||*.flora-processing-framework.garden^$important
 ||*.flora-security-base.garden^$important
 ||*.floriculture-mastery.garden^$important
 ||*.flyingmutts.com^$important
 ||*.focus-mutovka-transfer-able.courses^$important
 ||*.folder-management-core.garden^$important
-||*.forgotten-civilization-myth.garden^$important
 ||*.fotomaxinstall.click^$important
 ||*.frozi.cc^$important
 ||*.fukt.link^$important
@@ -459,7 +457,7 @@
 ||*.gestionycobranzas.com^$important
 ||*.get-folder-runtime-harbor.courses^$important
 ||*.get-on-processing-engine.garden^$important
-||*.ggwpcheats.xyz^$important
+||*.get-shell-gard-frame-work.garden^$important
 ||*.gh-rizx.wasmer.app^$important
 ||*.giannibussoletti.github.io^$important
 ||*.gile.alwaysdata.net^$important
@@ -468,12 +466,12 @@
 ||*.glow-hub-herboron-sixoauth-work.garden^$important
 ||*.gmail.urgent.applerts.net^$important
 ||*.go.cmplistsonline.com^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.greenf.alexion.rs^$important
 ||*.greenhouse-climate-control-sys.garden^$important
 ||*.greenhousecontrolhub.garden^$important
 ||*.greenhouseoperationshub.garden^$important
-||*.greenhouseworkflowhub.garden^$important
 ||*.grupomcperu.com^$important
 ||*.guildy.top^$important
 ||*.gutando.com^$important
@@ -503,14 +501,13 @@
 ||*.instagram.com.universal-api.org^$important
 ||*.inthelinesofkakaooo.pages.dev^$important
 ||*.ircftp.net^$important
-||*.irrigation-control-network.garden^$important
 ||*.irrigation-management-core.garden^$important
 ||*.irrigation-management-system.garden^$important
 ||*.irrigation-resource-system.garden^$important
 ||*.ishmeeeeet04.github.io^$important
 ||*.isiore.com.co^$important
 ||*.isometricsindia.co.in^$important
-||*.it-irrigation-control-network.garden^$important
+||*.it-irrigatn-cntrl-network-go.garden^$important
 ||*.itsadarsh21.github.io^$important
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
@@ -520,6 +517,7 @@
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
+||*.july-feded-plants-workflow.garden^$important
 ||*.juw0th09.runtime-atlas.digital^$important
 ||*.jyothishmathi.in^$important
 ||*.k2bs9h2k.proxy-horizon.digital^$important
@@ -538,10 +536,10 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.leniniansexualbeginner.courses^$important
 ||*.libss.0x504.com^$important
-||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linguistic-puzzle-solver.garden^$important
 ||*.linkdeingreso669.iceiy.com^$important
+||*.load-meadows-analytics-cntr.garden^$important
 ||*.local-update.com^$important
 ||*.login-access.partner-programhub.com^$important
 ||*.login.authorised-support.com^$important
@@ -603,8 +601,6 @@
 ||*.nlink.at^$important
 ||*.noithaticon.vn^$important
 ||*.notifyhubss.net^$important
-||*.nusatoyota.co.id^$important
-||*.nutrisc.com.br^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.observability-hub-system.courses^$important
@@ -630,8 +626,6 @@
 ||*.paysolutions.ink^$important
 ||*.pcupd.com^$important
 ||*.peaceful-koala-327418.framer.app^$important
-||*.perfect-lasagna-layer.garden^$important
-||*.petal-distribution-engine.garden^$important
 ||*.petal-distribution-hub.garden^$important
 ||*.petal-routing-platform.garden^$important
 ||*.petitesalope.com^$important
@@ -643,12 +637,10 @@
 ||*.pobedastaff.ru^$important
 ||*.postelnini.mk^$important
 ||*.pratikbarua-dev.github.io^$important
-||*.prodimetal.com^$important
 ||*.proxy-matrix-kernel-on.courses^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.puffingsiterreorganize.courses^$important
 ||*.pvsa.gxfugy.cn^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.quantum-forge-nat.courses^$important
 ||*.qz.697539.com^$important
 ||*.qzrwml.adcampaign-identitycontrolgrid.me^$important
@@ -701,7 +693,6 @@
 ||*.sgs68ivh.binary-dock.digital^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
-||*.shells-garden-framework.garden^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.signal-late-it-folder.courses^$important
@@ -729,6 +720,7 @@
 ||*.steel-glok-yes-valence.courses^$important
 ||*.sterlingreservewealth.info^$important
 ||*.stg1-swaggrhockey.com^$important
+||*.stonecradle.com^$important
 ||*.store.workshopcommunitysource.com^$important
 ||*.support.clz.kr^$important
 ||*.suru123474.github.io^$important
@@ -866,6 +858,7 @@
 ||*.www.f237f.xyz^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.h1o0.net^$important
+||*.www.hostingcloud.science^$important
 ||*.www.hseda.com^$important
 ||*.www.instagram-clone-cornuel.vercel.app^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
@@ -931,6 +924,7 @@
 ||*.www.zhikey.com^$important
 ||*.x0o600dr.clamshellkarakulchaalumina.digital^$important
 ||*.xanax.enzostress.st^$important
+||*.xemhang.vn^$important
 ||*.xenon.studio^$important
 ||*.xinewsdna-formindo.revolusioner.web.id^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
