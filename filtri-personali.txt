@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-18 17:28:44
+! Ultimo aggiornamento automatico: 2026-05-18 19:41:40
 ||*.0022a601.pphost.net^$important
 ||*.0gtutd.yandex-file.lat^$important
 ||*.111116js.com^$important
@@ -213,6 +213,7 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.allister.ee^$important
+||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amazonshoppingmallorua.com^$important
 ||*.amp.padiisahbet.vip^$important
@@ -221,7 +222,6 @@
 ||*.antbots-uni-resou-plats.garden^$important
 ||*.api.baimless.com^$important
 ||*.api.ezilax.com^$important
-||*.app.appzcvb.com^$important
 ||*.apple-service93.ru^$important
 ||*.apple.app-maps.co^$important
 ||*.appleid.location-id.help^$important
@@ -229,6 +229,7 @@
 ||*.appviewtechs.info^$important
 ||*.ardena.pro^$important
 ||*.areyouready.co.za^$important
+||*.argonclient.com^$important
 ||*.asynchronouswatering-system.garden^$important
 ||*.atasapka.com.tr^$important
 ||*.att-bonus.com.mx^$important
@@ -242,7 +243,6 @@
 ||*.autobaenasl.com^$important
 ||*.automated-sprout-labs.garden^$important
 ||*.avanteshipping.com^$important
-||*.avbackup.acionline.de^$important
 ||*.ba5ufc2h.logic-sphere.digital^$important
 ||*.backupso.com^$important
 ||*.backyard-harvest-planner.garden^$important
@@ -254,11 +254,11 @@
 ||*.barclays-banking.net^$important
 ||*.bblissmassage.com^$important
 ||*.bbos.minet.vn^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.binh-chon.vn^$important
 ||*.bio-soil-nutrients.garden^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bloommonitoringengine.garden^$important
 ||*.bmdcompany.com^$important
@@ -267,6 +267,7 @@
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
 ||*.botan-it-getwork-flow.garden^$important
+||*.botanicalanalyticsengine.garden^$important
 ||*.botanicalautomationengine.garden^$important
 ||*.botanicalmonitoringengine.garden^$important
 ||*.botanicalprocessingengine.garden^$important
@@ -299,7 +300,6 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chronicle-archive-keeper.garden^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.claim-danaa-pending.naa.my.id^$important
@@ -365,7 +365,7 @@
 ||*.distributed-growth-network.garden^$important
 ||*.distributedgardencontrol.garden^$important
 ||*.distributedgardenresource.garden^$important
-||*.divvanews.com^$important
+||*.distributedmeadownetwork.garden^$important
 ||*.djdjdibrahimaaa.myvnc.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -388,11 +388,9 @@
 ||*.dowonline.ru^$important
 ||*.dpsradars.shop^$important
 ||*.dreamwatchevent.com^$important
-||*.dubaitechnicalservice.ae^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.easybrand.vn^$important
-||*.ecosystem-processing-tienginx-center.garden^$important
 ||*.ecosystemmanagementhub.garden^$important
 ||*.ecosystemprocessingcenter.garden^$important
 ||*.edge-bloom-platform.garden^$important
@@ -409,15 +407,16 @@
 ||*.epx5g5.file-online.lat^$important
 ||*.estudio.ythan.com.br^$important
 ||*.evangroup.ru^$important
-||*.eventourarte.cl^$important
 ||*.eventsyouwant.com^$important
 ||*.evergreentimberland.garden^$important
 ||*.everycarebd.com^$important
+||*.explorer.vg^$important
 ||*.faccebook.com.vn^$important
 ||*.facebook-clone-login.vercel.app^$important
 ||*.facebook-clone-pi.vercel.app^$important
 ||*.facebook-task-one.vercel.app^$important
 ||*.fakers.co.jp^$important
+||*.falseflag1.ru^$important
 ||*.farschid.de^$important
 ||*.fatkow.file-online.lat^$important
 ||*.fconline-coupon-vn.com^$important
@@ -425,13 +424,11 @@
 ||*.federated-grow-install-framework.garden^$important
 ||*.federatedgardencluster.garden^$important
 ||*.federatedmeadowcluster.garden^$important
-||*.federatedmeadowsystem.garden^$important
 ||*.federatedplantcluster.garden^$important
 ||*.fedex.com-check.top^$important
 ||*.fertas.com.tr^$important
 ||*.fiinterchillers.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.financialalertsystem.com^$important
 ||*.first-security-verden.de^$important
@@ -441,7 +438,6 @@
 ||*.flora-observe-ability-engine.garden^$important
 ||*.flora-obsrvs-ability-todo.garden^$important
 ||*.flora-processing-framework.garden^$important
-||*.floraanalyticsresource.garden^$important
 ||*.floraobservabilitysystem.garden^$important
 ||*.floriculture-mastery.garden^$important
 ||*.flow-hub-green-house-work.garden^$important
@@ -454,8 +450,6 @@
 ||*.fz.tiansys.cn^$important
 ||*.galabet10711.com^$important
 ||*.galabet1987.com^$important
-||*.galerisenimutiara.com^$important
-||*.gardenautomationframework.garden^$important
 ||*.gardeninfrastructurelab.garden^$important
 ||*.gardenworkflowcenter.garden^$important
 ||*.gestionycobranzas.com^$important
@@ -476,7 +470,7 @@
 ||*.great-fauna-tcpipgay-go-system.garden^$important
 ||*.greenf.alexion.rs^$important
 ||*.greenhouse-climate-control-sys.garden^$important
-||*.greenhousemonitoringhub.garden^$important
+||*.greenhousecontrolplatform.garden^$important
 ||*.greenhouseoperationscenter.garden^$important
 ||*.greenhouseoperationshub.garden^$important
 ||*.greenhouseworkflowhub.garden^$important
@@ -484,7 +478,6 @@
 ||*.guildy.top^$important
 ||*.gutando.com^$important
 ||*.handmade-cheese-traveler.garden^$important
-||*.hasalltalent.com^$important
 ||*.healing.drssunitaattray.com^$important
 ||*.herbal-extract-processing.garden^$important
 ||*.hitman-pro.ru^$important
@@ -516,7 +509,6 @@
 ||*.irrigation-management-system.garden^$important
 ||*.irrigation-resource-system.garden^$important
 ||*.irrigationmanagementhub.garden^$important
-||*.irrigationprocessingnetwork.garden^$important
 ||*.isellchildren.online^$important
 ||*.isiore.com.co^$important
 ||*.isokonsulterna.se^$important
@@ -526,7 +518,7 @@
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
 ||*.izogard.com^$important
-||*.jawaratekno.com^$important
+||*.jankop.shop^$important
 ||*.jcdlhks8.node-pulse.digital^$important
 ||*.jin.com.my^$important
 ||*.jlwz.cn^$important
@@ -549,6 +541,7 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.libss.0x504.com^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linguistic-puzzle-solver.garden^$important
 ||*.liyanmubarak.github.io^$important
@@ -560,7 +553,6 @@
 ||*.loginservice.cloud^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lost-apple.com^$important
-||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m.padiisahbet.pro^$important
@@ -614,7 +606,6 @@
 ||*.mobshah.com^$important
 ||*.modspoti.com^$important
 ||*.mogimall.com^$important
-||*.mongofly-container-gard-mesh.garden^$important
 ||*.monstersStat.com^$important
 ||*.mosselnet.co.za^$important
 ||*.motriztrading.com.br^$important
@@ -627,14 +618,12 @@
 ||*.mx2026mail.iceiy.com^$important
 ||*.my-site-106543-104668.weeblysite.com^$important
 ||*.myassitance-eu.com^$important
-||*.myayurvedashoppe.com^$important
 ||*.mygrocerbox.com^$important
 ||*.n.vs108.com^$important
 ||*.nainstrmruzmain.wasmer.app^$important
 ||*.nanguang.cyou^$important
 ||*.natureoasisdesign.garden^$important
 ||*.ncxps.com^$important
-||*.neilshairdressers.co.uk^$important
 ||*.nelees.com^$important
 ||*.neoncyberpunkcity.garden^$important
 ||*.netzerowebmaild.netlify.app^$important
@@ -649,7 +638,6 @@
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
-||*.onfiltre.com.tr^$important
 ||*.open-low-container-vector.garden^$important
 ||*.ostekStatmen.net^$important
 ||*.outlook-office365.protect-login.com^$important
@@ -678,17 +666,13 @@
 ||*.pictures.wasmer.app^$important
 ||*.pid.fly160.com^$important
 ||*.pixelartcanvas.garden^$important
-||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pns.org.pk^$important
 ||*.pobedastaff.ru^$important
-||*.porthot-irr-gation-menthub.garden^$important
 ||*.post.homeawaiting.de^$important
 ||*.postelnini.mk^$important
 ||*.prahallad447.github.io^$important
 ||*.predator-hunting-chronicles.garden^$important
-||*.primemic.com^$important
-||*.protherapycenter.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pullmubaicreekcitycentre.spahotel.guru^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -721,6 +705,7 @@
 ||*.s20j.top^$important
 ||*.s4a1ucgs.authlnk.com^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
+||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
 ||*.scrcarental.com^$important
@@ -731,7 +716,6 @@
 ||*.sec.xiaoshabi.nl^$important
 ||*.secure-datalink.org^$important
 ||*.secure.security-service.cloud^$important
-||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.served.wasmer.app^$important
 ||*.serverless-mesh-core-yet-go.garden^$important
@@ -826,8 +810,8 @@
 ||*.userr-access-supporrt.vercel.app^$important
 ||*.v3r1fikasi-b4dge.site^$important
 ||*.vagler.ru^$important
+||*.vanta.st^$important
 ||*.vaultask-micro-service-pulse.garden^$important
-||*.vbytelot-mead-automation-form.garden^$important
 ||*.vcc-library.uk^$important
 ||*.vertical-eco-farming.garden^$important
 ||*.veryboys.com^$important
