@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-19 17:36:42
+! Ultimo aggiornamento automatico: 2026-05-19 19:48:41
 ||*.0022a601.pphost.net^$important
 ||*.0gtutd.yandex-file.lat^$important
 ||*.0h5smwzp.network-forge.digital^$important
@@ -195,7 +195,6 @@
 ||*.advicconsultant.com^$important
 ||*.affirmingyourlife.com^$important
 ||*.agence-immobiliere-lyon.com^$important
-||*.agilebee-federate-growth-net.garden^$important
 ||*.ahmedhelalia.github.io^$important
 ||*.aicc108-demo.pages.dev^$important
 ||*.aimgrub2-cloud-sphere-get.garden^$important
@@ -268,18 +267,17 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chronicle-archive-keeper.garden^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.clamprob-folder-runtime-forge.garden^$important
 ||*.cleanlay-fet-telemetry-vault.garden^$important
 ||*.clipaid.app^$important
+||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.cntainrs-folders-giped-green-hub.garden^$important
 ||*.co-emas.com^$important
 ||*.coad-meadow-analytics-center.garden^$important
-||*.codepit-rized-denengine.garden^$important
 ||*.compuserviceonline.com.br^$important
 ||*.container-folder-gized-greenhub.garden^$important
 ||*.containerizedbloomhub.garden^$important
@@ -296,6 +294,7 @@
 ||*.crackedsoftware.doxbin.cy^$important
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
+||*.crimefreesoftware.com^$important
 ||*.crispy-chicken-cutlets.garden^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -306,15 +305,14 @@
 ||*.d.wanyouxi7.com^$important
 ||*.d1jtbg8r.node-matrix.digital^$important
 ||*.damiancollier.com^$important
-||*.dampcaps-flor-sou-rail.garden^$important
 ||*.dasainfra.com^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.de.cloud.dxang.com^$important
 ||*.deep-sea-hydrothermal-vent.garden^$important
 ||*.deep-space-artificial-gravity.garden^$important
 ||*.delp-heizungsbau.de^$important
-||*.dengrep-resource-opencut-engine.garden^$important
 ||*.derekludlow.com^$important
 ||*.desentupidora.pro.br^$important
 ||*.dev1-revitavive.com^$important
@@ -324,7 +322,6 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
 ||*.disk.accord1key.cn^$important
 ||*.distributed-garden-framework.garden^$important
 ||*.distributedbotanicalnetwork.garden^$important
@@ -387,6 +384,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.emaisboletos.com^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
 ||*.epx5g5.file-online.lat^$important
 ||*.estudio.ythan.com.br^$important
@@ -463,12 +461,12 @@
 ||*.hobobot.net^$important
 ||*.holographic-projection-grid.garden^$important
 ||*.hostperepe.sviluppo.host^$important
+||*.hseda.com^$important
 ||*.i.404.pm^$important
 ||*.icoffeecloud.com^$important
 ||*.ictkvis.github.io^$important
 ||*.igra123.com^$important
 ||*.imrafayy.github.io^$important
-||*.indeanapolice.cc^$important
 ||*.infoworkerOne.com^$important
 ||*.infoworkerOne.org^$important
 ||*.infra-blue-high-print.garden^$important
@@ -507,7 +505,6 @@
 ||*.kavacanada.ca^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
-||*.kis.marketing^$important
 ||*.kitdocs-openlow-observe-matrix.garden^$important
 ||*.kokorostore.it^$important
 ||*.konaymyoaung202423mdy-dot.github.io^$important
@@ -515,7 +512,6 @@
 ||*.kramersmarionnettes.com^$important
 ||*.l8krrumc.cloud-sphere.digital^$important
 ||*.landonirwin.com^$important
-||*.lapakwebsite.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.les13ter.github.io^$important
 ||*.libss.0x504.com^$important
@@ -550,8 +546,6 @@
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
-||*.modelcut-auto-frame-nodipfs.garden^$important
-||*.modesix-iontel-scalapie-system.garden^$important
 ||*.mogimall.com^$important
 ||*.mongofly-container-gard-mesh.garden^$important
 ||*.monstersStat.com^$important
@@ -592,6 +586,7 @@
 ||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcapshay-bute-gard-source.garden^$important
+||*.pcupd.com^$important
 ||*.perfect-lasagna-layer.garden^$important
 ||*.petal-distribution-engine.garden^$important
 ||*.petalautomationplatform.garden^$important
@@ -613,7 +608,6 @@
 ||*.predator-hunting-chronicles.garden^$important
 ||*.primemic.com^$important
 ||*.primordial-soup-evolution.garden^$important
-||*.protherapycenter.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.q41liphc.packet-vector.digital^$important
@@ -654,7 +648,6 @@
 ||*.separadordecc.com^$important
 ||*.serverless-mesh-core-yet-go.garden^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shells-garden-framework.garden^$important
 ||*.shop.mediasova.ru^$important
@@ -684,6 +677,7 @@
 ||*.steam66.cn^$important
 ||*.steampunkaeronautics.garden^$important
 ||*.stg1-swaggrhockey.com^$important
+||*.stonecradle.com^$important
 ||*.stratospheric-weather-balloon.garden^$important
 ||*.subdermal-biometric-chip.garden^$important
 ||*.subfossil-oak-chronology.garden^$important
@@ -933,6 +927,7 @@
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.baibo-acmilan.games^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.bggfccthhcttch.vercel.app^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
@@ -1006,6 +1001,7 @@
 ||*.www.zhikey.com^$important
 ||*.xbgnx37a.byte-lattice.digital^$important
 ||*.xc88b0.file-online.lat^$important
+||*.xemhang.vn^$important
 ||*.xenon.studio^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
 ||*.xn--b1afiqif6c.xn--p1ai^$important
