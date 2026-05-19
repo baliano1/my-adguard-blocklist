@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-19 02:54:22
+! Ultimo aggiornamento automatico: 2026-05-19 06:46:10
 ||*.0022a601.pphost.net^$important
 ||*.0gtutd.yandex-file.lat^$important
 ||*.0h5smwzp.network-forge.digital^$important
@@ -261,7 +261,6 @@
 ||*.bggfccthhcttch.vercel.app^$important
 ||*.big-storm-641564.framer.app^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
@@ -354,6 +353,7 @@
 ||*.derekludlow.com^$important
 ||*.dev1-revitavive.com^$important
 ||*.dev1-trucksdirectuk.com^$important
+||*.devilnet.xyz^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
@@ -495,6 +495,7 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
+||*.holistic-detective-agency.garden^$important
 ||*.holographic-projection-grid.garden^$important
 ||*.home-bridn.wasmer.app^$important
 ||*.hr.agenziaesattoriale.it^$important
@@ -517,7 +518,6 @@
 ||*.ipfs.io^$important
 ||*.ircftp.net^$important
 ||*.irrigation-control-network.garden^$important
-||*.irrigationanalyticssystem.garden^$important
 ||*.irrigationautomationhub.garden^$important
 ||*.irrigationmanagementhub.garden^$important
 ||*.irrigationprocessingnetwork.garden^$important
@@ -623,12 +623,12 @@
 ||*.mitreart.com^$important
 ||*.mk624-git.github.io^$important
 ||*.mobshah.com^$important
+||*.modular-analog-synthesizer.garden^$important
 ||*.mogimall.com^$important
 ||*.mongofly-container-gard-mesh.garden^$important
 ||*.monstersStat.com^$important
 ||*.mosselnet.co.za^$important
 ||*.motriztrading.com.br^$important
-||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
 ||*.mstopsai.com^$important
 ||*.mundocarnes.cl^$important
@@ -646,7 +646,6 @@
 ||*.noithaticon.vn^$important
 ||*.notifyhubss.net^$important
 ||*.novacinder.digital^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.official-badge-check.vercel.app^$important
@@ -677,6 +676,7 @@
 ||*.petalresourceframework.garden^$important
 ||*.petalworkflowengine.garden^$important
 ||*.petitesalope.com^$important
+||*.phase-shift-bridge-driver.garden^$important
 ||*.pid.fly160.com^$important
 ||*.pixelartcanvas.garden^$important
 ||*.planetariumobil.ro^$important
@@ -701,6 +701,7 @@
 ||*.qiniuyunxz.yxflzs.com^$important
 ||*.qnb-finansbank-dynamic.vercel.app^$important
 ||*.qrco.de^$important
+||*.quantum-entanglement-crypt.garden^$important
 ||*.qz.697539.com^$important
 ||*.r.roblotx.co^$important
 ||*.r.robloxt.cv^$important
@@ -784,6 +785,7 @@
 ||*.steam66.cn^$important
 ||*.steampunkaeronautics.garden^$important
 ||*.stg1-swaggrhockey.com^$important
+||*.stonecradle.com^$important
 ||*.store.communityworkapp.shop^$important
 ||*.stratospheric-weather-balloon.garden^$important
 ||*.suatelatop.serveirc.com^$important
@@ -806,6 +808,7 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.teach-started.zapier.app^$important
+||*.tectonic-fault-seismograph.garden^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tehpafro.script-horizon.digital^$important
@@ -814,6 +817,7 @@
 ||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tettt.busines-help-center.com^$important
+||*.the-sopranos-family-tree.garden^$important
 ||*.thebrandmantra.in^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
@@ -980,6 +984,7 @@
 ||*.xbgnx37a.byte-lattice.digital^$important
 ||*.xc88b0.file-online.lat^$important
 ||*.xemhang.vn^$important
+||*.xenomorph-hive-intelligence.garden^$important
 ||*.xenon.studio^$important
 ||*.xfvhg-pmsm-npe5.p-mv4ac1tf.workers.dev^$important
 ||*.xn--90abegbttpjb3bzb2j.xn--p1ai^$important
