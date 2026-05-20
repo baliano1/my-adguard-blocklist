@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-20 02:54:47
+! Ultimo aggiornamento automatico: 2026-05-20 06:46:28
 ||*.0022a601.pphost.net^$important
 ||*.0905twrlpa.syncpath-connectsrv.com^$important
 ||*.0ffice355docuiment.kpmg.tecnopackbolivia.com^$important
@@ -196,7 +196,6 @@
 ||*.activacion-final.iceiy.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
-||*.affirmingyourlife.com^$important
 ||*.agence-immobiliere-lyon.com^$important
 ||*.agilebee-federate-growth-net.garden^$important
 ||*.aine.sjhub.info^$important
@@ -240,6 +239,7 @@
 ||*.bada-bing-sopranos-lounge.garden^$important
 ||*.bafkreifoduewvnaxldwyjk6d76fejsbywkfjuvd3khjw7a5rl65xjypqqa.ipfs.dweb.link^$important
 ||*.bagansi-wild-flowr-manage-form.garden^$important
+||*.baking-stone-thermal-mass.garden^$important
 ||*.banpromericabeneficios.vercel.app^$important
 ||*.bbos.minet.vn^$important
 ||*.belloutverify.webflow.io^$important
@@ -259,6 +259,7 @@
 ||*.botanicalanalyticsengine.garden^$important
 ||*.botanicalautomationframework.garden^$important
 ||*.botanicalmonitoringengine.garden^$important
+||*.botanicalprocessing.garden^$important
 ||*.botanicalresourcecontroller.garden^$important
 ||*.botanicalworkflowcenter.garden^$important
 ||*.botanicalworkflowplatform.garden^$important
@@ -515,6 +516,7 @@
 ||*.isaquesigma.github.io^$important
 ||*.isellchildren.online^$important
 ||*.isiore.com.co^$important
+||*.isochronous-cyclotron-beam.garden^$important
 ||*.isometricsindia.co.in^$important
 ||*.itssprout.com^$important
 ||*.izocab.com^$important
@@ -557,7 +559,6 @@
 ||*.luizmatoso.com.br^$important
 ||*.lv5evztg.cyberneticprostheticlab.digital^$important
 ||*.m.jkoa.co.kr^$important
-||*.maglev-propulsion-system.garden^$important
 ||*.magnetic-levitation-train.garden^$important
 ||*.mahwi.com^$important
 ||*.maidforyou1985.com^$important
@@ -575,6 +576,7 @@
 ||*.member757.partner-business-hub.com^$important
 ||*.mendocs-opera-shub-cowddos.garden^$important
 ||*.metaimask-wbjhllet.gitbook.io^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobshah.com^$important
@@ -609,6 +611,7 @@
 ||*.noithaticon.vn^$important
 ||*.novaoportunidadelimite.s3.us-east-005.backblazeb2.com^$important
 ||*.nusatoyota.co.id^$important
+||*.nutrisc.com.br^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojajt-niea-7v4f.c-7jw91027.workers.dev^$important
@@ -632,6 +635,7 @@
 ||*.pcapshay-bute-gard-source.garden^$important
 ||*.pcupd.com^$important
 ||*.perfect-bolognese-simmer.garden^$important
+||*.petal-resource-engine.garden^$important
 ||*.petalautomationplatform.garden^$important
 ||*.petaldistributioncenter.garden^$important
 ||*.petaldistributionplatform.garden^$important
@@ -652,12 +656,14 @@
 ||*.pnd3ndhb5hsvdka7nxbzh8qns6grdxfdf9hdbh1gdbh5rx-ehavasewg2fahbe4.z03.azurefd.net^$important
 ||*.pobedastaff.ru^$important
 ||*.porthot-irr-gation-menthub.garden^$important
+||*.pos-mobile.enlineatechnologies.com^$important
 ||*.posh-bet365.com.cn^$important
 ||*.postelnini.mk^$important
 ||*.pratik-ghrcemp.github.io^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.primemic.com^$important
 ||*.primordial-soup-evolution.garden^$important
+||*.protherapycenter.com^$important
 ||*.pub-1c3a35bc3f574b6684c3e0a322c562b4.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -699,7 +705,6 @@
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.scaletax-bute-analytics-toeheap.garden^$important
-||*.schenckel.com.br^$important
 ||*.scotiaonlinebank-chi.vercel.app^$important
 ||*.sdvgpro.ru^$important
 ||*.sec.dashabi.in^$important
@@ -748,6 +753,7 @@
 ||*.strosin.fujiwar.site^$important
 ||*.subdermal-biometric-chip.garden^$important
 ||*.subfossil-oak-chronology.garden^$important
+||*.submerged-continental-shelf.garden^$important
 ||*.subterranean-bunker-outpost.garden^$important
 ||*.suhfg120.weebly.com^$important
 ||*.sun-bet365.com.cn^$important
@@ -813,6 +819,7 @@
 ||*.vgd.vg^$important
 ||*.videomeetgoogle.com^$important
 ||*.vincentdemiero.com^$important
+||*.vintage-telemetry-receiver.garden^$important
 ||*.vip.doc-bet365.com^$important
 ||*.visam.info^$important
 ||*.vishal07xi.github.io^$important
@@ -831,6 +838,7 @@
 ||*.whiteless.icu^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wilder-flow-work-lmsystem.garden^$important
+||*.wildfloraanalyticshub.garden^$important
 ||*.wildfloracontrolsystem.garden^$important
 ||*.wildflorainfrastructurehub.garden^$important
 ||*.wildfloraintegrationplatform.garden^$important
