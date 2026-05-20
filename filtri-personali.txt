@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-20 17:54:02
+! Ultimo aggiornamento automatico: 2026-05-20 20:10:54
 ||*.0022a601.pphost.net^$important
 ||*.0h5smwzp.network-forge.digital^$important
 ||*.0q9bvoqh.telemetry-vault.digital^$important
@@ -242,7 +242,6 @@
 ||*.badoxa7777.lol^$important
 ||*.bagansi-wild-flowr-manage-form.garden^$important
 ||*.bbos.minet.vn^$important
-||*.bcypppaq.asynchronous-growth-platform.garden^$important
 ||*.beihai-bet365.com.cn^$important
 ||*.beneficioenlinearegistro-7e2bfd9b3de1.herokuapp.com^$important
 ||*.beoauto.alexion.rs^$important
@@ -289,7 +288,6 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.chunky-bet365.com.cn^$important
 ||*.cl.ssouy.com^$important
@@ -297,7 +295,6 @@
 ||*.clientfundsportal.net^$important
 ||*.clone-netflix-debs.vercel.app^$important
 ||*.cloudappleid.sviluppo.host^$important
-||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.hot-bet365.com^$important
 ||*.cn.unionlever.com^$important
@@ -307,7 +304,6 @@
 ||*.comfy-bet365.com.cn^$important
 ||*.committed.wasmer.app^$important
 ||*.compuserviceonline.com.br^$important
-||*.containerized-plant-system.garden^$important
 ||*.containerizedbloomhub.garden^$important
 ||*.containerizedgardenengine.garden^$important
 ||*.containerizedgardenhub.garden^$important
@@ -374,7 +370,6 @@
 ||*.docsfan-flora-ability-system.garden^$important
 ||*.dolvax.casa^$important
 ||*.donkeytourscroatia.com^$important
-||*.donutsmpcheats.com^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
@@ -385,6 +380,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dpd.bnrzvq.ink^$important
 ||*.dpd.bvnqwrp.cfd^$important
@@ -436,12 +432,11 @@
 ||*.federatedmeadowsystem.garden^$important
 ||*.federatedplantplatform.garden^$important
 ||*.fertas.com.tr^$important
-||*.fgbojhem.meadowprocessingframework.garden^$important
 ||*.fiinterchillers.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
+||*.fitforevercavan.ie^$important
 ||*.floraanalyticsengine.garden^$important
 ||*.floraanalyticsresource.garden^$important
 ||*.floraautomationnetwork.garden^$important
@@ -453,7 +448,6 @@
 ||*.fortnite-inv.pro^$important
 ||*.fortskoop.com^$important
 ||*.fortvalue.info^$important
-||*.fotosdepuebla.org^$important
 ||*.frank-bet365.com.cn^$important
 ||*.frozi.cc^$important
 ||*.fucktermedfir.st^$important
@@ -468,6 +462,7 @@
 ||*.gestionycobranzas.com^$important
 ||*.gigs.us.1e.cm^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.gothic-cathedral-blueprint.garden^$important
 ||*.govauinboxupdate-review.com^$important
@@ -506,7 +501,6 @@
 ||*.id8796.cfd^$important
 ||*.igra123.com^$important
 ||*.indeanapolice.cc^$important
-||*.infoworkerOne.org^$important
 ||*.infra-blue-high-print.garden^$important
 ||*.injectroblox.ru^$important
 ||*.inmbau.com^$important
@@ -535,18 +529,17 @@
 ||*.joyeriatauro.com^$important
 ||*.js.byxly.eu.cc^$important
 ||*.jyothishmathi.in^$important
+||*.jzufjrnq.floraanalyticshub.garden^$important
 ||*.k365.ag^$important
 ||*.k9h20m23.observability-matrix.digital^$important
 ||*.kampoxks.bloommanagementengine.garden^$important
 ||*.kavacanada.ca^$important
-||*.kevtel.com^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kontakt.de-digittal.me^$important
 ||*.kramersmarionnettes.com^$important
-||*.kzwvrleb.irrigation-monitoring-system.garden^$important
 ||*.landing-bet365.com.cn^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
@@ -561,13 +554,11 @@
 ||*.lv5evztg.cyberneticprostheticlab.digital^$important
 ||*.m.galabet-mobiladres.co^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.m.yh2861.com^$important
 ||*.magnetic-levitation-train.garden^$important
 ||*.maidforyou1985.com^$important
 ||*.make-bet365.com.cn^$important
 ||*.marsalek.cy^$important
-||*.meadow-processing-core.garden^$important
 ||*.meadowmanagementcenter.garden^$important
 ||*.meadowmonitoringplatform.garden^$important
 ||*.meadowoperationshub.garden^$important
@@ -576,6 +567,7 @@
 ||*.member290.business-support-partner.com^$important
 ||*.mendocs-opera-shub-cowddos.garden^$important
 ||*.metasklgerns.gitbook.io^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mobile-tim.brflow.com.br^$important
@@ -588,7 +580,6 @@
 ||*.monstersStat.com^$important
 ||*.mosselnet.co.za^$important
 ||*.moviruedas.com^$important
-||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
 ||*.mstopsai.com^$important
 ||*.mundocarnes.cl^$important
@@ -608,6 +599,7 @@
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nlink.at^$important
 ||*.noithaticon.vn^$important
+||*.northernvirginiaeyeassociates.com^$important
 ||*.noticealerttermonation.weebly.com^$important
 ||*.ns.barnamenevis.shop^$important
 ||*.nusatoyota.co.id^$important
@@ -616,7 +608,6 @@
 ||*.og-pg.com^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.orbital-docking-module.garden^$important
 ||*.ordinary-violet-aiqitdrvzm.edgeone.app^$important
@@ -665,7 +656,6 @@
 ||*.q956x3rl.badabingsopranoslounge.digital^$important
 ||*.qevnux.casa^$important
 ||*.qiniuyunxz.yxflzs.com^$important
-||*.qmzbbjle.microfloraresource.garden^$important
 ||*.quantum-entanglement-crypt.garden^$important
 ||*.qz.697539.com^$important
 ||*.r.robloxr.cv^$important
@@ -696,10 +686,12 @@
 ||*.s3.us-east-2.amazonaws.com^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
+||*.salessteer.com^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.scaletax-bute-analytics-toeheap.garden^$important
 ||*.schalk078.github.io^$important
+||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -729,6 +721,7 @@
 ||*.spoar.org.in^$important
 ||*.stage1-orschellx.com^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.stealth-bomber-radar-cross.garden^$important
@@ -748,7 +741,6 @@
 ||*.survey.refassured.com^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.synctimenow.org^$important
 ||*.systemnoticeupgrade.weebly.com^$important
 ||*.t-mobile.bpzfqr.top^$important
 ||*.t-mobile.bquezm.top^$important
@@ -790,9 +782,9 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tectonic-fault-seismograph.garden^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
-||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.the-sopranos-family-tree.garden^$important
 ||*.thebrandmantra.in^$important
@@ -803,6 +795,7 @@
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
+||*.tifameat.containerized-growth-engine.garden^$important
 ||*.tiktokshopsell.com^$important
 ||*.tkworld-store.co^$important
 ||*.toolshare.com.tr^$important
@@ -834,6 +827,7 @@
 ||*.vantarat.st^$important
 ||*.vbytelot-mead-automation-form.garden^$important
 ||*.vcc-library.uk^$important
+||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.victorlua-hash.github.io^$important
@@ -878,7 +872,6 @@
 ||*.www.app-funsports.com^$important
 ||*.www.ardguisser.com^$important
 ||*.www.astenterprises.com.pk^$important
-||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.basic-bet365.com.cn^$important
 ||*.www.benshamcentre.co.uk^$important
@@ -986,5 +979,6 @@
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
 ||*.zoneday-green-house-oper-center.garden^$important
+||*.zqbegtka.floraanalyticshub.garden^$important
 ||*.zycdjz.com^$important
 ||*.zyex-d.anym.biz.id^$important
