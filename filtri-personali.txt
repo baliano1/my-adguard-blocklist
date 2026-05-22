@@ -162,12 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-22 17:06:49
+! Ultimo aggiornamento automatico: 2026-05-22 19:40:33
 ||*.0022a601.pphost.net^$important
 ||*.0frduisp.cloud-meridian.digital^$important
 ||*.0gmqmb12.orbitaldockingmodule.digital^$important
 ||*.0zfu07h8.audioattenuatorschematic.digital^$important
-||*.123.ywxww.net^$important
 ||*.140aba.senes.at^$important
 ||*.1717.1000uc.com^$important
 ||*.195b195.com^$important
@@ -179,6 +178,7 @@
 ||*.6jcrkuht.container-beacon.digital^$important
 ||*.9z.wtf^$important
 ||*.aakrutitexture.in^$important
+||*.aaronart.com^$important
 ||*.abimj.edu.af^$important
 ||*.abyssalkraken.fit^$important
 ||*.acaviationsupplies.com^$important
@@ -205,7 +205,6 @@
 ||*.app.whatsapp.hj.hl.cn^$important
 ||*.apple-service93.ru^$important
 ||*.aqsxwaru457.t.mydomain.zone^$important
-||*.ardena.pro^$important
 ||*.areyouready.co.za^$important
 ||*.asistenciam4il2026.github.io^$important
 ||*.atasapka.com.tr^$important
@@ -250,12 +249,9 @@
 ||*.brt.gzsbyo.cc^$important
 ||*.bundaumamtomsiungon.pages.dev^$important
 ||*.busbytesadd.christmas^$important
-||*.bvaco.com^$important
 ||*.byte-vault.christmas^$important
 ||*.byzantine-mosaic-restoration.garden^$important
 ||*.c.fi3.me^$important
-||*.c2.mc-live.online^$important
-||*.cache-orbit.christmas^$important
 ||*.carbon-dating-calibration.garden^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
@@ -272,6 +268,7 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chrome-chrome-chrome-cn.com.cn^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.cloud-sync-engine.christmas^$important
@@ -291,6 +288,7 @@
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
+||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
@@ -301,7 +299,6 @@
 ||*.d.wanyouxi7.com^$important
 ||*.daideogilamtkealmcoosae.pages.dev^$important
 ||*.damiancollier.com^$important
-||*.darkosbarbershop.cl^$important
 ||*.data.yhydl.com^$important
 ||*.datrucsmain.wasmer.app^$important
 ||*.dcrun.co.uk^$important
@@ -316,9 +313,9 @@
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
+||*.digitalcode.sa^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -472,7 +469,6 @@
 ||*.kuaiinilian.com.cn^$important
 ||*.kuaiinllian.com.cn^$important
 ||*.kzwvrleb.irrigation-monitoring-system.garden^$important
-||*.labdjang.asia^$important
 ||*.labshift-winmail-get.christmas^$important
 ||*.landonirwin.com^$important
 ||*.lasagnabakingsecrets.study^$important
@@ -496,7 +492,6 @@
 ||*.mada.jdevcloud.com^$important
 ||*.maglev-propulsion-system.garden^$important
 ||*.maidforyou1985.com^$important
-||*.marsalek.cy^$important
 ||*.meadow-observability-core.garden^$important
 ||*.meadow-processing-core.garden^$important
 ||*.meetvideogoogle.com^$important
@@ -514,12 +509,11 @@
 ||*.mnkggwzm.crispychickencutlets.digital^$important
 ||*.mobshah.com^$important
 ||*.mogimall.com^$important
-||*.monstersStat.com^$important
 ||*.mosselnet.co.za^$important
 ||*.mpvcbz.quantumvelocitylabs.study^$important
 ||*.msedge.vg^$important
 ||*.msgrouppolicy.vg^$important
-||*.mstopsai.com^$important
+||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
 ||*.my-smbc-jp.com^$important
@@ -541,6 +535,7 @@
 ||*.ntm4xnw3.renaissancefrescorestoration.digital^$important
 ||*.nuoewpjc.formester.com^$important
 ||*.nusatoyota.co.id^$important
+||*.nutrisc.com.br^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.officemodels.gr^$important
@@ -568,13 +563,13 @@
 ||*.pigtweet-kitdiff-it.christmas^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.pobedastaff.ru^$important
 ||*.portal-okoo.com.cn^$important
 ||*.pos-mobile.enlineatechnologies.com^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.projeto-dio.vercel.app^$important
-||*.protherapycenter.com^$important
 ||*.protracted.wasmer.app^$important
 ||*.proxy-hub.christmas^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -639,7 +634,6 @@
 ||*.spanihnomain.wasmer.app^$important
 ||*.spencerlloydphoto.com^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.stack-flow.christmas^$important
 ||*.stackbridge.christmas^$important
 ||*.stage1-orschellx.com^$important
@@ -746,7 +740,6 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.td5323u3.primordialsoupevolution.digital^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telemetry-control-hub.christmas^$important
@@ -802,7 +795,6 @@
 ||*.vinaydevloper.github.io^$important
 ||*.vincentdemiero.com^$important
 ||*.vintage-telemetry-receiver.garden^$important
-||*.virtual-packet-grid.christmas^$important
 ||*.visam.info^$important
 ||*.visualwikicloud.com^$important
 ||*.vizyonuniversitesi.com.tr^$important
