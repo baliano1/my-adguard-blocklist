@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-24 06:36:52
+! Ultimo aggiornamento automatico: 2026-05-24 10:28:39
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13846.xyz^$important
@@ -183,17 +183,16 @@
 ||*.abimj.edu.af^$important
 ||*.abpayaiboqianbaoguanwang.com.cn^$important
 ||*.abpayqianbaoappxiazaigw.com.cn^$important
-||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acc.partner-credit-submission.com^$important
 ||*.access.skaparade.com^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.cccoinbase.com^$important
 ||*.admin.coinbase-china.info^$important
 ||*.admin.gestroom.it^$important
 ||*.admin.luxurywatchesus.com^$important
+||*.agence-immobiliere-lyon.com^$important
 ||*.aiboabpayqianbao.com.cn^$important
 ||*.aktiffkan-paylater.kcc.my.id^$important
 ||*.aktty-pnjam.dft-tar.my.id^$important
@@ -284,7 +283,6 @@
 ||*.corporacioncrf.com^$important
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
-||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
@@ -311,6 +309,7 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
 ||*.dianziqianbaoappxiazaigw.com.cn^$important
 ||*.dipanwitachakraborty25.github.io^$important
 ||*.disanfangqianbaoappgw.com.cn^$important
@@ -429,7 +428,6 @@
 ||*.estudiocils.com.ar^$important
 ||*.euftrhnx.computationalgrid.com^$important
 ||*.evangroup.ru^$important
-||*.eventourarte.cl^$important
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
 ||*.explorer.vg^$important
@@ -519,7 +517,6 @@
 ||*.kdpayqianbaoxiazairukou.com.cn^$important
 ||*.kernel-control-engine.christmas^$important
 ||*.khoancatbetong89.vn^$important
-||*.kimyen.net^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kramersmarionnettes.com^$important
@@ -532,6 +529,7 @@
 ||*.lengqianbaoappxiazai.com.cn^$important
 ||*.lfwxgs.com^$important
 ||*.libss.0x504.com^$important
+||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linguisticpuzzlesolver.christmas^$important
 ||*.link.freeeus.us^$important
@@ -548,7 +546,6 @@
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail-server-supportmy-yiscx80byz.zh-cn.edgeone.cool^$important
-||*.mandalaagrifresh.com^$important
 ||*.meetvideogoogle.com^$important
 ||*.mfbrkbuv.betnoise-unionour.cyou^$important
 ||*.mfwhezll.gift-lattice.christmas^$important
@@ -589,7 +586,6 @@
 ||*.noqianbaoxiazaigw.com.cn^$important
 ||*.nowalletqianbao.com.cn^$important
 ||*.nuevacarteradeclientes--manita121.replit.app^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
@@ -627,7 +623,6 @@
 ||*.portallogin-pchincha.zya.me^$important
 ||*.pos-mobile.enlineatechnologies.com^$important
 ||*.postelnini.mk^$important
-||*.preciosasjoyitas.com.mx^$important
 ||*.proxy-stream.christmas^$important
 ||*.pubgmgobal.officiall-events.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -662,6 +657,7 @@
 ||*.samsclass.info^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
+||*.schenckel.com.br^$important
 ||*.sdvgpro.ru^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -679,7 +675,6 @@
 ||*.shop.freeeus.us^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopee-jkt445.blogspot.com^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.shuziqianbaogw.com.cn^$important
 ||*.signal-routing-framework.christmas^$important
 ||*.silverhost.vg^$important
@@ -718,6 +713,7 @@
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
+||*.techtattva.in^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telemetrymesh.christmas^$important
@@ -725,7 +721,6 @@
 ||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tgpayqianbaoappxiazaigw.com.cn^$important
-||*.thebrandmantra.in^$important
 ||*.theholidayroads.com^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
@@ -745,6 +740,7 @@
 ||*.ukguk71.ru^$important
 ||*.ukkqtbst.snow-harbor.christmas^$important
 ||*.uniform-factory.ae^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upayqianbaoappxiazaigw.com.cn^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
@@ -794,7 +790,6 @@
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.bt2026-ai.com^$important
