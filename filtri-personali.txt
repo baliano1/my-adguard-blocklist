@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-25 17:04:58
+! Ultimo aggiornamento automatico: 2026-05-25 19:25:16
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.16140.xyz^$important
@@ -240,9 +240,11 @@
 ||*.bdointegral.cc^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bet365k13.cc^$important
+||*.biducaconfeitos.com.br^$important
 ||*.bitcoinsv-wallet.io^$important
 ||*.blacknigger.boo^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
@@ -379,6 +381,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.findmy.nolocattion-sopport.sbs^$important
 ||*.first-security-verden.de^$important
@@ -403,6 +406,7 @@
 ||*.gimnixnlogen.gitbook.io^$important
 ||*.gleeful-kitsune-cd3127.netlify.app^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.gotextileltd.com^$important
 ||*.gov-lrs.theleaftable.com^$important
@@ -430,6 +434,7 @@
 ||*.httpp-roblox.co^$important
 ||*.hub-ledgr-live.pages.dev^$important
 ||*.hzlqlpfw.frost-engine.christmas^$important
+||*.i-ramps.com^$important
 ||*.i.404.pm^$important
 ||*.icloud.you^$important
 ||*.icoffeecloud.com^$important
@@ -524,7 +529,6 @@
 ||*.mtx-tfdaw.wasmer.app^$important
 ||*.muledo.com^$important
 ||*.multidisciplinary-leaders-547304.framer.app^$important
-||*.mundocarnes.cl^$important
 ||*.mvltyody.frost-engine.christmas^$important
 ||*.mygrocerbox.com^$important
 ||*.n.vs108.com^$important
@@ -563,9 +567,11 @@
 ||*.permissions.mystagingwebsite.com^$important
 ||*.petitesalope.com^$important
 ||*.pg.binanncee.com^$important
+||*.pid.fly160.com^$important
 ||*.pinjamanmoz.turkeyzi.biz.id^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.pobedastaff.ru^$important
 ||*.portal-uphold-cdn-com.weebly.com^$important
 ||*.pos-mobile.enlineatechnologies.com^$important
@@ -606,7 +612,6 @@
 ||*.saba-okv-milan.games^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samsclass.info^$important
-||*.sanjaydharmraj.in^$important
 ||*.save.jnrsmcu.com^$important
 ||*.saviobrodz.github.io^$important
 ||*.scainseto.com.br^$important
@@ -641,7 +646,6 @@
 ||*.solar-sanat.net^$important
 ||*.spgint.com^$important
 ||*.splendid-apricot-964690.framer.app^$important
-||*.spoar.org.in^$important
 ||*.stage1-orschellx.com^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
