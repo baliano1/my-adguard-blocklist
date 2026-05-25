@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-25 14:48:11
+! Ultimo aggiornamento automatico: 2026-05-25 17:04:58
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.16140.xyz^$important
@@ -606,6 +606,7 @@
 ||*.saba-okv-milan.games^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samsclass.info^$important
+||*.sanjaydharmraj.in^$important
 ||*.save.jnrsmcu.com^$important
 ||*.saviobrodz.github.io^$important
 ||*.scainseto.com.br^$important
