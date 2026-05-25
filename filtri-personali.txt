@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-25 19:25:16
+! Ultimo aggiornamento automatico: 2026-05-25 22:05:31
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.16140.xyz^$important
@@ -430,7 +430,6 @@
 ||*.homeinspectionnaperville.com^$important
 ||*.hoycbijv.holiday-matrix.christmas^$important
 ||*.hqcmiiiu.cloud-orbit.digital^$important
-||*.hseda.com^$important
 ||*.httpp-roblox.co^$important
 ||*.hub-ledgr-live.pages.dev^$important
 ||*.hzlqlpfw.frost-engine.christmas^$important
@@ -480,7 +479,6 @@
 ||*.l.ead.me^$important
 ||*.l0g1n-access-pichncha.free.nf^$important
 ||*.landonirwin.com^$important
-||*.lapakwebsite.com^$important
 ||*.lasalleunipa.ucoz.site^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-entry.com^$important
@@ -517,6 +515,7 @@
 ||*.midasbuy-season.topup-mobiles.com^$important
 ||*.midasbuyplus-official.topup-mobiles.com^$important
 ||*.midastopupplus.putunesimbah.de^$important
+||*.miskolc-dugulaselharitas.hu^$important
 ||*.mistralkorea.ru^$important
 ||*.mitreart.com^$important
 ||*.mkszunli.flopstin-gymcargo.cyou^$important
@@ -612,7 +611,6 @@
 ||*.saba-okv-milan.games^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samsclass.info^$important
-||*.save.jnrsmcu.com^$important
 ||*.saviobrodz.github.io^$important
 ||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
@@ -626,7 +624,6 @@
 ||*.seld.com.cn^$important
 ||*.sensational-popover-484895.framer.app^$important
 ||*.separadordecc.com^$important
-||*.servicioslogisticosdyc.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
@@ -653,6 +650,7 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stg1-swaggrhockey.com^$important
+||*.stonecradle.com^$important
 ||*.store.workshopcosmeticreview.com^$important
 ||*.suggesting.info^$important
 ||*.suite-core.partner-programhub.com^$important
@@ -661,7 +659,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.syedhassan31545.github.io^$important
 ||*.t-mobile.bwvqzj.top^$important
 ||*.t-mobile.fvypec.top^$important
