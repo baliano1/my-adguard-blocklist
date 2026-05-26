@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-26 20:12:54
+! Ultimo aggiornamento automatico: 2026-05-26 22:17:38
 ||*.0022a601.pphost.net^$important
 ||*.1165nnn.com^$important
 ||*.123.ywxww.net^$important
@@ -268,6 +268,7 @@
 ||*.bysjry.fusionize.org^$important
 ||*.bzngye4l.proxy-orbit.digital^$important
 ||*.c.fi3.me^$important
+||*.cad.659t.cn^$important
 ||*.candipoker.net^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
@@ -355,6 +356,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dpd.bmvtrxqplk.cfd^$important
 ||*.dpd.bvnwqrzply.cfd^$important
@@ -395,7 +397,6 @@
 ||*.ecjimr.kovacsago.hu^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.emoto.mk^$important
 ||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
@@ -540,7 +541,6 @@
 ||*.maimunasabir.github.io^$important
 ||*.mcq9ktcv.telemetry-nexus.digital^$important
 ||*.meetvideogoogle.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mettaum-miskelgin8.godaddysites.com^$important
 ||*.mg-hildisrieden.ch^$important
 ||*.mistralkorea.ru^$important
@@ -555,7 +555,6 @@
 ||*.multipropositolosandes.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mustdygmuniserrrieue.org^$important
-||*.mx9x.com^$important
 ||*.my.7-11.com.basery.top^$important
 ||*.mygrocerbox.com^$important
 ||*.n.vs108.com^$important
