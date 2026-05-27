@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-27 03:29:51
+! Ultimo aggiornamento automatico: 2026-05-27 09:39:58
 ||*.0000153.0000255.0000011.0000125^$important
 ||*.0022a601.pphost.net^$important
 ||*.0203656.com^$important
@@ -183,6 +183,7 @@
 ||*.500vip07.com^$important
 ||*.5456656.vercel.app^$important
 ||*.5ib6hoc4.stack-orbit.digital^$important
+||*.6ak-tehnik.si^$important
 ||*.7louefau.microservice-compass.digital^$important
 ||*.9-160-161-38.cprapid.com^$important
 ||*.9awu4igb.cloud-lattice.digital^$important
@@ -223,7 +224,6 @@
 ||*.app.appzcvb.com^$important
 ||*.appchat-web-whatsapp.com.cn^$important
 ||*.apple-service93.ru^$important
-||*.areyouready.co.za^$important
 ||*.atasapka.com.tr^$important
 ||*.atharvanagvekar18-coder.github.io^$important
 ||*.atlascapitalsolutions.sg^$important
@@ -250,10 +250,10 @@
 ||*.blacknigger.boo^$important
 ||*.blaold.indebud.hu^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
-||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
 ||*.booking.hotel-stayse87401.com^$important
@@ -286,7 +286,6 @@
 ||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.ci7uxmq7.proxy-harbor.digital^$important
-||*.cl.ssouy.com^$important
 ||*.clacndjsvulnarbi.beer^$important
 ||*.clone-project-omega.vercel.app^$important
 ||*.clover-infotech-internal.github.io^$important
@@ -303,6 +302,7 @@
 ||*.corporacioncrf.com^$important
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
+||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
@@ -325,6 +325,7 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhl.cmvwp-ie.org^$important
+||*.dialkwik.in^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.diyaagrawal495.github.io^$important
@@ -338,6 +339,7 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -345,6 +347,7 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
+||*.dparagons.com^$important
 ||*.dpd.kpjrlvbnq.top^$important
 ||*.dpd.kqnwzp.club^$important
 ||*.dpd.qtrzplvmxn.cfd^$important
@@ -384,7 +387,6 @@
 ||*.evangroup.ru^$important
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
-||*.explorer.vg^$important
 ||*.extraspraquemprecisa.s3.us-east-005.backblazeb2.com^$important
 ||*.fakers.co.jp^$important
 ||*.famila.x10.mx^$important
@@ -412,7 +414,6 @@
 ||*.fukt.link^$important
 ||*.fuluz.akonyvelod.hu^$important
 ||*.furystaff.tech^$important
-||*.fz.tiansys.cn^$important
 ||*.galerisenimutiara.com^$important
 ||*.ganimne_walllate.godaddysites.com^$important
 ||*.gcrexj.glfree.hu^$important
@@ -425,7 +426,6 @@
 ||*.gijjr.welovevent.com^$important
 ||*.globalbank.us^$important
 ||*.glsvuu.knminerals.hu^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.google-services.cc^$important
 ||*.gotextileltd.com^$important
 ||*.gqsgdt.interimpro.hu^$important
@@ -443,6 +443,7 @@
 ||*.help-trezeer-io-start.typedream.app^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.htfnjw.jatekotmindenkinek.hu^$important
 ||*.i-ramps.com^$important
@@ -466,7 +467,6 @@
 ||*.iwojm.webgondozas.hu^$important
 ||*.j543wvuu.packet-orbit.digital^$important
 ||*.jakos.ovh^$important
-||*.jawaratekno.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jjake001.github.io^$important
 ||*.jkjey.vizhoszivattyu.hu^$important
@@ -499,6 +499,7 @@
 ||*.libss.0x504.com^$important
 ||*.lindenappliances.co.za^$important
 ||*.lindnerelektroanlagen.de^$important
+||*.lmlawcorp.com^$important
 ||*.local-update.com^$important
 ||*.login.alexa.abductist-alt.duckdns.org^$important
 ||*.login.alexa.abductist.duckdns.org^$important
@@ -507,7 +508,6 @@
 ||*.luizmatoso.com.br^$important
 ||*.lvavdb.nyitottkeramia.hu^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.m.xpj18960.com^$important
 ||*.m18b.top^$important
 ||*.m8fpbfz3.container-bridge.digital^$important
@@ -519,6 +519,7 @@
 ||*.meta-mushkglog.godaddysites.com^$important
 ||*.metai-iau-mskmask-logijin.godaddysites.com^$important
 ||*.metainslagram.github.io^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mfacebook.vn^$important
 ||*.miqhc.bmiroda.hu^$important
 ||*.mistralkorea.ru^$important
@@ -549,7 +550,6 @@
 ||*.noithaticon.vn^$important
 ||*.novasoportunidadesterca.s3.us-east-005.backblazeb2.com^$important
 ||*.nspbcu.krokodilpince.hu^$important
-||*.nusatoyota.co.id^$important
 ||*.nveth.brandbuilder.hu^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
@@ -573,11 +573,13 @@
 ||*.pedagiodigital.xo.je^$important
 ||*.petitesalope.com^$important
 ||*.phmro.optikusom.hu^$important
+||*.photobookadm.pro^$important
 ||*.pid.fly160.com^$important
 ||*.pjvro.cannaturalgroup.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pobedastaff.ru^$important
+||*.pos-mobile.enlineatechnologies.com^$important
 ||*.possible-artboard-693647.framer.app^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
@@ -631,7 +633,6 @@
 ||*.salman-developer-747757.github.io^$important
 ||*.samikshagupta-png.github.io^$important
 ||*.samsclass.info^$important
-||*.satuatlas.com^$important
 ||*.save.jnrsmcu.com^$important
 ||*.sbs.logincorporate.com^$important
 ||*.scainseto.com.br^$important
@@ -648,7 +649,6 @@
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.silverhost.vg^$important
 ||*.sk-comtel.com^$important
 ||*.sksudhanshusingh-arch.github.io^$important
@@ -656,6 +656,7 @@
 ||*.smartermail.host^$important
 ||*.snaply-git-main-khadir-salims-projects.vercel.app^$important
 ||*.sneodo.gerecseglamping.com^$important
+||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.soumyariq.github.io^$important
@@ -671,6 +672,7 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stg1-swaggrhockey.com^$important
+||*.stonecradle.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
@@ -759,6 +761,7 @@
 ||*.t-mobile.ztarcm.top^$important
 ||*.t-mobile.zubsqa.top^$important
 ||*.t-mobile.zxirwq.top^$important
+||*.take-care.africa^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -858,7 +861,6 @@
 ||*.www.gov-parklngv.cyou^$important
 ||*.www.hippamsas.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.k67f.top^$important
