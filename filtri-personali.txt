@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-27 20:11:00
+! Ultimo aggiornamento automatico: 2026-05-27 22:28:28
 ||*.0000153.0000255.0000011.0000125^$important
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
@@ -459,6 +459,7 @@
 ||*.hatvtf.globalcontact.hu^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.htfnjw.jatekotmindenkinek.hu^$important
 ||*.huld-lgn-up-home.square.site^$important
@@ -519,7 +520,6 @@
 ||*.luizmatoso.com.br^$important
 ||*.lvavdb.nyitottkeramia.hu^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.m8fpbfz3.container-bridge.digital^$important
 ||*.macscheese.info^$important
 ||*.magnusworkspace.com^$important
@@ -547,6 +547,7 @@
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mwizz.leadsbr.com.br^$important
+||*.mx9x.com^$important
 ||*.mybbtelecomms.weebly.com^$important
 ||*.mygrocerbox.com^$important
 ||*.myselfsouvik.github.io^$important
@@ -558,6 +559,7 @@
 ||*.neypx.bmz.hu^$important
 ||*.nflx-cdn6747.konta-portal.com^$important
 ||*.nhloli.co.za^$important
+||*.nitrogateway.digital^$important
 ||*.noithaticon.vn^$important
 ||*.nova.podril1ak2.online^$important
 ||*.nspbcu.krokodilpince.hu^$important
@@ -794,6 +796,7 @@
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
