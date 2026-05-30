@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-30 16:02:38
+! Ultimo aggiornamento automatico: 2026-05-30 19:07:25
 ||*.0022a601.pphost.net^$important
 ||*.0213659.com^$important
 ||*.08913659.com^$important
@@ -283,7 +283,6 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
-||*.chungminhtaichinhsaigon.net^$important
 ||*.cklrd.webrevelem.hu^$important
 ||*.cl.ssouy.com^$important
 ||*.clonsviewmainrepo.wasmer.app^$important
@@ -303,7 +302,6 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
-||*.ct3-24.ru^$important
 ||*.cxaxqwe.sm188login.cfd^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -311,6 +309,7 @@
 ||*.danaa-iindonesiaa.utt.my.id^$important
 ||*.data.yhydl.com^$important
 ||*.deepshikha-pal.github.io^$important
+||*.delp-heizungsbau.de^$important
 ||*.derekludlow.com^$important
 ||*.desentupidora.pro.br^$important
 ||*.desktop-app.click^$important
@@ -635,6 +634,7 @@
 ||*.plasteredplayn.com^$important
 ||*.podo-orthesiologie.at^$important
 ||*.postelnini.mk^$important
+||*.preciosasjoyitas.com.mx^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.pyexv.yanis.hu^$important
@@ -662,7 +662,6 @@
 ||*.robiox.com.py^$important
 ||*.robiox.com.ua^$important
 ||*.roblovx.cam^$important
-||*.roblox-execut.net^$important
 ||*.roblox.com.ml^$important
 ||*.roblox.et^$important
 ||*.roblozn.com^$important
@@ -684,7 +683,6 @@
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopee7369.blogspot.com^$important
@@ -696,6 +694,7 @@
 ||*.slrsd.sm188dvlv.rest^$important
 ||*.smartermail.host^$important
 ||*.snonc.accredit.hu^$important
+||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.solucionesweb12.iceiy.com^$important
@@ -749,8 +748,8 @@
 ||*.ucovu.lelekszepsegstudio.hu^$important
 ||*.ujhtrjp.laborfotostudio.hu^$important
 ||*.ukguk71.ru^$important
+||*.ultraviolence.buzz^$important
 ||*.ulyow.legrandpartnerklub.hu^$important
-||*.unicore.pw^$important
 ||*.uniswap-azure.vercel.app^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -810,6 +809,7 @@
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.bbin.cn.com^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.bet365asia38.com^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.boyizhenren.com^$important
