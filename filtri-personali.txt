@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-31 16:04:30
+! Ultimo aggiornamento automatico: 2026-05-31 19:12:41
 ||*.0022a601.pphost.net^$important
 ||*.0112576.com^$important
 ||*.04jycmgl777u.cc^$important
@@ -208,13 +208,14 @@
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
-||*.alternativas.ru^$important
 ||*.amazonam.vip^$important
 ||*.antai-amendes-gouv2026.justns.ru^$important
 ||*.api.baimless.com^$important
 ||*.api.ezilax.com^$important
+||*.apple-service93.ru^$important
 ||*.areyouready.co.za^$important
 ||*.atasapka.com.tr^$important
+||*.augsburg-auto.com^$important
 ||*.authentication.ms^$important
 ||*.autobaenasl.com^$important
 ||*.avjquzsd.seresniki.com^$important
@@ -233,8 +234,6 @@
 ||*.biducaconfeitos.com.br^$important
 ||*.black-brook-8ab7.5a73cbc5.workers.dev^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
-||*.blogs.sokun.jp^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
@@ -247,7 +246,6 @@
 ||*.bxhnheh.vostrovape.com^$important
 ||*.c.fi3.me^$important
 ||*.cad.659t.cn^$important
-||*.caldas-pires.pt^$important
 ||*.calorie.electricbrae.info^$important
 ||*.candipoker.net^$important
 ||*.caring-platforms-513881.framer.app^$important
@@ -259,7 +257,6 @@
 ||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
-||*.checkinetverifk.com^$important
 ||*.chhul.sm188akurat.sbs^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
@@ -271,6 +268,7 @@
 ||*.companylegal.co.uk^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
+||*.controlhomecr.com^$important
 ||*.controliumbt.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
@@ -384,6 +382,7 @@
 ||*.effortless-unicorn-56ea7a.netlify.app^$important
 ||*.ehshryo.zsatom.hu^$important
 ||*.eibnb.slotmacau188z.bond^$important
+||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.elmqfzy.zsatom.hu^$important
 ||*.embedone.com^$important
@@ -419,6 +418,7 @@
 ||*.globalbank.us^$important
 ||*.gouidekdc.eu.cc^$important
 ||*.greenf.alexion.rs^$important
+||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.gvshj.sm188daftar.skin^$important
 ||*.gxhkg.sm188dvlv.skin^$important
@@ -457,7 +457,6 @@
 ||*.insproxy.66zhang.cn^$important
 ||*.instagramdefrancisco.blogspot.com^$important
 ||*.invfort.one^$important
-||*.ircftp.net^$important
 ||*.iscpbxp.datastella.co^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
@@ -480,6 +479,7 @@
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kishwar18k.github.io^$important
+||*.kms.com.bd^$important
 ||*.kollins.co.za^$important
 ||*.konsor.ru^$important
 ||*.kpckilf.visszateritok.hu^$important
@@ -490,16 +490,17 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ldgr-live--us.pages.dev^$important
+||*.leanmaestro.com^$important
 ||*.ledgarliveslog.framer.media^$important
 ||*.ledgorlives.framer.media^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.llrxcyj.laborfotostudio.hu^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
+||*.luizmatoso.com.br^$important
 ||*.m-facebooks.vn^$important
 ||*.m.10086a.vip^$important
 ||*.m.csam.in^$important
-||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m.padisahbets.co^$important
 ||*.maidforyou1985.com^$important
@@ -532,7 +533,6 @@
 ||*.nblvwres.stgsolar.hu^$important
 ||*.ncxps.com^$important
 ||*.nekofreegateway.dancerblade70.workers.dev^$important
-||*.nelees.com^$important
 ||*.netflix-clone-zeta-five.vercel.app^$important
 ||*.netflixclone-chi-ten.vercel.app^$important
 ||*.netflixy-bixy.vercel.app^$important
@@ -571,6 +571,7 @@
 ||*.photobookadm.pro^$important
 ||*.pid.fly160.com^$important
 ||*.pixey.lampaoszlopbolt.hu^$important
+||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pnniuwu.popi999.net^$important
 ||*.portal46990.billing-service-a4c4585ai21.org^$important
@@ -632,6 +633,7 @@
 ||*.samsclass.info^$important
 ||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
+||*.schenckel.com.br^$important
 ||*.sdcpqrz.zsatom.hu^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -639,6 +641,7 @@
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shemaleshavefeelings.autos^$important
 ||*.shop.mediasova.ru^$important
@@ -779,6 +782,7 @@
 ||*.www.ardguisser.com^$important
 ||*.www.astenterprises.com.pk^$important
 ||*.www.backupallfresh2030.com^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.bet365.casinologinonline.com^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bom.so^$important
@@ -834,6 +838,7 @@
 ||*.www.saf-oil.ru^$important
 ||*.www.salonmarketing.ca^$important
 ||*.www.sgeseducation.com^$important
+||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.smakers-demo.vercel.app^$important
 ||*.www.special-win-cash20.blogspot.com^$important
 ||*.www.ss-01.com^$important
