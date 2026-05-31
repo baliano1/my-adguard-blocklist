@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-05-31 08:41:13
+! Ultimo aggiornamento automatico: 2026-05-31 10:54:55
 ||*.0022a601.pphost.net^$important
 ||*.0203656.com^$important
 ||*.15673.xyz^$important
@@ -270,6 +270,7 @@
 ||*.cpofficial.com^$important
 ||*.cr9i8up3.stgsolar.hu^$important
 ||*.creativevoltage.com^$important
+||*.crystalpvp.ru^$important
 ||*.csg-app.com^$important
 ||*.ct3-24.ru^$important
 ||*.cxaxqwe.sm188login.cfd^$important
@@ -445,7 +446,6 @@
 ||*.injectroblox.ru^$important
 ||*.inner.website^$important
 ||*.instagramdefrancisco.blogspot.com^$important
-||*.ircftp.net^$important
 ||*.iscpbxp.datastella.co^$important
 ||*.isiore.com.co^$important
 ||*.ithelptoday.net^$important
@@ -566,7 +566,6 @@
 ||*.prgqvfu.payestation.com^$important
 ||*.princesleonorvipwebsitesreal.blogspot.com^$important
 ||*.pro-bet365.com.cn^$important
-||*.protherapycenter.com^$important
 ||*.psiwhza.baocongnghe.net^$important
 ||*.pt-shopee0002.blogspot.com^$important
 ||*.pub-4e0d515d9c79417e8b4042dfa120d149.r2.dev^$important
@@ -589,7 +588,6 @@
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
-||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reutilizemais.co.mz^$important
@@ -611,6 +609,7 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samreans.github.io^$important
 ||*.samsclass.info^$important
+||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.sdcpqrz.zsatom.hu^$important
 ||*.sec.dashabi.in^$important
@@ -665,7 +664,6 @@
 ||*.steam66.cn^$important
 ||*.steamspark.live^$important
 ||*.stg1-swaggrhockey.com^$important
-||*.stonecradle.com^$important
 ||*.submit-verify-lifetime-blue.surge.sh^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
