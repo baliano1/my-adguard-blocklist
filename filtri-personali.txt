@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-02 20:43:40
+! Ultimo aggiornamento automatico: 2026-06-02 22:59:53
 ||*.0022a601.pphost.net^$important
 ||*.0nwfyg62.onja1bet.com^$important
 ||*.1005.gu1gu1.ccwu.cc^$important
@@ -258,6 +258,7 @@
 ||*.brvtfsq.designyourlifeinflow.com^$important
 ||*.c.fi3.me^$important
 ||*.c7ddb6d1.wwww23e.pages.dev^$important
+||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
 ||*.cat.dashabi.in^$important
