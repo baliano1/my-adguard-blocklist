@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-04 14:52:32
+! Ultimo aggiornamento automatico: 2026-06-04 17:43:35
 ||*.0022a601.pphost.net^$important
 ||*.009987b555552.duckdns.org^$important
 ||*.0u9irsk6.luxerabet10.com^$important
@@ -201,6 +201,7 @@
 ||*.alineeleuterio.com.br^$important
 ||*.alioss.cdn-go.com.cn^$important
 ||*.allendostmen.com^$important
+||*.alternativas.ru^$important
 ||*.amangirwal.github.io^$important
 ||*.amazon-clone-black-iota.vercel.app^$important
 ||*.amazon-clone-phi-mocha.vercel.app^$important
@@ -265,6 +266,7 @@
 ||*.clone-instagram-by-enju.vercel.app^$important
 ||*.cloud55file.cc^$important
 ||*.cloudaryx.cloud^$important
+||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
@@ -346,6 +348,7 @@
 ||*.eventourarte.cl^$important
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
+||*.facanha.com.br^$important
 ||*.facebooks.com.vn^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
@@ -377,6 +380,7 @@
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.hackerog17.github.io^$important
+||*.handikaputra.my.id^$important
 ||*.hasalltalent.com^$important
 ||*.hekjmsa.2026.futbol^$important
 ||*.hitman-pro.ru^$important
@@ -454,6 +458,7 @@
 ||*.meta-stack.pages.dev^$important
 ||*.meta-support-bridge.pages.dev^$important
 ||*.meta-zernivax.pages.dev^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mfepyxz.bet888starzz.com^$important
 ||*.mobshah.com^$important
 ||*.modspoti.com^$important
@@ -621,6 +626,7 @@
 ||*.theoremaoliveoil.com^$important
 ||*.theqntp.com^$important
 ||*.thtp2.volamngayxua.net^$important
+||*.tiacreation.club^$important
 ||*.tiktoke.fit^$important
 ||*.tinyurl.com^$important
 ||*.tmcksa.com^$important
@@ -700,6 +706,7 @@
 ||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bocai2027.com^$important
+||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.cez.dvf.mybluehost.me^$important
 ||*.www.chenwangqiao.com^$important
 ||*.www.confirm-address-changing.vercel.app^$important
@@ -780,6 +787,7 @@
 ||*.www.support-ict.com^$important
 ||*.www.systxt754-sgbi.blogspot.com^$important
 ||*.www.tdejb.com^$important
+||*.www.tecunonline.com^$important
 ||*.www.theworldofm.net^$important
 ||*.www.tradedsglobal.com^$important
 ||*.www.trip-bet365.com.cn^$important
