@@ -162,15 +162,15 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-05 17:13:05
+! Ultimo aggiornamento automatico: 2026-06-05 19:50:05
 ||*.0022a601.pphost.net^$important
 ||*.04gzr1uh.alternatifdekorasyon.com^$important
 ||*.121jio.senes.at^$important
-||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.17384.xyz^$important
 ||*.17402.xyz^$important
+||*.176.65.149.124.ptr.pfcloud.network^$important
 ||*.2os894vl.betfire90.bet^$important
 ||*.3i8e3aty.ef90bet.com^$important
 ||*.4ly606b9.aftabsport.ir^$important
@@ -233,6 +233,7 @@
 ||*.binance-1-2-11-uniswap.vercel.app^$important
 ||*.bkbopol.betlikegirisi.com^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bofcv8ir.bet90boro.com^$important
@@ -246,6 +247,7 @@
 ||*.bvaco.com^$important
 ||*.byucosm.bettime.win^$important
 ||*.c.fi3.me^$important
+||*.c2.mc-live.online^$important
 ||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
@@ -471,6 +473,7 @@
 ||*.kihjmjx.enobahis.co^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
+||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kpcifot.aypoker90.com^$important
 ||*.kpmmg.org^$important
@@ -514,6 +517,7 @@
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
+||*.n.vs108.com^$important
 ||*.naifei.bet^$important
 ||*.nanshiin.com^$important
 ||*.ncxps.com^$important
@@ -537,7 +541,6 @@
 ||*.ojang.pe.kr^$important
 ||*.ojxpecw.bet30bet.com^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.owlcity.ru^$important
 ||*.oxfordmobilexray.com^$important
@@ -556,7 +559,6 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pmieubk.arabs.promo^$important
-||*.pns.org.pk^$important
 ||*.pop.goood-mail.com^$important
 ||*.popandc.be^$important
 ||*.post.uberweisung.org^$important
@@ -567,7 +569,6 @@
 ||*.profile.set-huilier.fr^$important
 ||*.program-resmi27.blogspot.com^$important
 ||*.progroup.top^$important
-||*.project360.hr^$important
 ||*.psa.corporatereward.net^$important
 ||*.ptapgsl.betwana.casino^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -735,7 +736,6 @@
 ||*.tegbxmn.betebetwin.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
-||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tgyltcn.basketballbet.app^$important
 ||*.theholidayroads.com^$important
