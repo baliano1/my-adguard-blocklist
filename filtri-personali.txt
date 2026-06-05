@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-05 14:43:38
+! Ultimo aggiornamento automatico: 2026-06-05 17:13:05
 ||*.0022a601.pphost.net^$important
 ||*.04gzr1uh.alternatifdekorasyon.com^$important
 ||*.121jio.senes.at^$important
@@ -187,6 +187,7 @@
 ||*.aakrutitexture.in^$important
 ||*.aaronart.com^$important
 ||*.above-directly-entity-revolution.trycloudflare.com^$important
+||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acc.partner-credit-submission.com^$important
 ||*.access.skaparade.com^$important
@@ -453,7 +454,6 @@
 ||*.itssprout.com^$important
 ||*.itsuppports.com^$important
 ||*.iwd21.icu^$important
-||*.jalebel7abeb.com^$important
 ||*.jessedigitalrfpdocs-dpgcy2fje2tm.edgeone.dev^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -471,7 +471,6 @@
 ||*.kihjmjx.enobahis.co^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
-||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kpcifot.aypoker90.com^$important
 ||*.kpmmg.org^$important
@@ -553,7 +552,6 @@
 ||*.pfoten-nahrung.de^$important
 ||*.photo-62454.cfd^$important
 ||*.pickup.e-docssign.net^$important
-||*.pid.fly160.com^$important
 ||*.plane-bet365.com.cn^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
@@ -598,7 +596,6 @@
 ||*.roblox.com.bn^$important
 ||*.roblox.com.kz^$important
 ||*.roblox.com.ml^$important
-||*.rosebaie.ma^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rpvfsmg.bankiran.bet^$important
 ||*.rss.readles.at^$important
