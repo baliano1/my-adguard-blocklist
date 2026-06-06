@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-06 19:17:09
+! Ultimo aggiornamento automatico: 2026-06-06 22:01:50
 ||*.0022a601.pphost.net^$important
 ||*.04gzr1uh.alternatifdekorasyon.com^$important
 ||*.123.ywxww.net^$important
@@ -273,11 +273,11 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.clmkghe.bettime90.casino^$important
 ||*.cloudaryx.cloud^$important
+||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cmzgymj.betobet90.com^$important
 ||*.cn.unionlever.com^$important
@@ -355,7 +355,6 @@
 ||*.dragon95.net^$important
 ||*.dralexandrecoura.com.br^$important
 ||*.drckscr.bizbetslot.net^$important
-||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.duizlfe.funbet24.bet^$important
@@ -390,7 +389,6 @@
 ||*.ffeqlui.betrayon.casino^$important
 ||*.ffrpwns.vbetirani.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fluffynoodle.xyz^$important
@@ -417,6 +415,7 @@
 ||*.globalbank.us^$important
 ||*.globaltechnosoft.com^$important
 ||*.gmtzkxm.hit4bet1.com^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.gomc.uk^$important
 ||*.gqjz709j.bordoo.bet^$important
 ||*.greenf.alexion.rs^$important
@@ -453,11 +452,11 @@
 ||*.iddmpon.football2026.world^$important
 ||*.ig.do^$important
 ||*.igra123.com^$important
+||*.ijbfi.pk^$important
 ||*.importersexportersinc.com^$important
 ||*.inervadores.life^$important
 ||*.info-resmi254.blogspot.com^$important
 ||*.injectroblox.ru^$important
-||*.innovantksa.com^$important
 ||*.inspirational-pizza-522938.framer.app^$important
 ||*.instagram-1ogin.duckdns.org^$important
 ||*.instagram-cam.vercel.app^$important
@@ -561,7 +560,6 @@
 ||*.nitrogateway.digital^$important
 ||*.nllyafb.basketballbet.org^$important
 ||*.nmnntl.bet303casino.com^$important
-||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
@@ -582,12 +580,14 @@
 ||*.p3.zbjimg.com^$important
 ||*.pacsuhw1.pishbini90.bet^$important
 ||*.pay.aqiu6.com^$important
+||*.pcupd.com^$important
 ||*.petitesalope.com^$important
 ||*.pfatrivandrum.org^$important
 ||*.photo-62454.cfd^$important
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.postailedger.com^$important
 ||*.postch-reprogrammation.help^$important
 ||*.postelnini.mk^$important
@@ -663,7 +663,6 @@
 ||*.shopeejkt734.blogspot.com^$important
 ||*.shopeejkt737.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.silvion.uk^$important
 ||*.sk-comtel.com^$important
 ||*.smart.abuse.st^$important
@@ -771,6 +770,7 @@
 ||*.tr.galabetorjinal.co^$important
 ||*.tr.giris-padisahbet-sabit.icu^$important
 ||*.trade-eprex.pro^$important
+||*.tradedsglobal.com^$important
 ||*.trainingcenter.pkugombong.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trlclzb.enfejar.game^$important
@@ -793,6 +793,7 @@
 ||*.uzmanbahis.one^$important
 ||*.uzmanbahis2.one^$important
 ||*.vagler.ru^$important
+||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.vcc-library.uk^$important
 ||*.vctiae.bet360pro.bet^$important
@@ -859,7 +860,6 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.gebyar-shopee20.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.hth-mobile.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.irenechiang.com^$important
