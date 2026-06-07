@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-07 03:34:43
+! Ultimo aggiornamento automatico: 2026-06-07 08:51:58
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -193,6 +193,7 @@
 ||*.abhishek-codelab.github.io^$important
 ||*.able-bet365.com.cn^$important
 ||*.abril.ink^$important
+||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.acms.saleseos.com^$important
@@ -267,6 +268,7 @@
 ||*.caxvhiw.jamjahani.org^$important
 ||*.cc512031.tw1.ru^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.central-bet365.com.cn^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -274,7 +276,6 @@
 ||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.claims-fraud-esl-org.xyz^$important
@@ -297,7 +298,6 @@
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
 ||*.crimefreesoftware.com^$important
-||*.cryoshield.co.za^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
@@ -316,6 +316,7 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dkrbvhs.jamjahani.site^$important
@@ -483,6 +484,7 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ldgssv.bazipoop.com^$important
+||*.leanmaestro.com^$important
 ||*.lejj-whatsapp.com.cn^$important
 ||*.lfwboc.jamejahani.win^$important
 ||*.lgwzmtt.yek1bet.bet^$important
@@ -499,11 +501,11 @@
 ||*.lulfav.bet404farsi.com^$important
 ||*.lvgnygm.nannafreving.com^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.greetings.pictures^$important
 ||*.mail.itineraryupdate.com^$important
 ||*.mail.pmeimg8.com^$important
-||*.mandalaagrifresh.com^$important
 ||*.many-tables-304491.framer.app^$important
 ||*.meetvideogoogle.com^$important
 ||*.metrics.gocloudmaps.com^$important
@@ -543,7 +545,6 @@
 ||*.ofwbhuk.jamjahani.website^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.okx-24c.pages.dev^$important
 ||*.onfiltre.com.tr^$important
 ||*.onoizuz.fibi-ireland.com^$important
@@ -569,10 +570,12 @@
 ||*.pjnmfyn.yekbetiran.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.po9isauo.bet90boro.com^$important
 ||*.postelnini.mk^$important
 ||*.pqycltd.hokm.casino^$important
 ||*.preciosasjoyitas.com.mx^$important
+||*.protherapycenter.com^$important
 ||*.ptrpzfj.volleyball.poker^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -612,7 +615,6 @@
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samsclass.info^$important
-||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
 ||*.science4u.co.in^$important
@@ -631,7 +633,6 @@
 ||*.shop.mediasova.ru^$important
 ||*.shopee-tbk489.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.sk-comtel.com^$important
 ||*.smart.abuse.st^$important
 ||*.smartermail.host^$important
@@ -713,7 +714,6 @@
 ||*.sp5ct6-vraxtek-biz-qravnix-glarnor.pages.dev^$important
 ||*.sp5ct6-vrolvor-biz-fralnik-glarnex.pages.dev^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.spongebob30k.blogspot.com^$important
 ||*.sprightly-empanada-83358c.netlify.app^$important
 ||*.ssl.creditunion-banking.org^$important
@@ -769,6 +769,7 @@
 ||*.trezzore-suiite-en.wasmer.app^$important
 ||*.trlclzb.enfejar.game^$important
 ||*.trtmyanmar.com^$important
+||*.tsms.ogcs-tn.com^$important
 ||*.ttowige.goldenroulette.bet^$important
 ||*.tvonayz.jamjahani.vip^$important
 ||*.ty691.com^$important
