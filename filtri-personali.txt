@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-08 15:43:17
+! Ultimo aggiornamento automatico: 2026-06-08 20:10:23
 ||*.0022a601.pphost.net^$important
 ||*.015bj63k.parspoker90.com^$important
 ||*.1217js.com^$important
@@ -231,6 +231,7 @@
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.arihanp.jamjahani.website^$important
+||*.as.al^$important
 ||*.atasapka.com.tr^$important
 ||*.att.foxmarksolutions.com^$important
 ||*.audicontadores.com^$important
@@ -349,6 +350,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -524,6 +526,7 @@
 ||*.m.galabet-tr157.co^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.js9851.com^$important
+||*.m.meta-dm.com^$important
 ||*.m.xpj5s.com^$important
 ||*.m.yh87755.com^$important
 ||*.m.yh87766.com^$important
@@ -613,7 +616,6 @@
 ||*.prime-videosfrance.com^$important
 ||*.pro_coinbaslogin-io.godaddysites.com^$important
 ||*.programme-hup.m365-microsoft.com^$important
-||*.protherapycenter.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pulihkan-akun-78u.pages.dev^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -721,7 +723,6 @@
 ||*.sp5ct6-qoltor-biz-glarnor-vraltex.pages.dev^$important
 ||*.sp5ct6-vraxlor-biz-druntek-fralnik.pages.dev^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.sporting-apricot-xuiuvslnhr.edgeone.app^$important
 ||*.spotify-client-beta.vercel.app^$important
 ||*.sso-security.com^$important
@@ -858,7 +859,6 @@
 ||*.www.layanan-undian11.blogspot.com^$important
 ||*.www.manualgcash.blogspot.com^$important
 ||*.www.medises.co.kr^$important
-||*.www.mevetlab.cl^$important
 ||*.www.microsoft-1ogin.duckdns.org^$important
 ||*.www.mitaomaodou.com^$important
 ||*.www.mmbxcdfg.vercel.app^$important
@@ -908,6 +908,7 @@
 ||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
 ||*.wxjbkv.onlineshart.com^$important
+||*.xemhang.vn^$important
 ||*.xhqkuit.kvbel.com^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
