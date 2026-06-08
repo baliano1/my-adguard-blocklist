@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-08 20:10:23
+! Ultimo aggiornamento automatico: 2026-06-08 22:23:39
 ||*.0022a601.pphost.net^$important
 ||*.015bj63k.parspoker90.com^$important
 ||*.1217js.com^$important
@@ -198,6 +198,7 @@
 ||*.aarcyyo.one1xbet.net^$important
 ||*.aaronart.com^$important
 ||*.abdullah-2r.github.io^$important
+||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.account.remote-otp.com^$important
@@ -226,12 +227,10 @@
 ||*.api.ezilax.com^$important
 ||*.api.powerups.club^$important
 ||*.app.appzcvb.com^$important
-||*.apparelgate.co.uk^$important
 ||*.apple-service93.ru^$important
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.arihanp.jamjahani.website^$important
-||*.as.al^$important
 ||*.atasapka.com.tr^$important
 ||*.att.foxmarksolutions.com^$important
 ||*.audicontadores.com^$important
@@ -283,7 +282,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.caxvhiw.jamjahani.org^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -291,7 +289,6 @@
 ||*.chimex.com.mx^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -320,6 +317,7 @@
 ||*.ct3-24.ru^$important
 ||*.cuuibase_prou_logi.godaddysites.com^$important
 ||*.d.14yaa.com^$important
+||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.dana-open-akun.pages.dev^$important
 ||*.data.yhydl.com^$important
@@ -467,7 +465,6 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ivqivx.xenicalby6.com^$important
-||*.jalebel7abeb.com^$important
 ||*.jawaratekno.com^$important
 ||*.jbwhmuq.i90.bet^$important
 ||*.jepbtnj.pasur21.com^$important
@@ -575,6 +572,7 @@
 ||*.non-steam.com^$important
 ||*.npawoli.jamjahani.world^$important
 ||*.nqbecrh.one1x.bet^$important
+||*.nusatoyota.co.id^$important
 ||*.nwdzgly.ninjafruitcubes.bet^$important
 ||*.ny.lshdw.cc^$important
 ||*.nzfcrki.lolsurpriseball.com^$important
@@ -595,6 +593,7 @@
 ||*.panel.charsooq.com^$important
 ||*.parthivx1.github.io^$important
 ||*.paulamis.github.io^$important
+||*.pay.aqiu6.com^$important
 ||*.paypal-c.vercel.app^$important
 ||*.pcupd.com^$important
 ||*.petitesalope.com^$important
@@ -605,6 +604,7 @@
 ||*.pjnmfyn.yekbetiran.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.po6drihx.onexprobet.com^$important
 ||*.po9isauo.bet90boro.com^$important
 ||*.popandc.be^$important
@@ -631,6 +631,7 @@
 ||*.rajsoull.github.io^$important
 ||*.ramadabywyndhamdubaibarshaheights.spahotel.guru^$important
 ||*.ramirex.ro^$important
+||*.ranojpegu.in^$important
 ||*.rd7o3xct.parsgoal90.com^$important
 ||*.rdg.non-steam.com^$important
 ||*.rdm.91yunma.cn^$important
@@ -666,6 +667,7 @@
 ||*.samsclass.info^$important
 ||*.santafekllan2026.blogspot.com^$important
 ||*.saraghrar.scholarlumni.info^$important
+||*.save.jnrsmcu.com^$important
 ||*.scainseto.com.br^$important
 ||*.schenckel.com.br^$important
 ||*.scotiawealthmanagement.com.cobblestonesw.com^$important
@@ -726,7 +728,6 @@
 ||*.sporting-apricot-xuiuvslnhr.edgeone.app^$important
 ||*.spotify-client-beta.vercel.app^$important
 ||*.sso-security.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -869,11 +870,11 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
-||*.www.okhan.net^$important
 ||*.www.pekj1403.com^$important
 ||*.www.playtown.co.za^$important
 ||*.www.pnc-nine.vercel.app^$important
 ||*.www.popandc.be^$important
+||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.ps^$important
 ||*.www.robiox.com.py^$important
@@ -909,6 +910,7 @@
 ||*.www.zhikey.com^$important
 ||*.wxjbkv.onlineshart.com^$important
 ||*.xemhang.vn^$important
+||*.xenon.studio^$important
 ||*.xhqkuit.kvbel.com^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
