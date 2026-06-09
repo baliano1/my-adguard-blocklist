@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-09 06:47:25
+! Ultimo aggiornamento automatico: 2026-06-09 11:57:47
 ||*.0022a601.pphost.net^$important
 ||*.015bj63k.parspoker90.com^$important
 ||*.024365vip.com^$important
@@ -173,7 +173,6 @@
 ||*.17080.xyz^$important
 ||*.17084.xyz^$important
 ||*.17092.xyz^$important
-||*.1717.1000uc.com^$important
 ||*.1hrrc4q6.onexboro.com^$important
 ||*.1nmuyb5y.parspoker90.com^$important
 ||*.2dz4gggg.betgopro.com^$important
@@ -184,6 +183,7 @@
 ||*.5bksyseg.betistmobil.com^$important
 ||*.5dwz6wj9.yekbetiran.com^$important
 ||*.60hx33ds.minescasino.bet^$important
+||*.6ak-tehnik.si^$important
 ||*.72264.xyz^$important
 ||*.92q3-iqz6-jcck.gopal-bristow-ca-s-account.workers.dev^$important
 ||*.9t9m7lad.yektbet.bet^$important
@@ -193,7 +193,6 @@
 ||*.aaronart.com^$important
 ||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.access.skaparade.com^$important
 ||*.account-apple.eu^$important
 ||*.account.remote-otp.com^$important
 ||*.acms.saleseos.com^$important
@@ -203,7 +202,6 @@
 ||*.akvljg.perspolisbet90.com^$important
 ||*.alarmline.com.br^$important
 ||*.alertlocations.click^$important
-||*.ali-alomaritrading.cam^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allegrio.top^$important
 ||*.allendostmen.com^$important
@@ -215,11 +213,9 @@
 ||*.app.shopledgerapp.com^$important
 ||*.apparelgate.co.uk^$important
 ||*.appdownload.download^$important
-||*.apple-service93.ru^$important
 ||*.apple.co.cobblestonesw.com^$important
 ||*.appsuite-connectxfinity101010101.company^$important
 ||*.archivoscrosoft.com^$important
-||*.areyouready.co.za^$important
 ||*.as.al^$important
 ||*.asistenciam4il2026.github.io^$important
 ||*.aswathi-tp-2007.github.io^$important
@@ -257,7 +253,7 @@
 ||*.bikldg.volleyball.bet^$important
 ||*.bl7gsqjt.parsgoal90.com^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
+||*.blg.com.mx^$important
 ||*.blockfe-loogi.godaddysites.com^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -271,11 +267,11 @@
 ||*.bvnvrjx.kvbel.com^$important
 ||*.bzwbfps.winxbet.co^$important
 ||*.c.fi3.me^$important
+||*.c2.mc-live.online^$important
 ||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.camnty.digitalfree.site^$important
 ||*.candipoker.net^$important
-||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
@@ -287,13 +283,12 @@
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chatempresa.net^$important
 ||*.checkfivem.com^$important
-||*.checkinetverifk.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chongtar.ekklesiadallas.info^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.chzldmh3.parsbet90.com^$important
-||*.cl.ssouy.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
@@ -304,7 +299,6 @@
 ||*.communications.office-teams.net^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
-||*.controliumbt.com^$important
 ||*.cooltentregas.com.br^$important
 ||*.coralasargetia.ro^$important
 ||*.cordialcertmain.wasmer.app^$important
@@ -312,20 +306,19 @@
 ||*.corwineagles.com^$important
 ||*.cottoncandycookie.github.io^$important
 ||*.cpcontacts.129-121-102-216.cprapid.com^$important
-||*.cpofficial.com^$important
 ||*.cqvdiki.xenicalby6.com^$important
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
 ||*.crimefreesoftware.com^$important
-||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
 ||*.ct3-24.ru^$important
 ||*.cuuibase_prou_logi.godaddysites.com^$important
 ||*.d.14yaa.com^$important
-||*.damiancollier.com^$important
+||*.d.wanyouxi7.com^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.ddimsjy.pasoorbazi.casino^$important
 ||*.deglis.perspolisbet.bet^$important
 ||*.delp-heizungsbau.de^$important
@@ -333,18 +326,15 @@
 ||*.denisuco808.github.io^$important
 ||*.derekludlow.com^$important
 ||*.dexios.co.za^$important
-||*.dezcom.com^$important
 ||*.dfjdzmq.penality.bet^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
-||*.digitalonline.cl^$important
 ||*.dihsov.jamjahani.cash^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dkfcpnk.ninjafruitcubes.bet^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
-||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.docsonlineshare.hbhasnen.com^$important
 ||*.doglep.com^$important
@@ -359,10 +349,10 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dpd.lqmvxtrp.cfd^$important
 ||*.dphxsy.perfectgame.casino^$important
-||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dusttv.com^$important
@@ -379,7 +369,6 @@
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
-||*.epanpano.com^$important
 ||*.eqfjmvb.kvbel.com^$important
 ||*.eqzsjra.pasur21.com^$important
 ||*.esl-org-claims2.lat^$important
@@ -404,7 +393,6 @@
 ||*.fiberinternetonlineshop.com^$important
 ||*.fidelity-jade.vercel.app^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flnntj.persianabet.casino^$important
@@ -413,13 +401,13 @@
 ||*.forms.logiforms.com^$important
 ||*.fporlgd.penality.bet^$important
 ||*.frowben.yasbetapp.com^$important
-||*.frozi.cc^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g2z2cnlz.pascal.casino^$important
 ||*.galerisenimutiara.com^$important
 ||*.gangapurna.scholarlumni.info^$important
+||*.garogradba.mk^$important
 ||*.gaurigarg07.github.io^$important
 ||*.geovin.bet404farsi.com^$important
 ||*.gestionycobranzas.com^$important
@@ -427,7 +415,6 @@
 ||*.ghaniapost.eu.cc^$important
 ||*.ghbfozy.olabahiskayit.com^$important
 ||*.git.nightcord.ru^$important
-||*.globalbank.us^$important
 ||*.globaltechnosoft.com^$important
 ||*.gobiotechpestcontrol.com^$important
 ||*.goto.now^$important
@@ -440,7 +427,6 @@
 ||*.gwu729hw.parspoker.casino^$important
 ||*.gysxrbg.winstone.casino^$important
 ||*.h0t75jy5.betgopro.com^$important
-||*.hasalltalent.com^$important
 ||*.hassanraza039.github.io^$important
 ||*.hcxsd.wasmer.app^$important
 ||*.hdkkxsm.kbshavanese.com^$important
@@ -455,7 +441,6 @@
 ||*.i-ramps.com^$important
 ||*.i.404.pm^$important
 ||*.icloud.com.hr^$important
-||*.icoffeecloud.com^$important
 ||*.idwfsf.jamjahani.cash^$important
 ||*.idwpuur.ninjafruitcubes.bet^$important
 ||*.ig.do^$important
@@ -471,11 +456,9 @@
 ||*.inmjycz.olabahiskayit.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.ita-airwaysva.com^$important
 ||*.itssprout.com^$important
 ||*.itsupports.ie^$important
 ||*.ivqivx.xenicalby6.com^$important
-||*.jawaratekno.com^$important
 ||*.jepbtnj.pasur21.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jgjikxq.penalti.website^$important
@@ -493,12 +476,10 @@
 ||*.k3q6fgf9.parsbet90.com^$important
 ||*.kariyersokagi.com.tr^$important
 ||*.kavacanada.ca^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.knstbms.nardtakhte.app^$important
 ||*.kokorostore.it^$important
-||*.konsor.ru^$important
 ||*.kqinbasepro_iogin.godaddysites.com^$important
 ||*.kramersmarionnettes.com^$important
 ||*.krqbplar.mrbet90.com^$important
@@ -526,7 +507,6 @@
 ||*.lzsmmza.one1xbet.app^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.js79900.com^$important
-||*.m.meta-dm.com^$important
 ||*.m.mg723.com^$important
 ||*.m.yl0668.com^$important
 ||*.maidforyou1985.com^$important
@@ -540,6 +520,7 @@
 ||*.memnunpendcert.wasmer.app^$important
 ||*.mercadolibre-promocao.vercel.app^$important
 ||*.mesnager-bussinesss1008f9725.netlify.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mexicotradegroup.com^$important
 ||*.mhjzma3p.betebetwin.com^$important
 ||*.mitreart.com^$important
@@ -576,6 +557,7 @@
 ||*.noithaticon.vn^$important
 ||*.nova.ismak.icu^$important
 ||*.nqbecrh.one1x.bet^$important
+||*.nusatoyota.co.id^$important
 ||*.nutty-designs-440092.framer.app^$important
 ||*.nwdzgly.ninjafruitcubes.bet^$important
 ||*.ny.lshdw.cc^$important
@@ -584,6 +566,7 @@
 ||*.ojang.pe.kr^$important
 ||*.ojpqxkm.one1x.bet^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.omxvqrt.penalty.casino^$important
 ||*.onfiltre.com.tr^$important
 ||*.ordinary-violet-aiqitdrvzm.edgeone.app^$important
@@ -612,7 +595,6 @@
 ||*.plasteredplayn.com^$important
 ||*.platforms.markusscholz.info^$important
 ||*.pmhaqci.x50wheel.bet^$important
-||*.pns.org.pk^$important
 ||*.po6drihx.onexprobet.com^$important
 ||*.portal-pedagio.dynv6.net^$important
 ||*.post-support.co^$important
@@ -622,6 +604,7 @@
 ||*.prime-videosfrance.com^$important
 ||*.pro_coinbaslogin-io.godaddysites.com^$important
 ||*.programapagbank.sbs^$important
+||*.protherapycenter.com^$important
 ||*.psee.io^$important
 ||*.ptshopee446.blogspot.com^$important
 ||*.pub-2843ca46c5c3454894ca11fbdb507bed.r2.dev^$important
@@ -638,14 +621,12 @@
 ||*.qtcfxojh.mostbetresmi.site^$important
 ||*.queendent.hu^$important
 ||*.quyycf.parsball.casino^$important
-||*.ramirex.ro^$important
 ||*.rbbhubp.kbshavanese.com^$important
 ||*.rd7o3xct.parsgoal90.com^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
-||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rezanr77.github.io^$important
@@ -665,6 +646,7 @@
 ||*.rxquickpay.com^$important
 ||*.rykwhjt.winsportiran.com^$important
 ||*.s29h.top^$important
+||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samsclass.info^$important
@@ -684,6 +666,7 @@
 ||*.seismophonic.com^$important
 ||*.semviasbr.shop^$important
 ||*.separadordecc.com^$important
+||*.servicioslogisticosdyc.com^$important
 ||*.sesksz.venusbet90.com^$important
 ||*.seuvsq.pablobet90.com^$important
 ||*.sewgqnm.winxbet.co^$important
@@ -702,7 +685,6 @@
 ||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
-||*.soniderosunidos.com^$important
 ||*.sp0ct0-krolva-biz-nextri-zomfu.pages.dev^$important
 ||*.sp0ct0-venqik-biz-jorlam-pruxa.pages.dev^$important
 ||*.sp10ct6-dranik-biz-frurnor-vrolax.pages.dev^$important
@@ -721,11 +703,11 @@
 ||*.sp5ct6-qravnix-biz-framtor-glurnex.pages.dev^$important
 ||*.sparshgupta2024.github.io^$important
 ||*.spgint.com^$important
+||*.spiskisvo.xyz^$important
 ||*.spoar.org.in^$important
 ||*.sqs.non-steam.com^$important
 ||*.srabantysarkar.github.io^$important
 ||*.sshopee-com-brr.onrender.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -763,7 +745,6 @@
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tkapp.usanavsite.com^$important
-||*.tmcksa.com^$important
 ||*.to.lk^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
@@ -786,7 +767,6 @@
 ||*.usps.posttks.shop^$important
 ||*.utpesi.pablobet90.com^$important
 ||*.uznjkx.onlineshart.com^$important
-||*.vagler.ru^$important
 ||*.valena.swdsoft.ro^$important
 ||*.validation-coinbase.com^$important
 ||*.vanta.st^$important
@@ -851,7 +831,6 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.hadiah-resmishopee2022.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.info-shopee479.blogspot.com^$important
 ||*.www.info-shopee6557.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
@@ -867,10 +846,8 @@
 ||*.www.mercadolibre-promocao.vercel.app^$important
 ||*.www.mitaomaodou.com^$important
 ||*.www.mobimpex.ro^$important
-||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
 ||*.www.newkey.co.kr^$important
-||*.www.normativatecnica.org^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
@@ -919,8 +896,8 @@
 ||*.www.wx03.com^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.yogisspotify.gpnainital.com^$important
+||*.www.ysbaojia.com^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.www.zimbras.vercel.app^$important
 ||*.wxjbkv.onlineshart.com^$important
 ||*.x16b.top^$important
@@ -932,18 +909,15 @@
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
 ||*.xsutsu.jamjahani2026.football^$important
-||*.xuezha.net^$important
 ||*.xzelng.jamjahani.cash^$important
 ||*.yash-codes07.github.io^$important
 ||*.ygxcnh.jamjahani.football^$important
 ||*.ylljjmv.wolfenm.com^$important
 ||*.yogisspotify.gpnainital.com^$important
-||*.youtransfer.net^$important
 ||*.yxjmsvr.jamjahani.world^$important
 ||*.yynpur.perfectgame.casino^$important
 ||*.zamilgroups.com^$important
 ||*.zebswzz.one1xbet.net^$important
-||*.zenglobalenerji.com^$important
 ||*.zexrhdz.penaltibazi.com^$important
 ||*.zfomko.jamjahani.cash^$important
 ||*.zfrfayl.one1xbet.app^$important
