@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-09 02:49:07
+! Ultimo aggiornamento automatico: 2026-06-09 06:47:25
 ||*.0022a601.pphost.net^$important
 ||*.015bj63k.parspoker90.com^$important
 ||*.024365vip.com^$important
@@ -203,6 +203,7 @@
 ||*.akvljg.perspolisbet90.com^$important
 ||*.alarmline.com.br^$important
 ||*.alertlocations.click^$important
+||*.ali-alomaritrading.cam^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allegrio.top^$important
 ||*.allendostmen.com^$important
@@ -256,6 +257,7 @@
 ||*.bikldg.volleyball.bet^$important
 ||*.bl7gsqjt.parsgoal90.com^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blockfe-loogi.godaddysites.com^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -357,7 +359,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dpd.lqmvxtrp.cfd^$important
 ||*.dphxsy.perfectgame.casino^$important
@@ -544,7 +545,6 @@
 ||*.mitreart.com^$important
 ||*.modareysalon.com^$important
 ||*.mogimall.com^$important
-||*.mosselnet.co.za^$important
 ||*.mpozwop.winxbet.co^$important
 ||*.mqbjnx.jamjahani.app^$important
 ||*.mrmunirfaisal11.github.io^$important
@@ -576,7 +576,6 @@
 ||*.noithaticon.vn^$important
 ||*.nova.ismak.icu^$important
 ||*.nqbecrh.one1x.bet^$important
-||*.nusatoyota.co.id^$important
 ||*.nutty-designs-440092.framer.app^$important
 ||*.nwdzgly.ninjafruitcubes.bet^$important
 ||*.ny.lshdw.cc^$important
@@ -722,6 +721,7 @@
 ||*.sp5ct6-qravnix-biz-framtor-glurnex.pages.dev^$important
 ||*.sparshgupta2024.github.io^$important
 ||*.spgint.com^$important
+||*.spoar.org.in^$important
 ||*.sqs.non-steam.com^$important
 ||*.srabantysarkar.github.io^$important
 ||*.sshopee-com-brr.onrender.com^$important
@@ -738,7 +738,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swayaminstagram.vercel.app^$important
-||*.swiftfusion.tech^$important
 ||*.switshburgutrbes.club^$important
 ||*.syheuby.mangobetfarsi.com^$important
 ||*.szdfpv.jamjahani2026.football^$important
@@ -747,7 +746,6 @@
 ||*.t70p.top^$important
 ||*.t70q.top^$important
 ||*.t748i6is.volleyball.vip^$important
-||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.te3znaut.parspoker90.com^$important
@@ -756,6 +754,7 @@
 ||*.tejaswi-ben.github.io^$important
 ||*.telllstraaaanewww.weebly.com^$important
 ||*.temirtau-adm.ru^$important
+||*.tengfeidn.cn^$important
 ||*.teresaardley.github.io^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
@@ -871,6 +870,7 @@
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
 ||*.www.newkey.co.kr^$important
+||*.www.normativatecnica.org^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
