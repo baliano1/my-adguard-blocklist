@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-10 15:26:43
+! Ultimo aggiornamento automatico: 2026-06-10 20:26:00
 ||*.0022a601.pphost.net^$important
 ||*.09ddpfx9.parspoker.casino^$important
 ||*.0fqk0ho2.mrbet90.com^$important
@@ -190,8 +190,6 @@
 ||*.aaronart.com^$important
 ||*.abdel505-001-site1.ltempurl.com^$important
 ||*.abdulahad.net^$important
-||*.acaviationsupplies.com^$important
-||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.account-acco.github.io^$important
 ||*.acms.saleseos.com^$important
@@ -220,6 +218,7 @@
 ||*.api.baimless.com^$important
 ||*.api.ezilax.com^$important
 ||*.app.appzcvb.com^$important
+||*.apparelgate.co.uk^$important
 ||*.appdownload.download^$important
 ||*.apple-service93.ru^$important
 ||*.april-eyes-repair-asian.trycloudflare.com^$important
@@ -248,6 +247,7 @@
 ||*.bdi-mfghs.wasmer.app^$important
 ||*.bdlimon063-creator.github.io^$important
 ||*.beoauto.alexion.rs^$important
+||*.betvole9038.com^$important
 ||*.bieeeneficiofogape.solanaplopcoin.com^$important
 ||*.bikldg.volleyball.bet^$important
 ||*.bill.remote-otp.com^$important
@@ -255,6 +255,7 @@
 ||*.bjyqjg.onlineshart.com^$important
 ||*.bl7gsqjt.parsgoal90.com^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blkfazi.xenicalby6.com^$important
 ||*.blockfi-docs-net.pages.dev^$important
 ||*.blogs.sokun.jp^$important
@@ -273,7 +274,6 @@
 ||*.bzwbfps.winxbet.co^$important
 ||*.cad.659t.cn^$important
 ||*.cafdfe.pishbinihoshmand.com^$important
-||*.caldas-pires.pt^$important
 ||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
 ||*.canigrup.top^$important
@@ -283,6 +283,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cautious-garbanzo-eight.vercel.app^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cebsrg.jamjahani.football^$important
 ||*.celebratingseniors.net^$important
 ||*.cerberrtecrossmein.wasmer.app^$important
@@ -294,12 +295,10 @@
 ||*.chiptune.com^$important
 ||*.chrjtm.weebly.com^$important
 ||*.chrome-extension-dfhsdfhjgsjsgjsyuou.airdrop.investments^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.chzldmh3.parsbet90.com^$important
 ||*.ckejpbj.one1xbet.net^$important
 ||*.cl.ssouy.com^$important
-||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
@@ -307,8 +306,10 @@
 ||*.compact-tan-u27htcil.edgeone.app^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
+||*.controlhomecr.com^$important
 ||*.coralasargetia.ro^$important
 ||*.coraline-cheats.pw^$important
+||*.coralpac.com^$important
 ||*.corporacioncrf.com^$important
 ||*.cpgtestwebapp.azurewebsites.net^$important
 ||*.cpofficial.com^$important
@@ -317,8 +318,10 @@
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
 ||*.crimefreesoftware.com^$important
+||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
+||*.cstaipas.pt^$important
 ||*.ct3-24.ru^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -337,11 +340,11 @@
 ||*.demfmb.restaurantguideaarhus.com^$important
 ||*.denisuco808.github.io^$important
 ||*.derekludlow.com^$important
+||*.devltl.top^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dgxbf5rv.onexfa.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
 ||*.dihsov.jamjahani.cash^$important
 ||*.disk.accord1key.cn^$important
 ||*.disxya.jamjahani.football^$important
@@ -413,7 +416,6 @@
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
-||*.fertas.com.tr^$important
 ||*.fhvteyb.kbshavanese.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
@@ -446,6 +448,7 @@
 ||*.globaltechnosoft.com^$important
 ||*.go.sparkpostmail1.com^$important
 ||*.grandvegasbet.com.br^$important
+||*.graviana.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gsoxdy.vezaratshart.com^$important
@@ -500,7 +503,6 @@
 ||*.jjgnawd.penalti.website^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
-||*.js.byxly.eu.cc^$important
 ||*.jwfckz.onlineshart.com^$important
 ||*.jyothishmathi.in^$important
 ||*.kajendiranm.github.io^$important
@@ -541,7 +543,6 @@
 ||*.mbigpi.pishbinifoori.com^$important
 ||*.meetvideogoogle.com^$important
 ||*.metrics.gocloudmaps.com^$important
-||*.miskolc-dugulaselharitas.hu^$important
 ||*.mitha-imascko-llgin.godaddysites.com^$important
 ||*.mitreart.com^$important
 ||*.mjtcvp.jamjahani.cash^$important
@@ -552,7 +553,6 @@
 ||*.mogimall.com^$important
 ||*.mosselnet.co.za^$important
 ||*.mpozwop.winxbet.co^$important
-||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
@@ -577,6 +577,7 @@
 ||*.nnwhxh.pik.bet^$important
 ||*.no7shmh.shop^$important
 ||*.noble-crimson-je1qnkwv.edgeone.app^$important
+||*.node2-py-store.com^$important
 ||*.noithaticon.vn^$important
 ||*.nova.ismak.icu^$important
 ||*.ntombifuthi-mashinini.github.io^$important
@@ -605,6 +606,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.pahdidj.one^$important
 ||*.palharesinformatica.com.br^$important
+||*.paperfoldercenter.com^$important
 ||*.pay.aqiu6.com^$important
 ||*.pblgwhm.x50wheel.bet^$important
 ||*.pbtgvx.pablobet90.com^$important
@@ -655,7 +657,6 @@
 ||*.qcqsin.yasbet90.com^$important
 ||*.qenkzpp.rika90.bet^$important
 ||*.qevvax.courses^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qll4p9fw.one1xiran.bet^$important
 ||*.queendent.hu^$important
 ||*.quitarbloqueocuenta.iceiy.com^$important
@@ -720,7 +721,9 @@
 ||*.shopeeid152.blogspot.com^$important
 ||*.shorter.gg^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.shreesaiseva.org^$important
 ||*.sk-comtel.com^$important
+||*.slotmy-send.tech^$important
 ||*.smart.abuse.st^$important
 ||*.smartermail.host^$important
 ||*.soft.110route.com^$important
@@ -732,7 +735,6 @@
 ||*.spgint.com^$important
 ||*.spiskisvo.xyz^$important
 ||*.srninwh.one1xbet.net^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -789,6 +791,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.tsms.ogcs-tn.com^$important
+||*.tt-mods18.click^$important
 ||*.tviyhdt.winstone.casino^$important
 ||*.twinkle-14.github.io^$important
 ||*.twvjaye.penalti.website^$important
@@ -805,6 +808,7 @@
 ||*.ushiejohn29-boop.github.io^$important
 ||*.vagler.ru^$important
 ||*.vanta.st^$important
+||*.vcc-library.uk^$important
 ||*.vdchddh.penaltibazi.com^$important
 ||*.vdsina.vg^$important
 ||*.verificar-s3guromxx.zya.me^$important
@@ -940,7 +944,6 @@
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
 ||*.xtrqgv.perspolisbet90.com^$important
-||*.xuezha.net^$important
 ||*.xwwitjs.rayonbet.com^$important
 ||*.xyros-01.github.io^$important
 ||*.xzelng.jamjahani.cash^$important
