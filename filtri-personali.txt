@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-11 15:53:59
+! Ultimo aggiornamento automatico: 2026-06-11 20:16:56
 ||*.0022a601.pphost.net^$important
 ||*.0140.ee^$important
 ||*.09ddpfx9.parspoker.casino^$important
@@ -199,6 +199,7 @@
 ||*.admin.gestroom.it^$important
 ||*.aetherframework.digital^$important
 ||*.aftelecom.com.br^$important
+||*.agcestksa.com^$important
 ||*.agiqsfnr.hugugnasiri.xyz^$important
 ||*.ai.sadman.vip^$important
 ||*.aicc108-demo.pages.dev^$important
@@ -349,6 +350,7 @@
 ||*.dgxbf5rv.onexfa.com^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
+||*.disk.accord1key.cn^$important
 ||*.distinct-point-787258.framer.app^$important
 ||*.disxya.jamjahani.football^$important
 ||*.divvanews.com^$important
@@ -541,6 +543,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger--live.com^$important
 ||*.legitmoney.xyz^$important
+||*.libss.0x504.com^$important
 ||*.lietrophy.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.lkbctabw.hugugmadanikatouzian.xyz^$important
@@ -716,6 +719,7 @@
 ||*.s4w.in^$important
 ||*.s4x5yd7i.anodaz.store^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
+||*.salessteer.com^$important
 ||*.salppir.red90.casino^$important
 ||*.salsabil.com^$important
 ||*.samsclass.info^$important
@@ -796,7 +800,6 @@
 ||*.tapestryoftruth.com^$important
 ||*.tdfzyex.amoozeshagazade.shop^$important
 ||*.techchirag1098.github.io^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
