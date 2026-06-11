@@ -162,13 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-11 20:16:56
+! Ultimo aggiornamento automatico: 2026-06-11 22:48:38
 ||*.0022a601.pphost.net^$important
 ||*.0140.ee^$important
 ||*.09ddpfx9.parspoker.casino^$important
 ||*.0xln2imp.yekbetiran.com^$important
 ||*.109tyesy.vercel.app^$important
 ||*.123.ywxww.net^$important
+||*.1717.1000uc.com^$important
 ||*.181xlt4g.gavaedfagahe.xyz^$important
 ||*.1tzunno5.onexboro.com^$important
 ||*.1yusfrvk.pishbinibet.bet^$important
@@ -190,6 +191,7 @@
 ||*.abdulahad.net^$important
 ||*.abiturratgeber.de^$important
 ||*.absoluflirt.ch^$important
+||*.acaviationsupplies.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.accounts.binanceuz.co^$important
@@ -225,7 +227,7 @@
 ||*.apple-oficial.cloud^$important
 ||*.apple-service93.ru^$important
 ||*.aquiconoscovocetemverbaderepresentacao.s3.us-east-005.backblazeb2.com^$important
-||*.archivoscrosoft.com^$important
+||*.areyouready.co.za^$important
 ||*.asscheeks.tumblr.com^$important
 ||*.atasapka.com.tr^$important
 ||*.audicontadores.com^$important
@@ -257,6 +259,7 @@
 ||*.bito.com.pk^$important
 ||*.bjyqjg.onlineshart.com^$important
 ||*.blessdayservices.org^$important
+||*.blg.com.mx^$important
 ||*.blkfazi.xenicalby6.com^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -292,7 +295,6 @@
 ||*.chinaapper.com^$important
 ||*.chinabowl.club^$important
 ||*.chiptune.com^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.ckejpbj.one1xbet.net^$important
 ||*.cl.ssouy.com^$important
@@ -365,7 +367,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -377,6 +378,7 @@
 ||*.dpd.kzqnlpwr.cfd^$important
 ||*.dpd.lrqtxpzvmn.cfd^$important
 ||*.dpd.rqvxtlmp.cfd^$important
+||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dusttv.com^$important
@@ -522,8 +524,10 @@
 ||*.kavacanada.ca^$important
 ||*.kaza.com.hk^$important
 ||*.kfahpou.honardartarikh.xyz^$important
+||*.khoancatbetong89.vn^$important
 ||*.khushi-kumari98.github.io^$important
 ||*.kimyen.net^$important
+||*.kis.marketing^$important
 ||*.kits.frog.tw^$important
 ||*.kjr885760.pa171.com^$important
 ||*.kmjlrhh.hesabdarinoravesh.xyz^$important
@@ -581,6 +585,7 @@
 ||*.microsoftstudio1.com^$important
 ||*.mindful-presentations-270723.framer.app^$important
 ||*.mirqics.hesabdariosmani.xyz^$important
+||*.miskolc-dugulaselharitas.hu^$important
 ||*.mitreart.com^$important
 ||*.mjtcvp.jamjahani.cash^$important
 ||*.mnhunimj.persian.sex^$important
@@ -588,7 +593,6 @@
 ||*.mnoledglin.top^$important
 ||*.mogimall.com^$important
 ||*.mojzkvtc.hugugmadani6.xyz^$important
-||*.mosselnet.co.za^$important
 ||*.mottomuskk_olginix.godaddysites.com^$important
 ||*.muaklekcoop.com^$important
 ||*.mubeenahmedyt789-dotcom.github.io^$important
@@ -597,7 +601,6 @@
 ||*.mundocarnes.cl^$important
 ||*.mwo3lg6u.garatequran.xyz^$important
 ||*.mx9x.com^$important
-||*.n.vs108.com^$important
 ||*.naszmks.pinbahiis.com^$important
 ||*.ncxps.com^$important
 ||*.nd.komocav.shop^$important
@@ -614,6 +617,7 @@
 ||*.nkfjdum.pasoor11.bet^$important
 ||*.nljdiefg.jamjahani.football^$important
 ||*.nllxfcjp.shartbandi.games^$important
+||*.no7shmh.shop^$important
 ||*.node-tls.dekma-gay.ru^$important
 ||*.node.bot.dekma-gay.ru^$important
 ||*.noithaticon.vn^$important
@@ -629,6 +633,7 @@
 ||*.ojnkoxdg.pokerbazi.poker^$important
 ||*.okhan.net^$important
 ||*.oknmhjx.xenicalby6.com^$important
+||*.oknoplastik.sk^$important
 ||*.one.sevenfin.ru^$important
 ||*.onfiltre.com.tr^$important
 ||*.onlineausde.andhrauniversity.edu.in^$important
@@ -651,6 +656,7 @@
 ||*.pejfezjq.hugugdaryayi.xyz^$important
 ||*.pfyfyt.bankefiile.com^$important
 ||*.phishmetraining.com^$important
+||*.pid.fly160.com^$important
 ||*.piedrasdecolon.com.ar^$important
 ||*.pingdisp.com^$important
 ||*.pjekei.azmoonzare.online^$important
@@ -658,7 +664,6 @@
 ||*.plasteredplayn.com^$important
 ||*.pljnsad.vercel.app^$important
 ||*.plyxcbx.wrfc8.com^$important
-||*.pns.org.pk^$important
 ||*.pocztowy-link.online^$important
 ||*.poland.dekma-gay.ru^$important
 ||*.postelnini.mk^$important
@@ -666,6 +671,7 @@
 ||*.preciosasjoyitas.com.mx^$important
 ||*.predictable-person-591307.framer.app^$important
 ||*.prmozcj.persian.sex^$important
+||*.protherapycenter.com^$important
 ||*.ptshopee507.blogspot.com^$important
 ||*.pub-1e1e5882cdef4467b149e1bfab4eb3e6.r2.dev^$important
 ||*.pub-2a92347ea03e4260a6bb3d381381c037.r2.dev^$important
@@ -715,7 +721,6 @@
 ||*.rxquickpay.com^$important
 ||*.rywwahl.romabet90.bet^$important
 ||*.s.team-xs.com^$important
-||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.s4x5yd7i.anodaz.store^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
@@ -764,6 +769,7 @@
 ||*.spectrumwebmail22.systeme.io^$important
 ||*.spgint.com^$important
 ||*.spiskisvo.xyz^$important
+||*.spoar.org.in^$important
 ||*.srninwh.one1xbet.net^$important
 ||*.staemnamevuxax.skin^$important
 ||*.staging.citiretailservices.citibankonlline.com^$important
@@ -775,6 +781,7 @@
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.store.communitysectionsdevs.shop^$important
+||*.streammobs.com^$important
 ||*.studio.kiinoasnacks.info^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
@@ -873,7 +880,6 @@
 ||*.voltrix.tv^$important
 ||*.vps36563.maxko-hosting.net^$important
 ||*.vqfqrqgv.red90.casino^$important
-||*.vrajras.com^$important
 ||*.vrdccbank.com^$important
 ||*.vsnsopv.winsportiran.com^$important
 ||*.vvoplgpy.bet303.poker^$important
