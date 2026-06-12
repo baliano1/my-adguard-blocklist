@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-12 14:51:27
+! Ultimo aggiornamento automatico: 2026-06-12 17:35:21
 ||*.0022a601.pphost.net^$important
 ||*.02y48l3v.asibshenasiyahya.shop^$important
 ||*.0xln2imp.yekbetiran.com^$important
@@ -259,12 +259,10 @@
 ||*.bhmgwxvu.hugugmadani3.xyz^$important
 ||*.billion-3f8.pages.dev^$important
 ||*.bitmartlugins.webflow.io^$important
-||*.bito.com.pk^$important
 ||*.bjihnqisx.bankefile.com^$important
 ||*.blekfilogin.webflow.io^$important
 ||*.blekfilogvn.webflow.io^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.blukfelogxn.webflow.io^$important
 ||*.bmdcompany.com^$important
@@ -303,10 +301,11 @@
 ||*.cheyopt.net^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
-||*.cl.ssouy.com^$important
 ||*.clever-english-003746.framer.app^$important
 ||*.click.amplatzgiving.info^$important
+||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cmkfhtt.bet303.promo^$important
 ||*.cn.unionlever.com^$important
@@ -316,6 +315,7 @@
 ||*.connect.mylittleballoonco.info^$important
 ||*.continentalgroup.net.in^$important
 ||*.coralasargetia.ro^$important
+||*.corepilatesnicaragua.com^$important
 ||*.corporacioncrf.com^$important
 ||*.corwineagles.com^$important
 ||*.cpofficial.com^$important
@@ -347,8 +347,6 @@
 ||*.dezcom.com^$important
 ||*.dguldnys.restaurantguideaarhus.com^$important
 ||*.dhnconstrucciones.com.ar^$important
-||*.dialkwik.in^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dk2acd53.anodaz.co^$important
 ||*.dl.1003b.56a.com^$important
@@ -389,7 +387,6 @@
 ||*.enchanting-pizza-970312.framer.app^$important
 ||*.epanpano.com^$important
 ||*.estudio.ythan.com.br^$important
-||*.eurofarm.ge^$important
 ||*.evangroup.ru^$important
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
@@ -414,12 +411,12 @@
 ||*.forwox.pro^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
-||*.fz.tiansys.cn^$important
 ||*.fzrflqf.amoozeshagazade.shop^$important
 ||*.g20j-c9rv-o3yh.iris-investore-net-s-account.workers.dev^$important
 ||*.galerisenimutiara.com^$important
 ||*.galicia-web-prototype.pages.dev^$important
 ||*.gameenilogin.webflow.io^$important
+||*.garogradba.mk^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gdgdcjkklfsgclfgcg-dph9klajknan.edgeone.dev^$important
 ||*.geminiloginm.webflow.io^$important
@@ -431,7 +428,6 @@
 ||*.ghggty.vercel.app^$important
 ||*.giga.miraibotnet.su^$important
 ||*.gimomouf.red90.casino^$important
-||*.git.nightcord.st^$important
 ||*.globalbank.us^$important
 ||*.globaltechnosoft.com^$important
 ||*.gng97m36.angizeshfarahani.store^$important
@@ -500,7 +496,6 @@
 ||*.joyeriatauro.com^$important
 ||*.jqfg2zyi.ehtemalatvaamar.xyz^$important
 ||*.jqjvvqpy.one1x.bet^$important
-||*.js.byxly.eu.cc^$important
 ||*.julian-wine-cleanup-searched.trycloudflare.com^$important
 ||*.jvyzjvqmb.bankefiile.com^$important
 ||*.jwgl.my.m.luxurylifebrand.com^$important
@@ -570,6 +565,7 @@
 ||*.mdsbgax.hesabdaripishrafte.xyz^$important
 ||*.meetvideogoogle.com^$important
 ||*.metameaslogiz.gitbook.io^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mf1klp19.gavaedfagahe.xyz^$important
 ||*.microloft.net^$important
 ||*.microsoftweb365.fwh.is^$important
@@ -654,13 +650,13 @@
 ||*.pjekei.azmoonzare.online^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.poland.dekma-gay.ru^$important
 ||*.policycompliancereview.com^$important
 ||*.postelnini.mk^$important
 ||*.pour45yz.ravandarmani.xyz^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prime-memebrship.su^$important
+||*.protherapycenter.com^$important
 ||*.proveedoradeproyectosysoluciones.com^$important
 ||*.psee.io^$important
 ||*.pub-11d577e12813445bad862b39ec2c7cb4.r2.dev^$important
@@ -866,6 +862,7 @@
 ||*.vohgvv.jamjahani.football^$important
 ||*.vps36563.maxko-hosting.net^$important
 ||*.vqfqrqgv.red90.casino^$important
+||*.vrajras.com^$important
 ||*.vrdccbank.com^$important
 ||*.vsilex.com^$important
 ||*.vvoplgpy.bet303.poker^$important
