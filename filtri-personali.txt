@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-12 17:35:21
+! Ultimo aggiornamento automatico: 2026-06-12 20:05:40
 ||*.0022a601.pphost.net^$important
 ||*.02y48l3v.asibshenasiyahya.shop^$important
 ||*.0xln2imp.yekbetiran.com^$important
@@ -452,6 +452,7 @@
 ||*.hotdoc-rf-pending.com^$important
 ||*.hqvgwxfu.hugugedari.xyz^$important
 ||*.hremhf.jamjahani2026.football^$important
+||*.hseda.com^$important
 ||*.hvqxbpp.hesabdari2.xyz^$important
 ||*.hylfko.pishbinibet.casino^$important
 ||*.hzvvlqps.mechanicsayalat.xyz^$important
@@ -657,12 +658,12 @@
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prime-memebrship.su^$important
 ||*.protherapycenter.com^$important
-||*.proveedoradeproyectosysoluciones.com^$important
 ||*.psee.io^$important
 ||*.pub-11d577e12813445bad862b39ec2c7cb4.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qfssecurity-ledger.com^$important
+||*.qiniuyunxz.yxflzs.com^$important
 ||*.qlvwxer.karafarini.shop^$important
 ||*.qlwxqybo.prozhedownload.com^$important
 ||*.qmnldei.akhlagheslami.xyz^$important
@@ -796,7 +797,6 @@
 ||*.tapestryoftruth.com^$important
 ||*.tdfzyex.amoozeshagazade.shop^$important
 ||*.teams.cloud-server.net.in^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
@@ -1010,6 +1010,7 @@
 ||*.zenglobalenerji.com^$important
 ||*.zet9r6gg.nahjolbalage.xyz^$important
 ||*.zhfxkf.bankefile.com^$important
+||*.zhigao5191.com^$important
 ||*.zhrzviveu.downloadquran.xyz^$important
 ||*.zihnyunrui.com^$important
 ||*.zjtjokj.quranmohagegin.shop^$important
