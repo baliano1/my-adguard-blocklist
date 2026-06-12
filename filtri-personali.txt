@@ -162,13 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-12 20:05:40
+! Ultimo aggiornamento automatico: 2026-06-12 22:22:25
 ||*.0022a601.pphost.net^$important
 ||*.02y48l3v.asibshenasiyahya.shop^$important
 ||*.0xln2imp.yekbetiran.com^$important
 ||*.123.ywxww.net^$important
 ||*.132tyesy.vercel.app^$important
 ||*.134-112-56-85.cprapid.com^$important
+||*.1717.1000uc.com^$important
 ||*.181xlt4g.gavaedfagahe.xyz^$important
 ||*.1cihg2b5.anodaz.vip^$important
 ||*.1poliyxaq0-dprgqq6e3p79.edgeone.cool^$important
@@ -200,7 +201,6 @@
 ||*.98jhjysx.ehtemalatvaamar.xyz^$important
 ||*.a6g6ikpn.geotechnictahuni.store^$important
 ||*.aaronart.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access--kucoinhelp-view-cdn-x.webflow.io^$important
 ||*.access.skaparade.com^$important
@@ -231,6 +231,7 @@
 ||*.apparelgate.co.uk^$important
 ||*.apple-service93.ru^$important
 ||*.archivoscrosoft.com^$important
+||*.areyouready.co.za^$important
 ||*.assets.f1cs-dev.it^$important
 ||*.atasapka.com.tr^$important
 ||*.attractive-research-275363.framer.app^$important
@@ -282,7 +283,6 @@
 ||*.caesmarevento.com.br^$important
 ||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
-||*.carcaran.com^$important
 ||*.carousell.shopapay.co^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
@@ -305,17 +305,16 @@
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.clever-english-003746.framer.app^$important
 ||*.click.amplatzgiving.info^$important
-||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cmkfhtt.bet303.promo^$important
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
+||*.codeassociates.co.ke^$important
 ||*.compuserviceonline.com.br^$important
 ||*.comserlivuior.store^$important
 ||*.connect.mylittleballoonco.info^$important
 ||*.continentalgroup.net.in^$important
 ||*.coralasargetia.ro^$important
-||*.corepilatesnicaragua.com^$important
 ||*.corporacioncrf.com^$important
 ||*.corwineagles.com^$important
 ||*.cpofficial.com^$important
@@ -347,6 +346,8 @@
 ||*.dezcom.com^$important
 ||*.dguldnys.restaurantguideaarhus.com^$important
 ||*.dhnconstrucciones.com.ar^$important
+||*.dialkwik.in^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dk2acd53.anodaz.co^$important
 ||*.dl.1003b.56a.com^$important
@@ -411,12 +412,12 @@
 ||*.forwox.pro^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
+||*.fz.tiansys.cn^$important
 ||*.fzrflqf.amoozeshagazade.shop^$important
 ||*.g20j-c9rv-o3yh.iris-investore-net-s-account.workers.dev^$important
 ||*.galerisenimutiara.com^$important
 ||*.galicia-web-prototype.pages.dev^$important
 ||*.gameenilogin.webflow.io^$important
-||*.garogradba.mk^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gdgdcjkklfsgclfgcg-dph9klajknan.edgeone.dev^$important
 ||*.geminiloginm.webflow.io^$important
@@ -448,6 +449,7 @@
 ||*.hitstation.nl^$important
 ||*.hlgwrpbh.mechanicsayalat.xyz^$important
 ||*.hobobot.net^$important
+||*.hostealo.com^$important
 ||*.hosus.info^$important
 ||*.hotdoc-rf-pending.com^$important
 ||*.hqvgwxfu.hugugedari.xyz^$important
@@ -470,7 +472,6 @@
 ||*.ifvtbgbf.maharatmodiran.xyz^$important
 ||*.ig.do^$important
 ||*.igra123.com^$important
-||*.indeanapolice.cc^$important
 ||*.info-alert.net^$important
 ||*.info-resmi697.blogspot.com^$important
 ||*.infoval.lol^$important
@@ -488,7 +489,6 @@
 ||*.iznukhb.hesabdari2.xyz^$important
 ||*.j7806118-pixel.github.io^$important
 ||*.jamesautomobile.online^$important
-||*.jawaratekno.com^$important
 ||*.jdxqaihsh.bankefiile.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jkkksuzy.masaelmohandesi.xyz^$important
@@ -566,7 +566,6 @@
 ||*.mdsbgax.hesabdaripishrafte.xyz^$important
 ||*.meetvideogoogle.com^$important
 ||*.metameaslogiz.gitbook.io^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mf1klp19.gavaedfagahe.xyz^$important
 ||*.microloft.net^$important
 ||*.microsoftweb365.fwh.is^$important
@@ -657,7 +656,6 @@
 ||*.pour45yz.ravandarmani.xyz^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prime-memebrship.su^$important
-||*.protherapycenter.com^$important
 ||*.psee.io^$important
 ||*.pub-11d577e12813445bad862b39ec2c7cb4.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -731,7 +729,7 @@
 ||*.separadordecc.com^$important
 ||*.seumaisnovoupgrandedisponivel.s3.us-east-005.backblazeb2.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
+||*.sgindustries.lk^$important
 ||*.shahamanatme.com^$important
 ||*.shex7amuu-cmd.github.io^$important
 ||*.shop.mediasova.ru^$important
@@ -777,7 +775,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swarajpattnaik84coder.github.io^$important
-||*.swiftfusion.tech^$important
 ||*.swiggy.manchtech.in^$important
 ||*.sxteamcotmmunity.com^$important
 ||*.sydneyaffordablecremations.com.au^$important
@@ -840,6 +837,7 @@
 ||*.uywdaxpat.bookdrive.xyz^$important
 ||*.v4qu8nnt.azmoondadrasi.xyz^$important
 ||*.vagler.ru^$important
+||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.vbjnuyvt.hugugedari.xyz^$important
 ||*.vbpfixp.hesabdarishabahang.xyz^$important
@@ -914,7 +912,6 @@
 ||*.www.giftshopee79.blogspot.com^$important
 ||*.www.h5.wojiaogg.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.info-resmi697.blogspot.com^$important
 ||*.www.instagram-clone-puce-delta.vercel.app^$important
 ||*.www.instagram-clone-xi-one.vercel.app^$important
