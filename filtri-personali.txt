@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-13 19:20:18
+! Ultimo aggiornamento automatico: 2026-06-13 22:00:57
 ||*.0022a601.pphost.net^$important
 ||*.0223659.com^$important
 ||*.02y48l3v.asibshenasiyahya.shop^$important
@@ -172,7 +172,6 @@
 ||*.123.ywxww.net^$important
 ||*.134tyesy.vercel.app^$important
 ||*.140bae.senes.at^$important
-||*.1717.1000uc.com^$important
 ||*.1cihg2b5.anodaz.vip^$important
 ||*.1fqobn4w.hattrickbetkade.com^$important
 ||*.1v6le0j1.andisheeslami2.xyz^$important
@@ -193,7 +192,6 @@
 ||*.946302365756.com^$important
 ||*.98jhjysx.ehtemalatvaamar.xyz^$important
 ||*.9w0va69z.shansbartar.bet^$important
-||*.aaronart.com^$important
 ||*.abdulahad.net^$important
 ||*.abgctid.wpenginepowered.com^$important
 ||*.absolutecaninepa.com^$important
@@ -235,6 +233,7 @@
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.arqn7djf.vajename.xyz^$important
+||*.asiaengrs.com^$important
 ||*.assets.f1cs-dev.it^$important
 ||*.atasapka.com.tr^$important
 ||*.audicontadores.com^$important
@@ -289,6 +288,7 @@
 ||*.bv2rvqh6.zabanhaggani.shop^$important
 ||*.bvaco.com^$important
 ||*.bybit8.com^$important
+||*.c2.mc-live.online^$important
 ||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
@@ -344,6 +344,7 @@
 ||*.d259p54wqxi9ep.cloudfront.net^$important
 ||*.damiancollier.com^$important
 ||*.dardsaaz.com^$important
+||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.delp-heizungsbau.de^$important
@@ -449,7 +450,6 @@
 ||*.gimomouf.red90.casino^$important
 ||*.git.nightcord.st^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.gpbvnrp.hesabdariosmani.xyz^$important
 ||*.grafana.bot.dekma-gay.ru^$important
 ||*.greenf.alexion.rs^$important
@@ -579,6 +579,7 @@
 ||*.metai-iau-mskmask-logijin.godaddysites.com^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mettaum-miskelgin8.godaddysites.com^$important
+||*.mhrmpcoop.com.ph^$important
 ||*.misruleoflaw.com^$important
 ||*.mitreart.com^$important
 ||*.mnxewnp.tafsirnasiri.xyz^$important
@@ -626,7 +627,6 @@
 ||*.oivuaiyy.psgnewsiran.com^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.omgolqds.sazebetonarme.xyz^$important
 ||*.omzuslys.hugugtatbigi.xyz^$important
 ||*.onfiltre.com.tr^$important
@@ -651,7 +651,6 @@
 ||*.poijngh.weebly.com^$important
 ||*.poland.dekma-gay.ru^$important
 ||*.polyelectrolyte.com^$important
-||*.portwesl.com^$important
 ||*.postelnini.mk^$important
 ||*.pour45yz.ravandarmani.xyz^$important
 ||*.prajapatidhruv1206.github.io^$important
@@ -659,6 +658,7 @@
 ||*.premio.services^$important
 ||*.profil-facebook-saya.blogspot.com^$important
 ||*.profycom.rs^$important
+||*.protherapycenter.com^$important
 ||*.proxy-discord.jeemoo.com^$important
 ||*.pub-3f081ad7284d4ae088815e99acb1811a.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -666,7 +666,6 @@
 ||*.pvsa.gxfugy.cn^$important
 ||*.q-r.to^$important
 ||*.qeyshvibv.azmoonzare.online^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qjwhwhzz.hesabdari2.xyz^$important
 ||*.qlvwxer.karafarini.shop^$important
 ||*.qlwxqybo.prozhedownload.com^$important
@@ -757,7 +756,6 @@
 ||*.star1-fedtgke2bkdfhzdz.z02.azurefd.net^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
-||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stmaryspavilion.info^$important
@@ -768,6 +766,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.syqxxqi.riyaziyattajrobi.xyz^$important
 ||*.t-mobile.amkhni.shop^$important
@@ -803,6 +802,7 @@
 ||*.tr.galasongirisler.vip^$important
 ||*.tracking.sellandsell.com^$important
 ||*.tradedsglobal.com^$important
+||*.traderhype.com^$important
 ||*.traditional-habits-801750.framer.app^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezrrsuite.blogspot.com^$important
@@ -818,7 +818,6 @@
 ||*.ukpoojmk.shansbartar.bet^$important
 ||*.umnbp.usoleamoozesh.xyz^$important
 ||*.uniform-factory.ae^$important
-||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.ups.hqrmvpkt.cfd^$important
@@ -886,6 +885,7 @@
 ||*.www.b3550.com^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.basefile.click^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.bet365k01.com^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.borderclick.com^$important
@@ -1013,7 +1013,6 @@
 ||*.zeuephv.tafsirquran.xyz^$important
 ||*.zhigao5191.com^$important
 ||*.zhrzviveu.downloadquran.xyz^$important
-||*.zihnyunrui.com^$important
 ||*.zjfxfoev.1xbitkade.com^$important
 ||*.zjtjokj.quranmohagegin.shop^$important
 ||*.zlsfegg.riyazishahkilid.xyz^$important
