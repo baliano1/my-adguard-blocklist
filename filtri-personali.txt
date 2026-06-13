@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-13 08:53:42
+! Ultimo aggiornamento automatico: 2026-06-13 11:11:37
 ||*.0022a601.pphost.net^$important
 ||*.02y48l3v.asibshenasiyahya.shop^$important
 ||*.0saw15fk.activereading.xyz^$important
@@ -281,7 +281,6 @@
 ||*.bv2rvqh6.zabanhaggani.shop^$important
 ||*.bvaco.com^$important
 ||*.bybit8.com^$important
-||*.c2.mc-live.online^$important
 ||*.cacophonix.com^$important
 ||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
@@ -293,6 +292,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cd263423.tw1.ru^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chamcmlu.jamjahani.football^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -412,6 +412,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fdktfbbn.jam-jahani.com^$important
 ||*.fdmjhbre.jamjahani2026.football^$important
+||*.fertas.com.tr^$important
 ||*.ffynigbdr.barnamenevisi.xyz^$important
 ||*.fidixce.abresanishahri.store^$important
 ||*.file.blackint3.com^$important
@@ -432,7 +433,6 @@
 ||*.g-i-trustcapital--com--auth.webflow.io^$important
 ||*.g1zevlqh.casinokade.online^$important
 ||*.g29aiuih.zabanenglishanari.xyz^$important
-||*.gabyagozetim.com^$important
 ||*.galabetin.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
@@ -522,6 +522,7 @@
 ||*.k96h8q0b.fubet24.net^$important
 ||*.kagnmzrgu.mabaninazari.shop^$important
 ||*.kaiojocv.masirpayambari.xyz^$important
+||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.kdphdmr.rahnemayenegaresh.site^$important
 ||*.kdthbhbm.prozhecart.com^$important
@@ -576,7 +577,6 @@
 ||*.meetvideogoogle.com^$important
 ||*.metai-iau-mskmask-logijin.godaddysites.com^$important
 ||*.metamaskwallett.blogspot.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mettaum-miskelgin8.godaddysites.com^$important
 ||*.mind-aws.s3.us-east-2.amazonaws.com^$important
 ||*.mitreart.com^$important
@@ -612,12 +612,12 @@
 ||*.nkxkhfp.bet303.app^$important
 ||*.nlxxwubqf.barnamenevisi.xyz^$important
 ||*.nnvavkl.bet303.promo^$important
-||*.no7shmh.shop^$important
 ||*.node-tls.dekma-gay.ru^$important
 ||*.node.bot.dekma-gay.ru^$important
 ||*.noithaticon.vn^$important
 ||*.novacaoprotetora.s3.us-east-005.backblazeb2.com^$important
 ||*.npejbmmk.tarikhravannovin.shop^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nylmc.hotbetkade.com^$important
 ||*.nzg52z19.questionstest.xyz^$important
@@ -736,7 +736,6 @@
 ||*.separadordecc.com^$important
 ||*.servicio-net-flix.bolt.host^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shareonedrive.iceiy.com^$important
 ||*.sharepoint-upload-ndlv.donnelcady1.workers.dev^$important
@@ -768,6 +767,7 @@
 ||*.sqgdb.tractor11.com^$important
 ||*.srinitha132030.github.io^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
