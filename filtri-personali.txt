@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-13 13:52:38
+! Ultimo aggiornamento automatico: 2026-06-13 16:12:07
 ||*.0022a601.pphost.net^$important
 ||*.0223659.com^$important
 ||*.02y48l3v.asibshenasiyahya.shop^$important
@@ -229,6 +229,7 @@
 ||*.api.baimless.com^$important
 ||*.api.ezilax.com^$important
 ||*.app.appzcvb.com^$important
+||*.apparelgate.co.uk^$important
 ||*.apple-service93.ru^$important
 ||*.arabbooking-com-dubai-desert-safari.webflow.io^$important
 ||*.archivoscrosoft.com^$important
@@ -282,6 +283,7 @@
 ||*.brrls.rahnemayenegaresh.site^$important
 ||*.bsjmxjbmv.livefootba11.com^$important
 ||*.btbwehpkp.drivingbook.xyz^$important
+||*.bunnellmc.com^$important
 ||*.burreepr.ace90betkade.com^$important
 ||*.buzzsphere.org^$important
 ||*.bv2rvqh6.zabanhaggani.shop^$important
@@ -297,7 +299,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cd263423.tw1.ru^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chamcmlu.jamjahani.football^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -307,9 +308,9 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chromeextension.fun^$important
-||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.ckramx.com^$important
+||*.cl.ssouy.com^$important
 ||*.click-hostopoint-ch-redirect1221531.blogspot.com^$important
 ||*.click.tenhoatitude.info^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -346,6 +347,7 @@
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
+||*.delp-heizungsbau.de^$important
 ||*.delte-mobrey.com^$important
 ||*.demo-dd-login.netlify.app^$important
 ||*.derekludlow.com^$important
@@ -369,7 +371,6 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
-||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -394,7 +395,6 @@
 ||*.embedone.com^$important
 ||*.emqlb.tahlilsazeha.xyz^$important
 ||*.en-exod-us.zapier.app^$important
-||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
 ||*.epb5v18q.activeintro.xyz^$important
 ||*.esnjo.tractor11.com^$important
@@ -413,10 +413,10 @@
 ||*.fd.v2downf.shop^$important
 ||*.fdktfbbn.jam-jahani.com^$important
 ||*.fdmjhbre.jamjahani2026.football^$important
-||*.fertas.com.tr^$important
 ||*.ffynigbdr.barnamenevisi.xyz^$important
 ||*.fidixce.abresanishahri.store^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fiverr-work-space.pro^$important
@@ -448,6 +448,7 @@
 ||*.gimomouf.red90.casino^$important
 ||*.git.nightcord.st^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.gpbvnrp.hesabdariosmani.xyz^$important
 ||*.grafana.bot.dekma-gay.ru^$important
 ||*.greenf.alexion.rs^$important
@@ -476,7 +477,6 @@
 ||*.hwsrv-1330147.hostwindsdns.com^$important
 ||*.hzvvlqps.mechanicsayalat.xyz^$important
 ||*.i-ramps.com^$important
-||*.i.404.pm^$important
 ||*.iacozlci.hugugdaryayi.xyz^$important
 ||*.ibcosociety.com.sa^$important
 ||*.icoffeecloud.com^$important
@@ -494,7 +494,6 @@
 ||*.iqduira.akhlagvaahkam.xyz^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.ita-airwaysva.com^$important
 ||*.itrusstcapitallogen.webflow.io^$important
 ||*.itssprout.com^$important
 ||*.iznukhb.hesabdari2.xyz^$important
@@ -579,6 +578,7 @@
 ||*.metai-iau-mskmask-logijin.godaddysites.com^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mettaum-miskelgin8.godaddysites.com^$important
+||*.mhrmpcoop.com.ph^$important
 ||*.misruleoflaw.com^$important
 ||*.mitreart.com^$important
 ||*.mnxewnp.tafsirnasiri.xyz^$important
@@ -591,6 +591,7 @@
 ||*.mvwrgylee.danestanihavarzeshi.com^$important
 ||*.mx9x.com^$important
 ||*.my-jcb-safe-japanmikuilo.icu^$important
+||*.mykitchenindonesia.com^$important
 ||*.mymrtijp.hugugmadani6.xyz^$important
 ||*.n.vs108.com^$important
 ||*.namrqlix.hugugnasiri.xyz^$important
@@ -748,12 +749,11 @@
 ||*.space.eyeliteglasses.info^$important
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
+||*.spoar.org.in^$important
 ||*.sqgdb.tractor11.com^$important
 ||*.sso-i---trustcapital-com---help.webflow.io^$important
 ||*.star1-fedtgke2bkdfhzdz.z02.azurefd.net^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
-||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stmaryspavilion.info^$important
@@ -778,6 +778,7 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
+||*.tengfeidn.cn^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tfpvi.testranandegi.com^$important
 ||*.thatdimensionalwebsite.com^$important
@@ -821,7 +822,6 @@
 ||*.usc1.contabostorage.com^$important
 ||*.uss6wss6.hesabdarieskandari.xyz^$important
 ||*.vagler.ru^$important
-||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.vcc-library.uk^$important
 ||*.vdwupypy.sadreislam.xyz^$important
