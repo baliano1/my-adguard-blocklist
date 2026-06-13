@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-13 16:12:07
+! Ultimo aggiornamento automatico: 2026-06-13 19:20:18
 ||*.0022a601.pphost.net^$important
 ||*.0223659.com^$important
 ||*.02y48l3v.asibshenasiyahya.shop^$important
@@ -344,7 +344,6 @@
 ||*.d259p54wqxi9ep.cloudfront.net^$important
 ||*.damiancollier.com^$important
 ||*.dardsaaz.com^$important
-||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.delp-heizungsbau.de^$important
@@ -371,6 +370,7 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -395,6 +395,7 @@
 ||*.embedone.com^$important
 ||*.emqlb.tahlilsazeha.xyz^$important
 ||*.en-exod-us.zapier.app^$important
+||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
 ||*.epb5v18q.activeintro.xyz^$important
 ||*.esnjo.tractor11.com^$important
@@ -578,7 +579,6 @@
 ||*.metai-iau-mskmask-logijin.godaddysites.com^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mettaum-miskelgin8.godaddysites.com^$important
-||*.mhrmpcoop.com.ph^$important
 ||*.misruleoflaw.com^$important
 ||*.mitreart.com^$important
 ||*.mnxewnp.tafsirnasiri.xyz^$important
@@ -591,7 +591,6 @@
 ||*.mvwrgylee.danestanihavarzeshi.com^$important
 ||*.mx9x.com^$important
 ||*.my-jcb-safe-japanmikuilo.icu^$important
-||*.mykitchenindonesia.com^$important
 ||*.mymrtijp.hugugmadani6.xyz^$important
 ||*.n.vs108.com^$important
 ||*.namrqlix.hugugnasiri.xyz^$important
@@ -652,6 +651,7 @@
 ||*.poijngh.weebly.com^$important
 ||*.poland.dekma-gay.ru^$important
 ||*.polyelectrolyte.com^$important
+||*.portwesl.com^$important
 ||*.postelnini.mk^$important
 ||*.pour45yz.ravandarmani.xyz^$important
 ||*.prajapatidhruv1206.github.io^$important
@@ -716,6 +716,7 @@
 ||*.satisfied-operator-199590.framer.app^$important
 ||*.scainseto.com.br^$important
 ||*.scaleyou.com.br^$important
+||*.scoala1gherla.ro^$important
 ||*.scrbsmf.activebook.xyz^$important
 ||*.sdlclrs.akhlageslami.xyz^$important
 ||*.sec.dashabi.in^$important
@@ -725,6 +726,7 @@
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shareonedrive.iceiy.com^$important
 ||*.shaw-webmail-109704.weeblysite.com^$important
@@ -754,6 +756,8 @@
 ||*.sso-i---trustcapital-com---help.webflow.io^$important
 ||*.star1-fedtgke2bkdfhzdz.z02.azurefd.net^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
+||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stmaryspavilion.info^$important
@@ -822,6 +826,7 @@
 ||*.usc1.contabostorage.com^$important
 ||*.uss6wss6.hesabdarieskandari.xyz^$important
 ||*.vagler.ru^$important
+||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.vcc-library.uk^$important
 ||*.vdwupypy.sadreislam.xyz^$important
@@ -881,7 +886,6 @@
 ||*.www.b3550.com^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.basefile.click^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.bet365k01.com^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.borderclick.com^$important
