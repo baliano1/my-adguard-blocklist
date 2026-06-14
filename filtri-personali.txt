@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-14 16:19:08
+! Ultimo aggiornamento automatico: 2026-06-14 19:21:38
 ||*.0022a601.pphost.net^$important
 ||*.08913659.com^$important
 ||*.0saw15fk.activereading.xyz^$important
@@ -392,6 +392,7 @@
 ||*.empresarialcaixa06-06.pages.dev^$important
 ||*.emqlb.tahlilsazeha.xyz^$important
 ||*.en-ledger-com-cdn.netlify.app^$important
+||*.en.taichuan.com^$important
 ||*.enzzodasul.github.io^$important
 ||*.epanpano.com^$important
 ||*.epb5v18q.activeintro.xyz^$important
@@ -476,7 +477,6 @@
 ||*.i-ramps.com^$important
 ||*.iaqem.bankefiile.com^$important
 ||*.icoffeecloud.com^$important
-||*.icupsa.com.mx^$important
 ||*.igra123.com^$important
 ||*.igrbuyo.pokerkade.online^$important
 ||*.impactsolutionsecuador.free.nf^$important
@@ -506,6 +506,7 @@
 ||*.k57famtz.bordestan.com^$important
 ||*.k96h8q0b.fubet24.net^$important
 ||*.kagnmzrgu.mabaninazari.shop^$important
+||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.kdphdmr.rahnemayenegaresh.site^$important
 ||*.kdqtqtbo.ace9bet.net^$important
