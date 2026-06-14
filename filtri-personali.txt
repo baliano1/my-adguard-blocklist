@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-14 03:41:10
+! Ultimo aggiornamento automatico: 2026-06-14 09:28:33
 ||*.0022a601.pphost.net^$important
 ||*.08913659.com^$important
 ||*.0saw15fk.activereading.xyz^$important
@@ -183,6 +183,7 @@
 ||*.54328cf8554e67ed-185-174-159-197.serveousercontent.com^$important
 ||*.5gfixedip.com.my^$important
 ||*.5w4mouaz.shansline.com^$important
+||*.6ak-tehnik.si^$important
 ||*.7dqgr2or.shansbartar.bet^$important
 ||*.86h7e2zq.anodaz.co^$important
 ||*.8b764eb3f5e99ef.s3.us-east-1.amazonaws.com^$important
@@ -278,10 +279,10 @@
 ||*.brrls.rahnemayenegaresh.site^$important
 ||*.bsjmxjbmv.livefootba11.com^$important
 ||*.buksh-alee.github.io^$important
+||*.bunnellmc.com^$important
 ||*.burreepr.ace90betkade.com^$important
 ||*.bv2rvqh6.zabanhaggani.shop^$important
 ||*.bvaco.com^$important
-||*.c2.mc-live.online^$important
 ||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
@@ -307,13 +308,13 @@
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coc45rrh.vanatarsim.xyz^$important
-||*.codeassociates.co.ke^$important
 ||*.coiinsqquareelogin.webflow.io^$important
 ||*.cokuinloggn.webflow.io^$important
 ||*.colegioluren.edu.pe^$important
 ||*.compuserviceonline.com.br^$important
 ||*.conectxfinityappsuite0041oxmail.weebly.com^$important
 ||*.continentalgroup.net.in^$important
+||*.controlhomecr.com^$important
 ||*.coral-guests-304166.framer.app^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
@@ -344,6 +345,7 @@
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.debugmann.github.io^$important
+||*.deliciassobencomenda.com.br^$important
 ||*.delivery-do-ze.shop^$important
 ||*.deliverys-do-ze.shop^$important
 ||*.deliverysbebidas-do-ze.shop^$important
@@ -424,7 +426,6 @@
 ||*.everycarebd.com^$important
 ||*.ew8mvpi7.shartbandikade.online^$important
 ||*.excodouslogin.webflow.io^$important
-||*.explorer.vg^$important
 ||*.ezrzb.downloadquran.xyz^$important
 ||*.facebook-clone-beta-gules.vercel.app^$important
 ||*.facebookaccountrecovery.blogspot.com^$important
@@ -450,13 +451,13 @@
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
 ||*.fuwtp.tafsirnasiri.xyz^$important
+||*.fz.tiansys.cn^$important
 ||*.g1zevlqh.casinokade.online^$important
 ||*.g29aiuih.zabanenglishanari.xyz^$important
 ||*.gaeminilogien.webflow.io^$important
 ||*.galerisenimutiara.com^$important
 ||*.gbbzykw.melbetkade.com^$important
 ||*.gboutros.howto.rocks^$important
-||*.gecopakistan.com^$important
 ||*.geirvzju.betxane.com^$important
 ||*.gestionycobranzas.com^$important
 ||*.ggcjxgov.fununetadris.shop^$important
@@ -556,6 +557,7 @@
 ||*.layananz-paylltersn.gocernoe.com^$important
 ||*.learn-sso-bridge-trezo-auth.typedream.app^$important
 ||*.learn-start--trezur.gitbook.io^$important
+||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.ljist.sanjeshvaandazegiri.shop^$important
 ||*.lkhpttfj.leaguejazire.com^$important
@@ -583,6 +585,7 @@
 ||*.metamixsklgoin.gitbook.io^$important
 ||*.metamsaiklogex.gitbook.io^$important
 ||*.metamzklogoo.gitbook.io^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mhhalmi.pokerkade.online^$important
 ||*.mhrmpcoop.com.ph^$important
 ||*.mitreart.com^$important
@@ -593,6 +596,7 @@
 ||*.mosselnet.co.za^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
+||*.mx9x.com^$important
 ||*.my-jcb-safe-japanmikuilo.icu^$important
 ||*.n.vs108.com^$important
 ||*.nafis321.github.io^$important
@@ -621,6 +625,7 @@
 ||*.offf-1-c-365-seg--assesortcn365.replit.app^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.old.citiretailservices.citibankonlline.com^$important
 ||*.omgolqds.sazebetonarme.xyz^$important
 ||*.onfiltre.com.tr^$important
@@ -718,6 +723,7 @@
 ||*.scainseto.com.br^$important
 ||*.scoala1gherla.ro^$important
 ||*.scrbsmf.activebook.xyz^$important
+||*.scrcarental.com^$important
 ||*.search-booking-com-dubai.webflow.io^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -744,7 +750,6 @@
 ||*.slotmy-send.tech^$important
 ||*.smart.abuse.st^$important
 ||*.smartermail.host^$important
-||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.spasopro.at^$important
@@ -754,10 +759,8 @@
 ||*.sportsviewlondon.com^$important
 ||*.spotify-songs1.netlify.app^$important
 ||*.sqgdb.tractor11.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.steamcomimunity.com^$important
 ||*.stonecradle.com^$important
@@ -788,10 +791,10 @@
 ||*.testing-social-app.vercel.app^$important
 ||*.tetarwalsachinkumar.github.io^$important
 ||*.tfpvi.testranandegi.com^$important
+||*.thatdimensionalwebsite.com^$important
 ||*.theholidayroads.com^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
-||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tkzvl.nagshekeshi.xyz^$important
 ||*.tlc8829.net^$important
@@ -802,6 +805,7 @@
 ||*.top8onlinegame.com^$important
 ||*.tp.tptokenapp.com^$important
 ||*.tradedsglobal.com^$important
+||*.transalpinafan.ro^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezzoriostart.blogspot.com^$important
 ||*.trtmyanmar.com^$important
@@ -882,6 +886,7 @@
 ||*.www.autoscout24.server1.dev3.dr.kotexfits.com^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.basefile.click^$important
+||*.www.benshamcentre.co.uk^$important
 ||*.www.bet365it.co.it^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
@@ -902,6 +907,7 @@
 ||*.www.fortbuy.pro^$important
 ||*.www.hadiahshopee333.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hseda.com^$important
 ||*.www.info-resmi991.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -946,7 +952,6 @@
 ||*.www.support-css.blogspot.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.testing-social-app.vercel.app^$important
 ||*.www.tioshxnsu.top^$important
