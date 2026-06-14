@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-14 19:21:38
+! Ultimo aggiornamento automatico: 2026-06-14 22:06:26
 ||*.0022a601.pphost.net^$important
 ||*.08913659.com^$important
 ||*.0saw15fk.activereading.xyz^$important
@@ -276,14 +276,12 @@
 ||*.bvaco.com^$important
 ||*.byrlek3riv.zoi9.pro^$important
 ||*.cad.659t.cn^$important
-||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cdvmgdw.melbetkade.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -388,7 +386,7 @@
 ||*.efxvu.daneshkhanevade.xyz^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
+||*.emoto.mk^$important
 ||*.empresarialcaixa06-06.pages.dev^$important
 ||*.emqlb.tahlilsazeha.xyz^$important
 ||*.en-ledger-com-cdn.netlify.app^$important
@@ -417,6 +415,7 @@
 ||*.fdjghfjdks-dp7840u77wuw.edgeone.dev^$important
 ||*.fidixce.abresanishahri.store^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fishing-app.vercel.app^$important
@@ -453,6 +452,7 @@
 ||*.go-deliverysze-24h.shop^$important
 ||*.go-entregass24h-ze.shop^$important
 ||*.godisgreat1000x-hub.github.io^$important
+||*.grandarcbuilders.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gsdzofat.winxbet.co^$important
@@ -489,7 +489,6 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.jawaratekno.com^$important
 ||*.jebclxk.raftarsazmani.xyz^$important
 ||*.jessespridecharters.com^$important
 ||*.jj7765.com^$important
@@ -531,7 +530,6 @@
 ||*.l.gotourl.es^$important
 ||*.lab99.sbs^$important
 ||*.landonirwin.com^$important
-||*.lapakwebsite.com^$important
 ||*.lastdropvillage.spahotel.guru^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.learn-start--trezur.gitbook.io^$important
@@ -583,7 +581,6 @@
 ||*.mx9x.com^$important
 ||*.my-jcb-safe-japanmikuilo.icu^$important
 ||*.myjcb-safecjeckpor.icu^$important
-||*.n.vs108.com^$important
 ||*.nbyap.danestanihavarzeshi.com^$important
 ||*.ncom2n7n.jetbetkade.com^$important
 ||*.ncxps.com^$important
@@ -594,12 +591,10 @@
 ||*.nfxclonee.netlify.app^$important
 ||*.nickart.ro^$important
 ||*.nitrogateway.digital^$important
-||*.no7shmh.shop^$important
 ||*.noisy-gray-lecne856.edgeone.app^$important
 ||*.noithaticon.vn^$important
 ||*.npejbmmk.tarikhravannovin.shop^$important
 ||*.nqsaymjr.betyek.net^$important
-||*.nusatoyota.co.id^$important
 ||*.nwklhlmm.hugugmadani6.xyz^$important
 ||*.ny.lshdw.cc^$important
 ||*.nylmc.hotbetkade.com^$important
@@ -644,7 +639,6 @@
 ||*.planetariumobil.ro^$important
 ||*.plasmaringa.com^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.poetic-bubblegum-e26dd8.netlify.app^$important
 ||*.portwesl.com^$important
 ||*.postelnini.mk^$important
@@ -709,6 +703,7 @@
 ||*.rxuuxnyy.shimiumumi.xyz^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
+||*.safewatertech.com^$important
 ||*.samsclass.info^$important
 ||*.santandervidaygenerales.actions-online.com^$important
 ||*.scainseto.com.br^$important
@@ -721,7 +716,6 @@
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
 ||*.sh6rkpx6.shartmag.bet^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopee7389.blogspot.com^$important
@@ -757,7 +751,6 @@
 ||*.steamcomimunity.com^$important
 ||*.stonecradle.com^$important
 ||*.store.citiretailservices.citibankonlline.com^$important
-||*.streammobs.com^$important
 ||*.studio3-st3.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
@@ -991,7 +984,6 @@
 ||*.zedeliverys-24h.shop^$important
 ||*.zenglobalenerji.com^$important
 ||*.zeuephv.tafsirquran.xyz^$important
-||*.zhigao5191.com^$important
 ||*.zjfxfoev.1xbitkade.com^$important
 ||*.zkclsegh.jam-jahani.com^$important
 ||*.zlsfegg.riyazishahkilid.xyz^$important
