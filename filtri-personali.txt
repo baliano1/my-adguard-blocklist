@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-15 17:18:46
+! Ultimo aggiornamento automatico: 2026-06-15 20:51:58
 ||*.0022a601.pphost.net^$important
 ||*.0z0kmkwn.anodaz.tv^$important
 ||*.123.ywxww.net^$important
@@ -198,6 +198,7 @@
 ||*.aaqgnsji.jam-jahani.com^$important
 ||*.aaronart.com^$important
 ||*.aasdaonz.mechanickhodakarami.shop^$important
+||*.abdulahad.net^$important
 ||*.absolutecaninepa.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
@@ -208,7 +209,6 @@
 ||*.agrovelca.com^$important
 ||*.ahkyokta.hugugtatbigi.xyz^$important
 ||*.ajthn.mabanieslami2.xyz^$important
-||*.akarstresser.pro^$important
 ||*.aktiffkan-paylater.edz.my.id^$important
 ||*.aktifkann-payylaterr4.resmi-kaz.my.id^$important
 ||*.alarmline.com.br^$important
@@ -246,8 +246,10 @@
 ||*.bet153.vip^$important
 ||*.bet185.cc^$important
 ||*.betapp365.com^$important
+||*.bgmotors.ro^$important
 ||*.bin.workcentral.shop^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blockffe-logi.godaddysites.com^$important
 ||*.blogs.sokun.jp^$important
 ||*.bloxfit.ai^$important
@@ -265,6 +267,7 @@
 ||*.bunnellmc.com^$important
 ||*.bvaco.com^$important
 ||*.c3ord92p.ravanshenasiganji.xyz^$important
+||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.candipoker.net^$important
 ||*.cat.dashabi.in^$important
@@ -276,6 +279,7 @@
 ||*.cdppx.danestanihavarzeshi.com^$important
 ||*.cdvmgdw.melbetkade.com^$important
 ||*.celebratingseniors.net^$important
+||*.cembusconfort.ro^$important
 ||*.cfwrfrqx.leaguejazire.com^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chatgpt0005.eu.org^$important
@@ -290,7 +294,6 @@
 ||*.clubdetiroelpicarcho.com^$important
 ||*.clubs-over-installing-slim.trycloudflare.com^$important
 ||*.cn.lumxza.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coder-eosin.vercel.app^$important
 ||*.comcast-account.square.site^$important
@@ -346,9 +349,9 @@
 ||*.doc.e-statements.app^$important
 ||*.docsonlineshare.shorepowersolution.net^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -402,6 +405,7 @@
 ||*.filerit.com^$important
 ||*.files01.click^$important
 ||*.fine-begin-674537.framer.app^$important
+||*.fine.microtr.life^$important
 ||*.first-security-verden.de^$important
 ||*.fiverr-orders-payment.pro^$important
 ||*.fiverr-projects.pro^$important
@@ -441,6 +445,7 @@
 ||*.girope.hu^$important
 ||*.globalbank.us^$important
 ||*.go-deliverys24h-ze.shop^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupocaceres.mx^$important
 ||*.grupomcperu.com^$important
@@ -532,6 +537,7 @@
 ||*.meetvideogoogle.com^$important
 ||*.membersewure.weebly.com^$important
 ||*.metamask-ai.com^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mhhalmi.pokerkade.online^$important
 ||*.mitreart.com^$important
 ||*.mkspkafs.4030bet.app^$important
@@ -568,7 +574,6 @@
 ||*.ojblxlua.hugugtejarat4.xyz^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
-||*.one-verif.lol^$important
 ||*.onfiltre.com.tr^$important
 ||*.osggwts6.fubet24.net^$important
 ||*.otbmu.downloadquran.xyz^$important
@@ -681,11 +686,13 @@
 ||*.shop.mediasova.ru^$important
 ||*.shopeetbk855.blogspot.com^$important
 ||*.shoppppehmaket.online^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.shrqj.mabanimashin.site^$important
 ||*.simsoft.app.br^$important
 ||*.site-4hencvzd9.godaddysites.com^$important
 ||*.site-frhmn62n0.godaddysites.com^$important
 ||*.site461686367.fo.team^$important
+||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
 ||*.skari005.github.io^$important
 ||*.slotmy-send.tech^$important
@@ -779,6 +786,7 @@
 ||*.urlto.me^$important
 ||*.uzdating1.shop^$important
 ||*.vagler.ru^$important
+||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.varimo.info^$important
 ||*.vcc-library.uk^$important
@@ -801,6 +809,7 @@
 ||*.vitacocoyougoloco.potassium.st^$important
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
+||*.voltejeasteis.click^$important
 ||*.vrajras.com^$important
 ||*.wabel.azmoonzare.online^$important
 ||*.wbnggxoc.tractor11.com^$important
@@ -841,6 +850,7 @@
 ||*.www.chenwangqiao.com^$important
 ||*.www.claim-esl-msg.xyz^$important
 ||*.www.coder-eosin.vercel.app^$important
+||*.www.controliumbt.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.cutting-edge.in^$important
 ||*.www.dhllionstour2025.com^$important
