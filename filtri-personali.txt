@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-15 03:56:19
+! Ultimo aggiornamento automatico: 2026-06-15 11:57:41
 ||*.0022a601.pphost.net^$important
 ||*.0z0kmkwn.anodaz.tv^$important
 ||*.123.ywxww.net^$important
@@ -265,14 +265,11 @@
 ||*.bunnellmc.com^$important
 ||*.bvaco.com^$important
 ||*.byrlek3riv.zoi9.pro^$important
-||*.c2.mc-live.online^$important
 ||*.c3ord92p.ravanshenasiganji.xyz^$important
-||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.camparyxseces.wasmer.app^$important
 ||*.candipoker.net^$important
 ||*.cat.dashabi.in^$important
-||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
@@ -339,13 +336,10 @@
 ||*.delp-heizungsbau.de^$important
 ||*.delte-mobrey.com^$important
 ||*.derekludlow.com^$important
-||*.detierra.cl^$important
 ||*.device-iso.com^$important
-||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
-||*.digitalonline.cl^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dkcxfqn2.gavaedfagahe.xyz^$important
@@ -356,6 +350,7 @@
 ||*.dna-formnindonesia.xoxoiuh.biz.id^$important
 ||*.dngzhceb.hugugmadani3.xyz^$important
 ||*.doc.e-statements.app^$important
+||*.docsonlineshare.shorepowersolution.net^$important
 ||*.donkeytourscroatia.com^$important
 ||*.dossier.dressdeep.2bd.net^$important
 ||*.down.54nb.com^$important
@@ -368,7 +363,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dpphq.differentialmamuli.store^$important
 ||*.dreamwatchevent.com^$important
@@ -377,7 +371,6 @@
 ||*.dtbgl.bookdrive.xyz^$important
 ||*.dtgncsqn.masirpayambari.xyz^$important
 ||*.dubaitechnicalservice.ae^$important
-||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.dynnhost.com^$important
 ||*.dyqanvdt.betfidokade.com^$important
@@ -390,7 +383,6 @@
 ||*.embedone.com^$important
 ||*.emqtqmnj.mabanishimi.xyz^$important
 ||*.en-exod.zapier.app^$important
-||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
 ||*.errmx.defamogadas.xyz^$important
 ||*.esl-org-claims0019.xyz^$important
@@ -532,9 +524,11 @@
 ||*.layannindo-dnaaformnx.stormiexyz.my.id^$important
 ||*.ldbrrvwc.hugugmadani6.xyz^$important
 ||*.learn-us-brridge-help.typedream.app^$important
+||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.links.votrentreprise.com^$important
 ||*.llwhgcj58w.zoi9.pro^$important
+||*.lmlawcorp.com^$important
 ||*.local-update.com^$important
 ||*.logen-livledgre.framer.media^$important
 ||*.login-metsahelp.webflow.io^$important
@@ -566,30 +560,28 @@
 ||*.metamask-restoreserver-page.vercel.app^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mhhalmi.pokerkade.online^$important
-||*.miskolc-dugulaselharitas.hu^$important
 ||*.mitreart.com^$important
 ||*.mkspkafs.4030bet.app^$important
 ||*.mogimall.com^$important
+||*.mosselnet.co.za^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
 ||*.mxlsapwz.hugugmadani6.xyz^$important
-||*.myayurvedashoppe.com^$important
 ||*.myjcb-safecjeckpor.icu^$important
 ||*.myselfarnab.github.io^$important
 ||*.n.vs108.com^$important
-||*.nanpe.eng.br^$important
 ||*.ncxps.com^$important
 ||*.ndotkgyl.tasisathosseini.shop^$important
 ||*.nekofreegateway.dancerblade70.workers.dev^$important
 ||*.netflixclone-chi-ten.vercel.app^$important
 ||*.netflixpayment.creditcard^$important
 ||*.new.quranushaiqer.org.sa^$important
-||*.nickart.ro^$important
 ||*.nirajmallik69-ux.github.io^$important
 ||*.nitrogateway.digital^$important
 ||*.niyasharma25.github.io^$important
 ||*.nkfjdkjkf.weebly.com^$important
+||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.now-itrustcapital.zapier.app^$important
 ||*.npmc4uw2.zabanenglishanari.xyz^$important
@@ -636,6 +628,7 @@
 ||*.postelnini.mk^$important
 ||*.pre-seguridadlw0.iceiy.com^$important
 ||*.preciosasjoyitas.com.mx^$important
+||*.proveedoradeproyectosysoluciones.com^$important
 ||*.psmecdlr.hugugedari.xyz^$important
 ||*.ptybfgjf.karbordriyaziyat.xyz^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -655,7 +648,6 @@
 ||*.qoutbfpg.bet120x.net^$important
 ||*.qrco.de^$important
 ||*.qrqrqr.cn^$important
-||*.queendent.hu^$important
 ||*.qvipoojy.karafarini.shop^$important
 ||*.qzkdr.bankefiile.com^$important
 ||*.qzxjphs.megaparikade.com^$important
@@ -690,6 +682,7 @@
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.saliq6500-cmd.github.io^$important
+||*.samiksha.com.sg^$important
 ||*.samsclass.info^$important
 ||*.sanderunion.club^$important
 ||*.santandervidaygenerales.actions-online.com^$important
@@ -726,10 +719,10 @@
 ||*.solar-sanat.net^$important
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.srividya052.github.io^$important
 ||*.ssl.zoi9.pro^$important
 ||*.start-exo-wallet-io.zapier.app^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stblgame.com^$important
@@ -752,12 +745,12 @@
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t-mobile.rshicz.top^$important
 ||*.t888868.com^$important
+||*.talentrecruitments.com^$important
 ||*.taniyuz1prem.shop^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tdjreiqwwi.zoi9.pro^$important
 ||*.teams-jk.com^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
@@ -804,6 +797,7 @@
 ||*.vaai.la^$important
 ||*.vagler.ru^$important
 ||*.vans-towing.com^$important
+||*.vanta.st^$important
 ||*.verification-js-cdn.boats^$important
 ||*.verify-badge-vip10.pages.dev^$important
 ||*.verify-badge-vip17.pages.dev^$important
@@ -913,6 +907,7 @@
 ||*.www.starcountry.net^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
+||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.tioshxouy.top^$important
 ||*.www.tradedsglobal.com^$important
