@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-15 20:51:58
+! Ultimo aggiornamento automatico: 2026-06-15 23:00:14
 ||*.0022a601.pphost.net^$important
 ||*.0z0kmkwn.anodaz.tv^$important
 ||*.123.ywxww.net^$important
@@ -228,7 +228,6 @@
 ||*.appleb488b246b21446ed81078ceffa057666.3bozft.cn^$important
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
-||*.assets.f1cs-dev.it^$important
 ||*.atasapka.com.tr^$important
 ||*.ato.gov.individual-tax.com^$important
 ||*.authentication.ms^$important
@@ -247,7 +246,6 @@
 ||*.bet185.cc^$important
 ||*.betapp365.com^$important
 ||*.bgmotors.ro^$important
-||*.bin.workcentral.shop^$important
 ||*.blessdayservices.org^$important
 ||*.blit.co.za^$important
 ||*.blockffe-logi.godaddysites.com^$important
@@ -275,7 +273,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cdppx.danestanihavarzeshi.com^$important
 ||*.cdvmgdw.melbetkade.com^$important
 ||*.celebratingseniors.net^$important
@@ -358,6 +355,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.doxc.dedhgaj.com^$important
 ||*.dpphq.differentialmamuli.store^$important
@@ -377,7 +375,6 @@
 ||*.efxvu.daneshkhanevade.xyz^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.emqtqmnj.mabanishimi.xyz^$important
 ||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
@@ -401,11 +398,11 @@
 ||*.fd.v2downf.shop^$important
 ||*.federalnewsmagazine.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.fileadobesharingdocumetation4romsystemprotal.pages.dev^$important
 ||*.filerit.com^$important
 ||*.files01.click^$important
 ||*.fine-begin-674537.framer.app^$important
-||*.fine.microtr.life^$important
 ||*.first-security-verden.de^$important
 ||*.fiverr-orders-payment.pro^$important
 ||*.fiverr-projects.pro^$important
@@ -461,7 +458,6 @@
 ||*.hhghzngh.22betkade.online^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.hogugzxj.questionsmotor.xyz^$important
 ||*.hostpoint-payment.upadte.iptvespana.one^$important
 ||*.hseda.com^$important
@@ -518,6 +514,7 @@
 ||*.ldbrrvwc.hugugmadani6.xyz^$important
 ||*.learn-us-brridge-help.typedream.app^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
@@ -547,22 +544,22 @@
 ||*.mpxwkj.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
-||*.mx9x.com^$important
 ||*.mxlsapwz.hugugmadani6.xyz^$important
 ||*.mydelivery-express.ch^$important
 ||*.myselfarnab.github.io^$important
+||*.myzen.pro^$important
 ||*.n.vs108.com^$important
 ||*.ncxps.com^$important
 ||*.ndotkgyl.tasisathosseini.shop^$important
 ||*.netflixpayment.creditcard^$important
 ||*.new.quranushaiqer.org.sa^$important
 ||*.newtoolai-cs.github.io^$important
+||*.nickart.ro^$important
 ||*.nitrogateway.digital^$important
 ||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.npmc4uw2.zabanenglishanari.xyz^$important
 ||*.nqsaymjr.betyek.net^$important
-||*.nutrisc.com.br^$important
 ||*.nwklhlmm.hugugmadani6.xyz^$important
 ||*.ny.lshdw.cc^$important
 ||*.nztdbnij.mabanishimi.xyz^$important
@@ -584,6 +581,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.p60hpuvn.shartbandifootballkade.online^$important
 ||*.palharesinformatica.com.br^$important
+||*.pay.aqiu6.com^$important
 ||*.pcswap.dev^$important
 ||*.pcupd.com^$important
 ||*.pemenangshopee26.blogspot.com^$important
@@ -681,6 +679,7 @@
 ||*.service-accounts.stago-free.workers.dev^$important
 ||*.sg123.net^$important
 ||*.sh6rkpx6.shartmag.bet^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.sharpmast.github.io^$important
 ||*.shop.mediasova.ru^$important
@@ -712,24 +711,20 @@
 ||*.spotlstreamingonline.sviluppo.host^$important
 ||*.srividya052.github.io^$important
 ||*.ss9jup.casa^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.steamcomunity-client.netlify.app^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.studio3-st3.com^$important
 ||*.sujjp.ecologyardakani.xyz^$important
 ||*.suncoastcreditunion.at^$important
-||*.support.clz.kr^$important
 ||*.surajvishwakarma1020.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sw9k00e8.shartbandifootballkade.online^$important
 ||*.swarnakshayagold.in^$important
-||*.swiftfusion.tech^$important
 ||*.swiggy.manchtech.in^$important
 ||*.swisborg-logiapp.webflow.io^$important
 ||*.sxzvcen2.shansline.com^$important
@@ -881,7 +876,6 @@
 ||*.www.nkfjdkjkf.weebly.com^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
-||*.www.okhan.net^$important
 ||*.www.oswego-health.com^$important
 ||*.www.pemenangshopee26.blogspot.com^$important
 ||*.www.playtown.co.za^$important
