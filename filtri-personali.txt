@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-16 16:44:57
+! Ultimo aggiornamento automatico: 2026-06-16 20:46:37
 ||*.0022a601.pphost.net^$important
 ||*.0dt4r35j.gavaedfagahe.xyz^$important
 ||*.0hz5u1mn.moarefeslami.xyz^$important
@@ -404,6 +404,7 @@
 ||*.everztsi.maharatmodiran.xyz^$important
 ||*.eviwuji.megaparikade.com^$important
 ||*.exodussupport.vercel.app^$important
+||*.explorer.vg^$important
 ||*.f.digital-pathway.com^$important
 ||*.f.digital-sending.com^$important
 ||*.f27u92nr.ravanshenasi.xyz^$important
@@ -450,7 +451,6 @@
 ||*.g7of4qhx.zabanhaggani.shop^$important
 ||*.galeri-pemenang-shopee2021.blogspot.com^$important
 ||*.galerisenimutiara.com^$important
-||*.garogradba.mk^$important
 ||*.gat-matics.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gbqlwrat.prozhecart.com^$important
@@ -459,6 +459,7 @@
 ||*.ggqgx.differentialmamuli.store^$important
 ||*.ghost-loader.com^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.golink.id^$important
 ||*.golkqcqa.psgnewsiran.com^$important
 ||*.greenf.alexion.rs^$important
@@ -567,7 +568,6 @@
 ||*.maurimedis.com^$important
 ||*.maxvicsh.sanjeshravani.shop^$important
 ||*.meetvideogoogle.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.miki-visitasia.com^$important
 ||*.mitreart.com^$important
 ||*.mjwougwp.tarikhravannovin.shop^$important
@@ -577,6 +577,7 @@
 ||*.mukvsxft.sazebetonarme.xyz^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
+||*.mx9x.com^$important
 ||*.mxlsapwz.hugugmadani6.xyz^$important
 ||*.mysql.tchosting.net^$important
 ||*.myzen.pro^$important
@@ -664,6 +665,7 @@
 ||*.r7mbajwk.bordestan.com^$important
 ||*.rahul-kumar-mahato.github.io^$important
 ||*.ramirex.ro^$important
+||*.ranojpegu.in^$important
 ||*.raz1eve.shop^$important
 ||*.razdev11tj.shop^$important
 ||*.razuz-c1c.shop^$important
@@ -680,6 +682,7 @@
 ||*.reutilizemais.co.mz^$important
 ||*.rfvxpytm.psgnewsiran.com^$important
 ||*.rgojzoub.masaelmohandesi.xyz^$important
+||*.riderspin.com^$important
 ||*.ritubohara.com^$important
 ||*.rne9p9if.shartbandikade.online^$important
 ||*.robertrowe.com^$important
@@ -886,6 +889,7 @@
 ||*.www.h365756.com^$important
 ||*.www.h554tyc.com^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.konsor.ru^$important
@@ -936,6 +940,7 @@
 ||*.www.website.mypetapp.co.za^$important
 ||*.www.websitedesigningindia.biz^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
+||*.www.ysbaojia.com^$important
 ||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
 ||*.www.zhs-kaiyungroup.com^$important
