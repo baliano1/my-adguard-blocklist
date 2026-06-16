@@ -162,14 +162,13 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-16 20:46:37
+! Ultimo aggiornamento automatico: 2026-06-16 22:51:26
 ||*.0022a601.pphost.net^$important
 ||*.0dt4r35j.gavaedfagahe.xyz^$important
 ||*.0hz5u1mn.moarefeslami.xyz^$important
 ||*.0snofqmc.megaparikade.com^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
-||*.1717.1000uc.com^$important
 ||*.1ghy1rc2.questionstest.xyz^$important
 ||*.20-215-49-139.cprapid.com^$important
 ||*.21g49hcq.vanatarsim.xyz^$important
@@ -194,6 +193,7 @@
 ||*.aaronart.com^$important
 ||*.aasdaonz.mechanickhodakarami.shop^$important
 ||*.aauth---trazorr.gitbook.io^$important
+||*.abdulahad.net^$important
 ||*.abmkzgbs.sakhtemandade.shop^$important
 ||*.absolutecaninepa.com^$important
 ||*.ac-oll-15060101010101010101.vercel.app^$important
@@ -283,6 +283,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cdppx.danestanihavarzeshi.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cembusconfort.ro^$important
@@ -310,6 +311,8 @@
 ||*.continentalgroup.net.in^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
+||*.cotecsecuritygroup.com^$important
+||*.cpofficial.com^$important
 ||*.cqtwbvlx.testranandegi.com^$important
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
@@ -387,6 +390,7 @@
 ||*.efwjubk.rocketbet.pro^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.embedone.com^$important
 ||*.emqtqmnj.mabanishimi.xyz^$important
 ||*.en.taichuan.com^$important
 ||*.encontrar-i-cloud.us^$important
@@ -459,7 +463,6 @@
 ||*.ggqgx.differentialmamuli.store^$important
 ||*.ghost-loader.com^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.golink.id^$important
 ||*.golkqcqa.psgnewsiran.com^$important
 ||*.greenf.alexion.rs^$important
@@ -478,6 +481,7 @@
 ||*.hogugzxj.questionsmotor.xyz^$important
 ||*.home-faqs-trezr-io.square.site^$important
 ||*.hseda.com^$important
+||*.i-ramps.com^$important
 ||*.iclodmx-help-me.us^$important
 ||*.icloud-usa-mx.com^$important
 ||*.icoffeecloud.com^$important
@@ -501,7 +505,6 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.iyejvhz.shansbartar.bet^$important
-||*.jawaratekno.com^$important
 ||*.jehezikh.prozhecart.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jibkc2ky.geotechnictahuni.store^$important
@@ -545,7 +548,6 @@
 ||*.lhpahogn.karafarini.shop^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.ljhxazhv.mechanickhodakarami.shop^$important
-||*.lmlawcorp.com^$important
 ||*.lmlnqaju.karbordriyaziyat.xyz^$important
 ||*.local-update.com^$important
 ||*.localizado-maps-mx.us^$important
@@ -582,7 +584,6 @@
 ||*.mysql.tchosting.net^$important
 ||*.myzen.pro^$important
 ||*.n.vs108.com^$important
-||*.nanpe.eng.br^$important
 ||*.ncpzdseh.usoleamoozesh.xyz^$important
 ||*.ncxps.com^$important
 ||*.ndotkgyl.tasisathosseini.shop^$important
@@ -606,7 +607,6 @@
 ||*.of8p7ob4.mururhesabdari.xyz^$important
 ||*.ojang.pe.kr^$important
 ||*.ojblxlua.hugugtejarat4.xyz^$important
-||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
 ||*.one-verif.lol^$important
 ||*.onfiltre.com.tr^$important
@@ -632,7 +632,6 @@
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.pnuwf.bankefile.com^$important
 ||*.port10.govisibl.com^$important
 ||*.postelnini.mk^$important
@@ -722,9 +721,9 @@
 ||*.shop.mediasova.ru^$important
 ||*.shopee2545.blogspot.com^$important
 ||*.shopeeprize339.blogspot.com^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.shrqj.mabanimashin.site^$important
 ||*.sign-pple-maps.us^$important
+||*.sinergiaconstruccion.com.mx^$important
 ||*.site-8234218404-chainpayout-net.pages.dev^$important
 ||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
@@ -738,7 +737,6 @@
 ||*.spgint.com^$important
 ||*.spoar.org.in^$important
 ||*.sso-auth.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -815,7 +813,6 @@
 ||*.utnoqzc.melbetkade.com^$important
 ||*.uzdating1.shop^$important
 ||*.vagler.ru^$important
-||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.vazqhwad.sadreislam.xyz^$important
 ||*.vcc-library.uk^$important
@@ -975,7 +972,6 @@
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zggkpuuy.testdrivepaye3.com^$important
-||*.zhigao5191.com^$important
 ||*.ziryn.defamogadas.xyz^$important
 ||*.zjkgepkj.sanjeshravani.shop^$important
 ||*.zkukywuh.sadreislam.xyz^$important
