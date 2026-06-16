@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-16 03:43:58
+! Ultimo aggiornamento automatico: 2026-06-16 11:05:41
 ||*.0022a601.pphost.net^$important
 ||*.0dt4r35j.gavaedfagahe.xyz^$important
 ||*.0hz5u1mn.moarefeslami.xyz^$important
@@ -197,7 +197,6 @@
 ||*.aaqgnsji.jam-jahani.com^$important
 ||*.aaronart.com^$important
 ||*.aasdaonz.mechanickhodakarami.shop^$important
-||*.abdulahad.net^$important
 ||*.abmkzgbs.sakhtemandade.shop^$important
 ||*.absolutecaninepa.com^$important
 ||*.ac-oll-15060101010101010101.vercel.app^$important
@@ -250,6 +249,7 @@
 ||*.azizullah-fedev.github.io^$important
 ||*.backupso.com^$important
 ||*.bafybeicktlze5dqdqm3teumr5roddw3rehhjg7pl7yanrvd53yx26v5244.ipfs.dweb.link^$important
+||*.baileyemas.com^$important
 ||*.bas.a9177395466.workers.dev^$important
 ||*.bbos.minet.vn^$important
 ||*.bcfrgjpx.sakhtemandade.shop^$important
@@ -259,7 +259,10 @@
 ||*.bgyxg.differentialmamuli.store^$important
 ||*.bhdprestamospersonal.infinityfree.io^$important
 ||*.bin.workcentral.shop^$important
+||*.bito.com.pk^$important
 ||*.blessdayservices.org^$important
+||*.blg.com.mx^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bloki-logn.zapier.app^$important
 ||*.bmdcompany.com^$important
@@ -279,11 +282,11 @@
 ||*.bunnellmc.com^$important
 ||*.bvaco.com^$important
 ||*.bxzyp.daneshkhanevade.xyz^$important
+||*.c2.mc-live.online^$important
 ||*.c3ord92p.ravanshenasiganji.xyz^$important
 ||*.cad.659t.cn^$important
 ||*.cambodiatouristservice.com^$important
 ||*.camparyxseces.wasmer.app^$important
-||*.candipoker.net^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
@@ -318,9 +321,7 @@
 ||*.continentalgroup.net.in^$important
 ||*.coombsconstructions.com.au^$important
 ||*.coralasargetia.ro^$important
-||*.coralpac.com^$important
 ||*.corporacioncrf.com^$important
-||*.cpofficial.com^$important
 ||*.cqtwbvlx.testranandegi.com^$important
 ||*.creativevoltage.com^$important
 ||*.creditagricole-activation.bolt.host^$important
@@ -375,7 +376,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -384,8 +384,8 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
+||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
-||*.drhenrylopez.com^$important
 ||*.dtgncsqn.masirpayambari.xyz^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dusttv.com^$important
@@ -397,7 +397,6 @@
 ||*.efwjubk.rocketbet.pro^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.emqtqmnj.mabanishimi.xyz^$important
 ||*.en-io--trezore-login.typedream.app^$important
 ||*.en.taichuan.com^$important
@@ -424,9 +423,9 @@
 ||*.fd.v2downf.shop^$important
 ||*.fdis.api.lifesecretary.com^$important
 ||*.federalnewsmagazine.com^$important
-||*.fertas.com.tr^$important
 ||*.fhprjdfj.sanjeshvaandazegiri.shop^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.files01.click^$important
 ||*.fine.microtr.life^$important
@@ -440,7 +439,6 @@
 ||*.fmrio.com^$important
 ||*.fnlocker.one^$important
 ||*.fnuqorvu.sazebetonarme.xyz^$important
-||*.fonij.cm^$important
 ||*.fpsjq82d.shartbandifootballkade.online^$important
 ||*.fqcwxddh.tractor11.com^$important
 ||*.freeflow-rodovia.info^$important
@@ -492,6 +490,7 @@
 ||*.igcokmdd.prozhecart.com^$important
 ||*.igra123.com^$important
 ||*.ihypqyrn.sadreislam.xyz^$important
+||*.ijbfi.pk^$important
 ||*.imagorad.com.br^$important
 ||*.imtokens.co^$important
 ||*.info-portal-kuoin.typedream.app^$important
@@ -507,7 +506,6 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.iyejvhz.shansbartar.bet^$important
-||*.jawaratekno.com^$important
 ||*.jdcarnes.davidsabido.com^$important
 ||*.jehezikh.prozhecart.com^$important
 ||*.jessespridecharters.com^$important
@@ -520,6 +518,7 @@
 ||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.kavitachaudhary16.github.io^$important
+||*.kaza.com.hk^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kis2kis.shop^$important
@@ -541,6 +540,7 @@
 ||*.ledgerlikeapp.netlify.app^$important
 ||*.lhpahogn.karafarini.shop^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.ljhxazhv.mechanickhodakarami.shop^$important
 ||*.lkoer7h8tg6h8j-dpjxu5uljddr.edgeone.dev^$important
 ||*.lmlnqaju.karbordriyaziyat.xyz^$important
@@ -579,7 +579,6 @@
 ||*.mukvsxft.sazebetonarme.xyz^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
-||*.mx9x.com^$important
 ||*.mxlsapwz.hugugmadani6.xyz^$important
 ||*.myayurvedashoppe.com^$important
 ||*.myzen.pro^$important
@@ -599,6 +598,7 @@
 ||*.npmc4uw2.zabanenglishanari.xyz^$important
 ||*.nrqyn3ip.garatequran.xyz^$important
 ||*.nusatoyota.co.id^$important
+||*.nutrisc.com.br^$important
 ||*.ny.lshdw.cc^$important
 ||*.nztdbnij.mabanishimi.xyz^$important
 ||*.o24o.ru^$important
@@ -626,6 +626,7 @@
 ||*.pauheuld.questionsmotor.xyz^$important
 ||*.pauloherriqueggg259-bot.github.io^$important
 ||*.pay.aqiu6.com^$important
+||*.payables-deposit.com^$important
 ||*.pcupd.com^$important
 ||*.pedagio-online.shop^$important
 ||*.pedagiobrasil.shop^$important
@@ -638,7 +639,6 @@
 ||*.pedagiofreeflowoficial.shop^$important
 ||*.pemenangshopee389.blogspot.com^$important
 ||*.pensilvania.club^$important
-||*.pid.fly160.com^$important
 ||*.pinipenaveena.github.io^$important
 ||*.piyush-bytes.github.io^$important
 ||*.planetariumobil.ro^$important
@@ -654,6 +654,7 @@
 ||*.prestamos-bhdleon-2026.iceiy.com^$important
 ||*.privacy-authentication-desk.pages.dev^$important
 ||*.privacy-services-division.pages.dev^$important
+||*.project-vendors.icu^$important
 ||*.ptybfgjf.karbordriyaziyat.xyz^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvmzd.drivingbook.xyz^$important
@@ -688,7 +689,6 @@
 ||*.reactiveren-nu.com^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
-||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.restaurantlayalina.ro^$important
@@ -696,8 +696,6 @@
 ||*.review-and-sign-esign-document-pdf.pages.dev^$important
 ||*.rfvxpytm.psgnewsiran.com^$important
 ||*.rgojzoub.masaelmohandesi.xyz^$important
-||*.rheddh.com^$important
-||*.riderspin.com^$important
 ||*.ritubohara.com^$important
 ||*.rm9977hj.netlify.app^$important
 ||*.rne9p9if.shartbandikade.online^$important
@@ -708,10 +706,12 @@
 ||*.roblox.com.et^$important
 ||*.roblox.com.ml^$important
 ||*.rong1209.github.io^$important
+||*.rosewoodlaminates.com^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rteutcjg.hugugtatbigi.xyz^$important
 ||*.rxquickpay.com^$important
 ||*.s0luc10n-4mar1ll4.gamer.gd^$important
+||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.saishankar1430.github.io^$important
@@ -720,6 +720,7 @@
 ||*.samsclass.info^$important
 ||*.sbc-verifier-sign-in-84bfcd.webflow.io^$important
 ||*.scainseto.com.br^$important
+||*.scaleyou.com.br^$important
 ||*.scoala1gherla.ro^$important
 ||*.scsjldll.prozhedownload.com^$important
 ||*.sdppicy4.shansline.com^$important
@@ -732,7 +733,6 @@
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.service-trezor.zapier.app^$important
-||*.servicioslogisticosdyc.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
@@ -745,7 +745,6 @@
 ||*.site-6aa3879fh.godaddysites.com^$important
 ||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
-||*.slotmy-send.tech^$important
 ||*.smart.abuse.st^$important
 ||*.smartermail.host^$important
 ||*.smooth-copper-jcvlgeq4.edgeone.app^$important
@@ -754,7 +753,6 @@
 ||*.solar-sanat.net^$important
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.sso-uphold-cdn.infinityfreeapp.com^$important
 ||*.starting-trezo-docs.square.site^$important
 ||*.static.ilclock.com^$important
