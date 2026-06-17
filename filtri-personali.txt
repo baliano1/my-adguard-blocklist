@@ -162,13 +162,12 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-17 03:45:47
+! Ultimo aggiornamento automatico: 2026-06-17 10:49:27
 ||*.0022a601.pphost.net^$important
 ||*.03mnh00l.hugugmadani6.xyz^$important
 ||*.0dt4r35j.gavaedfagahe.xyz^$important
 ||*.0hz5u1mn.moarefeslami.xyz^$important
 ||*.0snofqmc.megaparikade.com^$important
-||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.159357jp.vip^$important
 ||*.1717.1000uc.com^$important
@@ -178,7 +177,6 @@
 ||*.365.pxsk123.com^$important
 ||*.3659euro.vip^$important
 ||*.387f628c.privacy-compliance-authenticated.pages.dev^$important
-||*.3brosstore.com^$important
 ||*.3hjfke61.usoleamoozesh.xyz^$important
 ||*.3kh6tu2u.shimiumumi.xyz^$important
 ||*.3tbetoi.com^$important
@@ -190,17 +188,21 @@
 ||*.62c58598-56ec-e3b9-a530-docviewer3.reynoldsjace5.workers.dev^$important
 ||*.68-210-101-96.cprapid.com^$important
 ||*.68-210-201-194.cprapid.com^$important
+||*.6ak-tehnik.si^$important
 ||*.6x7obrlx.hugugtatbigi.xyz^$important
 ||*.7y077du1.enfejarkade.online^$important
 ||*.82a3dcwt.sazehayefooladi.xyz^$important
 ||*.8yaz-k3zj-br05.cebsgroupsreceivables-ar-caesars-com-s-account.workers.dev^$important
 ||*.9000-firebase-link-1781076144085.cluster-dccle54vc5d26v2fsixd2icgqi.cloudworkstations.dev^$important
 ||*.aaronart.com^$important
+||*.abdulahad.net^$important
 ||*.abmkzgbs.sakhtemandade.shop^$important
 ||*.abnbc.livefootba11.com^$important
 ||*.absolutecaninepa.com^$important
+||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.account.garantibbvatr.com^$important
+||*.acmgrupo.com^$important
 ||*.acms.saleseos.com^$important
 ||*.activarbancabhd.iceiy.com^$important
 ||*.actubh84log43.yzz.me^$important
@@ -252,13 +254,13 @@
 ||*.backupso.com^$important
 ||*.bafkreifnt7kgukydysz4ijbl76fnbubewiqetzsqnrayhj6bmeqdgbmlx4.ipfs.dweb.link^$important
 ||*.bafkreihzmq3m47jgokah4bf7ss2lzonokuepdhkx3gcaciyjzouenkolhu.ipfs.dweb.link^$important
+||*.bagsrad.work^$important
 ||*.baileyemas.com^$important
 ||*.barclays-grads.twineapp.com^$important
 ||*.barclays-grads.twinehr.com^$important
 ||*.bbos.minet.vn^$important
 ||*.bcfrgjpx.sakhtemandade.shop^$important
 ||*.bdvappclientes.netlify.app^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bgfwrtgo.jam-jahani.com^$important
 ||*.bgmotors.ro^$important
@@ -299,7 +301,6 @@
 ||*.bxzyp.daneshkhanevade.xyz^$important
 ||*.bzdujmed.sazebetonarme.xyz^$important
 ||*.cad.659t.cn^$important
-||*.cambodiatouristservice.com^$important
 ||*.canigrup.top^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
@@ -371,12 +372,14 @@
 ||*.dc.crsorgi.gov.in.web.dccertificate.in^$important
 ||*.dccertificate.in^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.delp-heizungsbau.de^$important
 ||*.delte-mobrey.com^$important
 ||*.derekludlow.com^$important
 ||*.determined-messages-825327.framer.app^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
+||*.dfgjhkllkhuuk.info^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.di9u-uc3i-9vhn.11alia-tiffincrane-com-s-account.workers.dev^$important
 ||*.dialkwik.in^$important
@@ -385,6 +388,7 @@
 ||*.dkrxwehc.testpaye.xyz^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
+||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.docs.eu.itpatches.com^$important
 ||*.docsonlineshare.shorepowersolution.net^$important
@@ -403,7 +407,6 @@
 ||*.dowonline.ru^$important
 ||*.dreamwatchevent.com^$important
 ||*.drevos.ro^$important
-||*.drhenrylopez.com^$important
 ||*.drivkac.click^$important
 ||*.dubaitechnicalservice.ae^$important
 ||*.dusttv.com^$important
@@ -442,6 +445,7 @@
 ||*.filerit.com^$important
 ||*.files01.click^$important
 ||*.fine.microtr.life^$important
+||*.finpremium.ru^$important
 ||*.firmar-doc.github.io^$important
 ||*.first-security-verden.de^$important
 ||*.fkwiyfrv.leaguejazire.com^$important
@@ -466,12 +470,10 @@
 ||*.gestionycobranzas.com^$important
 ||*.ghcruhhs.sanjeshvaandazegiri.shop^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.golkqcqa.psgnewsiran.com^$important
 ||*.goo.su^$important
 ||*.gopal.business^$important
 ||*.gouvdgfesdavs.duckdns.org^$important
-||*.grecokitchens.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
@@ -502,6 +504,7 @@
 ||*.ig.do^$important
 ||*.igra123.com^$important
 ||*.ihypqyrn.sadreislam.xyz^$important
+||*.increvalor.com^$important
 ||*.index-1f1.sales-masterelevatorparts-com-s-account.workers.dev^$important
 ||*.index-qf0.sales-masterelevatorparts-com-s-account.workers.dev^$important
 ||*.index-zeo.nasser-kineticsgroup-ae-s-account.workers.dev^$important
@@ -521,7 +524,6 @@
 ||*.jwzyamqu.questionsmotor.xyz^$important
 ||*.jyheezbl.questionsmotor.xyz^$important
 ||*.jyothishmathi.in^$important
-||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.kaza.com.hk^$important
 ||*.khfujqd.shartbandifootballkade.online^$important
@@ -539,11 +541,11 @@
 ||*.l3fcolra.fubet24.net^$important
 ||*.l6sa1ldu.ravanshenasisaeedi.xyz^$important
 ||*.landonirwin.com^$important
-||*.lara.com.ar^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.learn-usa-suites.square.site^$important
 ||*.lhpahogn.karafarini.shop^$important
 ||*.lianyudianzi2022.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.link-support-badge-5632346.pages.dev^$important
 ||*.link-support-badge-56323461d.pages.dev^$important
 ||*.ljhxazhv.mechanickhodakarami.shop^$important
@@ -610,7 +612,6 @@
 ||*.notifications-iqeq.com^$important
 ||*.nrqyn3ip.garatequran.xyz^$important
 ||*.nurmuhammaddev1.github.io^$important
-||*.nusatoyota.co.id^$important
 ||*.nvxwrvxi.tasisathosseini.shop^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
@@ -716,7 +717,6 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samiksha.com.sg^$important
 ||*.samsclass.info^$important
-||*.sanjaydharmraj.in^$important
 ||*.scainseto.com.br^$important
 ||*.scoala1gherla.ro^$important
 ||*.scsjldll.prozhedownload.com^$important
@@ -730,12 +730,12 @@
 ||*.semfilas.ecoviasemfilas.top^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shfbucmg.tarikhravannovin.shop^$important
 ||*.shivraj6868.github.io^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.sinergiaconstruccion.com.mx^$important
 ||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
 ||*.smart.abuse.st^$important
@@ -749,11 +749,9 @@
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
 ||*.spnzuoez.masaelmohandesi.xyz^$important
-||*.spoar.org.in^$important
 ||*.staholding.com^$important
 ||*.start.billy-surveys.online^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
@@ -763,7 +761,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swarnakshayagold.in^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -783,7 +780,6 @@
 ||*.thhcalzn.jam-jahani.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
-||*.ticpc8a.com^$important
 ||*.tkibsvrgmh.com^$important
 ||*.tkshop.club^$important
 ||*.tmajnhws.sazebetonarme.xyz^$important
@@ -801,14 +797,16 @@
 ||*.tsms.ogcs-tn.com^$important
 ||*.tt-mods18.click^$important
 ||*.ttmwdcsm.testranandegi.com^$important
+||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
+||*.tube-18.xyz^$important
 ||*.tuivp.ecologyardakani.xyz^$important
 ||*.tuwlc2yd.hesabdarinoravesh.xyz^$important
 ||*.twmpoxnh.hugugtejarat4.xyz^$important
 ||*.uaxjdnjn.tarikhravannovin.shop^$important
 ||*.uivmtnvu.anodaz.co^$important
 ||*.uni.site.je^$important
-||*.uniform-factory.ae^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.utnoqzc.melbetkade.com^$important
@@ -936,6 +934,7 @@
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.ysbaojia.com^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.x8268vj9.hugugmadanikatouzian.xyz^$important
 ||*.xenon.studio^$important
 ||*.xiazx.azmoonzare.online^$important
