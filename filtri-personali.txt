@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-17 15:18:37
+! Ultimo aggiornamento automatico: 2026-06-17 20:08:23
 ||*.0022a601.pphost.net^$important
 ||*.03mnh00l.hugugmadani6.xyz^$important
 ||*.0dt4r35j.gavaedfagahe.xyz^$important
@@ -181,7 +181,6 @@
 ||*.543533s9.nagshekeshi.xyz^$important
 ||*.5e568txr.hugugmadani6.xyz^$important
 ||*.68-210-101-96.cprapid.com^$important
-||*.6ak-tehnik.si^$important
 ||*.6x7obrlx.hugugtatbigi.xyz^$important
 ||*.7y077du1.enfejarkade.online^$important
 ||*.82a3dcwt.sazehayefooladi.xyz^$important
@@ -312,7 +311,6 @@
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.ckdydch.shansbartar.bet^$important
 ||*.ckvcsacd.mechanicsayalat.xyz^$important
-||*.cl.ssouy.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.lnmxys.com^$important
 ||*.cn.unionlever.com^$important
@@ -388,7 +386,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -413,6 +410,7 @@
 ||*.eofvjfbp.karafarini.shop^$important
 ||*.eoubkysl.psgnewsiran.com^$important
 ||*.epanpano.com^$important
+||*.epgggtee.leaguejazire.com^$important
 ||*.estudio.ythan.com.br^$important
 ||*.et3y84jg.testpaye.xyz^$important
 ||*.evangroup.ru^$important
@@ -491,6 +489,7 @@
 ||*.hklogin.uat.mizuhoscfglobal.com^$important
 ||*.hobobot.net^$important
 ||*.holl.microtr.life^$important
+||*.host.zaminshenasi.shop^$important
 ||*.hseda.com^$important
 ||*.hshsfrfr.top^$important
 ||*.hwott.darsnamejame.xyz^$important
@@ -616,7 +615,6 @@
 ||*.nithishjadhav-jn.github.io^$important
 ||*.nitrogateway.digital^$important
 ||*.nnozsfst.prozhecart.com^$important
-||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.notifications-iqeq.com^$important
 ||*.nrqyn3ip.garatequran.xyz^$important
@@ -657,6 +655,7 @@
 ||*.pedagio-dobrasil.online^$important
 ||*.pedrosoares1779822703712.2041778.meusitehostgator.com.br^$important
 ||*.pgfor.bookdrive.xyz^$important
+||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pns.org.pk^$important
@@ -668,6 +667,7 @@
 ||*.preciosasjoyitas.com.mx^$important
 ||*.presudeind3xsoff-dpr3nq7g30sv.edgeone.dev^$important
 ||*.privacy-help-authority.pages.dev^$important
+||*.profound-property.com^$important
 ||*.project-vendors.icu^$important
 ||*.ptshopee445.blogspot.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -734,6 +734,7 @@
 ||*.secure-index-page--melisapritt.replit.app^$important
 ||*.seismophonic.com^$important
 ||*.sejamaisfelizccomseunovolmt.s3.us-east-005.backblazeb2.com^$important
+||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
@@ -815,7 +816,6 @@
 ||*.trwqprv.shartmag.bet^$important
 ||*.trzyilzj.sanjeshravani.shop^$important
 ||*.tsms.ogcs-tn.com^$important
-||*.tt-mods18.click^$important
 ||*.ttmwdcsm.testranandegi.com^$important
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
@@ -843,7 +843,6 @@
 ||*.vdigvuaz.prozhedownload.com^$important
 ||*.vdljitxt.hugugtatbigi.xyz^$important
 ||*.venist2.runasp.net^$important
-||*.versaclean.com.br^$important
 ||*.verseacademy.io^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
