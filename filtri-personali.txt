@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-17 20:08:23
+! Ultimo aggiornamento automatico: 2026-06-17 22:43:40
 ||*.0022a601.pphost.net^$important
 ||*.03mnh00l.hugugmadani6.xyz^$important
 ||*.0dt4r35j.gavaedfagahe.xyz^$important
@@ -188,13 +188,11 @@
 ||*.9000-firebase-link-1781076144085.cluster-dccle54vc5d26v2fsixd2icgqi.cloudworkstations.dev^$important
 ||*.a0lp34.weebly.com^$important
 ||*.aaronart.com^$important
-||*.abdulahad.net^$important
 ||*.abmkzgbs.sakhtemandade.shop^$important
 ||*.abnbc.livefootba11.com^$important
 ||*.absolutecaninepa.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
-||*.accesstelematics.com^$important
 ||*.account.confirm-meta-badge.info^$important
 ||*.acmgrupo.com^$important
 ||*.acms.saleseos.com^$important
@@ -311,6 +309,7 @@
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.ckdydch.shansbartar.bet^$important
 ||*.ckvcsacd.mechanicsayalat.xyz^$important
+||*.cl.ssouy.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.lnmxys.com^$important
 ||*.cn.unionlever.com^$important
@@ -378,6 +377,7 @@
 ||*.dkrxwehc.testpaye.xyz^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
+||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.docment.e-docssign.net^$important
 ||*.docs.eu.itpatches.com^$important
@@ -386,6 +386,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -410,7 +411,6 @@
 ||*.eofvjfbp.karafarini.shop^$important
 ||*.eoubkysl.psgnewsiran.com^$important
 ||*.epanpano.com^$important
-||*.epgggtee.leaguejazire.com^$important
 ||*.estudio.ythan.com.br^$important
 ||*.et3y84jg.testpaye.xyz^$important
 ||*.evangroup.ru^$important
@@ -489,7 +489,6 @@
 ||*.hklogin.uat.mizuhoscfglobal.com^$important
 ||*.hobobot.net^$important
 ||*.holl.microtr.life^$important
-||*.host.zaminshenasi.shop^$important
 ||*.hseda.com^$important
 ||*.hshsfrfr.top^$important
 ||*.hwott.darsnamejame.xyz^$important
@@ -507,6 +506,7 @@
 ||*.ihypqyrn.sadreislam.xyz^$important
 ||*.im.nbpublic.com^$important
 ||*.increvalor.com^$important
+||*.indeanapolice.cc^$important
 ||*.index-1f1.sales-masterelevatorparts-com-s-account.workers.dev^$important
 ||*.index-qf0.sales-masterelevatorparts-com-s-account.workers.dev^$important
 ||*.index-zeo.nasser-kineticsgroup-ae-s-account.workers.dev^$important
@@ -629,6 +629,7 @@
 ||*.ojang.pe.kr^$important
 ||*.ojrxidv.shartbandifootballkade.online^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.olttywek.hugugtejarat4.xyz^$important
 ||*.on-pedagiofreeflow.shop^$important
 ||*.one-verif.lol^$important
@@ -658,7 +659,6 @@
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.pnuwf.bankefile.com^$important
 ||*.postelnini.mk^$important
 ||*.poxcezrq.prozhedownload.com^$important
@@ -737,7 +737,6 @@
 ||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shfbucmg.tarikhravannovin.shop^$important
 ||*.shivraj6868.github.io^$important
@@ -815,7 +814,6 @@
 ||*.truea1sdvbjhsdvbjhsdb-f4d7epekfteqbwcw.z02.azurefd.net^$important
 ||*.trwqprv.shartmag.bet^$important
 ||*.trzyilzj.sanjeshravani.shop^$important
-||*.tsms.ogcs-tn.com^$important
 ||*.ttmwdcsm.testranandegi.com^$important
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
@@ -843,6 +841,7 @@
 ||*.vdigvuaz.prozhedownload.com^$important
 ||*.vdljitxt.hugugtatbigi.xyz^$important
 ||*.venist2.runasp.net^$important
+||*.versaclean.com.br^$important
 ||*.verseacademy.io^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
