@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-19 17:21:00
+! Ultimo aggiornamento automatico: 2026-06-19 19:45:16
 ||*.0022a601.pphost.net^$important
 ||*.022iqw23.bet303.download^$important
 ||*.123.ywxww.net^$important
@@ -193,7 +193,6 @@
 ||*.9y6ugqql.zabanenglishanari.xyz^$important
 ||*.aaronart.com^$important
 ||*.ab950zja.testpaye.xyz^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.acmgrupo.com^$important
@@ -365,6 +364,7 @@
 ||*.emioetygiauhfyue-rtyqwfugihiuoeooietyu.pages.dev^$important
 ||*.emjkevxm.jam-jahani.com^$important
 ||*.emuerrz.ecologyardakani.xyz^$important
+||*.en.taichuan.com^$important
 ||*.encontrar.rft-z.com^$important
 ||*.enfermeriacanaria.com^$important
 ||*.enjoyvacationnow.net^$important
