@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-19 03:59:06
+! Ultimo aggiornamento automatico: 2026-06-19 10:21:07
 ||*.0022a601.pphost.net^$important
 ||*.022iqw23.bet303.download^$important
 ||*.118924kraken.com^$important
@@ -253,6 +253,7 @@
 ||*.bbos.minet.vn^$important
 ||*.bbztdp6a.akhbarsport.info^$important
 ||*.bchvsotq.questionsmotor.xyz^$important
+||*.bebra-dev.com^$important
 ||*.bebra-dev.pro^$important
 ||*.bellnetca.framer.website^$important
 ||*.beoauto.alexion.rs^$important
@@ -372,6 +373,7 @@
 ||*.dpd-lpobj.cc^$important
 ||*.dpd-ouwib.com^$important
 ||*.dpd-padnu.com^$important
+||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.easybrand.vn^$important
@@ -414,6 +416,7 @@
 ||*.femmesopk.com^$important
 ||*.fg7za1dh.casinobet.casino^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.files01.click^$important
 ||*.finpremium.ru^$important
@@ -427,6 +430,7 @@
 ||*.furystaff.tech^$important
 ||*.fuv.jbw.temporary.site^$important
 ||*.fz.tiansys.cn^$important
+||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
 ||*.galeripemenang77.blogspot.com^$important
 ||*.galerisenimutiara.com^$important
@@ -464,7 +468,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.host.zaminshenasi.shop^$important
-||*.hseda.com^$important
 ||*.htttps-roblox.com^$important
 ||*.huhaitao.top^$important
 ||*.hxelbvz.moshavereravan.shop^$important
@@ -478,6 +481,7 @@
 ||*.info-trezoor-suite-cdn.typedream.app^$important
 ||*.injectroblox.ru^$important
 ||*.instantformhdc.com^$important
+||*.intellicaddev.ru^$important
 ||*.inv527xk.testpaye.xyz^$important
 ||*.io-suitetrezr-en.typedream.app^$important
 ||*.io7yo39n.enfejkade.com^$important
@@ -488,6 +492,7 @@
 ||*.j7n7i2dx.enfej.win^$important
 ||*.jam3b5k6.enfejarland.com^$important
 ||*.japassoudahoradeelevaraumenteja.s3.us-east-005.backblazeb2.com^$important
+||*.jawaratekno.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jfxdrqqn.maharatmodiran.xyz^$important
 ||*.jgyqxldn.leaguejazire.com^$important
@@ -581,7 +586,6 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
-||*.oamorprevalece.com^$important
 ||*.odopdwkld.s3.eu-north-1.amazonaws.com^$important
 ||*.ohlly-mohly.world^$important
 ||*.ojang.pe.kr^$important
@@ -600,7 +604,6 @@
 ||*.patelnikhil5245-blip.github.io^$important
 ||*.pay.aqiu6.com^$important
 ||*.payables-deposit.com^$important
-||*.pcupd.com^$important
 ||*.pedir-adega24h-ze.shop^$important
 ||*.pedir-delivery-ze.shop^$important
 ||*.pedir-deliverys-ze.shop^$important
@@ -627,9 +630,9 @@
 ||*.pub-f3382215b.1x1.cash^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
-||*.pvsa.gxfugy.cn^$important
 ||*.pvxvwrfu.sadreislam.xyz^$important
 ||*.qgkzqew.azmoonzare.online^$important
+||*.qiniuyunxz.yxflzs.com^$important
 ||*.qpz5krrv.hokm.bet^$important
 ||*.qrsu.io^$important
 ||*.railmesenpai.com^$important
@@ -758,6 +761,7 @@
 ||*.uzdating1.shop^$important
 ||*.vaai.la^$important
 ||*.vagler.ru^$important
+||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.vcc-library.uk^$important
 ||*.versaclean.com.br^$important
@@ -799,7 +803,6 @@
 ||*.www.86365z.cc^$important
 ||*.www.appealhelpspage.store^$important
 ||*.www.ardguisser.com^$important
-||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.basefile.click^$important
