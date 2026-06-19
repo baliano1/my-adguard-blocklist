@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-19 19:45:16
+! Ultimo aggiornamento automatico: 2026-06-19 22:01:53
 ||*.0022a601.pphost.net^$important
 ||*.022iqw23.bet303.download^$important
 ||*.123.ywxww.net^$important
@@ -193,6 +193,7 @@
 ||*.9y6ugqql.zabanenglishanari.xyz^$important
 ||*.aaronart.com^$important
 ||*.ab950zja.testpaye.xyz^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.acmgrupo.com^$important
@@ -270,6 +271,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cdn.imgtree.co^$important
 ||*.celebratingseniors.net^$important
 ||*.cerval.com.mx^$important
@@ -328,6 +330,7 @@
 ||*.dfgjhkllkhuuk.info^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -337,9 +340,9 @@
 ||*.doniasyriac.github.io^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donuthacks.online^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -381,6 +384,7 @@
 ||*.ewabsturz.com^$important
 ||*.exel.programcraftsoft.com^$important
 ||*.f8zkjy83.azmoondadrasi.xyz^$important
+||*.facanha.com.br^$important
 ||*.faecbook.vn^$important
 ||*.fakers.co.jp^$important
 ||*.fanciful-mochi-1778c3.netlify.app^$important
@@ -412,7 +416,6 @@
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gerenciadorcaixaempresas.com^$important
-||*.gestionycobranzas.com^$important
 ||*.get-io-trez-or-st-art.typedream.app^$important
 ||*.gidptxnf.shartbandi.games^$important
 ||*.giga.miraibotnet.su^$important
@@ -435,6 +438,7 @@
 ||*.hga372.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.home-trez-or-walle-t.typedream.app^$important
 ||*.host.zaminshenasi.shop^$important
 ||*.hseda.com^$important
@@ -463,6 +467,7 @@
 ||*.itssprout.com^$important
 ||*.j7n7i2dx.enfej.win^$important
 ||*.jam3b5k6.enfejarland.com^$important
+||*.jawaratekno.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jfxdrqqn.maharatmodiran.xyz^$important
 ||*.jgyqxldn.leaguejazire.com^$important
@@ -472,6 +477,7 @@
 ||*.jwouoops.sakhtemandade.shop^$important
 ||*.jyothishmathi.in^$important
 ||*.k7mqynmb.hesabdarieskandari.xyz^$important
+||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.kaza.com.hk^$important
 ||*.keitarosofts.com^$important
@@ -547,7 +553,6 @@
 ||*.nitrogateway.digital^$important
 ||*.noithaticon.vn^$important
 ||*.nova.ismak.icu^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ohlly-mohly.world^$important
@@ -581,6 +586,7 @@
 ||*.pjzhlamo.karbordriyaziyat.xyz^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.portaldodev.com.br^$important
 ||*.posnxub.mabaninazaridelavar.xyz^$important
 ||*.post-finance.online^$important
@@ -651,6 +657,7 @@
 ||*.shahamanatme.com^$important
 ||*.shalusinghal4563-ops.github.io^$important
 ||*.shop.mediasova.ru^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.sicpac.com^$important
 ||*.singular-semolina-b8c7ee.netlify.app^$important
 ||*.sixmexicos.com^$important
@@ -682,6 +689,7 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swapdev.clovernode.com^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t4axvjhb.riyazinikokar.xyz^$important
 ||*.talentrecruitments.com^$important
@@ -728,9 +736,8 @@
 ||*.uwso33yr.riyazinikokar.xyz^$important
 ||*.uzdating1.shop^$important
 ||*.vagler.ru^$important
-||*.vans-towing.com^$important
 ||*.vanta.st^$important
-||*.vcc-library.uk^$important
+||*.vdsina.vg^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vester.it^$important
