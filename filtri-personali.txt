@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-19 14:57:57
+! Ultimo aggiornamento automatico: 2026-06-19 17:21:00
 ||*.0022a601.pphost.net^$important
 ||*.022iqw23.bet303.download^$important
 ||*.123.ywxww.net^$important
@@ -244,7 +244,6 @@
 ||*.bbos.minet.vn^$important
 ||*.bbztdp6a.akhbarsport.info^$important
 ||*.bchvsotq.questionsmotor.xyz^$important
-||*.bebra-dev.com^$important
 ||*.bebra-dev.pro^$important
 ||*.beoauto.alexion.rs^$important
 ||*.biiing.net^$important
@@ -298,7 +297,6 @@
 ||*.convivial-smile-369927.framer.app^$important
 ||*.copacomlimitedecampeao11.s3.us-east-005.backblazeb2.com^$important
 ||*.coralasargetia.ro^$important
-||*.coraline.buzz^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
@@ -340,7 +338,6 @@
 ||*.doniasyriac.github.io^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donuthacks.online^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -351,10 +348,8 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
-||*.downloads.glazedclients.com^$important
 ||*.dowonline.ru^$important
 ||*.dpd-padnu.com^$important
-||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.easybrand.vn^$important
@@ -370,7 +365,6 @@
 ||*.emioetygiauhfyue-rtyqwfugihiuoeooietyu.pages.dev^$important
 ||*.emjkevxm.jam-jahani.com^$important
 ||*.emuerrz.ecologyardakani.xyz^$important
-||*.en.taichuan.com^$important
 ||*.encontrar.rft-z.com^$important
 ||*.enfermeriacanaria.com^$important
 ||*.enjoyvacationnow.net^$important
@@ -469,7 +463,6 @@
 ||*.itssprout.com^$important
 ||*.j7n7i2dx.enfej.win^$important
 ||*.jam3b5k6.enfejarland.com^$important
-||*.jawaratekno.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jfxdrqqn.maharatmodiran.xyz^$important
 ||*.jgyqxldn.leaguejazire.com^$important
@@ -526,7 +519,6 @@
 ||*.maxisopk.xyz^$important
 ||*.maybe-sincetomorrow.buzz^$important
 ||*.mbcmhapi.sazebetonarme.xyz^$important
-||*.mcatcher.cn^$important
 ||*.meetvideogoogle.com^$important
 ||*.meine-zustellplanung.com^$important
 ||*.metrics.gocloudmaps.com^$important
@@ -659,7 +651,6 @@
 ||*.shahamanatme.com^$important
 ||*.shalusinghal4563-ops.github.io^$important
 ||*.shop.mediasova.ru^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.sicpac.com^$important
 ||*.singular-semolina-b8c7ee.netlify.app^$important
 ||*.sixmexicos.com^$important
@@ -678,6 +669,7 @@
 ||*.spoo.me^$important
 ||*.spotify.servernotification.events^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -690,7 +682,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swapdev.clovernode.com^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t4axvjhb.riyazinikokar.xyz^$important
 ||*.talentrecruitments.com^$important
@@ -818,6 +809,7 @@
 ||*.www.okhan.net^$important
 ||*.www.playtown.co.za^$important
 ||*.www.ptshopee-229.blogspot.com^$important
+||*.www.rbcfort.com^$important
 ||*.www.rebrabooking.it^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.ps^$important
