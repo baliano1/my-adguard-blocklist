@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-20 16:14:28
+! Ultimo aggiornamento automatico: 2026-06-20 19:20:35
 ||*.0022a601.pphost.net^$important
 ||*.022iqw23.bet303.download^$important
 ||*.0991contacto.github.io^$important
@@ -281,6 +281,7 @@
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
 ||*.cdn.imgtree.co^$important
+||*.celebratingseniors.net^$important
 ||*.chandanagowri06-blip.github.io^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chaukhanh211.github.io^$important
@@ -577,6 +578,7 @@
 ||*.pixxarting24141.icu^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.postelnini.mk^$important
 ||*.postfinance.ch-notfallhilfe.com^$important
 ||*.preciosasjoyitas.com.mx^$important
