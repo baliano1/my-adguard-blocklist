@@ -162,12 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-20 08:50:19
+! Ultimo aggiornamento automatico: 2026-06-20 11:14:42
 ||*.0022a601.pphost.net^$important
 ||*.022iqw23.bet303.download^$important
 ||*.0991contacto.github.io^$important
 ||*.0q26dscq.anodaz.vip^$important
-||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.1qmi6vxn.hesabdarinoravesh.xyz^$important
@@ -197,6 +196,7 @@
 ||*.aaagggg.pages.dev^$important
 ||*.aaronart.com^$important
 ||*.abialine.ng^$important
+||*.acc.jiangsujiaxue.com^$important
 ||*.access.skaparade.com^$important
 ||*.acct.caixesp-finbk.com^$important
 ||*.acms.saleseos.com^$important
@@ -452,6 +452,7 @@
 ||*.itmaintenance.my^$important
 ||*.itssprout.com^$important
 ||*.jam3b5k6.enfejarland.com^$important
+||*.jawaratekno.com^$important
 ||*.jbapamxtra.my^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -480,6 +481,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lgoanndm.betvarzeshkade.online^$important
 ||*.lh7umyc5.riyazishahkilid.xyz^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.lnc1c2cf.anodaz.vip^$important
 ||*.local-update.com^$important
 ||*.loginfacebook.site.je^$important
@@ -494,6 +496,7 @@
 ||*.maidforyou1985.com^$important
 ||*.mail.avicennaalliedhealthinstitute.org^$important
 ||*.mail03-blocage-provisoire.abrdns.com^$important
+||*.mamigummy.com^$important
 ||*.maradona.gt.tc^$important
 ||*.mathkaynsgvsjbhiabhsbu.github.io^$important
 ||*.maybe-sincetomorrow.buzz^$important
@@ -507,7 +510,6 @@
 ||*.mosselnet.co.za^$important
 ||*.mqv18.com^$important
 ||*.mr-sum1t.github.io^$important
-||*.msgrouppolicy.vg^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
@@ -523,7 +525,6 @@
 ||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.nova.ismak.icu^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ohlly-mohly.world^$important
@@ -570,6 +571,7 @@
 ||*.r-unicorn-international.com^$important
 ||*.railmesenpai.com^$important
 ||*.ramirex.ro^$important
+||*.rbxproject.com^$important
 ||*.rcqwr12c541wa421q.com^$important
 ||*.rdm.91yunma.cn^$important
 ||*.realarpit.github.io^$important
@@ -616,7 +618,6 @@
 ||*.separadordecc.com^$important
 ||*.servmsn-live.weebly.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopeetbk133.blogspot.com^$important
@@ -638,7 +639,6 @@
 ||*.solar-sanat.net^$important
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.spoo.me^$important
 ||*.spotify.servernotification.events^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
@@ -658,6 +658,7 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swapdev.clovernode.com^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -703,6 +704,7 @@
 ||*.vaaiidu.github.io^$important
 ||*.vagler.ru^$important
 ||*.vaibhavgarg78.github.io^$important
+||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.verificar-cu3nta.netlify.app^$important
 ||*.versaclean.com.br^$important
@@ -851,6 +853,7 @@
 ||*.xshop.com.tr^$important
 ||*.xuezha.net^$important
 ||*.ynlendriyonuzknk23154.duckdns.org^$important
+||*.youtransfer.net^$important
 ||*.z9p3t6k1r8w4.cfd^$important
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
