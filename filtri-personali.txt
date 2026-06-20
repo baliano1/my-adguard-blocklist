@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-20 19:20:35
+! Ultimo aggiornamento automatico: 2026-06-20 22:03:36
 ||*.0022a601.pphost.net^$important
 ||*.022iqw23.bet303.download^$important
 ||*.0991contacto.github.io^$important
@@ -191,9 +191,9 @@
 ||*.9jdr35y2.kir.bet^$important
 ||*.9k4etp9p.azmoondadrasi.xyz^$important
 ||*.aaronart.com^$important
+||*.abdulahad.net^$important
 ||*.abhiramk18.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.access.skaparade.com^$important
 ||*.acct.caixesp-finbk.com^$important
 ||*.acms.saleseos.com^$important
 ||*.acu1ajv0.irxbetkade.com^$important
@@ -348,7 +348,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -504,7 +503,6 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lgoanndm.betvarzeshkade.online^$important
 ||*.lh7umyc5.riyazishahkilid.xyz^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lnc1c2cf.anodaz.vip^$important
 ||*.local-update.com^$important
 ||*.loginfacebook.site.je^$important
@@ -641,7 +639,6 @@
 ||*.serviciopacifico.vercel.app^$important
 ||*.servmsn-live.weebly.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
@@ -656,7 +653,6 @@
 ||*.solar-sanat.net^$important
 ||*.soniyapatwal123-svg.github.io^$important
 ||*.sornak.casa^$important
-||*.spasopro.at^$important
 ||*.spectrum.hirevue-app.com^$important
 ||*.spgint.com^$important
 ||*.spoar.org.in^$important
@@ -665,6 +661,7 @@
 ||*.sso--login--trezor--io-cdn.typedream.app^$important
 ||*.sso-en-nndax.webflow.io^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -673,7 +670,6 @@
 ||*.stonecradle.com^$important
 ||*.stopngochicken.com^$important
 ||*.storno-addebiti.com^$important
-||*.streammobs.com^$important
 ||*.suemaisnovoupgradeaumento.s3.us-east-005.backblazeb2.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
