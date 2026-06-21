@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-21 03:52:09
+! Ultimo aggiornamento automatico: 2026-06-21 09:44:33
 ||*.0022a601.pphost.net^$important
 ||*.05jsazp3.shart.casino^$important
 ||*.0knbl1ve.hugugmadanikatouzian.xyz^$important
@@ -194,7 +194,6 @@
 ||*.9k4etp9p.azmoondadrasi.xyz^$important
 ||*.9s34xd0g.rahnemayenegaresh.site^$important
 ||*.aaronart.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.actual348bhd49.yzz.me^$important
@@ -331,7 +330,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -398,7 +396,6 @@
 ||*.gebyar-shope-2022.blogspot.com^$important
 ||*.gestionycobranzas.com^$important
 ||*.gh7f6hfmj8v.gthcyexikcfremhbrc.workers.dev^$important
-||*.giga.miraibotnet.su^$important
 ||*.gitoxy22.hugugtatbigi.xyz^$important
 ||*.gjjyn1c2.plinko.mobi^$important
 ||*.globalbank.us^$important
@@ -424,7 +421,6 @@
 ||*.houstontacolover.com^$important
 ||*.hseda.com^$important
 ||*.hub-coinbase-wallet-extn.gitbook.io^$important
-||*.huhaitao.top^$important
 ||*.hungrywifi.ru^$important
 ||*.i-ramps.com^$important
 ||*.i83pv2vx.ravabetensani.site^$important
@@ -475,6 +471,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lc5lya7l.romabetkade.com^$important
 ||*.lh7umyc5.riyazishahkilid.xyz^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.liwxdd48.romabetkade.com^$important
 ||*.local-update.com^$important
 ||*.login.authorised-support.com^$important
@@ -528,12 +525,14 @@
 ||*.nitrogateway.digital^$important
 ||*.noithaticon.vn^$important
 ||*.nonlddo9.riyazishahkilid.xyz^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o-o.godaddysites.com^$important
 ||*.o0gbvk16.winenfejar.com^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.owlcity.ru^$important
 ||*.owxoxg4v.jetbetkade.com^$important
@@ -545,7 +544,6 @@
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.postelnini.mk^$important
 ||*.prachikushwaha34.github.io^$important
 ||*.prajjwalmathur90.github.io^$important
@@ -609,6 +607,7 @@
 ||*.server-index-page--eefostar.replit.app^$important
 ||*.servicesupport-i.cloud^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shawwinc.weebly.com^$important
 ||*.shop.mediasova.ru^$important
@@ -630,7 +629,6 @@
 ||*.spectrummailhgfd.weebly.com^$important
 ||*.spgint.com^$important
 ||*.spify-mex.com^$important
-||*.spoar.org.in^$important
 ||*.spotify.servernotification.events^$important
 ||*.sso-uphold-cloud.tem3.io^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
@@ -640,6 +638,7 @@
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.stopngochicken.com^$important
+||*.streammobs.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
@@ -668,6 +667,7 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tellsstraawellxc.weebly.com^$important
+||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
 ||*.tesentia.de^$important
 ||*.test.peperoncinochepassione.it^$important
@@ -700,6 +700,7 @@
 ||*.txm0jrdz.rahnemayenegaresh.site^$important
 ||*.ultimateguide.info^$important
 ||*.umusdqbj.hesabdarieskandari.xyz^$important
+||*.un1rw11q4u.com^$important
 ||*.uni.site.je^$important
 ||*.unknown9672.github.io^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -713,6 +714,7 @@
 ||*.vagler.ru^$important
 ||*.vans-towing.com^$important
 ||*.vanta.st^$important
+||*.vdsina.vg^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
@@ -821,7 +823,6 @@
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
-||*.www.udobrit.ru^$important
 ||*.www.vuelaviajero.com^$important
 ||*.www.webfun.website^$important
 ||*.www.website.mypetapp.co.za^$important
@@ -831,7 +832,6 @@
 ||*.www.ysbaojia.com^$important
 ||*.www.yuhongxx.cn^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.x69rs3qk.rasmfani.xyz^$important
 ||*.xcatrfgav.weebly.com^$important
 ||*.xenon.studio^$important
