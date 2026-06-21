@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-21 14:03:02
+! Ultimo aggiornamento automatico: 2026-06-21 16:28:04
 ||*.0022a601.pphost.net^$important
 ||*.05jsazp3.shart.casino^$important
 ||*.0knbl1ve.hugugmadanikatouzian.xyz^$important
@@ -189,8 +189,8 @@
 ||*.9k4etp9p.azmoondadrasi.xyz^$important
 ||*.9s34xd0g.rahnemayenegaresh.site^$important
 ||*.aanya900.github.io^$important
-||*.aaronart.com^$important
 ||*.abasssaqafi-blip.github.io^$important
+||*.abdulahad.net^$important
 ||*.abhichoudhary1.github.io^$important
 ||*.abhishekvijay2907.github.io^$important
 ||*.abrahamjosephaykkaraa-ship-it.github.io^$important
@@ -270,7 +270,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -333,7 +332,6 @@
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
 ||*.dipeshpra.github.io^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -344,6 +342,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -353,6 +352,7 @@
 ||*.download.suxiazai.com^$important
 ||*.downloads.glazedclients.com^$important
 ||*.dowonline.ru^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dv4wbkrb.shart.casino^$important
@@ -365,7 +365,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.encontrar-my-iphone.us^$important
 ||*.entreeprises-sg-fr.com^$important
 ||*.epanpano.com^$important
@@ -417,10 +416,10 @@
 ||*.gboutros.howto.rocks^$important
 ||*.gestionycobranzas.com^$important
 ||*.gheimhienilogin.webflow.io^$important
+||*.giga.miraibotnet.su^$important
 ||*.gitoxy22.hugugtatbigi.xyz^$important
 ||*.gjjyn1c2.plinko.mobi^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.guo1otbf.shartplus.com^$important
@@ -479,15 +478,12 @@
 ||*.js.byxly.eu.cc^$important
 ||*.juggledear.github.io^$important
 ||*.jyothishmathi.in^$important
-||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.kavyaaggrawal27-cell.github.io^$important
-||*.keitarosofts.com^$important
 ||*.kejutanshopee289.blogspot.com^$important
 ||*.kellylongbooks.com^$important
 ||*.kh5bct7gaqlk35ib.softpakind.com^$important
 ||*.khoancatbetong89.vn^$important
-||*.kickstrean.art^$important
 ||*.kikaaphiwe-a11y.github.io^$important
 ||*.kimyen.net^$important
 ||*.kissme-4o8.pages.dev^$important
@@ -582,20 +578,17 @@
 ||*.noithaticon.vn^$important
 ||*.nonlddo9.riyazishahkilid.xyz^$important
 ||*.nostrabet.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o0gbvk16.winenfejar.com^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.old-netfliiixx-clone.netlify.app^$important
 ||*.onfiltre.com.tr^$important
 ||*.owlcity.ru^$important
 ||*.owxoxg4v.jetbetkade.com^$important
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
-||*.paperrig.com^$important
 ||*.patrickmortensen986-star.github.io^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -604,7 +597,6 @@
 ||*.piple05kunal-gif.github.io^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.portal-2026.ucoz.club^$important
 ||*.postelnini.mk^$important
 ||*.prashantbhalerao.github.io^$important
@@ -681,7 +673,6 @@
 ||*.sesslon-uot-hopeful-bohr-verlflcation-yahuoo.netlify.app^$important
 ||*.setwallet.blogspot.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.sharath24-prog.github.io^$important
 ||*.shikhasonidev.github.io^$important
@@ -703,11 +694,13 @@
 ||*.soporte-apple.us^$important
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
+||*.spoar.org.in^$important
 ||*.spotify-clone-asw.netlify.app^$important
 ||*.spotifyclonefirst.netlify.app^$important
 ||*.srivastavashivansh49-cmd.github.io^$important
 ||*.sso---en-ca--netcoins---com-cdn-auths.webflow.io^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -845,6 +838,7 @@
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
@@ -875,6 +869,7 @@
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.ysbaojia.com^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.wwwroblox.co^$important
 ||*.wym.sfu.mybluehost.me^$important
 ||*.x69rs3qk.rasmfani.xyz^$important
