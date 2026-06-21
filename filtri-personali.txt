@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-21 19:25:34
+! Ultimo aggiornamento automatico: 2026-06-21 22:11:24
 ||*.0022a601.pphost.net^$important
 ||*.05jsazp3.shart.casino^$important
 ||*.0knbl1ve.hugugmadanikatouzian.xyz^$important
@@ -189,6 +189,7 @@
 ||*.9k4etp9p.azmoondadrasi.xyz^$important
 ||*.9s34xd0g.rahnemayenegaresh.site^$important
 ||*.aanya900.github.io^$important
+||*.aaronart.com^$important
 ||*.abasssaqafi-blip.github.io^$important
 ||*.abdulahad.net^$important
 ||*.abhichoudhary1.github.io^$important
@@ -270,7 +271,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.privatefile.host^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -281,7 +281,6 @@
 ||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.ci7lslzb.enfej.win^$important
-||*.cl.ssouy.com^$important
 ||*.clone-moviesflix.netlify.app^$important
 ||*.cloud-lostdevice.us^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -333,6 +332,7 @@
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
 ||*.dipeshpra.github.io^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -354,7 +354,6 @@
 ||*.downloads.glazedclients.com^$important
 ||*.dowonline.ru^$important
 ||*.dreamapp.xyz^$important
-||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dv4wbkrb.shart.casino^$important
 ||*.dweixin.cn^$important
@@ -366,6 +365,7 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.encontrar-my-iphone.us^$important
 ||*.entreeprises-sg-fr.com^$important
 ||*.epanpano.com^$important
@@ -415,6 +415,7 @@
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
+||*.geo-foundation.vg^$important
 ||*.gestionycobranzas.com^$important
 ||*.gheimhienilogin.webflow.io^$important
 ||*.giga.miraibotnet.su^$important
@@ -422,6 +423,7 @@
 ||*.gjjyn1c2.plinko.mobi^$important
 ||*.globalbank.us^$important
 ||*.greenf.alexion.rs^$important
+||*.grupomcperu.com^$important
 ||*.guo1otbf.shartplus.com^$important
 ||*.gutando.com^$important
 ||*.gutiput.lol^$important
@@ -551,6 +553,7 @@
 ||*.mogimall.com^$important
 ||*.mosselnet.co.za^$important
 ||*.movie-watching-platform.netlify.app^$important
+||*.msedge.vg^$important
 ||*.msufiyan-1.github.io^$important
 ||*.muhammad-rehan126.github.io^$important
 ||*.muktadir071.github.io^$important
@@ -574,7 +577,6 @@
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nidhi2004-create.github.io^$important
 ||*.nirmith-shettigar.github.io^$important
-||*.nitrogateway.digital^$important
 ||*.noithaticon.vn^$important
 ||*.nonlddo9.riyazishahkilid.xyz^$important
 ||*.nostrabet.com^$important
@@ -584,6 +586,7 @@
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.old-netfliiixx-clone.netlify.app^$important
 ||*.onfiltre.com.tr^$important
 ||*.owlcity.ru^$important
@@ -674,6 +677,7 @@
 ||*.sesslon-uot-hopeful-bohr-verlflcation-yahuoo.netlify.app^$important
 ||*.setwallet.blogspot.com^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.sharath24-prog.github.io^$important
 ||*.shikhasonidev.github.io^$important
@@ -776,7 +780,6 @@
 ||*.v8xihekm.ramzfile.com^$important
 ||*.vagler.ru^$important
 ||*.validarmyaccountoutl0ok365.hstn.me^$important
-||*.vans-towing.com^$important
 ||*.vanta.st^$important
 ||*.veerasudar.github.io^$important
 ||*.versaclean.com.br^$important
@@ -844,7 +847,6 @@
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
-||*.www.paperrig.com^$important
 ||*.www.playtown.co.za^$important
 ||*.www.portal-2026.ucoz.club^$important
 ||*.www.rbcfort.com^$important
@@ -869,7 +871,6 @@
 ||*.www.websitedesigningindia.biz^$important
 ||*.www.whauise-web.icu^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
-||*.www.ysbaojia.com^$important
 ||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
 ||*.wwwroblox.co^$important
