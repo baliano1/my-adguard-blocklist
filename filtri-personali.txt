@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-21 16:28:04
+! Ultimo aggiornamento automatico: 2026-06-21 19:25:34
 ||*.0022a601.pphost.net^$important
 ||*.05jsazp3.shart.casino^$important
 ||*.0knbl1ve.hugugmadanikatouzian.xyz^$important
@@ -270,6 +270,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.privatefile.host^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -421,7 +422,6 @@
 ||*.gjjyn1c2.plinko.mobi^$important
 ||*.globalbank.us^$important
 ||*.greenf.alexion.rs^$important
-||*.grupomcperu.com^$important
 ||*.guo1otbf.shartplus.com^$important
 ||*.gutando.com^$important
 ||*.gutiput.lol^$important
@@ -578,6 +578,7 @@
 ||*.noithaticon.vn^$important
 ||*.nonlddo9.riyazishahkilid.xyz^$important
 ||*.nostrabet.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o0gbvk16.winenfejar.com^$important
 ||*.o24o.ru^$important
@@ -843,6 +844,7 @@
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
+||*.www.paperrig.com^$important
 ||*.www.playtown.co.za^$important
 ||*.www.portal-2026.ucoz.club^$important
 ||*.www.rbcfort.com^$important
