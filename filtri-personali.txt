@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-22 20:41:58
+! Ultimo aggiornamento automatico: 2026-06-22 22:44:51
 ||*.0022a601.pphost.net^$important
 ||*.05jsazp3.shart.casino^$important
 ||*.0knbl1ve.hugugmadanikatouzian.xyz^$important
@@ -175,6 +175,7 @@
 ||*.4wi7kgpf.tinybetkade.com^$important
 ||*.58shz66o.tahlilsazeha.xyz^$important
 ||*.61564.my^$important
+||*.6ak-tehnik.si^$important
 ||*.6w8npdwb.angizeshfarahani.store^$important
 ||*.6xelt3vl.shartplus.com^$important
 ||*.77h5jddd.yek1.bet^$important
@@ -188,7 +189,6 @@
 ||*.9s34xd0g.rahnemayenegaresh.site^$important
 ||*._dmarc.home-money.top^$important
 ||*.aaronart.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accounts-findmy.us^$important
 ||*.acms.saleseos.com^$important
@@ -241,12 +241,12 @@
 ||*.bbzvqin8.zamineravan.xyz^$important
 ||*.bclendersgroup.com^$important
 ||*.beoauto.alexion.rs^$important
+||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
-||*.brantfordconventioncentre.com^$important
 ||*.brenmayasociados.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -312,7 +312,6 @@
 ||*.dev-goswami.github.io^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
-||*.dfgjhkllkhuuk.info^$important
 ||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
 ||*.dibnotification.co^$important
@@ -338,6 +337,7 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dv4wbkrb.shart.casino^$important
 ||*.dweixin.cn^$important
@@ -348,6 +348,7 @@
 ||*.embedone.com^$important
 ||*.en--start-tr-zor-cdn.typedream.app^$important
 ||*.en-trezr-wllet.framer.ai^$important
+||*.en.taichuan.com^$important
 ||*.encontratmiiphone.us^$important
 ||*.eng-trezobridge-cdn.typedream.app^$important
 ||*.eniotrezor.framer.ai^$important
@@ -362,7 +363,6 @@
 ||*.farschid.de^$important
 ||*.favorite-years-294033.framer.app^$important
 ||*.fd.v2downf.shop^$important
-||*.fertas.com.tr^$important
 ||*.fflocker.life^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
@@ -389,7 +389,6 @@
 ||*.global-tracking-package.vercel.app^$important
 ||*.globalbank.us^$important
 ||*.gnzfay.waycratx.web.id^$important
-||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grihinie.org^$important
 ||*.grumczak.github.io^$important
@@ -427,7 +426,6 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.jawaratekno.com^$important
 ||*.jb9ff818.azmoondadrasi.xyz^$important
 ||*.jessespridecharters.com^$important
 ||*.jettvp45.taktikbetkade.com^$important
@@ -438,7 +436,6 @@
 ||*.junkbegonedumpsters.com^$important
 ||*.jyothishmathi.in^$important
 ||*.kambohmag.net^$important
-||*.karoonpc.com^$important
 ||*.kauauejnd.kpleer.com^$important
 ||*.kavacanada.ca^$important
 ||*.kbm5utm8.shart303.com^$important
@@ -587,6 +584,7 @@
 ||*.ritubohara.com^$important
 ||*.rob-agent.xyz^$important
 ||*.robertrowe.com^$important
+||*.royalcare-sy.com^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rurhmgw2.readthisintro.xyz^$important
 ||*.ruxblox.netlify.app^$important
@@ -625,7 +623,6 @@
 ||*.sibaprasadsahu410-cpu.github.io^$important
 ||*.signmeta_mask_in.godaddysites.com^$important
 ||*.sincere-future-396706.framer.app^$important
-||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
 ||*.smart.abuse.st^$important
 ||*.smartermail.host^$important
@@ -647,6 +644,7 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.suites-treozz.typedream.app^$important
 ||*.support-uphold-login-aap.square.site^$important
 ||*.support.clz.kr^$important
@@ -713,6 +711,7 @@
 ||*.vagler.ru^$important
 ||*.vaneijkprojecten.nl^$important
 ||*.vanta.st^$important
+||*.vdsina.vg^$important
 ||*.verificar--seguridad884.replit.app^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -839,6 +838,7 @@
 ||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
 ||*.www_bjjirui_com.mtjpj.com^$important
+||*.xemhang.vn^$important
 ||*.xenon.studio^$important
 ||*.xffinnittyy.weebly.com^$important
 ||*.xfq2kf92.angizeshfarahani.store^$important
