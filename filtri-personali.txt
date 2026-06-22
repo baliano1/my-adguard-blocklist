@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-22 16:49:51
+! Ultimo aggiornamento automatico: 2026-06-22 20:41:58
 ||*.0022a601.pphost.net^$important
 ||*.05jsazp3.shart.casino^$important
 ||*.0knbl1ve.hugugmadanikatouzian.xyz^$important
@@ -304,6 +304,7 @@
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deepak2006ez-ship-it.github.io^$important
+||*.delp-heizungsbau.de^$important
 ||*.delte-mobrey.com^$important
 ||*.demo.dentistwestallis.com^$important
 ||*.demolasthotmail.weebly.com^$important
@@ -437,6 +438,7 @@
 ||*.junkbegonedumpsters.com^$important
 ||*.jyothishmathi.in^$important
 ||*.kambohmag.net^$important
+||*.karoonpc.com^$important
 ||*.kauauejnd.kpleer.com^$important
 ||*.kavacanada.ca^$important
 ||*.kbm5utm8.shart303.com^$important
@@ -455,6 +457,7 @@
 ||*.lambruchona.com^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
+||*.lb.nigsv.com^$important
 ||*.lc5lya7l.romabetkade.com^$important
 ||*.leafleafy28-design.github.io^$important
 ||*.learn-trezrostart.framer.ai^$important
@@ -520,6 +523,7 @@
 ||*.ncxps.com^$important
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nidarosdiskgolf.no^$important
+||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.nonlddo9.riyazishahkilid.xyz^$important
 ||*.notifications-iqeq.com^$important
@@ -608,6 +612,7 @@
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shahmeerkhan0724-netizen.github.io^$important
 ||*.shop.mediasova.ru^$important
