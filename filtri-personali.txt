@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-23 06:48:52
+! Ultimo aggiornamento automatico: 2026-06-23 11:57:49
 ||*.0022a601.pphost.net^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -187,6 +187,7 @@
 ||*.94tny3fa.gamebc.casino^$important
 ||*.9b9bmxfm.megapariwin.poker^$important
 ||*.aaronart.com^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.ach-sa.com^$important
 ||*.acms.saleseos.com^$important
@@ -363,7 +364,6 @@
 ||*.fertas.com.tr^$important
 ||*.fflocker.life^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finpremium.ru^$important
 ||*.first-security-verden.de^$important
@@ -402,6 +402,7 @@
 ||*.hr-messages.com^$important
 ||*.hseda.com^$important
 ||*.i-ramps.com^$important
+||*.icash.trymore.co^$important
 ||*.icloud-com.co^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
@@ -432,7 +433,6 @@
 ||*.js.byxly.eu.cc^$important
 ||*.junkbegonedumpsters.com^$important
 ||*.jyothishmathi.in^$important
-||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.kbm5utm8.shart303.com^$important
 ||*.kefds8uo.zerangbet.com^$important
@@ -446,6 +446,7 @@
 ||*.krakenloginv.webflow.io^$important
 ||*.kramersmarionnettes.com^$important
 ||*.kryptoniteclient.xyz^$important
+||*.kzaa.co.za^$important
 ||*.landonirwin.com^$important
 ||*.latinaria.xyz^$important
 ||*.lawfirm.paperbirdtech.com^$important
@@ -543,6 +544,7 @@
 ||*.pk.svgu.ru^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.portal.tech-365-sec.workers.dev^$important
 ||*.postelnini.mk^$important
 ||*.postoaktrophies.synology.me^$important
@@ -612,11 +614,11 @@
 ||*.security-hub--halebowdondenta.replit.app^$important
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
+||*.serverfile.click^$important
 ||*.service-imsbiz2fa.s3.ap-northeast-1.amazonaws.com^$important
 ||*.seucadastropayonline.lovable.app^$important
 ||*.sg123.net^$important
 ||*.sgssgnwz.wpdevcloud.com^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shop.mediasova.ru^$important
 ||*.shopee2939.blogspot.com^$important
@@ -641,7 +643,7 @@
 ||*.springboardpools.com^$important
 ||*.sqlsculptor.github.io^$important
 ||*.srstii-su.surge.sh^$important
-||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
@@ -652,7 +654,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.swisscom-ra-portal.com^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t-mobile.cmftxu.top^$important
@@ -786,7 +787,6 @@
 ||*.www.gov-parkingyb.top^$important
 ||*.www.gov-parkingym.cyou^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.it-communications.com^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -846,6 +846,7 @@
 ||*.www.ysbaojia.com^$important
 ||*.www.zamilgroups.com^$important
 ||*.www.zh-h5-hxsports.com^$important
+||*.www.zhikey.com^$important
 ||*.www_bjjirui_com.mtjpj.com^$important
 ||*.x0t2a0jb.raftarsazmani.xyz^$important
 ||*.xbf6th7x.megaparicom.poker^$important
@@ -856,9 +857,9 @@
 ||*.xmlf-ag9n-th11.mgeorgatos-netw1-com-s-account.workers.dev^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
-||*.xuezha.net^$important
 ||*.yahu-pc-whatsapp.hk.cn^$important
 ||*.yasernew.yaser-nateghi1.workers.dev^$important
+||*.yettyagency.tz^$important
 ||*.yezqbe5v.tarahisystem.xyz^$important
 ||*.ynlendirdstmkrkmayav.duckdns.org^$important
 ||*.youtransfer.net^$important
