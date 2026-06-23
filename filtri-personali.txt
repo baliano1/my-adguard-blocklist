@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-23 19:58:08
+! Ultimo aggiornamento automatico: 2026-06-23 22:09:46
 ||*.0022a601.pphost.net^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -407,6 +407,7 @@
 ||*.holy-bird-c596.ilovegeniunes.workers.dev^$important
 ||*.hoteljessica.com.co^$important
 ||*.hr-messages.com^$important
+||*.hseda.com^$important
 ||*.humorous-zebra-189284.framer.app^$important
 ||*.i-ramps.com^$important
 ||*.icloud-com.co^$important
@@ -631,9 +632,11 @@
 ||*.sqlsculptor.github.io^$important
 ||*.sslink.one^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.strt-trezrio.framer.ai^$important
 ||*.sufiyan-mujawar2006.github.io^$important
 ||*.support.clz.kr^$important
