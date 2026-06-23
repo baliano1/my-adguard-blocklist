@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-23 02:53:55
+! Ultimo aggiornamento automatico: 2026-06-23 06:48:52
 ||*.0022a601.pphost.net^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -177,7 +177,6 @@
 ||*.3cud-je09-uln1.accounting-coralridgetowerssouth-com-s-account.workers.dev^$important
 ||*.4wi7kgpf.tinybetkade.com^$important
 ||*.6a2d930d1db5f3344b65a808--gleeful-mermaid-933ec5.netlify.app^$important
-||*.6ak-tehnik.si^$important
 ||*.6w8npdwb.angizeshfarahani.store^$important
 ||*.6xelt3vl.shartplus.com^$important
 ||*.73mabfum.303bet.bet^$important
@@ -275,6 +274,7 @@
 ||*.christophercheung.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.chungminhtaichinhsaigon.net^$important
+||*.cl.ssouy.com^$important
 ||*.cliquelogistics.com.pk^$important
 ||*.clone-project-omega.vercel.app^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -360,6 +360,7 @@
 ||*.faqs-public-trzore-io.typedream.app^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
+||*.fertas.com.tr^$important
 ||*.fflocker.life^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
@@ -421,6 +422,7 @@
 ||*.izm84irm.megaparibet.poker^$important
 ||*.jansbdjiasdas.webcindario.com^$important
 ||*.japuradigital.click^$important
+||*.jawaratekno.com^$important
 ||*.jb9ff818.azmoondadrasi.xyz^$important
 ||*.jessespridecharters.com^$important
 ||*.jettvp45.taktikbetkade.com^$important
@@ -449,7 +451,6 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lb.nigsv.com^$important
 ||*.learn-trzor.framer.ai^$important
-||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.location-lost.info^$important
@@ -483,6 +484,7 @@
 ||*.mn3w-fny9-jyay.dibafef289.workers.dev^$important
 ||*.mogimall.com^$important
 ||*.mosselnet.co.za^$important
+||*.msedge.vg^$important
 ||*.msrconsultoria.click^$important
 ||*.mssa.com.br^$important
 ||*.muledo.com^$important
@@ -492,7 +494,6 @@
 ||*.mx9x.com^$important
 ||*.myrya1hx.megaparicom.bet^$important
 ||*.myshop-711-com-tw.dcpz99.link^$important
-||*.n.vs108.com^$important
 ||*.n8n69sm2.bcgameiran.net^$important
 ||*.ncxps.com^$important
 ||*.nehagupta-coder.github.io^$important
@@ -503,6 +504,7 @@
 ||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.notifications-iqeq.com^$important
+||*.nusatoyota.co.id^$important
 ||*.nwkvg7b4.qurankarim.xyz^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
@@ -639,9 +641,7 @@
 ||*.springboardpools.com^$important
 ||*.sqlsculptor.github.io^$important
 ||*.srstii-su.surge.sh^$important
-||*.static.249.223.175.5.nextregister.eu^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
@@ -677,7 +677,6 @@
 ||*.throbbing-thunder-b907.ranrvablkrtvdlq.workers.dev^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
-||*.tirtasentosa.com^$important
 ||*.tmcksa.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
@@ -709,7 +708,6 @@
 ||*.vaneijkprojecten.nl^$important
 ||*.vanta.st^$important
 ||*.varnika6-hub.github.io^$important
-||*.vdsina.vg^$important
 ||*.ventnor.com.cn^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -836,7 +834,6 @@
 ||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.testlanigs.blogspot.com^$important
-||*.www.tirtasentosa.com^$important
 ||*.www.trc20z.my.id^$important
 ||*.www.vailivre.com^$important
 ||*.www.vuelaviajero.com^$important
@@ -849,7 +846,6 @@
 ||*.www.ysbaojia.com^$important
 ||*.www.zamilgroups.com^$important
 ||*.www.zh-h5-hxsports.com^$important
-||*.www.zhikey.com^$important
 ||*.www_bjjirui_com.mtjpj.com^$important
 ||*.x0t2a0jb.raftarsazmani.xyz^$important
 ||*.xbf6th7x.megaparicom.poker^$important
