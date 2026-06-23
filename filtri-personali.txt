@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-23 17:17:35
+! Ultimo aggiornamento automatico: 2026-06-23 19:58:08
 ||*.0022a601.pphost.net^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -347,6 +347,7 @@
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
+||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dreamapp.xyz^$important
@@ -369,7 +370,6 @@
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
-||*.fertas.com.tr^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
@@ -445,6 +445,7 @@
 ||*.khoancatbetong89.vn^$important
 ||*.kickstrean.art^$important
 ||*.kimyen.net^$important
+||*.kis.marketing^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
@@ -487,6 +488,7 @@
 ||*.mlm2cm0b.yasbetkade.com^$important
 ||*.mogimall.com^$important
 ||*.mohsin-imran1.github.io^$important
+||*.mosselnet.co.za^$important
 ||*.movie-watching-platform.netlify.app^$important
 ||*.mssa.com.br^$important
 ||*.muledo.com^$important
@@ -533,6 +535,7 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.plearnthaipalace.com^$important
+||*.pns.org.pk^$important
 ||*.portal--trezr-suite.typedream.app^$important
 ||*.postelnini.mk^$important
 ||*.poxupload2.biz^$important
@@ -581,6 +584,7 @@
 ||*.rzty-web-whatsapp.hk.cn^$important
 ||*.s.team-kd.com^$important
 ||*.s3-external-2.amazonaws.com^$important
+||*.s3-python.cc^$important
 ||*.s3zzh7np.sigaribetkade.com^$important
 ||*.s4w.in^$important
 ||*.s6va4ija.asibshenasiyahya.shop^$important
@@ -623,22 +627,20 @@
 ||*.spasopro.at^$important
 ||*.specific-slippery-cpu.replit.app^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.springboardpools.com^$important
 ||*.sqlsculptor.github.io^$important
 ||*.sslink.one^$important
 ||*.static.ilclock.com^$important
-||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.strt-trezrio.framer.ai^$important
 ||*.sufiyan-mujawar2006.github.io^$important
 ||*.support.clz.kr^$important
 ||*.supportscloud.us^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t-mobile.cmftxu.top^$important
 ||*.t-mobile.gvesjo.top^$important
