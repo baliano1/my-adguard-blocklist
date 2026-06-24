@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-24 17:02:26
+! Ultimo aggiornamento automatico: 2026-06-24 19:41:43
 ||*.0022a601.pphost.net^$important
 ||*.1188xinpujing.com^$important
 ||*.121jio.senes.at^$important
@@ -345,7 +345,6 @@
 ||*.dialkwik.in^$important
 ||*.dicepencilpaper.com^$important
 ||*.diretrizesdegastoorganizador2026.s3.us-east-005.backblazeb2.com^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -359,6 +358,7 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -424,7 +424,6 @@
 ||*.gboutros.howto.rocks^$important
 ||*.gemniclogic_officaa.godaddysites.com^$important
 ||*.genddos.st^$important
-||*.geo-foundation.vg^$important
 ||*.gestionycobranzas.com^$important
 ||*.gfjhfyjfgg.weebly.com^$important
 ||*.ginninni_lggmn.godaddysites.com^$important
@@ -482,12 +481,14 @@
 ||*.iuoiyut457hhfdgd.weebly.com^$important
 ||*.izm84irm.megaparibet.poker^$important
 ||*.ja93kajkej0akaejakjeka003.br-gru-1.linodeobjects.com^$important
+||*.jawaratekno.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
 ||*.js.byxly.eu.cc^$important
 ||*.jxsf8qrc.edareumumi.xyz^$important
 ||*.jyothishmathi.in^$important
+||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.khoancatbetong89.vn^$important
 ||*.khushiish11.github.io^$important
@@ -521,6 +522,7 @@
 ||*.m.365365g.app^$important
 ||*.m.happymachine.cn^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.m3f7xwi4.ensandareslam.xyz^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.avicennaalliedhealthinstitute.org^$important
@@ -558,7 +560,6 @@
 ||*.officestaffserviceowa.framer.website^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.omafdfghbtmok.eu.cc^$important
 ||*.onderneming-bijwerking.sbs^$important
 ||*.onfiltre.com.tr^$important
@@ -657,6 +658,7 @@
 ||*.solar-sanat.net^$important
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
+||*.spoar.org.in^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
@@ -676,7 +678,6 @@
 ||*.teams.alfredcore.com^$important
 ||*.techosazteca.com^$important
 ||*.tecmon.hr^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
@@ -737,7 +738,6 @@
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.vllcie.shop^$important
 ||*.vmi3130825.contaboserver.net^$important
-||*.voidgame.cc^$important
 ||*.volksbank-koeln-bonn.kontoeroeffnung-fk.de^$important
 ||*.voltejeasteis.click^$important
 ||*.vrajras.com^$important
