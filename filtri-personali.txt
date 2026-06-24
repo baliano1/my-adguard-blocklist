@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-24 02:54:35
+! Ultimo aggiornamento automatico: 2026-06-24 06:46:24
 ||*.0022a601.pphost.net^$important
 ||*.01b0439c-ba2b-4c7f-8641-b9865db23689-00-1emp6yfnk9mkw.worf.replit.dev^$important
 ||*.121jio.senes.at^$important
@@ -195,7 +195,6 @@
 ||*.97ee7.catex.at^$important
 ||*.9b9bmxfm.megapariwin.poker^$important
 ||*.aaronart.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.ach-sa.com^$important
 ||*.acms.saleseos.com^$important
@@ -255,6 +254,7 @@
 ||*.bdobd.cc^$important
 ||*.bell-self-service.vercel.app^$important
 ||*.beoauto.alexion.rs^$important
+||*.betwotech.com^$important
 ||*.biomederp.com^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
@@ -286,6 +286,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn-2faclov.sbs^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chayadip.com^$important
@@ -348,6 +349,7 @@
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
+||*.dl.natgo.cn^$important
 ||*.dlsak5pv.megapariwin.bet^$important
 ||*.doc.e-statements.app^$important
 ||*.dokument-cembra.com^$important
@@ -355,7 +357,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -531,6 +532,7 @@
 ||*.nqw33qaj.engelabiran.xyz^$important
 ||*.nt5jc-uowkl9-amo9e7-shr-6ry.pages.dev^$important
 ||*.nuanced-village-151417.framer.app^$important
+||*.nusatoyota.co.id^$important
 ||*.nwkvg7b4.qurankarim.xyz^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
@@ -650,7 +652,6 @@
 ||*.static.youdm.cn^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
