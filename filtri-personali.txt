@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-24 19:41:43
+! Ultimo aggiornamento automatico: 2026-06-24 22:14:09
 ||*.0022a601.pphost.net^$important
 ||*.1188xinpujing.com^$important
 ||*.121jio.senes.at^$important
@@ -195,7 +195,6 @@
 ||*.97ee7.catex.at^$important
 ||*.9b9bmxfm.megapariwin.poker^$important
 ||*.aaronart.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.ach-sa.com^$important
 ||*.aciansouris.tempurl.host^$important
@@ -254,7 +253,6 @@
 ||*.bafybeifz7lwau4w4z7awqjzujhgnff4lpwxrj533xk3n6skzpjmvzpyhvi.ipfs.dweb.link^$important
 ||*.baileyemas.com^$important
 ||*.bancolombia-creditovirtual-co.netlify.app^$important
-||*.bbos.minet.vn^$important
 ||*.bbvanet-cash.duckdns.org^$important
 ||*.bdobd.cc^$important
 ||*.bdoviwp.cc^$important
@@ -276,6 +274,7 @@
 ||*.brightworks.cz^$important
 ||*.bunnellmc.com^$important
 ||*.business-badge-vip14563435vsxf.pages.dev^$important
+||*.bvaco.com^$important
 ||*.bxdc6z4b.betmegapari.org^$important
 ||*.c4cxraym.megaparicom.poker^$important
 ||*.calendar-invites.com^$important
@@ -286,7 +285,6 @@
 ||*.cdaonline.com.ar^$important
 ||*.cdcomcat.webflow.io^$important
 ||*.cdn-2faclov.sbs^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chayadip.com^$important
@@ -543,6 +541,7 @@
 ||*.mylittleladies.blog.verifytoken.com^$important
 ||*.myrya1hx.megaparicom.bet^$important
 ||*.mysterious-emojis-856235.framer.app^$important
+||*.n.vs108.com^$important
 ||*.ncxps.com^$important
 ||*.netflix-clone-by-mayur.vercel.app^$important
 ||*.new.quranushaiqer.org.sa^$important
@@ -574,7 +573,6 @@
 ||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.paypal-c.vercel.app^$important
-||*.pcupd.com^$important
 ||*.pengembaliandanaiasc.id^$important
 ||*.peteradedokun1.github.io^$important
 ||*.petsrblx.blogspot.com^$important
@@ -666,11 +664,11 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swift-hiring-025569.framer.app^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
