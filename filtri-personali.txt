@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-25 06:45:14
+! Ultimo aggiornamento automatico: 2026-06-25 11:38:14
 ||*.0022a601.pphost.net^$important
 ||*.107-175-148-253-s5.servikus.net^$important
 ||*.123.ywxww.net^$important
@@ -177,6 +177,7 @@
 ||*.4o63jpbm.ekhtelalat.xyz^$important
 ||*.62255.co^$important
 ||*.69xb4m1d.betmajic.cc^$important
+||*.6ak-tehnik.si^$important
 ||*.6shg02c5.onlinecasinorouletteblackjack.com^$important
 ||*.7922.tokenpocket.usdtweb3.top^$important
 ||*.893804ep.zarinfile.com^$important
@@ -190,7 +191,6 @@
 ||*.abdulahad.net^$important
 ||*.abhishek7gowda.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -354,7 +354,6 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
-||*.dreamapp.xyz^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.e1fi2yi1.vip1x.bet^$important
@@ -374,6 +373,7 @@
 ||*.eugene59779.softr.app^$important
 ||*.evangroup.ru^$important
 ||*.eventsyouwant.com^$important
+||*.everycarebd.com^$important
 ||*.exciting-context-711590.framer.app^$important
 ||*.eywwkm.shop^$important
 ||*.f1nancier.com^$important
@@ -393,6 +393,7 @@
 ||*.foorar9u.megapariwin.poker^$important
 ||*.fortrev.co^$important
 ||*.framesavecloudjs.beer^$important
+||*.friendsofsclarc.org^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
@@ -455,7 +456,6 @@
 ||*.itau-unibanco.ph^$important
 ||*.itauconsorcios.net.br^$important
 ||*.itssprout.com^$important
-||*.jawaratekno.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
@@ -511,6 +511,7 @@
 ||*.meow.otval.cfd^$important
 ||*.metamask-scam.blogspot.com^$important
 ||*.metrics.gocloudmaps.com^$important
+||*.mitreart.com^$important
 ||*.mmbxcdfg.vercel.app^$important
 ||*.modeel-dpuxqwbcglha.edgeone.app^$important
 ||*.mogimall.com^$important
@@ -534,7 +535,6 @@
 ||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.nqw33qaj.engelabiran.xyz^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oferta-feirao.netlify.app^$important
@@ -602,6 +602,7 @@
 ||*.rxquickpay.com^$important
 ||*.ryo.gamer.free^$important
 ||*.s.team-bf.com^$important
+||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.s7w5r3s2.onebet1x.com^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
@@ -695,6 +696,7 @@
 ||*.tu-dresden-iwgsonq.4webshare.com^$important
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.tyftruu.weebly.com^$important
 ||*.uber-beta-ten.vercel.app^$important
 ||*.ultimateguide.info^$important
@@ -709,7 +711,6 @@
 ||*.urlto.me^$important
 ||*.urlvanish.com^$important
 ||*.uzdating1.shop^$important
-||*.vagler.ru^$important
 ||*.vanta.st^$important
 ||*.verification-claude-cdn.beer^$important
 ||*.verification-code-js.beer^$important
@@ -742,6 +743,7 @@
 ||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whats-app-applicatie-berichten54090.netlify.app^$important
+||*.widerangegroup.com^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wikii--trezurwallet.gitbook.io^$important
 ||*.windomstatetheater.com^$important
@@ -772,8 +774,6 @@
 ||*.www.dpd-notico.cyou^$important
 ||*.www.dpd-noticp.cyou^$important
 ||*.www.dpd-noticp.shop^$important
-||*.www.drgenov.com^$important
-||*.www.first-security-verden.de^$important
 ||*.www.fortlexp.com^$important
 ||*.www.fortnite-inv.top^$important
 ||*.www.fortsora.com^$important
