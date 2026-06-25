@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-25 02:54:14
+! Ultimo aggiornamento automatico: 2026-06-25 06:45:14
 ||*.0022a601.pphost.net^$important
 ||*.107-175-148-253-s5.servikus.net^$important
 ||*.123.ywxww.net^$important
@@ -190,6 +190,7 @@
 ||*.abdulahad.net^$important
 ||*.abhishek7gowda.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -216,6 +217,7 @@
 ||*.areyouready.co.za^$important
 ||*.arop4gtf.jetbt6.online^$important
 ||*.arshina896.github.io^$important
+||*.ashahaarmans.nl^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
@@ -277,7 +279,6 @@
 ||*.claudesave.beer^$important
 ||*.claudverification-id.beer^$important
 ||*.click-hostopoint-ch-redirect5824312.blogspot.com^$important
-||*.cliquelogistics.com.pk^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.clubenvantagens.s3.us-east-005.backblazeb2.com^$important
 ||*.cn.memxzf.com^$important
@@ -344,6 +345,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -353,7 +355,6 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dreamapp.xyz^$important
-||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.e1fi2yi1.vip1x.bet^$important
@@ -432,6 +433,7 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hoangnguyen275.github.io^$important
+||*.hobobot.net^$important
 ||*.hoomepage-ledger.zapier.app^$important
 ||*.hostinghosting3.site^$important
 ||*.hotelsonesta.in^$important
@@ -483,6 +485,7 @@
 ||*.lb.nigsv.com^$important
 ||*.ledhjgfdh-sdfjghd.pages.dev^$important
 ||*.lhttps-www-roblox.co^$important
+||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.ljkfok0p.vip1xbet.net^$important
 ||*.local-update.com^$important
@@ -508,7 +511,6 @@
 ||*.meow.otval.cfd^$important
 ||*.metamask-scam.blogspot.com^$important
 ||*.metrics.gocloudmaps.com^$important
-||*.mitreart.com^$important
 ||*.mmbxcdfg.vercel.app^$important
 ||*.modeel-dpuxqwbcglha.edgeone.app^$important
 ||*.mogimall.com^$important
@@ -555,7 +557,6 @@
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.postelnini.mk^$important
 ||*.pratistaglow.com^$important
 ||*.praveenkumar7505.github.io^$important
@@ -608,6 +609,7 @@
 ||*.sam00-b.github.io^$important
 ||*.samiksha.com.sg^$important
 ||*.samsclass.info^$important
+||*.scainseto.com.br^$important
 ||*.scoala1gherla.ro^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -624,7 +626,6 @@
 ||*.serverfile.click^$important
 ||*.serviceupdatevalidator.serveousercontent.com^$important
 ||*.sg123.net^$important
-||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shahanaznazar.github.io^$important
 ||*.shaksham-ml.github.io^$important
