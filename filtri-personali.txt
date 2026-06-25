@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-25 19:55:21
+! Ultimo aggiornamento automatico: 2026-06-25 22:18:44
 ||*.0022a601.pphost.net^$important
 ||*.0utloookcsv.weebly.com^$important
 ||*.0x4547a86ca6a84b9d60dc57af908472074de7af5f.ethledger.live^$important
@@ -346,6 +346,7 @@
 ||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
+||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
@@ -521,7 +522,6 @@
 ||*.mmbxcdfg.vercel.app^$important
 ||*.modeel-dpuxqwbcglha.edgeone.app^$important
 ||*.mogimall.com^$important
-||*.mojtabaabbasi.com^$important
 ||*.mosselnet.co.za^$important
 ||*.mszlnqlm.jetbet1.live^$important
 ||*.muledo.com^$important
@@ -556,7 +556,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.packages-global-tracking.vercel.app^$important
 ||*.palharesinformatica.com.br^$important
-||*.pay.aqiu6.com^$important
 ||*.paylink-paypal.com^$important
 ||*.pcupd.com^$important
 ||*.petisse.serveousercontent.com^$important
@@ -621,7 +620,6 @@
 ||*.secure-trzo-start-us.square.site^$important
 ||*.securedisk.cfd^$important
 ||*.securityawareness.cc^$important
-||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
 ||*.serverfile.click^$important
 ||*.serviceupdatevalidator.serveousercontent.com^$important
