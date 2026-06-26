@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-26 03:23:19
+! Ultimo aggiornamento automatico: 2026-06-26 08:58:37
 ||*.0022a601.pphost.net^$important
 ||*.0s8k-x5e9-qtge.aflores-rorealty-com-s-account.workers.dev^$important
 ||*.123.ywxww.net^$important
@@ -297,7 +297,6 @@
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.delp-heizungsbau.de^$important
-||*.delte-mobrey.com^$important
 ||*.demo.alkhateeb.ae^$important
 ||*.derekludlow.com^$important
 ||*.dexios.co.za^$important
@@ -325,7 +324,6 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
-||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -337,7 +335,6 @@
 ||*.dpdco-uk.cfd^$important
 ||*.dqd-sports.com^$important
 ||*.dreamapp.xyz^$important
-||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dweixin.cn^$important
 ||*.e1fi2yi1.vip1x.bet^$important
@@ -414,7 +411,6 @@
 ||*.help-bridge-en-io.netlify.app^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.i-ramps.com^$important
 ||*.icoffeecloud.com^$important
@@ -439,7 +435,9 @@
 ||*.jw2wczuj.jetbet1.pro^$important
 ||*.jyothishmathi.in^$important
 ||*.k9qxyqt8.jetbt8.online^$important
+||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
+||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kocioenlogen.webflow.io^$important
@@ -454,7 +452,6 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lb.nigsv.com^$important
-||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.ljkfok0p.vip1xbet.net^$important
 ||*.local-update.com^$important
@@ -492,7 +489,6 @@
 ||*.mitreart.com^$important
 ||*.mogimall.com^$important
 ||*.mohitkumar9955458869-afk.github.io^$important
-||*.mojtabaabbasi.com^$important
 ||*.mosselnet.co.za^$important
 ||*.mottomuskk_olginix.godaddysites.com^$important
 ||*.msdewr-dp8q5w82xnon.edgeone.app^$important
@@ -513,6 +509,7 @@
 ||*.no7shmh.shop^$important
 ||*.noble-crimson-je1qnkwv.edgeone.app^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.o2c5-uyrv-lotn.abiye-pointswestmktg-com-s-account.workers.dev^$important
@@ -521,6 +518,7 @@
 ||*.ofertaspremium.s3.us-east-005.backblazeb2.com^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.oldpaaaypaaal-dpqrupgyurs5.edgeone.app^$important
 ||*.onedrive.at-us.therelayservice.com^$important
 ||*.onfiltre.com.tr^$important
@@ -539,6 +537,7 @@
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.portal-trezio-io.zapier.app^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
@@ -569,7 +568,6 @@
 ||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
-||*.ritubohara.com^$important
 ||*.robertrowe.com^$important
 ||*.roblox.iconce.com^$important
 ||*.royalindiancurryclub.com^$important
@@ -588,6 +586,7 @@
 ||*.securedisk.cfd^$important
 ||*.security.live.com.office.u24o365.mcafee.devshn.net^$important
 ||*.seismophonic.com^$important
+||*.semencepourlavie.org^$important
 ||*.send-validar220.kesug.com^$important
 ||*.separadordecc.com^$important
 ||*.server-830796.thatserver.com^$important
@@ -617,6 +616,7 @@
 ||*.sso-security.com^$important
 ||*.start--trezar--io-faq.square.site^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -632,7 +632,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swami-ram.github.io^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t1x1vby3.ahkam.xyz^$important
 ||*.talentrecruitments.com^$important
@@ -771,7 +770,6 @@
 ||*.www.goo.su^$important
 ||*.www.goodpanelforgoodjob.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.joeueiu.vercel.app^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -832,7 +830,6 @@
 ||*.xenon.studio^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
-||*.xuezha.net^$important
 ||*.xxgbaenv.onlineblackjackscam.com^$important
 ||*.ya6b2803.edareumumi.xyz^$important
 ||*.ygbl3eg2.vip1xbet.org^$important
