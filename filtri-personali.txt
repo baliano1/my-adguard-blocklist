@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-26 08:58:37
+! Ultimo aggiornamento automatico: 2026-06-26 11:47:28
 ||*.0022a601.pphost.net^$important
 ||*.0s8k-x5e9-qtge.aflores-rorealty-com-s-account.workers.dev^$important
 ||*.123.ywxww.net^$important
@@ -770,10 +770,12 @@
 ||*.www.goo.su^$important
 ||*.www.goodpanelforgoodjob.com^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.joeueiu.vercel.app^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.konsor.ru^$important
+||*.www.massiv.net^$important
 ||*.www.medises.co.kr^$important
 ||*.www.messenger-clone-delta-eight.vercel.app^$important
 ||*.www.messenger-clone-delta-two.vercel.app^$important
@@ -830,6 +832,7 @@
 ||*.xenon.studio^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
+||*.xuezha.net^$important
 ||*.xxgbaenv.onlineblackjackscam.com^$important
 ||*.ya6b2803.edareumumi.xyz^$important
 ||*.ygbl3eg2.vip1xbet.org^$important
