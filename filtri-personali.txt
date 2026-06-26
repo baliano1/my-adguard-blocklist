@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-26 19:42:45
+! Ultimo aggiornamento automatico: 2026-06-26 22:09:29
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.158-158-74-174.cprapid.com^$important
@@ -319,6 +319,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -345,6 +346,7 @@
 ||*.embedone.com^$important
 ||*.en-us-base-hardware.typedream.app^$important
 ||*.en-us-trzr-brdge.typedream.app^$important
+||*.en.taichuan.com^$important
 ||*.eng-bridge-io.square.site^$important
 ||*.eng-suitetrezro-help.typedream.app^$important
 ||*.epanpano.com^$important
@@ -605,7 +607,6 @@
 ||*.spectrum-email-service-update.weeblysite.com^$important
 ||*.spectrum-webmail-service-101831.weeblysite.com^$important
 ||*.spgint.com^$important
-||*.spoar.org.in^$important
 ||*.spoo.me^$important
 ||*.ss9sxw23.online-blackjack-j.info^$important
 ||*.sso-security.com^$important
@@ -617,12 +618,12 @@
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.steamcommnunmity.com^$important
 ||*.steamcomunlty.eu.cc^$important
 ||*.stonecradle.com^$important
 ||*.store.workshopcommunitymodes.com^$important
+||*.streammobs.com^$important
 ||*.sucursalvnbancol.vercel.app^$important
 ||*.suitetrezro-io-public.typedream.app^$important
 ||*.suport-trezor-io-start-us.square.site^$important
@@ -827,5 +828,4 @@
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
-||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
