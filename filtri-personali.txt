@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-26 14:17:26
+! Ultimo aggiornamento automatico: 2026-06-26 16:58:26
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.158-158-74-174.cprapid.com^$important
@@ -419,7 +419,6 @@
 ||*.injectroblox.ru^$important
 ||*.inside-trezer-io-wallet.typedream.app^$important
 ||*.instagram1l.github.io^$important
-||*.intellicaddev.ru^$important
 ||*.investmentfinances.net^$important
 ||*.ipfs.io^$important
 ||*.ircftp.net^$important
@@ -623,7 +622,6 @@
 ||*.steamcomunlty.eu.cc^$important
 ||*.stonecradle.com^$important
 ||*.store.workshopcommunitymodes.com^$important
-||*.streammobs.com^$important
 ||*.sucursalvnbancol.vercel.app^$important
 ||*.suitetrezro-io-public.typedream.app^$important
 ||*.suport-trezor-io-start-us.square.site^$important
@@ -646,7 +644,6 @@
 ||*.tengfeidn.cn^$important
 ||*.terezor-io-cdn.square.site^$important
 ||*.testing-67.vercel.app^$important
-||*.thatdimensionalwebsite.com^$important
 ||*.thedon1.ink^$important
 ||*.theholidayroads.com^$important
 ||*.thementordirectory.com^$important
