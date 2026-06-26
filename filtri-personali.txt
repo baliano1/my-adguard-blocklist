@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-26 16:58:26
+! Ultimo aggiornamento automatico: 2026-06-26 19:42:45
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.158-158-74-174.cprapid.com^$important
@@ -266,6 +266,7 @@
 ||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.clonmove.vercel.app^$important
+||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.co-emas.com^$important
 ||*.comcasstt.framer.website^$important
@@ -301,7 +302,6 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.deznyllcf.top^$important
-||*.dhnconstrucciones.com.ar^$important
 ||*.dialkwik.in^$important
 ||*.dicepencilpaper.com^$important
 ||*.digital-trzo-start.square.site^$important
@@ -457,6 +457,7 @@
 ||*.learn-bridge-io-trzr.typedream.app^$important
 ||*.learn-suite-treezr-home.typedream.app^$important
 ||*.legal-sign-portal.net^$important
+||*.libss.0x504.com^$important
 ||*.lidhsddsgdfj3.cc^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.lisa238.com^$important
@@ -471,7 +472,6 @@
 ||*.ma-ceuwsqm.4webshare.com^$important
 ||*.madansingh7.github.io^$important
 ||*.mageners-ckecksnew-securryyti2026.sbs^$important
-||*.magnusworkspace.com^$important
 ||*.mahalaxmigouda-13.github.io^$important
 ||*.maidforyou1985.com^$important
 ||*.mamigummy.com^$important
@@ -503,15 +503,16 @@
 ||*.njhimoo.weebly.com^$important
 ||*.nmo1ivv6.akhlagvaahkam.xyz^$important
 ||*.no-reply.micorsoft-365.com^$important
-||*.no7shmh.shop^$important
 ||*.noithaticon.vn^$important
 ||*.ns2.integriflow-enterprisehub.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oay019z6.1xfa.bio^$important
 ||*.office-mailaccess.com^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.operacaotopo.s3.us-east-005.backblazeb2.com^$important
 ||*.ordemeprogressonulimiteemdia.s3.us-east-005.backblazeb2.com^$important
@@ -526,7 +527,6 @@
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.police-pzrkh.4webshare.com^$important
 ||*.police-xsnmh.4webshare.com^$important
 ||*.postap.qpon^$important
@@ -614,6 +614,7 @@
 ||*.start-treezr-faq.typedream.app^$important
 ||*.startedtrzor-suit-en.framer.ai^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -631,6 +632,7 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swami-ram.github.io^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t1x1vby3.ahkam.xyz^$important
 ||*.tabira.org^$important
@@ -643,6 +645,7 @@
 ||*.temu.xyscsz.vip^$important
 ||*.tengfeidn.cn^$important
 ||*.terezor-io-cdn.square.site^$important
+||*.test.peperoncinochepassione.it^$important
 ||*.testing-67.vercel.app^$important
 ||*.thedon1.ink^$important
 ||*.theholidayroads.com^$important
@@ -677,6 +680,7 @@
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
+||*.updateservice1-telegramweb.com^$important
 ||*.urilosa.online^$important
 ||*.user-chain-wallet-connect-info-v3.mxlcc.com^$important
 ||*.uzdating1.shop^$important
