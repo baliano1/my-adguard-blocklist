@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-27 02:49:01
+! Ultimo aggiornamento automatico: 2026-06-27 06:27:23
 ||*.0022a601.pphost.net^$important
 ||*.00pq7d1j.1xboropartners.com^$important
 ||*.01sw-bdg8-oxmc.alina-ciorba-duncantoplis-co-uk-s-account.workers.dev^$important
@@ -352,7 +352,6 @@
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
-||*.dl.natgo.cn^$important
 ||*.dns2.vendasptg.com^$important
 ||*.doc.e-statements.app^$important
 ||*.doc.eagle-web-concept.fr^$important
@@ -539,7 +538,6 @@
 ||*.ocabluebeneficios.netlify.app^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.p3.zbjimg.com^$important
 ||*.pa9xqikq.1000shart.xyz^$important
