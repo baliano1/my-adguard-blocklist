@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-27 16:02:10
+! Ultimo aggiornamento automatico: 2026-06-27 19:15:50
 ||*.0022a601.pphost.net^$important
 ||*.00pq7d1j.1xboropartners.com^$important
 ||*.01sw-bdg8-oxmc.alina-ciorba-duncantoplis-co-uk-s-account.workers.dev^$important
@@ -186,6 +186,7 @@
 ||*.8opocc30.1x303.casino^$important
 ||*.9ergp1lh.yekshart.app^$important
 ||*.aaronart.com^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accesstelematics.com^$important
 ||*.accounts.binanceuz.co^$important
@@ -237,7 +238,6 @@
 ||*.bmdcompany.com^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
-||*.brenmayasociados.com^$important
 ||*.bridgeengteozr.typedream.app^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -454,6 +454,7 @@
 ||*.itsoft-dkcxp.4webshare.com^$important
 ||*.itssprout.com^$important
 ||*.jabalitowers.nexatestwp.com^$important
+||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
@@ -480,6 +481,7 @@
 ||*.learn-start-trzo-en.framer.ai^$important
 ||*.learnbridgetrezz.typedream.app^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.linkedin.securityreview.casa^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
@@ -733,6 +735,7 @@
 ||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.borderclick.com^$important
+||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.chenwangqiao.com^$important
 ||*.www.cn-imtoken.com^$important
 ||*.www.coderhub-one.vercel.app^$important
@@ -763,6 +766,7 @@
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
