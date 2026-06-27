@@ -162,12 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-27 19:15:50
+! Ultimo aggiornamento automatico: 2026-06-27 22:00:01
 ||*.0022a601.pphost.net^$important
 ||*.00pq7d1j.1xboropartners.com^$important
 ||*.01sw-bdg8-oxmc.alina-ciorba-duncantoplis-co-uk-s-account.workers.dev^$important
 ||*.03365pay.com^$important
 ||*.0qam1x6q.alobet.pro^$important
+||*.123.ywxww.net^$important
+||*.1717.1000uc.com^$important
 ||*.20-228-132-238.cpanel.site^$important
 ||*.24761a05n2-netizen.github.io^$important
 ||*.360.intraserv.pl^$important
@@ -188,7 +190,6 @@
 ||*.aaronart.com^$important
 ||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.accounts.binanceuz.co^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
@@ -339,6 +340,7 @@
 ||*.dialkwik.in^$important
 ||*.digitalsolutionsagt.affinityc2penterpris.com^$important
 ||*.diobenu2silva.com^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -489,6 +491,7 @@
 ||*.m.1188xinpujing.com^$important
 ||*.m.1adt42o0cbo5.com^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail-security-world--eduardoperez65.replit.app^$important
 ||*.mail.dns2.vendasptg.com^$important
@@ -624,6 +627,7 @@
 ||*.sk-comtel.com^$important
 ||*.smart.abuse.st^$important
 ||*.smartermail.host^$important
+||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.sp10ct6-glurnex-biz-slatik-platem.pages.dev^$important
@@ -639,7 +643,6 @@
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.streammobs.com^$important
