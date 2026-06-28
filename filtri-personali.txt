@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-28 19:14:11
+! Ultimo aggiornamento automatico: 2026-06-28 21:59:31
 ||*.0022a601.pphost.net^$important
 ||*.00pq7d1j.1xboropartners.com^$important
 ||*.0qam1x6q.alobet.pro^$important
@@ -263,6 +263,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccczqxl6.blackjackonlineplay83.com^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.cs-elect.ru^$important
 ||*.cdsxd.xyz^$important
 ||*.celebratingseniors.net^$important
 ||*.centrodeinfusaocuritiba.com.br^$important
@@ -368,6 +369,7 @@
 ||*.evangroup.ru^$important
 ||*.eventsyouwant.com^$important
 ||*.everycarebd.com^$important
+||*.ezcheats-market.com^$important
 ||*.facebookaccountsmanager.blogspot.com^$important
 ||*.fakers.co.jp^$important
 ||*.falhuhna.shop^$important
@@ -607,6 +609,7 @@
 ||*.shahamanatme.com^$important
 ||*.shared-document-cfb9de.webflow.io^$important
 ||*.shop.mediasova.ru^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.shruk6587-sketch.github.io^$important
 ||*.sites.google.com^$important
 ||*.sjc3.sabad724.bio^$important
@@ -695,7 +698,6 @@
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.voidgame.cc^$important
-||*.voltejeasteis.click^$important
 ||*.vrajras.com^$important
 ||*.walllet-io.com^$important
 ||*.web-git-05-08-trystagingbutprobwillfailbcunauthe-c7b77b-uniswap.vercel.app^$important
