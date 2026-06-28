@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-28 13:39:19
+! Ultimo aggiornamento automatico: 2026-06-28 16:07:36
 ||*.0022a601.pphost.net^$important
 ||*.00pq7d1j.1xboropartners.com^$important
 ||*.0qam1x6q.alobet.pro^$important
@@ -261,6 +261,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccczqxl6.blackjackonlineplay83.com^$important
+||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdsxd.xyz^$important
 ||*.celebratingseniors.net^$important
@@ -490,7 +491,6 @@
 ||*.mitreart.com^$important
 ||*.mlzlq.anaox.xyz^$important
 ||*.mogimall.com^$important
-||*.moshatech.com^$important
 ||*.mosselnet.co.za^$important
 ||*.mrinal22307.github.io^$important
 ||*.muaklekcoop.com^$important
@@ -607,7 +607,6 @@
 ||*.shahamanatme.com^$important
 ||*.shared-document-cfb9de.webflow.io^$important
 ||*.shop.mediasova.ru^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.shruk6587-sketch.github.io^$important
 ||*.sites.google.com^$important
 ||*.sjc3.sabad724.bio^$important
@@ -791,6 +790,7 @@
 ||*.www.snffas.cn^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
