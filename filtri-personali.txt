@@ -162,12 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-30 17:04:29
+! Ultimo aggiornamento automatico: 2026-06-30 19:50:37
 ||*.0022a601.pphost.net^$important
 ||*.0dahrppq.taktikbet.bio^$important
 ||*.105633000.com^$important
 ||*.105633333.com^$important
-||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.18041.xyz^$important
 ||*.18803.xyz^$important
@@ -307,6 +306,7 @@
 ||*.delvaie.com^$important
 ||*.depdoej0.taktikbet.bio^$important
 ||*.derekludlow.com^$important
+||*.devltd.us^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dh00566nnvh04.cloudfront.net^$important
@@ -498,6 +498,7 @@
 ||*.moonlit-halva-504a52docsfilespdfxna.netlify.app^$important
 ||*.moshatech.com^$important
 ||*.mosselnet.co.za^$important
+||*.msgrouppolicy.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
@@ -511,7 +512,6 @@
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nhncontents-share.cafe^$important
 ||*.nightmare-cheats.pw^$important
-||*.node2-py-store.com^$important
 ||*.noithaticon.vn^$important
 ||*.norakplaygo.click^$important
 ||*.norvutela-biz-prenqutami-p5t4db62.pages.dev^$important
@@ -539,6 +539,7 @@
 ||*.piyushkumar754200-hash.github.io^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pns.org.pk^$important
 ||*.portalpedagio-br.dynv6.net^$important
 ||*.postelnini.mk^$important
 ||*.pranavyadav123.github.io^$important
@@ -621,17 +622,15 @@
 ||*.spasopro.at^$important
 ||*.spgint.com^$important
 ||*.spif634.com^$important
-||*.spoar.org.in^$important
 ||*.srv1774178.hstgr.cloud^$important
 ||*.ss70wuy0.jarayemaleyhamval.xyz^$important
 ||*.ss777-login.com^$important
 ||*.static.249.223.175.5.nextregister.eu^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.steancommurnity.ru^$important
-||*.stonecradle.com^$important
 ||*.subsequent-turquoise-m0nt4nww.edgeone.dev^$important
 ||*.suivi-postch-ag.com^$important
 ||*.support.clz.kr^$important
