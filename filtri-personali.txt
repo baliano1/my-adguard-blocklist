@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-06-30 19:50:37
+! Ultimo aggiornamento automatico: 2026-06-30 22:13:23
 ||*.0022a601.pphost.net^$important
 ||*.0dahrppq.taktikbet.bio^$important
 ||*.105633000.com^$important
@@ -217,7 +217,6 @@
 ||*.allendostmen.com^$important
 ||*.allianz-seguros.vercel.app^$important
 ||*.alternativas.ru^$important
-||*.anakort32ew.site^$important
 ||*.app.appzcvb.com^$important
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
@@ -306,13 +305,13 @@
 ||*.delvaie.com^$important
 ||*.depdoej0.taktikbet.bio^$important
 ||*.derekludlow.com^$important
-||*.devltd.us^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dh00566nnvh04.cloudfront.net^$important
 ||*.dialkwik.in^$important
 ||*.digital-magicians.com^$important
 ||*.dimasal-cy.github.io^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -396,6 +395,7 @@
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gsfdfdg.weebly.com^$important
+||*.gsx.life^$important
 ||*.guide-trezzr.pages.dev^$important
 ||*.gurl.pro^$important
 ||*.gutando.com^$important
@@ -444,7 +444,6 @@
 ||*.json-trezor-wallet-frontend.vercel.app^$important
 ||*.jxqsv.an1zf.xyz^$important
 ||*.jyothishmathi.in^$important
-||*.kambohmag.net^$important
 ||*.kavacanada.ca^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
@@ -478,6 +477,7 @@
 ||*.lyygrdqsmofzrjh.thismxaps.info^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.js89908.com^$important
+||*.m.meta-dm.com^$important
 ||*.m.xpj23357.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.instagramrnumberbillingupdatedatepainstagrampemulihan.129-121-117-207.cpanel.site^$important
@@ -507,7 +507,6 @@
 ||*.myg0vlogin.weebly.com^$important
 ||*.nachocebu.hostel.town^$important
 ||*.naukriinindia.com^$important
-||*.ncxps.com^$important
 ||*.ndaxx-official.zapier.app^$important
 ||*.new.quranushaiqer.org.sa^$important
 ||*.nhncontents-share.cafe^$important
@@ -600,7 +599,6 @@
 ||*.secure-static-page--clarewemyss.replit.app^$important
 ||*.seismophonic.com^$important
 ||*.separadordecc.com^$important
-||*.sergiotrabuccocineasta.com^$important
 ||*.sg123.net^$important
 ||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
@@ -631,11 +629,13 @@
 ||*.static.youdm.cn^$important
 ||*.steam66.cn^$important
 ||*.steancommurnity.ru^$important
+||*.streammobs.com^$important
 ||*.subsequent-turquoise-m0nt4nww.edgeone.dev^$important
 ||*.suivi-postch-ag.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.taiktaikvn.weebly.com^$important
 ||*.talentrecruitments.com^$important
