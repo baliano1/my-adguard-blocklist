@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-01 03:30:52
+! Ultimo aggiornamento automatico: 2026-07-01 09:39:46
 ||*.0022a601.pphost.net^$important
 ||*.0129223.com^$important
 ||*.0146442.com^$important
@@ -235,8 +235,8 @@
 ||*.aaronart.com^$important
 ||*.abdulahad.net^$important
 ||*.absoluteinvestimentos.com.br^$important
+||*.acc.jiangsujiaxue.com^$important
 ||*.accepted-lime-odw5xh6e-dpk7y3dsrvmv.edgeone.app^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.adega-bebidas.click^$important
 ||*.admin.byte.in.ua^$important
@@ -269,7 +269,6 @@
 ||*.backupso.com^$important
 ||*.baileyemas.com^$important
 ||*.barclays-grads.twinehr.com^$important
-||*.beak.in^$important
 ||*.bebidas-24h.click^$important
 ||*.bebidas-adega.click^$important
 ||*.bebidas-delivery.cfd^$important
@@ -290,6 +289,7 @@
 ||*.book.rollingvideogames.com^$important
 ||*.bostonpower.ng^$important
 ||*.bp8ahtdg.blackjackonlineplay83.com^$important
+||*.brantfordconventioncentre.com^$important
 ||*.brenmayasociados.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -310,14 +310,15 @@
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
 ||*.chinaapper.com^$important
+||*.chiptune.com^$important
 ||*.christophercheung.com^$important
 ||*.chuguadventures.co.tz^$important
-||*.chungminhtaichinhsaigon.net^$important
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.lnmxys.com^$important
 ||*.cn.lumxza.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coco-dog.jp^$important
 ||*.cold-mountain-6272.wndgkoanhiiysaiiegilytl.workers.dev^$important
@@ -391,6 +392,7 @@
 ||*.dvhuu.ia2nz.xyz^$important
 ||*.dweixin.cn^$important
 ||*.easybrand.vn^$important
+||*.easyfiles.cc^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
@@ -411,7 +413,6 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.fileswave.xyz^$important
 ||*.fileza.xyz^$important
@@ -456,9 +457,9 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hjc297.com^$important
+||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.https.svip.dz11.vip^$important
-||*.i-ramps.com^$important
 ||*.i54qzo8r.btyek.xyz^$important
 ||*.i5sofk6r.xbetone.com^$important
 ||*.icloud-id.com^$important
@@ -466,6 +467,7 @@
 ||*.idyll-bet365.com.cn^$important
 ||*.ieqkd.ia2nz.xyz^$important
 ||*.igra123.com^$important
+||*.ijbfi.pk^$important
 ||*.info-suit-e-treze-er-doc.typedream.app^$important
 ||*.ingrsing.webcindario.com^$important
 ||*.injectroblox.ru^$important
@@ -555,6 +557,7 @@
 ||*.myselfarnab.github.io^$important
 ||*.mytemp.level33.tv^$important
 ||*.n.vs108.com^$important
+||*.ncxps.com^$important
 ||*.nematfoods.com^$important
 ||*.netanswer-potalsite.com^$important
 ||*.new.quranushaiqer.org.sa^$important
@@ -579,6 +582,7 @@
 ||*.pcswap.dev^$important
 ||*.pcupd.com^$important
 ||*.penumbra-extension.com^$important
+||*.pfatrivandrum.org^$important
 ||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
@@ -639,12 +643,12 @@
 ||*.separadordecc.com^$important
 ||*.sergiotrabuccocineasta.com^$important
 ||*.sg123.net^$important
+||*.shaderm.com^$important
 ||*.shahamanatme.com^$important
 ||*.shalurachak-spark.github.io^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.sk-comtel.com^$important
-||*.smart.abuse.st^$important
 ||*.smartermail.host^$important
 ||*.societe.petsofcanada.com^$important
 ||*.soft.110route.com^$important
@@ -667,7 +671,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sw3t.cc^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.taask.top^$important
 ||*.talentrecruitments.com^$important
@@ -788,6 +791,7 @@
 ||*.www.controliumbt.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.cutting-edge.in^$important
+||*.www.drgenov.com^$important
 ||*.www.dz11.vip^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.h365756.com^$important
@@ -809,7 +813,6 @@
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
