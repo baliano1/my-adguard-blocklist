@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-02 16:47:12
+! Ultimo aggiornamento automatico: 2026-07-02 19:19:27
 ||*.0022a601.pphost.net^$important
 ||*.0oj9pa7x.1xbetlogin.co^$important
 ||*.123.ywxww.net^$important
@@ -197,6 +197,7 @@
 ||*.57365h.net^$important
 ||*.6465.vercel.app^$important
 ||*.69x4o4j5.bet808.casino^$important
+||*.6ak-tehnik.si^$important
 ||*.6j9kkd0s.chillbazi.com^$important
 ||*.6oekxs4k.vip1xbet.net^$important
 ||*.7ipg23zj.bet808.poker^$important
@@ -230,7 +231,6 @@
 ||*.anue-hmbmh6etebhbbyer.z03.azurefd.net^$important
 ||*.app-hk.h5-whatsapp.hk.cn^$important
 ||*.app.appzcvb.com^$important
-||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.arsrv239c1d0e77d1.s3.us-east-1.amazonaws.com^$important
 ||*.asfdasdfadfadsfasdfbvcbdsdfgsgs.edgeone.cool^$important
@@ -304,6 +304,7 @@
 ||*.continentalgroup.net.in^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
+||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
 ||*.crescentegramas.com.br^$important
 ||*.crimefreesoftware.com^$important
@@ -344,9 +345,9 @@
 ||*.docusign.well-done.kz^$important
 ||*.donkeytourscroatia.com^$important
 ||*.doublreebyhiltondubaibusessbay.spahotel.guru^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -411,7 +412,6 @@
 ||*.geminulogin.webflow.io^$important
 ||*.gemnnixlogen.gitbook.io^$important
 ||*.genddos.st^$important
-||*.gestionycobranzas.com^$important
 ||*.ghoaspanmacopicv3784648402022727363690303.edgeone.dev^$important
 ||*.glad-blue-3zf08vdt.edgeone.dev^$important
 ||*.globalbank.us^$important
@@ -555,6 +555,7 @@
 ||*.odmbd.org^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.oliviaadventures.com^$important
 ||*.onbit.pro^$important
 ||*.onfiltre.com.tr^$important
@@ -664,18 +665,19 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stevenkoss2.github.io^$important
+||*.stonecradle.com^$important
 ||*.streammobs.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sweksha-git.github.io^$important
+||*.swiftfusion.tech^$important
 ||*.swisssborglogii.webflow.io^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tasks-flverr.help^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telnavi-gld-zarqumi-a8t5fq42.pages.dev^$important
 ||*.telquro-gld-zentari-c2x4dk38.pages.dev^$important
