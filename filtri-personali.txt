@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-02 02:55:29
+! Ultimo aggiornamento automatico: 2026-07-02 06:39:36
 ||*.0022a601.pphost.net^$important
 ||*.0oj9pa7x.1xbetlogin.co^$important
 ||*.123.ywxww.net^$important
@@ -671,7 +671,6 @@
 ||*.spxprojetospe-ui.github.io^$important
 ||*.squvbf6p.btyek.one^$important
 ||*.sso-uphweld.framer.media^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
