@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-02 19:19:27
+! Ultimo aggiornamento automatico: 2026-07-02 22:03:54
 ||*.0022a601.pphost.net^$important
 ||*.0oj9pa7x.1xbetlogin.co^$important
 ||*.123.ywxww.net^$important
@@ -348,6 +348,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -388,6 +389,7 @@
 ||*.favorable-palette-833396.framer.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.fileza.xyz^$important
 ||*.finpremium.ru^$important
@@ -549,7 +551,6 @@
 ||*.norvani-gld-belquza-p3t6fq12.pages.dev^$important
 ||*.norzani-gld-larmita-p9t1fq67.pages.dev^$important
 ||*.norzani-gld-varmita-p1t8fq96.pages.dev^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.odmbd.org^$important
@@ -678,6 +679,7 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tasks-flverr.help^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telnavi-gld-zarqumi-a8t5fq42.pages.dev^$important
 ||*.telquro-gld-zentari-c2x4dk38.pages.dev^$important
@@ -703,12 +705,12 @@
 ||*.ttt.falsafekonkour.site^$important
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.uamhqvjx.abresanishahri.store^$important
 ||*.uber-clone-webapp-ten.vercel.app^$important
 ||*.undianresmishopee2022.blogspot.com^$important
 ||*.uni-lab-rosy.vercel.app^$important
 ||*.uni.site.je^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.urlvanish.com^$important
@@ -808,7 +810,6 @@
 ||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.undianresmishopee2022.blogspot.com^$important
 ||*.www.vuelaviajero.com^$important
