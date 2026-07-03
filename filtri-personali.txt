@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-03 19:15:31
+! Ultimo aggiornamento automatico: 2026-07-03 22:02:16
 ||*.0010-8y95-a36x.11alia-tiffincrane-com-s-account.workers.dev^$important
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
@@ -291,6 +291,7 @@
 ||*.csg-app.com^$important
 ||*.cxsbf6om.betmajickade.com^$important
 ||*.d.14yaa.com^$important
+||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.danae.com.br^$important
 ||*.data.yhydl.com^$important
@@ -318,6 +319,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -356,6 +358,7 @@
 ||*.evangroup.ru^$important
 ||*.everycarebd.com^$important
 ||*.exodus.page^$important
+||*.facanha.com.br^$important
 ||*.fakers.co.jp^$important
 ||*.farout.spahotel.guru^$important
 ||*.farschid.de^$important
@@ -421,6 +424,7 @@
 ||*.ig.do^$important
 ||*.igra123.com^$important
 ||*.imperialholiday.spahotel.guru^$important
+||*.indeanapolice.cc^$important
 ||*.indexzip-1.replit.app^$important
 ||*.ipfs.io^$important
 ||*.irahook.org^$important
@@ -442,6 +446,7 @@
 ||*.j39d.vip^$important
 ||*.j39f.vip^$important
 ||*.j99j.vip^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jim-s.com^$important
@@ -526,7 +531,6 @@
 ||*.muddy-bread-cf99ch01.tyler193.workers.dev^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
-||*.muriaspetin.es^$important
 ||*.mx-flow.de^$important
 ||*.mx9x.com^$important
 ||*.n.vs108.com^$important
@@ -621,7 +625,6 @@
 ||*.sg123.net^$important
 ||*.shawlogin8180.framer.website^$important
 ||*.shop.mediasova.ru^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.signin.broker^$important
 ||*.sk-comtel.com^$important
 ||*.sleamcomunnity.eu.cc^$important
@@ -689,7 +692,6 @@
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
 ||*.tvdmydv.yek.christmas^$important
-||*.twu-hwt.org^$important
 ||*.uamhqvjx.abresanishahri.store^$important
 ||*.ucc-campuss.freedev.app^$important
 ||*.ulonex-fursa-a7c109-wplm-vhrr.pages.dev^$important
