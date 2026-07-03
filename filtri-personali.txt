@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-03 02:38:52
+! Ultimo aggiornamento automatico: 2026-07-03 06:28:27
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.12xb1qlu.jet-theme.com^$important
@@ -205,6 +205,7 @@
 ||*.app.cenzoryr.com^$important
 ||*.app.serrenon.com^$important
 ||*.aqjyrpm.1xforward.org^$important
+||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -338,7 +339,6 @@
 ||*.evangroup.ru^$important
 ||*.everycarebd.com^$important
 ||*.exodus.page^$important
-||*.facanha.com.br^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
@@ -396,6 +396,7 @@
 ||*.id10ixg6.1x1bet.cash^$important
 ||*.ig.do^$important
 ||*.igra123.com^$important
+||*.ijbfi.pk^$important
 ||*.il-whatapp.com.cn^$important
 ||*.im-chat-whatsapp.tw.cn^$important
 ||*.interface-instagram-one.vercel.app^$important
@@ -467,7 +468,6 @@
 ||*.mitreart.com^$important
 ||*.mlvgwjn.1xforward.pro^$important
 ||*.mogimall.com^$important
-||*.mojtabaabbasi.com^$important
 ||*.morlita-gld-belquro-r8x3dk25.pages.dev^$important
 ||*.mosselnet.co.za^$important
 ||*.mrjeehw.yek.beauty^$important
@@ -491,6 +491,7 @@
 ||*.officialtrzre.wasmer.app^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onivok-wrelna-0qu61f-njbyh-4ot590.pages.dev^$important
 ||*.org-wlletconnect-connect.webflow.io^$important
@@ -619,7 +620,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
