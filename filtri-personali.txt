@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-03 13:55:52
+! Ultimo aggiornamento automatico: 2026-07-03 16:22:21
 ||*.0010-8y95-a36x.11alia-tiffincrane-com-s-account.workers.dev^$important
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
@@ -274,6 +274,7 @@
 ||*.cloudinfolibrary.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.clysselw.betkaka.bet^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.confidio-check.free.nf^$important
@@ -501,7 +502,6 @@
 ||*.m806mos011.com.cn^$important
 ||*.maidforyou1985.com^$important
 ||*.mamigummy.com^$important
-||*.manovingenieria.com^$important
 ||*.maxispointsredemption.us.cc^$important
 ||*.mdftw8lo.btyek.website^$important
 ||*.mecsolpk.com^$important
@@ -539,6 +539,7 @@
 ||*.nk.xoexfml.net^$important
 ||*.noithaticon.vn^$important
 ||*.notammunttopul.top^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.oarnex-pulto-8ac913-hfbb.pages.dev^$important
@@ -552,7 +553,6 @@
 ||*.p5tnetyi.footb.xyz^$important
 ||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
-||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
 ||*.phcbmap.vip1xbet.net^$important
 ||*.pid.fly160.com^$important
@@ -603,7 +603,6 @@
 ||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
 ||*.ryo.gamer.free^$important
-||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.s6adoo5q.filetak.com^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
