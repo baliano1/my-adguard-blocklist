@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-04 15:58:51
+! Ultimo aggiornamento automatico: 2026-07-04 19:05:54
 ||*.0022a601.pphost.net^$important
 ||*.07vh2ie1.jozve.download^$important
 ||*.123.ywxww.net^$important
@@ -339,7 +339,6 @@
 ||*.dobro-gift.xyz^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -511,6 +510,7 @@
 ||*.manovingenieria.com^$important
 ||*.marvelous-growth-159626.framer.app^$important
 ||*.mathys689.github.io^$important
+||*.mecsolpk.com^$important
 ||*.meetamacks_luuwingnnnn.godaddysites.com^$important
 ||*.meetvideogoogle.com^$important
 ||*.menahilshabbir9-cmyk.github.io^$important
@@ -542,6 +542,7 @@
 ||*.oh32jq-kr0a-lz2-97tg-ujqo.pages.dev^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.oxqniwv.1xpin.vip^$important
 ||*.oymbwsa.yek90bet.com^$important
