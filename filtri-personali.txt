@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-04 19:05:54
+! Ultimo aggiornamento automatico: 2026-07-04 21:55:40
 ||*.0022a601.pphost.net^$important
 ||*.07vh2ie1.jozve.download^$important
 ||*.123.ywxww.net^$important
@@ -386,7 +386,6 @@
 ||*.fd.v2downf.shop^$important
 ||*.fedexx-blue.vercel.app^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finpremium.ru^$important
 ||*.first-security-verden.de^$important
@@ -403,7 +402,6 @@
 ||*.fukt.link^$important
 ||*.fuotcd3b.futshart.pro^$important
 ||*.furystaff.tech^$important
-||*.fz.tiansys.cn^$important
 ||*.fzkx5dg3.estekhdam.online^$important
 ||*.galabet-club.com^$important
 ||*.galabet.gadres.cam^$important
@@ -454,6 +452,7 @@
 ||*.j29oqmyl.1xgame.net^$important
 ||*.j40j.vip^$important
 ||*.j40n.vip^$important
+||*.jawaratekno.com^$important
 ||*.jds4p0yc.betbacklink.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -529,6 +528,7 @@
 ||*.mrjeehw.yek.beauty^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
+||*.mundocarnes.cl^$important
 ||*.musicaspoftiybr.store^$important
 ||*.mx9x.com^$important
 ||*.n.vs108.com^$important
@@ -536,6 +536,7 @@
 ||*.new-land1.testamentenligne.info^$important
 ||*.new2eorzyrenewsubscriptionnow.blogspot.com^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.odhejm.shop^$important
@@ -670,7 +671,6 @@
 ||*.spgint.com^$important
 ||*.sscibrc.pinprobet.com^$important
 ||*.starlit-khapse-19cf9d.netlify.app^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -718,6 +718,7 @@
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
 ||*.tvdmydv.yek.christmas^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.u110d.xyz^$important
 ||*.uat.orderexpress.net.au^$important
@@ -761,7 +762,6 @@
 ||*.whatsapp724.blogspot.com^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wihernc9.vip1xbet.net^$important
-||*.windomstatetheater.com^$important
 ||*.wise-worldcup.today^$important
 ||*.wittenhorst.eu^$important
 ||*.wlavor-bintel-rf3006bnh-mrkt-grendal.pages.dev^$important
