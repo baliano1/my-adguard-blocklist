@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-04 13:17:14
+! Ultimo aggiornamento automatico: 2026-07-04 15:58:51
 ||*.0022a601.pphost.net^$important
 ||*.07vh2ie1.jozve.download^$important
 ||*.123.ywxww.net^$important
@@ -292,7 +292,6 @@
 ||*.cmcomcast2025.weebly.com^$important
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
-||*.codeassociates.co.ke^$important
 ||*.coinbase-perps.pages.dev^$important
 ||*.colours.hostel.town^$important
 ||*.company-notice.com^$important
@@ -456,7 +455,6 @@
 ||*.j29oqmyl.1xgame.net^$important
 ||*.j40j.vip^$important
 ||*.j40n.vip^$important
-||*.jawaratekno.com^$important
 ||*.jds4p0yc.betbacklink.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -513,7 +511,6 @@
 ||*.manovingenieria.com^$important
 ||*.marvelous-growth-159626.framer.app^$important
 ||*.mathys689.github.io^$important
-||*.mecsolpk.com^$important
 ||*.meetamacks_luuwingnnnn.godaddysites.com^$important
 ||*.meetvideogoogle.com^$important
 ||*.menahilshabbir9-cmyk.github.io^$important
@@ -683,6 +680,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t0kqwl.ujsaj.lat^$important
 ||*.talentrecruitments.com^$important
@@ -831,7 +829,6 @@
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.netflixfeitoaqui.com.br^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
