@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-04 02:35:28
+! Ultimo aggiornamento automatico: 2026-07-04 06:16:02
 ||*.0022a601.pphost.net^$important
 ||*.07vh2ie1.jozve.download^$important
 ||*.123.ywxww.net^$important
@@ -422,6 +422,7 @@
 ||*.j111b.vip^$important
 ||*.j29oqmyl.1xgame.net^$important
 ||*.jds4p0yc.betbacklink.com^$important
+||*.jenkinsmoving.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jitudey24.github.io^$important
@@ -501,6 +502,7 @@
 ||*.norqula-gld-zentora-p6t9fk15.pages.dev^$important
 ||*.norzani-gld-zentela-p7t3fq97.pages.dev^$important
 ||*.norzeta-gld-lentari-p7t2fq84.pages.dev^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.odkansharponitfilesdcosbdocumesanxz.pages.dev^$important
