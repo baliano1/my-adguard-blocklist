@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-04 06:16:02
+! Ultimo aggiornamento automatico: 2026-07-04 10:51:53
 ||*.0022a601.pphost.net^$important
 ||*.07vh2ie1.jozve.download^$important
 ||*.123.ywxww.net^$important
@@ -191,6 +191,7 @@
 ||*.8oes4jec.betfakade.com^$important
 ||*.926ikjry.euroyek.bio^$important
 ||*.99iud2c2.falsafekonkour.site^$important
+||*.a7.wtf^$important
 ||*.aaronart.com^$important
 ||*.aawzmuz.1xvip.live^$important
 ||*.abdulahad.net^$important
@@ -202,6 +203,7 @@
 ||*.adoswjr.calvaryhospice.org^$important
 ||*.aftelecom.com.br^$important
 ||*.agrawaldd-1.github.io^$important
+||*.airyvineic.help^$important
 ||*.aktiifkanpaylater.xbb.my.id^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -317,6 +319,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -326,7 +329,7 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.draveta-gld-lormora-r2t5hp84.pages.dev^$important
-||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dwyxchu.megashart.org^$important
 ||*.dynga.pl^$important
@@ -421,8 +424,8 @@
 ||*.j110z.vip^$important
 ||*.j111b.vip^$important
 ||*.j29oqmyl.1xgame.net^$important
+||*.jawaratekno.com^$important
 ||*.jds4p0yc.betbacklink.com^$important
-||*.jenkinsmoving.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jitudey24.github.io^$important
@@ -453,9 +456,11 @@
 ||*.landonirwin.com^$important
 ||*.larnex-gulto-7ac924-jfbb.pages.dev^$important
 ||*.lawfirm.paperbirdtech.com^$important
+||*.lb.nigsv.com^$important
 ||*.lbftpzh.takbetkade.com^$important
 ||*.ledger.com-weblive.co^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.lofybdv.megaparii.pro^$important
 ||*.login.microsoftsupport.cloud^$important
@@ -502,12 +507,12 @@
 ||*.norqula-gld-zentora-p6t9fk15.pages.dev^$important
 ||*.norzani-gld-zentela-p7t3fq97.pages.dev^$important
 ||*.norzeta-gld-lentari-p7t2fq84.pages.dev^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.odkansharponitfilesdcosbdocumesanxz.pages.dev^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onlinelogin-link.com^$important
 ||*.opensea-io15.netlify.app^$important
@@ -521,6 +526,7 @@
 ||*.pay.aqiu6.com^$important
 ||*.pcswap.dev^$important
 ||*.pcupd.com^$important
+||*.peachcity.si^$important
 ||*.peachexch.info^$important
 ||*.pfatrivandrum.org^$important
 ||*.pg1mu94o.yek.baby^$important
@@ -698,10 +704,10 @@
 ||*.steam66.cn^$important
 ||*.steamcomnnunity.ru^$important
 ||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.system-limitsprojetoeverest.s3.us-east-005.backblazeb2.com^$important
 ||*.talentrecruitments.com^$important
@@ -743,6 +749,7 @@
 ||*.umb-gconnoct.com^$important
 ||*.umbdirect.co.com^$important
 ||*.uni.site.je^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.urlto.me^$important
@@ -775,6 +782,7 @@
 ||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wfhdiarypartner.com^$important
+||*.widexenmexico.com.mx^$important
 ||*.wihernc9.vip1xbet.net^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
@@ -813,7 +821,6 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.georgetownmover.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.j107c.vip^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -848,7 +855,6 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.supansh.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
