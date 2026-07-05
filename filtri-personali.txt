@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-05 13:23:38
+! Ultimo aggiornamento automatico: 2026-07-05 16:04:47
 ||*.0022a601.pphost.net^$important
 ||*.030-zulassungsdienst-berlin.de^$important
 ||*.07vh2ie1.jozve.download^$important
@@ -589,7 +589,6 @@
 ||*.ob0fix15.1xgame.org^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.orivok-glnar-6di37d-qjygh-9fg016.pages.dev^$important
 ||*.otlqkiy.betmiz.bet^$important
@@ -653,6 +652,7 @@
 ||*.robertrowe.com^$important
 ||*.robiox.com.gr^$important
 ||*.roblox.et^$important
+||*.royalindiancurryclub.com^$important
 ||*.rucuxpv.acbet.poker^$important
 ||*.rxquickpay.com^$important
 ||*.rxyvhv1x.1xforward.cash^$important
@@ -664,6 +664,8 @@
 ||*.samiksha.com.sg^$important
 ||*.samtdpp.com^$important
 ||*.santander.net-groups.com^$important
+||*.sarafinance.in^$important
+||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.sctawfw.1xgame.games^$important
@@ -743,6 +745,7 @@
 ||*.trtmyanmar.com^$important
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.ulavor-pintel-fv3006rfv-lrkt-urendal.pages.dev^$important
 ||*.uni.site.je^$important
