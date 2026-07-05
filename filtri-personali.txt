@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-05 02:45:48
+! Ultimo aggiornamento automatico: 2026-07-05 06:37:38
 ||*.0022a601.pphost.net^$important
 ||*.030-zulassungsdienst-berlin.de^$important
 ||*.07vh2ie1.jozve.download^$important
@@ -704,6 +704,7 @@
 ||*.spgint.com^$important
 ||*.sscibrc.pinprobet.com^$important
 ||*.sso-en-nndax.webflow.io^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
