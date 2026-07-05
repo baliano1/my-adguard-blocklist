@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-05 19:12:26
+! Ultimo aggiornamento automatico: 2026-07-05 21:58:18
 ||*.0022a601.pphost.net^$important
 ||*.030-zulassungsdienst-berlin.de^$important
 ||*.07vh2ie1.jozve.download^$important
@@ -200,7 +200,6 @@
 ||*.9vxg256z.bazikeno.com^$important
 ||*.a01l1-a01lw3bma1l.wasmer.app^$important
 ||*.a7.wtf^$important
-||*.aaronart.com^$important
 ||*.aaronjunghenn.de^$important
 ||*.aawzmuz.1xvip.live^$important
 ||*.abm-autovermietung.de^$important
@@ -275,6 +274,7 @@
 ||*.caura.ryz.tepuyserver.net^$important
 ||*.cayif.hellokism.click^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.ceohdvj.bonos.promo^$important
 ||*.cgoucbv.thevallartasrestaurants.com^$important
@@ -329,7 +329,6 @@
 ||*.de.konto-versicherung.com^$important
 ||*.deagroup-ks.com^$important
 ||*.delp-heizungsbau.de^$important
-||*.derekludlow.com^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhruvjha23.github.io^$important
@@ -345,7 +344,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -476,6 +474,7 @@
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jkltnrm.alohawatersports.com^$important
+||*.jlwz.cn^$important
 ||*.jokerelectronics.com^$important
 ||*.joryoffer.pages.dev^$important
 ||*.joyeriatauro.com^$important
@@ -568,6 +567,7 @@
 ||*.mpfmdjf.ace90.games^$important
 ||*.ms9amh2h.1xcart.vip^$important
 ||*.ms9datqz.953.games^$important
+||*.msedge.vg^$important
 ||*.msg-claims-esl-org.help^$important
 ||*.msgsu.edu.tr^$important
 ||*.muaklekcoop.com^$important
@@ -590,6 +590,7 @@
 ||*.ob0fix15.1xgame.org^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.omani-disputes.com^$important
 ||*.onfiltre.com.tr^$important
 ||*.orivok-glnar-6di37d-qjygh-9fg016.pages.dev^$important
