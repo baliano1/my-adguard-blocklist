@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-06 12:43:09
+! Ultimo aggiornamento automatico: 2026-07-06 17:40:05
 ||*.0022a601.pphost.net^$important
 ||*.0681dt20.bahisgame.com^$important
 ||*.0pkit2tt.prozhedownload.net^$important
@@ -187,8 +187,6 @@
 ||*.9sltd81l.ace90.games^$important
 ||*.9vxg256z.bazikeno.com^$important
 ||*.a7.wtf^$important
-||*.aaronart.com^$important
-||*.abdulahad.net^$important
 ||*.abhishek-codelab.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
@@ -230,7 +228,6 @@
 ||*.beoauto.alexion.rs^$important
 ||*.berzani-gld-belquma-c6t4dk13.pages.dev^$important
 ||*.bewildered-fruit-952216.framer.app^$important
-||*.bip.priestsw.com^$important
 ||*.black-waterfall-ff49.chenxu-ltch-cn.workers.dev^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
@@ -315,6 +312,7 @@
 ||*.divvanews.com^$important
 ||*.djvfb.com^$important
 ||*.dkw0x604.eu1.hubspotlinksfree.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dlonex-fursa-c7e104-rgtt-ponvek.pages.dev^$important
@@ -364,6 +362,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.feeykse.betbacklink.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finpremium.ru^$important
 ||*.first-security-verden.de^$important
@@ -472,9 +471,10 @@
 ||*.kwsgmru.btyek.click^$important
 ||*.kzaa.co.za^$important
 ||*.landonirwin.com^$important
-||*.lawfirm.paperbirdtech.com^$important
+||*.lb.nigsv.com^$important
 ||*.lcizmbo.tinybet.bio^$important
 ||*.lcsywbam.btyek.christmas^$important
+||*.leanmaestro.com^$important
 ||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.lleditu-xbzjfu-12e0881cbe5c.herokuapp.com^$important
@@ -486,6 +486,7 @@
 ||*.m-chat.tw-h5pc-whatsapp.tw.cn^$important
 ||*.m.dilidiliapp.com^$important
 ||*.m.jkoa.co.kr^$important
+||*.magnusworkspace.com^$important
 ||*.mahendradhang.github.io^$important
 ||*.maidforyou1985.com^$important
 ||*.mailxfserver.weebly.com^$important
@@ -502,7 +503,6 @@
 ||*.microsoftword.programgridsoft.com^$important
 ||*.mitreart.com^$important
 ||*.mogimall.com^$important
-||*.mojtabaabbasi.com^$important
 ||*.moonpay-commerce-165l291rp-heliofi.vercel.app^$important
 ||*.morlavo-gld-belquza-r8x4fq93.pages.dev^$important
 ||*.morlavo-gld-lentami-r9x2fp54.pages.dev^$important
@@ -519,7 +519,6 @@
 ||*.mx9x.com^$important
 ||*.myd9ffi085jjjk84hf77ghdd64gbv84nb884g872hd6aio85j29912o83yth.click^$important
 ||*.mz2qs1j6.1xforward.live^$important
-||*.n.vs108.com^$important
 ||*.nawkvml.oxiidbet.com^$important
 ||*.nazemud.ac90bet.net^$important
 ||*.ncxps.com^$important
@@ -570,7 +569,6 @@
 ||*.plasteredplayn.com^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
-||*.protherapycenter.com^$important
 ||*.pub-2a92347ea03e4260a6bb3d381381c037.r2.dev^$important
 ||*.pub-a5d28f531b364a168e13a47a4ce49b08.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -725,7 +723,6 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.suivicommande.sbs^$important
 ||*.suntrust-onlinebanking.blogspot.com^$important
 ||*.superiorshuttle.com^$important
@@ -782,6 +779,7 @@
 ||*.uvjkxyc.ac90bet.net^$important
 ||*.vchbhqa.betbazi.net^$important
 ||*.vcrjfnwa.ketab.blog^$important
+||*.vdsina.vg^$important
 ||*.verdant-lamington-a82117.netlify.app^$important
 ||*.verificar--seguridad884.replit.app^$important
 ||*.versaclean.com.br^$important
@@ -855,7 +853,6 @@
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
-||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.ps^$important
 ||*.www.roblox.com.bi^$important
