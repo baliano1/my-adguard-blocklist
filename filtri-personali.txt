@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-07 06:42:41
+! Ultimo aggiornamento automatico: 2026-07-07 11:45:42
 ||*.0022a601.pphost.net^$important
 ||*.0681dt20.bahisgame.com^$important
 ||*.123.ywxww.net^$important
@@ -186,7 +186,9 @@
 ||*.92281935118.fx1.uyohse.icu^$important
 ||*.9nqbrnn7.farsibeenglish.ir^$important
 ||*.9sltd81l.ace90.games^$important
+||*.abdulahad.net^$important
 ||*.abinaya-pec.github.io^$important
+||*.aboulokman.howto.rocks^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acceso-sander-app-website.azurewebsites.net^$important
 ||*.acms.saleseos.com^$important
@@ -239,16 +241,15 @@
 ||*.bima-ativasi-mobile.vercel.app^$important
 ||*.bima-mobile-aktivasi-pemulihan.edgeone.app^$important
 ||*.biobioaldia.cl^$important
-||*.bip.priestsw.com^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.blueconcept.ae^$important
-||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.boletines0.intico.co^$important
 ||*.bombayonline.in^$important
+||*.boodystat.click^$important
 ||*.book.rollingvideogames.com^$important
 ||*.bourrel-enregies.fr^$important
 ||*.bpivfdbhg.com^$important
@@ -341,6 +342,7 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
+||*.dragonsurcing.com^$important
 ||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.duielapsmer.click^$important
@@ -385,7 +387,6 @@
 ||*.farschid.de^$important
 ||*.fbkhheg.bahisforward.com^$important
 ||*.fd.v2downf.shop^$important
-||*.feridogames.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
@@ -400,6 +401,7 @@
 ||*.fortrun.top^$important
 ||*.foxo8ujn.prozhe.net^$important
 ||*.fpk81nyo.thevallartasrestaurants.com^$important
+||*.friendsofsclarc.org^$important
 ||*.frostresury.cc^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
@@ -505,6 +507,7 @@
 ||*.maxisba.com^$important
 ||*.maxisou.com^$important
 ||*.maxsiay.us.cc^$important
+||*.mcb0187.gamer.gd^$important
 ||*.meetvideogoogle.com^$important
 ||*.mehpuqa.ac90bet.org^$important
 ||*.metrics.gocloudmaps.com^$important
@@ -579,11 +582,11 @@
 ||*.pfatrivandrum.org^$important
 ||*.php-web-server--luismenxizcastr.replit.app^$important
 ||*.phsyan.fr^$important
+||*.pid.fly160.com^$important
 ||*.pizzariatrattoria.com^$important
 ||*.pl1e-dnbh-est1.phh-hoejlundhviidconsult-dk-s-account.workers.dev^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.postage-ins-anti-couple.trycloudflare.com^$important
 ||*.postelnini.mk^$important
 ||*.prachi09890.github.io^$important
@@ -696,6 +699,7 @@
 ||*.steam66.cn^$important
 ||*.steancommunitly.ru^$important
 ||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
@@ -867,6 +871,7 @@
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
 ||*.xuezha.net^$important
+||*.xverikstat.us^$important
 ||*.ymy16goe.calvaryhospice.org^$important
 ||*.youtransfer.net^$important
 ||*.yvutfxz.pabloobet.com^$important
@@ -875,6 +880,7 @@
 ||*.ze-express.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
+||*.zippycanyonez.pro^$important
 ||*.zjfzifr.psd.markets^$important
 ||*.zshaimrg.forwardbahis.com^$important
 ||*.ztlfqqk.1bahis.app^$important
