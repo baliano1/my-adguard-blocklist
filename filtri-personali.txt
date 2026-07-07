@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-07 19:50:27
+! Ultimo aggiornamento automatico: 2026-07-07 22:08:33
 ||*.0022a601.pphost.net^$important
 ||*.0681dt20.bahisgame.com^$important
 ||*.123.ywxww.net^$important
@@ -284,6 +284,7 @@
 ||*.clmmsdnxy.jntxyz.biz.id^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.consultaexpressdomi--pamelalorzano.replit.app^$important
@@ -296,6 +297,7 @@
 ||*.crimefreesoftware.com^$important
 ||*.cronicasdelcentro.com^$important
 ||*.crystalpvp.ru^$important
+||*.cs.go.kg^$important
 ||*.csg-app.com^$important
 ||*.cyvvepo.90pishbini.com^$important
 ||*.czpcvew.bet1xiraq.com^$important
@@ -317,6 +319,7 @@
 ||*.dezcom.com^$important
 ||*.dhaafy3l.thevallartasrestaurants.com^$important
 ||*.dialkwik.in^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -333,9 +336,9 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dutalogambone.com^$important
 ||*.dvjmeze.yan303.com^$important
@@ -414,11 +417,9 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hmwrabs.btyek.cfd^$important
-||*.hobobot.net^$important
 ||*.houstonianclub.spahotel.guru^$important
 ||*.https--www-roblox.cam^$important
 ||*.ibsovb64.bet1xiraq.com^$important
-||*.icash.trymore.co^$important
 ||*.icoffeecloud.com^$important
 ||*.ifdj62v9.thevallartasrestaurants.com^$important
 ||*.ig.do^$important
@@ -429,7 +430,6 @@
 ||*.imtoknes.com^$important
 ||*.info-alert.net^$important
 ||*.inner-peach-xpniac51.edgeone.dev^$important
-||*.intelligence-bloomberg-tonsol.cfd^$important
 ||*.ipfs.io^$important
 ||*.irahook.org^$important
 ||*.ircftp.net^$important
@@ -564,7 +564,6 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.plavor-pintel-8q37cf-grkt-prendal.pages.dev^$important
-||*.pns.org.pk^$important
 ||*.postelnini.mk^$important
 ||*.ppt.cc^$important
 ||*.prachi09890.github.io^$important
@@ -649,6 +648,7 @@
 ||*.sonnenbrillenspot.de^$important
 ||*.spgint.com^$important
 ||*.spify987.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -659,6 +659,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sxedaqg.1bahis.bet^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t-mobile.ufpqmg.top^$important
@@ -671,6 +672,7 @@
 ||*.tehnomag.rs^$important
 ||*.telnavi-gld-zarqumi-a2x9dw67.pages.dev^$important
 ||*.temirtau-adm.ru^$important
+||*.tengfeidn.cn^$important
 ||*.terraza4sup.spahotel.guru^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tetes-air.pages.dev^$important
@@ -688,6 +690,7 @@
 ||*.tthbmmcd.fidoubet.com^$important
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.tzpfztp.90bet.org^$important
 ||*.u9gcj5sd.oxiidbet.com^$important
 ||*.ucc-cooperativa.kesug.com^$important
@@ -700,6 +703,7 @@
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.updates.webaccess-alert.com^$important
+||*.updateservice1-telegramweb.com^$important
 ||*.upndownco.tor1.digitaloceanspaces.com^$important
 ||*.us5fm2lg.ace90bet.bet^$important
 ||*.uvjkxyc.ac90bet.net^$important
@@ -853,7 +857,6 @@
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
-||*.zippycanyonez.pro^$important
 ||*.zjfzifr.psd.markets^$important
 ||*.zshaimrg.forwardbahis.com^$important
 ||*.ztlfqqk.1bahis.app^$important
