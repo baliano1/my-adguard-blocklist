@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-07 14:24:51
+! Ultimo aggiornamento automatico: 2026-07-07 17:10:50
 ||*.0022a601.pphost.net^$important
 ||*.0681dt20.bahisgame.com^$important
 ||*.123.ywxww.net^$important
@@ -285,7 +285,6 @@
 ||*.clmmsdnxy.jntxyz.biz.id^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.consultaexpressdomi--pamelalorzano.replit.app^$important
@@ -295,12 +294,9 @@
 ||*.cpofficial.com^$important
 ||*.cramjui.winx303.com^$important
 ||*.creativevoltage.com^$important
-||*.crescentegramas.com.br^$important
-||*.crestmarkhq.com^$important
 ||*.crimefreesoftware.com^$important
 ||*.cronicasdelcentro.com^$important
 ||*.crystalpvp.ru^$important
-||*.cs.go.kg^$important
 ||*.csg-app.com^$important
 ||*.cyvvepo.90pishbini.com^$important
 ||*.czpcvew.bet1xiraq.com^$important
@@ -322,7 +318,6 @@
 ||*.dezcom.com^$important
 ||*.dhaafy3l.thevallartasrestaurants.com^$important
 ||*.dialkwik.in^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
@@ -332,7 +327,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -341,7 +335,6 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
-||*.dragonsurcing.com^$important
 ||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
@@ -354,6 +347,7 @@
 ||*.educationpolicy.eu.keelingsobotka.com^$important
 ||*.edvdafc.prozhe.vip^$important
 ||*.efdnssea.honaribash.ir^$important
+||*.elaml4maids.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.elseventsupplier.com^$important
@@ -371,6 +365,7 @@
 ||*.expertsbiguide.info^$important
 ||*.ezqhmvl.1bonus.bet^$important
 ||*.f.digital-pathway.com^$important
+||*.facanha.com.br^$important
 ||*.facebook1id2024-blip.github.io^$important
 ||*.faenamiamibeach.spahotel.guru^$important
 ||*.faizan-khanjada.github.io^$important
@@ -385,7 +380,6 @@
 ||*.filebashupload.pages.dev^$important
 ||*.filerit.com^$important
 ||*.filltheranks.com^$important
-||*.fin-code.lol^$important
 ||*.first-security-verden.de^$important
 ||*.fiverr-orders-pay.pro^$important
 ||*.floppoker.com.br^$important
@@ -397,7 +391,6 @@
 ||*.foxo8ujn.prozhe.net^$important
 ||*.fpk81nyo.thevallartasrestaurants.com^$important
 ||*.fraxil-aomber-8j47gh-qthn-kravik.pages.dev^$important
-||*.friendsofsclarc.org^$important
 ||*.fsj6gh2uipsm.cloudfrontsf.us.cc^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
@@ -429,6 +422,7 @@
 ||*.hseda.com^$important
 ||*.https--www-roblox.cam^$important
 ||*.ibsovb64.bet1xiraq.com^$important
+||*.icash.trymore.co^$important
 ||*.icoffeecloud.com^$important
 ||*.ifdj62v9.thevallartasrestaurants.com^$important
 ||*.ig.do^$important
@@ -451,7 +445,6 @@
 ||*.itssprout.com^$important
 ||*.j51q.vip^$important
 ||*.j61m.vip^$important
-||*.jawaratekno.com^$important
 ||*.jeffhuyler.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -524,6 +517,7 @@
 ||*.mundocarnes.cl^$important
 ||*.mvukddsz.turkeybahis.app^$important
 ||*.mx9x.com^$important
+||*.n.vs108.com^$important
 ||*.nawkvml.oxiidbet.com^$important
 ||*.nazemud.ac90bet.net^$important
 ||*.ncxps.com^$important
@@ -535,7 +529,6 @@
 ||*.ntqpkct.bahiscart.com^$important
 ||*.ntvyplg.jetshart.net^$important
 ||*.numvvvx.oxiidbet.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nzraw48i.rayegan.net^$important
 ||*.o24o.ru^$important
@@ -546,7 +539,6 @@
 ||*.ofwyjhh.prda303.vip^$important
 ||*.ogiforjk.iranmotorplus.ir^$important
 ||*.oh0vsizc.vipbahis.cash^$important
-||*.ojang.pe.kr^$important
 ||*.ojst23x0.site-enfejar-hotbet.com^$important
 ||*.okhan.net^$important
 ||*.omani-disputes.com^$important
@@ -573,6 +565,7 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.plavor-pintel-8q37cf-grkt-prendal.pages.dev^$important
+||*.pns.org.pk^$important
 ||*.postelnini.mk^$important
 ||*.ppt.cc^$important
 ||*.prachi09890.github.io^$important
@@ -581,6 +574,7 @@
 ||*.projectcltbd.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
+||*.pvsa.gxfugy.cn^$important
 ||*.pwsljqp.1xbeet.vip^$important
 ||*.pzioeui.bet303.poker^$important
 ||*.qiniuyunxz.yxflzs.com^$important
@@ -619,7 +613,6 @@
 ||*.s20o.top^$important
 ||*.s20q.top^$important
 ||*.s20r.top^$important
-||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safelinks-office.com^$important
@@ -657,19 +650,15 @@
 ||*.sonnenbrillenspot.de^$important
 ||*.spgint.com^$important
 ||*.spify987.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.steamcommnunmity.com^$important
-||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sxedaqg.1bahis.bet^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t-mobile.ufpqmg.top^$important
@@ -682,7 +671,6 @@
 ||*.tehnomag.rs^$important
 ||*.telnavi-gld-zarqumi-a2x9dw67.pages.dev^$important
 ||*.temirtau-adm.ru^$important
-||*.tengfeidn.cn^$important
 ||*.terraza4sup.spahotel.guru^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tetes-air.pages.dev^$important
@@ -802,6 +790,7 @@
 ||*.www.myningengo.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.okhan.net^$important
@@ -830,6 +819,7 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.sthaimyanshop.net^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
