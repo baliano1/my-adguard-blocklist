@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-08 02:24:52
+! Ultimo aggiornamento automatico: 2026-07-08 05:47:40
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -404,6 +404,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fdfan.anfdnc.xyz^$important
 ||*.feridogames.com^$important
+||*.fesold.com^$important
 ||*.ffedpfb.jet90bet.bet^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
@@ -524,9 +525,11 @@
 ||*.mcwholes.com^$important
 ||*.medicalproshuttle.com^$important
 ||*.meetvideogoogle.com^$important
+||*.mekasa.pro^$important
 ||*.mercadolibregf.com^$important
 ||*.metimask-log-signin.godaddysites.com^$important
 ||*.metrics.gocloudmaps.com^$important
+||*.mevrio.com^$important
 ||*.mitreart.com^$important
 ||*.mnntzrbl.masterbahis.com^$important
 ||*.mo-codshop.shopfy.biz.id^$important
@@ -566,6 +569,7 @@
 ||*.ofwyjhh.prda303.vip^$important
 ||*.ogiforjk.iranmotorplus.ir^$important
 ||*.oh0vsizc.vipbahis.cash^$important
+||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
 ||*.olavor-pintel-7p26be-frkt-orendal.pages.dev^$important
@@ -600,6 +604,7 @@
 ||*.pizzariatrattoria.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
+||*.pokese.pro^$important
 ||*.post.ch-twint.co^$important
 ||*.postelnini.mk^$important
 ||*.prachi09890.github.io^$important
@@ -864,6 +869,7 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
