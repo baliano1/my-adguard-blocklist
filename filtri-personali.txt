@@ -162,9 +162,8 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-08 05:47:40
+! Ultimo aggiornamento automatico: 2026-07-08 08:22:18
 ||*.0022a601.pphost.net^$important
-||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.18483.xyz^$important
 ||*.1xkf6w16.bet1forward.com^$important
@@ -193,7 +192,6 @@
 ||*.9qdbp5gv.bet90forward.win^$important
 ||*.aair.org.ro^$important
 ||*.abd-elsamad.github.io^$important
-||*.abdulahad.net^$important
 ||*.aboulokman.howto.rocks^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acessoidentificado.com^$important
@@ -315,7 +313,6 @@
 ||*.cramjui.winx303.com^$important
 ||*.creativevoltage.com^$important
 ||*.crestmarkhq.com^$important
-||*.crimefreesoftware.com^$important
 ||*.cronicasdelcentro.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -355,6 +352,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -366,7 +364,6 @@
 ||*.dowonline.ru^$important
 ||*.dragonsurcing.com^$important
 ||*.dreamapp.xyz^$important
-||*.dreamwatchevent.com^$important
 ||*.drivinge.info^$important
 ||*.dusttv.com^$important
 ||*.dutalogambone.com^$important
@@ -525,16 +522,13 @@
 ||*.mcwholes.com^$important
 ||*.medicalproshuttle.com^$important
 ||*.meetvideogoogle.com^$important
-||*.mekasa.pro^$important
 ||*.mercadolibregf.com^$important
 ||*.metimask-log-signin.godaddysites.com^$important
 ||*.metrics.gocloudmaps.com^$important
-||*.mevrio.com^$important
 ||*.mitreart.com^$important
 ||*.mnntzrbl.masterbahis.com^$important
 ||*.mo-codshop.shopfy.biz.id^$important
 ||*.mogimall.com^$important
-||*.mojtabaabbasi.com^$important
 ||*.moon-tuun.cfd^$important
 ||*.morganstat.sbs^$important
 ||*.mosselnet.co.za^$important
@@ -549,7 +543,6 @@
 ||*.mx9x.com^$important
 ||*.mxsiamy.us.cc^$important
 ||*.n.vs108.com^$important
-||*.nanpe.eng.br^$important
 ||*.ncxps.com^$important
 ||*.nightmare-cheats.buzz^$important
 ||*.nintvncm.rayegan.net^$important
@@ -604,7 +597,7 @@
 ||*.pizzariatrattoria.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pokese.pro^$important
+||*.pns.org.pk^$important
 ||*.post.ch-twint.co^$important
 ||*.postelnini.mk^$important
 ||*.prachi09890.github.io^$important
@@ -712,7 +705,6 @@
 ||*.susezzredeemvn.asia^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -755,7 +747,6 @@
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
-||*.updateservice1-telegramweb.com^$important
 ||*.upndownco.tor1.digitaloceanspaces.com^$important
 ||*.urlto.me^$important
 ||*.utuyuea.backlinkyek.com^$important
@@ -850,7 +841,6 @@
 ||*.www.okhan.net^$important
 ||*.www.qr.fm^$important
 ||*.www.r.oblox.com.et^$important
-||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.gr^$important
 ||*.www.robiox.com.py^$important
@@ -869,7 +859,6 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
