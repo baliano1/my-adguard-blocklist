@@ -162,10 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-08 13:55:52
+! Ultimo aggiornamento automatico: 2026-07-08 16:27:45
 ||*.0022a601.pphost.net^$important
 ||*.0zhngobxnphel0nm-awsapprunner-eq68mu6o5m.edgeone.app^$important
 ||*.117426.com^$important
+||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.1xkf6w16.bet1forward.com^$important
 ||*.1xlite-41141.bar^$important
@@ -340,7 +341,6 @@
 ||*.dlh-posscx.top^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
-||*.donutcash.lol^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
@@ -355,6 +355,7 @@
 ||*.dowonline.ru^$important
 ||*.dragonsurcing.com^$important
 ||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dutalogambone.com^$important
 ||*.dvjmeze.yan303.com^$important
@@ -461,7 +462,6 @@
 ||*.j53i.vip^$important
 ||*.j53k.vip^$important
 ||*.j53q.vip^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jhq8hqlo.1xforward.vip^$important
@@ -601,6 +601,7 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pnivok-trelna-2ed83f-vjbyh-6cb712.pages.dev^$important
+||*.pns.org.pk^$important
 ||*.postelnini.mk^$important
 ||*.prashant-gkv.github.io^$important
 ||*.preciosasjoyitas.com.mx^$important
@@ -741,7 +742,6 @@
 ||*.tt-come.cfd^$important
 ||*.tu.feyhaum.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.tz.jtydey.top^$important
 ||*.uaat6cni.bet1yek1.bet^$important
 ||*.un1rw11q4u.com^$important
@@ -865,6 +865,7 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
@@ -882,7 +883,6 @@
 ||*.www.xecloud.duckdns.org^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.xpj560.cc^$important
-||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
 ||*.wwwintrematico.online^$important
 ||*.x41eexzh.1xcart.net^$important
