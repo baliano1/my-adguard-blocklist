@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-09 02:38:52
+! Ultimo aggiornamento automatico: 2026-07-09 06:40:22
 ||*.0022a601.pphost.net^$important
 ||*.117426.com^$important
 ||*.123.ywxww.net^$important
@@ -188,6 +188,7 @@
 ||*.a1ukh8ol.cialispi.com^$important
 ||*.aafnojwq.megashart.blog^$important
 ||*.aair.org.ro^$important
+||*.abdulahad.net^$important
 ||*.abhimanyu-labs.github.io^$important
 ||*.aboulokman.howto.rocks^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -622,7 +623,6 @@
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
-||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.rejuvenated-selfies-723643.framer.app^$important
 ||*.rentadefrio.com^$important
