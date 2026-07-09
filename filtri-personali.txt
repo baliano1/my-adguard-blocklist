@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-09 14:50:44
+! Ultimo aggiornamento automatico: 2026-07-09 17:20:35
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13d3c8zt.kick1bet.com^$important
@@ -211,6 +211,7 @@
 ||*.appiholilogis.godaddysites.com^$important
 ||*.archivoscrosoft.com^$important
 ||*.arena-router.com^$important
+||*.areyouready.co.za^$important
 ||*.arjunsudheer-tech.github.io^$important
 ||*.asazambia.com^$important
 ||*.ascaf0yi.rollexbet.com^$important
@@ -330,6 +331,7 @@
 ||*.dileep-yadav-00.github.io^$important
 ||*.discord-clone-self-ten.vercel.app^$important
 ||*.disk.accord1key.cn^$important
+||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
@@ -361,7 +363,6 @@
 ||*.easybrand.vn^$important
 ||*.ehay.uk.login.secures-wr2ssvastv.braxwebdesign.com^$important
 ||*.elaml4maids.com^$important
-||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.eluk.hazzaratbet.com^$important
 ||*.embedone.com^$important
@@ -430,7 +431,6 @@
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.gruopeaim.fr^$important
-||*.grupomcperu.com^$important
 ||*.gsx.life^$important
 ||*.gtv6eszx.riskybet.casino^$important
 ||*.gutando.com^$important
@@ -444,7 +444,6 @@
 ||*.hitstation.nl^$important
 ||*.hljajzy.arsenal11.com^$important
 ||*.hljr.gamesport.ir^$important
-||*.hobobot.net^$important
 ||*.hsawtse.eu.cc^$important
 ||*.hseda.com^$important
 ||*.hvaujhmz.alhilal90.com^$important
@@ -644,6 +643,7 @@
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
+||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.rentadefrio.com^$important
 ||*.reutilizemais.co.mz^$important
@@ -673,7 +673,6 @@
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scawwaq.jet90betiran.bet^$important
-||*.scoala1gherla.ro^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -733,7 +732,6 @@
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
-||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
@@ -750,6 +748,7 @@
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
 ||*.thementordirectory.com^$important
+||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiduflxx.farsi1xbet.shop^$important
@@ -763,7 +762,6 @@
 ||*.tributariagob-cn.eu.cc^$important
 ||*.trijer-io-strts.pages.dev^$important
 ||*.trk.gflottery.com^$important
-||*.trtmyanmar.com^$important
 ||*.truea1sdgbjhsbdjhsdbjkdsfedsdwsd-dvabfshkcea9g5ee.z02.azurefd.net^$important
 ||*.tuasesoriadigital.es^$important
 ||*.twu-hwt.org^$important
@@ -771,6 +769,7 @@
 ||*.ultimatebodyrecovery.com^$important
 ||*.un1rw11q4u.com^$important
 ||*.uni.site.je^$important
+||*.universami.ge^$important
 ||*.unl.one^$important
 ||*.untyuadtb3.com^$important
 ||*.upaicdn.xinmei365.com^$important
