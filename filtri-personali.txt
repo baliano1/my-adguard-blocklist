@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-09 19:40:01
+! Ultimo aggiornamento automatico: 2026-07-09 22:19:01
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13d3c8zt.kick1bet.com^$important
@@ -201,7 +201,6 @@
 ||*.alarmline.com.br^$important
 ||*.alerta-unitec--unitec-2026.replit.app^$important
 ||*.alexandraagreeent-document-docusign-uyrhrryddyryr193742026.br-gru-1.linodeobjects.com^$important
-||*.alineeleuterio.com.br^$important
 ||*.allegrolokalnie.lokalna-ofeta7255528.shop^$important
 ||*.allendostmen.com^$important
 ||*.alternativas.ru^$important
@@ -231,6 +230,7 @@
 ||*.bac-vcxdh.com^$important
 ||*.backupso.com^$important
 ||*.bafkreigy5flnbggqer7yfmptrv2i3xw56iowc6tzs2ghyx7myqp2v7kvsu.ipfs.dweb.link^$important
+||*.balconyresidences.com.br^$important
 ||*.bank-of-america.directhr.cn^$important
 ||*.bbasd.com^$important
 ||*.beitmaartlogiin.webflow.io^$important
@@ -296,7 +296,6 @@
 ||*.coinbases-two.vercel.app^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
-||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.cpvt.bet120.games^$important
@@ -355,6 +354,7 @@
 ||*.dragonsurcing.com^$important
 ||*.draveni-gld-felqumi-p2t6hc17.pages.dev^$important
 ||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dumw.goaliran.ir^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
@@ -437,7 +437,6 @@
 ||*.gutando.com^$important
 ||*.h1b2r6fo.oris303.com^$important
 ||*.h9qlti2y.marjaevakil.ir^$important
-||*.hasalltalent.com^$important
 ||*.hcqkjox.zeebline.com^$important
 ||*.help-metskxt.gitbook.io^$important
 ||*.heygunjan.github.io^$important
@@ -511,7 +510,6 @@
 ||*.lhttps-www-roblox.co^$important
 ||*.libss.0x504.com^$important
 ||*.lincy141.github.io^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.link-90249209-2380p-dpg925d27cqb.edgeone.dev^$important
 ||*.ll96bzym.salamatyari.ir^$important
 ||*.local-update.com^$important
@@ -734,6 +732,7 @@
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
+||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
@@ -826,6 +825,7 @@
 ||*.www.account.amahezon.com^$important
 ||*.www.ardguisser.com^$important
 ||*.www.astenterprises.com.pk^$important
+||*.www.automobile-bk.de^$important
 ||*.www.b3580.com^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.benshamcentre.co.uk^$important
