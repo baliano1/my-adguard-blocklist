@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-09 06:40:22
+! Ultimo aggiornamento automatico: 2026-07-09 11:54:03
 ||*.0022a601.pphost.net^$important
 ||*.117426.com^$important
 ||*.123.ywxww.net^$important
@@ -199,7 +199,6 @@
 ||*.act1varcu3nta.iceiy.com^$important
 ||*.adbesta.edgeone.app^$important
 ||*.admin.byte.in.ua^$important
-||*.admin.gestroom.it^$important
 ||*.aekwtnf.1xyekbet.bet^$important
 ||*.aeroexpressperu.com^$important
 ||*.aftelecom.com.br^$important
@@ -220,12 +219,13 @@
 ||*.alonex-fursa-a7c109-wplm-jfbb.pages.dev^$important
 ||*.altaperformancegold.s3.us-east-005.backblazeb2.com^$important
 ||*.alternativas.ru^$important
+||*.anglingforimages.com^$important
 ||*.api-dhl-wsource1-epc7830000052669tfn-homesolution.amandajad.com.br^$important
 ||*.app.appzcvb.com^$important
 ||*.appiholilogis.godaddysites.com^$important
 ||*.applelocalizar.com^$important
 ||*.archivoscrosoft.com^$important
-||*.areyouready.co.za^$important
+||*.arena-router.com^$important
 ||*.ascaf0yi.rollexbet.com^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -236,6 +236,7 @@
 ||*.az1cv6zs.calvaryhospice.org^$important
 ||*.b58jef3z.22beet.com^$important
 ||*.backupso.com^$important
+||*.basegrid.cfd^$important
 ||*.bebidasdelivery-ze.click^$important
 ||*.beloved-koala-673844.framer.app^$important
 ||*.belxgvc.thevallartasrestaurants.com^$important
@@ -306,6 +307,7 @@
 ||*.crimefreesoftware.com^$important
 ||*.crinstallaties.nl^$important
 ||*.cronicasdelcentro.com^$important
+||*.crypter.howto.rocks^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csg-app.com^$important
@@ -320,11 +322,11 @@
 ||*.dcyfiemg.betzopoda.com^$important
 ||*.de.konto-absicherung.com^$important
 ||*.deadliinealert.b-cdn.net^$important
-||*.deagroup-ks.com^$important
 ||*.delp-heizungsbau.de^$important
 ||*.desentupidora.pro.br^$important
 ||*.deskmicsoftpge.weebly.com^$important
 ||*.dexios.co.za^$important
+||*.dezcom.com^$important
 ||*.dgl7533w.melbetir.bet^$important
 ||*.dialkwik.in^$important
 ||*.dicespadehub.info^$important
@@ -352,6 +354,7 @@
 ||*.dowonline.ru^$important
 ||*.dragonsurcing.com^$important
 ||*.dravoni-gld-lentora-r4t7qp92.pages.dev^$important
+||*.dreamapp.xyz^$important
 ||*.dumw.goaliran.ir^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
@@ -397,6 +400,7 @@
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
+||*.filezox.xyz^$important
 ||*.fin-code.lol^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -413,10 +417,12 @@
 ||*.gclz.futboliran.ir^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.getsolara.live^$important
 ||*.gexbskxk.beshnoinja.ir^$important
 ||*.ghccipia.fifa90bet.casino^$important
 ||*.globalbank.us^$important
 ||*.gmx.rfq-componentportal.com^$important
+||*.goldland8.com^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
@@ -477,7 +483,6 @@
 ||*.kenwillzltd.com^$important
 ||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
-||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
 ||*.komal182005.github.io^$important
 ||*.konsor.ru^$important
@@ -501,6 +506,7 @@
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lynxsecurity.ru^$important
 ||*.m.jkoa.co.kr^$important
 ||*.maidforyou1985.com^$important
 ||*.malik-abdullah12.github.io^$important
@@ -550,6 +556,7 @@
 ||*.nmsqiavn.enfejar-site.bet^$important
 ||*.noithaticon.vn^$important
 ||*.npvnwrv.jetbet90iran.bet^$important
+||*.nusatoyota.co.id^$important
 ||*.nxt-asad-code.github.io^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
@@ -573,6 +580,7 @@
 ||*.packages-global-tracking.vercel.app^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parcel-global-tracking.vercel.app^$important
+||*.partytimedjsohio.com^$important
 ||*.pay.aqiu6.com^$important
 ||*.payment-esl-org.help^$important
 ||*.payment-esl-org.lat^$important
@@ -582,7 +590,6 @@
 ||*.peachcity.si^$important
 ||*.peee-dash-zim-six.vercel.app^$important
 ||*.pendencian.xyz^$important
-||*.peopleops.uti.cool^$important
 ||*.pertamina-pemesanan-ia.vercel.app^$important
 ||*.pfatrivandrum.org^$important
 ||*.phcwqqkr.1xgermany.com^$important
@@ -623,6 +630,7 @@
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
+||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.rejuvenated-selfies-723643.framer.app^$important
 ||*.rentadefrio.com^$important
@@ -746,7 +754,6 @@
 ||*.spgint.com^$important
 ||*.srgq.icebet90.com^$important
 ||*.start-help-treezorr.gitbook.io^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stationnement-antai-gouv-infractions.montazneplosiny.eu^$important
@@ -764,10 +771,9 @@
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
-||*.tapestryoftruth.com^$important
+||*.taxassessment.cyou^$important
 ||*.tdyqptv.bet1betyek.bet^$important
 ||*.tdyyhcqa.hi-lo.bet^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
@@ -893,6 +899,7 @@
 ||*.www.p365888.com^$important
 ||*.www.paypalapp-auth-de.net^$important
 ||*.www.r.oblox.com.et^$important
+||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.py^$important
 ||*.www.roblox.com.bi^$important
@@ -901,6 +908,7 @@
 ||*.www.roblox.com.mu^$important
 ||*.www.roblox.et^$important
 ||*.www.saf-oil.ru^$important
+||*.www.salonmarketing.ca^$important
 ||*.www.sgeseducation.com^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
@@ -935,7 +943,6 @@
 ||*.yeduwgyh.backlinkyek.com^$important
 ||*.ykgl.calvaryhospice.org^$important
 ||*.ynteevb.1xvip.xyz^$important
-||*.youtransfer.net^$important
 ||*.yraghuwanshi124-art.github.io^$important
 ||*.yuvvyy-7.github.io^$important
 ||*.ywpwwxjc.ace90bet1.bet^$important
