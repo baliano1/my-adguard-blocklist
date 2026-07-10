@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-10 16:52:57
+! Ultimo aggiornamento automatico: 2026-07-10 19:22:14
 ||*.0022a601.pphost.net^$important
 ||*.078ia1jh.ace90betyek.bet^$important
 ||*.0mx8cbge.fa1xbet.vip^$important
