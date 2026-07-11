@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-11 05:37:00
+! Ultimo aggiornamento automatico: 2026-07-11 07:49:45
 ||*.0022a601.pphost.net^$important
 ||*.078ia1jh.ace90betyek.bet^$important
 ||*.0mx8cbge.fa1xbet.vip^$important
@@ -195,6 +195,7 @@
 ||*.akvy.20sport.ir^$important
 ||*.alarmline.com.br^$important
 ||*.alertmsnofiimatc.webcindario.com^$important
+||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.alternativas.ru^$important
 ||*.am.ieddk.lol^$important
@@ -274,9 +275,11 @@
 ||*.compuserviceonline.com.br^$important
 ||*.consistent-reason-206887.framer.app^$important
 ||*.continentalgroup.net.in^$important
+||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
+||*.crimefreesoftware.com^$important
 ||*.cronicasdelcentro.com^$important
 ||*.cropped.link^$important
 ||*.crypter.howto.rocks^$important
@@ -455,6 +458,7 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lb.nigsv.com^$important
+||*.leconto.lol^$important
 ||*.libss.0x504.com^$important
 ||*.lingua-academy-santander.pages.dev^$important
 ||*.lnk.ink^$important
@@ -532,7 +536,6 @@
 ||*.nkzajnx4.pablobet.bet^$important
 ||*.nnxhoedm.onjabet1.com^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.odng6v0p.rewardbet.bet^$important
@@ -559,8 +562,8 @@
 ||*.pcupd.com^$important
 ||*.pdlaw.com.ph^$important
 ||*.peachcity.si^$important
+||*.peniclean.com^$important
 ||*.pfatrivandrum.org^$important
-||*.pid.fly160.com^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pnivok-xrelna-1rv2a-ojbyh-5pu601x2.pages.dev^$important
@@ -631,7 +634,6 @@
 ||*.sharedfile.morefilms.de^$important
 ||*.shekashish.github.io^$important
 ||*.shop.mediasova.ru^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.shyam091.github.io^$important
 ||*.sin1.contabostorage.com^$important
 ||*.sk-comtel.com^$important
@@ -646,6 +648,7 @@
 ||*.sp19ct7-lorek-biz-furex-kamin.pages.dev^$important
 ||*.sp19ct7-vurem-biz-lorek-fonis.pages.dev^$important
 ||*.spectrum-email-update-account.weeblysite.com^$important
+||*.spgint.com^$important
 ||*.start--trezar--io-faq.square.site^$important
 ||*.start-page-85733-rfilvaprdsxicag-workers.pages.dev^$important
 ||*.start-page-89248-rfilvaprdsxicag-workers.pages.dev^$important
@@ -706,7 +709,6 @@
 ||*.un1rw11q4u.com^$important
 ||*.undh.ofoghchat.ir^$important
 ||*.uni.site.je^$important
-||*.universami.ge^$important
 ||*.unix-technology.com^$important
 ||*.up-to1.pages.dev^$important
 ||*.upaicdn.xinmei365.com^$important
