@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-11 02:22:07
+! Ultimo aggiornamento automatico: 2026-07-11 05:37:00
 ||*.0022a601.pphost.net^$important
 ||*.078ia1jh.ace90betyek.bet^$important
 ||*.0mx8cbge.fa1xbet.vip^$important
@@ -241,7 +241,6 @@
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bucketlify.s3.us-east-005.backblazeb2.com^$important
-||*.bunnellmc.com^$important
 ||*.bvaco.com^$important
 ||*.caewscad.fileboroo.com^$important
 ||*.cambodiatouristservice.com^$important
@@ -398,6 +397,7 @@
 ||*.gsx.life^$important
 ||*.gutando.com^$important
 ||*.habitabilidades.us^$important
+||*.hasalltalent.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
