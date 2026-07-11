@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-11 07:49:45
+! Ultimo aggiornamento automatico: 2026-07-11 10:11:47
 ||*.0022a601.pphost.net^$important
 ||*.078ia1jh.ace90betyek.bet^$important
 ||*.0mx8cbge.fa1xbet.vip^$important
@@ -533,6 +533,7 @@
 ||*.ncxps.com^$important
 ||*.netflix-49g.pages.dev^$important
 ||*.nfvh.1pishbini.com^$important
+||*.nightmare-download.pw^$important
 ||*.nkzajnx4.pablobet.bet^$important
 ||*.nnxhoedm.onjabet1.com^$important
 ||*.noithaticon.vn^$important
@@ -567,10 +568,12 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pnivok-xrelna-1rv2a-ojbyh-5pu601x2.pages.dev^$important
+||*.pocopaco.co.za^$important
 ||*.postelnini.mk^$important
 ||*.ppdp.oza.bet^$important
 ||*.ppt.cc^$important
 ||*.preciosasjoyitas.com.mx^$important
+||*.pritinder.ifree.page^$important
 ||*.psqj.app888starz.download^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
