@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-11 13:10:50
+! Ultimo aggiornamento automatico: 2026-07-11 15:52:35
 ||*.0022a601.pphost.net^$important
 ||*.078ia1jh.ace90betyek.bet^$important
 ||*.0mx8cbge.fa1xbet.vip^$important
@@ -328,7 +328,6 @@
 ||*.dezcom.com^$important
 ||*.dialkwik.in^$important
 ||*.discord.aimaker.space^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dkkmrjmb.signalfrontier.top^$important
 ||*.dl.1003b.56a.com^$important
@@ -348,6 +347,7 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dsahmad993-svg.github.io^$important
 ||*.duqvs764.likesport.ir^$important
@@ -390,6 +390,7 @@
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
+||*.files-storage.su^$important
 ||*.filezox.xyz^$important
 ||*.finance-6y6.pages.dev^$important
 ||*.first-security-verden.de^$important
@@ -411,6 +412,7 @@
 ||*.gemini.137945.xyz^$important
 ||*.gemxni-logen.gitbook.io^$important
 ||*.genddos.st^$important
+||*.genesis-softs.com^$important
 ||*.gestionycobranzas.com^$important
 ||*.getsolara.live^$important
 ||*.ggittwjb.irantop.bet^$important
@@ -537,7 +539,6 @@
 ||*.myaisxy.us.cc^$important
 ||*.myshoip-711-com-tw.jnjgsm.link^$important
 ||*.mysterious-signal.com^$important
-||*.n.vs108.com^$important
 ||*.ncvhdwcq.medsalamat.ir^$important
 ||*.ncxps.com^$important
 ||*.nethubcorp.com^$important
@@ -609,7 +610,6 @@
 ||*.r6l352kjzvgku.mocha.app^$important
 ||*.ramirex.ro^$important
 ||*.rdm.91yunma.cn^$important
-||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
@@ -678,6 +678,7 @@
 ||*.surieltech.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -724,7 +725,6 @@
 ||*.ventaslll.com^$important
 ||*.verificacion-029--tucuenta0102.replit.app^$important
 ||*.versaclean.com.br^$important
-||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.vgjb.bahsegel90.com^$important
 ||*.videomeetgoogle.com^$important
