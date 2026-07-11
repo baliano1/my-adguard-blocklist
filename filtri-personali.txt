@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-11 15:52:35
+! Ultimo aggiornamento automatico: 2026-07-11 18:57:03
 ||*.0022a601.pphost.net^$important
 ||*.078ia1jh.ace90betyek.bet^$important
 ||*.0mx8cbge.fa1xbet.vip^$important
@@ -244,9 +244,9 @@
 ||*.basegrid.cfd^$important
 ||*.basitgiris.one^$important
 ||*.baxaltaspharmaceuticals.github.io^$important
+||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.better-accessqld.com.au^$important
-||*.bip.priestsw.com^$important
 ||*.bitly.cx^$important
 ||*.bizec8bu.zaribbala.bet^$important
 ||*.black-riazoa.com^$important
@@ -328,6 +328,7 @@
 ||*.dezcom.com^$important
 ||*.dialkwik.in^$important
 ||*.discord.aimaker.space^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dkkmrjmb.signalfrontier.top^$important
 ||*.dl.1003b.56a.com^$important
@@ -368,6 +369,7 @@
 ||*.evangroup.ru^$important
 ||*.eznvrdxc.footbalpersian.ir^$important
 ||*.f26e.top^$important
+||*.facanha.com.br^$important
 ||*.facebook-astuces-news.blogspot.com^$important
 ||*.facebook-carol.blogspot.com^$important
 ||*.facebook-logo.blogspot.com^$important
@@ -390,7 +392,6 @@
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
-||*.files-storage.su^$important
 ||*.filezox.xyz^$important
 ||*.finance-6y6.pages.dev^$important
 ||*.first-security-verden.de^$important
@@ -513,11 +514,9 @@
 ||*.m.galabet-girisresmi.icu^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.kaoae6kq47b8.com^$important
-||*.m.meta-dm.com^$important
 ||*.macroj1f20mg35-eucbgkdadtf6cdd2.z03.azurefd.net^$important
 ||*.maidforyou1985.com^$important
 ||*.mailboxaccountverification.edgeone.dev^$important
-||*.mamigummy.com^$important
 ||*.manasgupta13116-netizen.github.io^$important
 ||*.markerlessar.com^$important
 ||*.masixk.us.cc^$important
@@ -539,6 +538,7 @@
 ||*.myaisxy.us.cc^$important
 ||*.myshoip-711-com-tw.jnjgsm.link^$important
 ||*.mysterious-signal.com^$important
+||*.n.vs108.com^$important
 ||*.ncvhdwcq.medsalamat.ir^$important
 ||*.ncxps.com^$important
 ||*.nethubcorp.com^$important
@@ -557,6 +557,7 @@
 ||*.ojang.pe.kr^$important
 ||*.ojvh.barcelona11.com^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.oksz.ozabet.casino^$important
 ||*.oktem.vip^$important
 ||*.omani-disputes.com^$important
@@ -670,7 +671,6 @@
 ||*.stdown.dinju.com^$important
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.sucursalespersonasvirtual.vercel.app^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -678,13 +678,13 @@
 ||*.surieltech.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.taxassessment.cyou^$important
 ||*.teach.link^$important
+||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
@@ -725,6 +725,7 @@
 ||*.ventaslll.com^$important
 ||*.verificacion-029--tucuenta0102.replit.app^$important
 ||*.versaclean.com.br^$important
+||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.vgjb.bahsegel90.com^$important
 ||*.videomeetgoogle.com^$important
