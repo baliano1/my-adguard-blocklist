@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-11 18:57:03
+! Ultimo aggiornamento automatico: 2026-07-11 21:44:51
 ||*.0022a601.pphost.net^$important
 ||*.078ia1jh.ace90betyek.bet^$important
 ||*.0mx8cbge.fa1xbet.vip^$important
@@ -413,7 +413,6 @@
 ||*.gemini.137945.xyz^$important
 ||*.gemxni-logen.gitbook.io^$important
 ||*.genddos.st^$important
-||*.genesis-softs.com^$important
 ||*.gestionycobranzas.com^$important
 ||*.getsolara.live^$important
 ||*.ggittwjb.irantop.bet^$important
@@ -611,6 +610,7 @@
 ||*.r6l352kjzvgku.mocha.app^$important
 ||*.ramirex.ro^$important
 ||*.rdm.91yunma.cn^$important
+||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
