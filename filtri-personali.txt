@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-12 19:00:06
+! Ultimo aggiornamento automatico: 2026-07-12 21:44:26
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -257,7 +257,6 @@
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
-||*.cbsnews.date^$important
 ||*.cdaonline.com.ar^$important
 ||*.celebratingseniors.net^$important
 ||*.chamolineetu89-del.github.io^$important
@@ -436,7 +435,6 @@
 ||*.iwyx.bekabet.casino^$important
 ||*.j57l.vip^$important
 ||*.jamesdotcom.com^$important
-||*.jawaratekno.com^$important
 ||*.jbiyqacd.bcgame.shop^$important
 ||*.jbqh.betaverse.casino^$important
 ||*.jc5eb1c5.radioshartbandi.chat^$important
@@ -562,6 +560,7 @@
 ||*.partytimedjsohio.com^$important
 ||*.patron-98-u8m.uit1.info^$important
 ||*.pbdb.bet303.site^$important
+||*.pcupd.com^$important
 ||*.peachcity.si^$important
 ||*.peniclean.com^$important
 ||*.pixel.abenteuerwartet.de^$important
@@ -708,6 +707,7 @@
 ||*.supriya25-09-2007.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.syedhanzala603.github.io^$important
 ||*.syphergame.top^$important
