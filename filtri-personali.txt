@@ -162,11 +162,10 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-12 02:27:03
+! Ultimo aggiornamento automatico: 2026-07-12 05:54:04
 ||*.0022a601.pphost.net^$important
 ||*.03nlvk-3xo43-lut5i-lu9-n95ug.pages.dev^$important
 ||*.0hk02-tatu78-bnitmg-5ajpc6.pages.dev^$important
-||*.123.ywxww.net^$important
 ||*.15xwq5-edp-ar6lu-jijfj7-ml8.pages.dev^$important
 ||*.166798365756.com^$important
 ||*.1717.1000uc.com^$important
@@ -256,6 +255,7 @@
 ||*.cambodiatouristservice.com^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
+||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
 ||*.celebratingseniors.net^$important
@@ -320,7 +320,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dravemi-gld-zormela-r4x5hp63.pages.dev^$important
 ||*.draveta-gld-zarqumi-r9x8fw24.pages.dev^$important
@@ -386,6 +385,7 @@
 ||*.gembualoginm.webflow.io^$important
 ||*.genddos.st^$important
 ||*.genesis-softs.com^$important
+||*.geo-foundation.vg^$important
 ||*.gestionycobranzas.com^$important
 ||*.gets-hidden-gazette-replies.trycloudflare.com^$important
 ||*.ggj2o3iw.zaribbala.bet^$important
@@ -473,7 +473,6 @@
 ||*.lb.nigsv.com^$important
 ||*.leconto.lol^$important
 ||*.libss.0x504.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.llgdqtat.betpublic.casino^$important
 ||*.lnstagrarn.vercel.app^$important
 ||*.local-update.com^$important
@@ -550,6 +549,7 @@
 ||*.patelarchana570-dot.github.io^$important
 ||*.pay.aqiu6.com^$important
 ||*.pbdb.bet303.site^$important
+||*.pcupd.com^$important
 ||*.pe-facebook.blogspot.com^$important
 ||*.peachcity.si^$important
 ||*.peniclean.com^$important
