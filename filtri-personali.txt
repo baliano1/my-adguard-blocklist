@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-12 13:12:43
+! Ultimo aggiornamento automatico: 2026-07-12 15:56:11
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -258,6 +258,7 @@
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.cbsnews.date^$important
 ||*.cdaonline.com.ar^$important
 ||*.celebratingseniors.net^$important
 ||*.chamolineetu89-del.github.io^$important
@@ -324,7 +325,6 @@
 ||*.docs--login--ledger-live-desktop-io.typedream.app^$important
 ||*.docs-ledger-live-en-cdn.netlify.app^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -481,7 +481,6 @@
 ||*.kushal56849-a11y.github.io^$important
 ||*.kzaa.co.za^$important
 ||*.landonirwin.com^$important
-||*.lavacolla.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lb.nigsv.com^$important
 ||*.leconto.lol^$important
