@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-13 19:19:21
+! Ultimo aggiornamento automatico: 2026-07-13 21:53:07
 ||*.0022a601.pphost.net^$important
 ||*.073bethh.com^$important
 ||*.0hu21k.com^$important
@@ -201,6 +201,7 @@
 ||*.amz36rd.s3.us-east-1.amazonaws.com^$important
 ||*.ap9nqrjc.jadoou.christmas^$important
 ||*.apiim-whatapp.hl.cn^$important
+||*.app-cdek-online.ru^$important
 ||*.app.appzcvb.com^$important
 ||*.appaccesscommuncateuijskkjshgusyikjsgytuskjhsgtuysjgfstrds.pages.dev^$important
 ||*.apple-clone-2-jitu.netlify.app^$important
@@ -569,7 +570,6 @@
 ||*.pocopaco.co.za^$important
 ||*.postelnini.mk^$important
 ||*.power-whatsappp.hl.cn^$important
-||*.powershell-storage.vg^$important
 ||*.pqyajjta.betgar.bet^$important
 ||*.pr1395387-stack.github.io^$important
 ||*.pragati0405.github.io^$important
@@ -685,6 +685,7 @@
 ||*.sp32ct-orvak-biz-zenlok-rusmi.pages.dev^$important
 ||*.sp32ct-parlen-biz-fenrik-doska.pages.dev^$important
 ||*.sp32ct-sornik-biz-belvak-kesri.pages.dev^$important
+||*.specsaversllc.online^$important
 ||*.spgint.com^$important
 ||*.start-ledgr-walet.pages.dev^$important
 ||*.static.ilclock.com^$important
