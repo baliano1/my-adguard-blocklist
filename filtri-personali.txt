@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-13 02:28:29
+! Ultimo aggiornamento automatico: 2026-07-13 06:12:47
 ||*.0022a601.pphost.net^$important
 ||*.01163203.com^$important
 ||*.073bethh.com^$important
@@ -189,6 +189,7 @@
 ||*.9h5e0vbd.jadoou.club^$important
 ||*.a9lrz6z9.betturkey.bet^$important
 ||*.aa.levan.cc^$important
+||*.abdulahad.net^$important
 ||*.abrir.link^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accountcenter-castrofidel.iappstudios.ch^$important
@@ -237,7 +238,6 @@
 ||*.beoauto.alexion.rs^$important
 ||*.bjmd.bahsegel90.com^$important
 ||*.black-trivcx.com^$important
-||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -253,6 +253,7 @@
 ||*.bvkube95-ship-it.github.io^$important
 ||*.bvnmaaa.s3.eu-north-1.amazonaws.com^$important
 ||*.bybitspoe.com^$important
+||*.cambodiatouristservice.com^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
@@ -267,6 +268,7 @@
 ||*.chatgpt0005.eu.org^$important
 ||*.checkfivem.com^$important
 ||*.chimex.com.mx^$important
+||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
 ||*.chuguadventures.co.tz^$important
@@ -285,6 +287,7 @@
 ||*.cpofficial.com^$important
 ||*.cppqqgxg.betlivo90.bet^$important
 ||*.creativevoltage.com^$important
+||*.crimefreesoftware.com^$important
 ||*.crypter.howto.rocks^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -304,7 +307,6 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dineshgehlot2005.github.io^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -325,7 +327,6 @@
 ||*.dowonline.ru^$important
 ||*.dozco.com^$important
 ||*.dravora-gld-zentela-c3x9dq21.pages.dev^$important
-||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dstelar-shadow-0hm71b-flux-nebula.pages.dev^$important
 ||*.dtxbxe-fhxn-muh-js3ad-6l90hf.pages.dev^$important
@@ -560,6 +561,7 @@
 ||*.pluma777-app.com^$important
 ||*.plzm.onjabet1.com^$important
 ||*.pmhy.gorgbet.net^$important
+||*.pns.org.pk^$important
 ||*.pocopaco.co.za^$important
 ||*.postelnini.mk^$important
 ||*.pqyajjta.betgar.bet^$important
@@ -700,7 +702,6 @@
 ||*.sp32ct-zernik-biz-velmor-tuska.pages.dev^$important
 ||*.spgint.com^$important
 ||*.ssonevirtcejour.weebly.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stationnement-antai-gouv-infractions.chp.nu^$important
@@ -720,7 +721,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.syqi.bahigo.casino^$important
 ||*.t-mobile.ignjus.top^$important
