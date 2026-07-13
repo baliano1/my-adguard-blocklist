@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-13 06:12:47
+! Ultimo aggiornamento automatico: 2026-07-13 11:57:49
 ||*.0022a601.pphost.net^$important
 ||*.01163203.com^$important
 ||*.073bethh.com^$important
@@ -205,6 +205,7 @@
 ||*.airyvineic.help^$important
 ||*.aktiffkan-paylaterb.rizm.my.id^$important
 ||*.akvz.behtarin-site-shartbandi.com^$important
+||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.amznupdate.klimqo.com^$important
@@ -236,6 +237,7 @@
 ||*.basegrid.cfd^$important
 ||*.bb.levan.cc^$important
 ||*.beoauto.alexion.rs^$important
+||*.bito.com.pk^$important
 ||*.bjmd.bahsegel90.com^$important
 ||*.black-trivcx.com^$important
 ||*.blessdayservices.org^$important
@@ -307,13 +309,13 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dineshgehlot2005.github.io^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -327,6 +329,7 @@
 ||*.dowonline.ru^$important
 ||*.dozco.com^$important
 ||*.dravora-gld-zentela-c3x9dq21.pages.dev^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dstelar-shadow-0hm71b-flux-nebula.pages.dev^$important
 ||*.dtxbxe-fhxn-muh-js3ad-6l90hf.pages.dev^$important
@@ -392,6 +395,7 @@
 ||*.ggnytlvj.betnef.bet^$important
 ||*.globalbank.us^$important
 ||*.gmailaccountlogin1.blogspot.com^$important
+||*.gogolfonline.com^$important
 ||*.goldland8.com^$important
 ||*.gpukjn7z.betraca.bet^$important
 ||*.grantexx.com^$important
@@ -461,7 +465,6 @@
 ||*.konsor.ru^$important
 ||*.kt.ws2612.wineclo.com^$important
 ||*.kyqwfrjr.betturkey.bet^$important
-||*.kzaa.co.za^$important
 ||*.landing3-web-lcgz.vercel.app^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
@@ -519,6 +522,7 @@
 ||*.neha-0858.github.io^$important
 ||*.net-trezzor-wallet-data-bandwidth.vercel.app^$important
 ||*.newfile673.s3.us-east-2.amazonaws.com^$important
+||*.nightmare-cheats.vip^$important
 ||*.nightmare-download.pw^$important
 ||*.nisosznd.jadoobet.club^$important
 ||*.nlavor-prism-3b82fc-mrkt-titanix.pages.dev^$important
@@ -561,7 +565,6 @@
 ||*.pluma777-app.com^$important
 ||*.plzm.onjabet1.com^$important
 ||*.pmhy.gorgbet.net^$important
-||*.pns.org.pk^$important
 ||*.pocopaco.co.za^$important
 ||*.postelnini.mk^$important
 ||*.pqyajjta.betgar.bet^$important
@@ -702,6 +705,7 @@
 ||*.sp32ct-zernik-biz-velmor-tuska.pages.dev^$important
 ||*.spgint.com^$important
 ||*.ssonevirtcejour.weebly.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stationnement-antai-gouv-infractions.chp.nu^$important
