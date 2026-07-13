@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-13 17:10:32
+! Ultimo aggiornamento automatico: 2026-07-13 19:19:21
 ||*.0022a601.pphost.net^$important
 ||*.073bethh.com^$important
 ||*.0hu21k.com^$important
@@ -217,7 +217,6 @@
 ||*.azffnyvq.zaribbala.bet^$important
 ||*.backupso.com^$important
 ||*.balconyresidences.com.br^$important
-||*.basegrid.cfd^$important
 ||*.baseweb-whatappp.hl.cn^$important
 ||*.baseweb-whatsappp.hl.cn^$important
 ||*.beoauto.alexion.rs^$important
@@ -225,6 +224,7 @@
 ||*.bitly.cx^$important
 ||*.bito.com.pk^$important
 ||*.bjmd.bahsegel90.com^$important
+||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
@@ -302,7 +302,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -312,7 +311,7 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dozco.com^$important
-||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dstelar-shadow-0hm71b-flux-nebula.pages.dev^$important
 ||*.dt3qt-c20-6ybx-svpmkr-oha01n.pages.dev^$important
 ||*.dudqylyo.jadoou.art^$important
@@ -382,14 +381,12 @@
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
-||*.genesis-cheats.com^$important
 ||*.genesis-softs.com^$important
 ||*.gestionycobranzas.com^$important
 ||*.gglosnig.betewin.poker^$important
 ||*.ggnytlvj.betnef.bet^$important
 ||*.glin-whatapp.com.cn^$important
 ||*.globalbank.us^$important
-||*.gogolfonline.com^$important
 ||*.goldland8.com^$important
 ||*.goo.su^$important
 ||*.gpukjn7z.betraca.bet^$important
@@ -409,6 +406,7 @@
 ||*.hksv.bahigo90bet.com^$important
 ||*.hlhmjajy.onjabet1.com^$important
 ||*.hlme.bet90forward.app^$important
+||*.hobobot.net^$important
 ||*.home-coinsqurre.zapier.app^$important
 ||*.hseda.com^$important
 ||*.i-like-ele-phants-verification.live^$important
@@ -429,6 +427,7 @@
 ||*.j58q.vip^$important
 ||*.j58y.vip^$important
 ||*.j58z.vip^$important
+||*.jawaratekno.com^$important
 ||*.jbiyqacd.bcgame.shop^$important
 ||*.jbqh.betaverse.casino^$important
 ||*.jcttadgn.betlivo90.bet^$important
@@ -477,9 +476,9 @@
 ||*.lskz.bettilt90.com^$important
 ||*.ltvz.jadoou.biz^$important
 ||*.lucky-whatsappp.hl.cn^$important
-||*.luizmatoso.com.br^$important
 ||*.lwqeujgc.jadoobet.xyz^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.m17u.top^$important
 ||*.maidforyou1985.com^$important
 ||*.mbetxapp44.com^$important
@@ -517,7 +516,7 @@
 ||*.netflixinject.web.id^$important
 ||*.nethubcorp.com^$important
 ||*.newim-whatsapp.hl.cn^$important
-||*.nexrogcapital.xyz^$important
+||*.nightmare-cheats.vip^$important
 ||*.nightmare-download.pw^$important
 ||*.nisosznd.jadoobet.club^$important
 ||*.nlavor-prism-3b82fc-mrkt-titanix.pages.dev^$important
@@ -534,7 +533,6 @@
 ||*.ocglemkm.betraca.bet^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.oktem.vip^$important
 ||*.olajirebasit100-creator.github.io^$important
 ||*.olptz5o4.jadoou.beauty^$important
@@ -605,6 +603,7 @@
 ||*.ramirex.ro^$important
 ||*.rddj.jadoou.boats^$important
 ||*.rdm.91yunma.cn^$important
+||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
 ||*.redoleis.us^$important
@@ -716,6 +715,7 @@
 ||*.tapestryoftruth.com^$important
 ||*.taqvora.github.io^$important
 ||*.tcxc.behtarin-site-shartbandi.com^$important
+||*.tdhviatnam.com^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
@@ -856,7 +856,6 @@
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.online-facebook-privacy.blogspot.com^$important
-||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.gr^$important
 ||*.www.robiox.com.ps^$important
@@ -882,7 +881,6 @@
 ||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.trezrrsuite.blogspot.com^$important
 ||*.www.uk-facebook.blogspot.com^$important
