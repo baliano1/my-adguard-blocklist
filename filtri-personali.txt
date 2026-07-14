@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-14 16:10:38
+! Ultimo aggiornamento automatico: 2026-07-14 19:14:34
 ||*.0022a601.pphost.net^$important
 ||*.0utl00k-chek-clip.iceiy.com^$important
 ||*.121z2.catex.at^$important
@@ -182,12 +182,12 @@
 ||*.62447.xyz^$important
 ||*.62474.xyz^$important
 ||*.68-210-103-76.cprapid.com^$important
+||*.6ak-tehnik.si^$important
 ||*.7c7ax36p.bahigo90bet.com^$important
 ||*.80c022bf.998hbc23.pages.dev^$important
 ||*.81ro1qyb.radioshartbandi.bet^$important
 ||*.89betlc.com^$important
 ||*.9h5e0vbd.jadoou.club^$important
-||*.abdulahad.net^$important
 ||*.abhijeetkumartiwari.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accountscenter-instagram-com.collectasone.com^$important
@@ -277,13 +277,11 @@
 ||*.cbsnews.date^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdba.bet90forward.win^$important
-||*.cdn.file6.goodid.com^$important
 ||*.ceayo90m.jadoou.xyz^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chatgpt0005.eu.org^$important
 ||*.checkfivem.com^$important
-||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
 ||*.chuguadventures.co.tz^$important
@@ -316,6 +314,7 @@
 ||*.dawnhollow.life^$important
 ||*.dawnrevealed.com^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.delp-heizungsbau.de^$important
 ||*.devmontannasuniswap-clone.vercel.app^$important
@@ -401,13 +400,13 @@
 ||*.fhqc.backgammon.download^$important
 ||*.fibvhxte.bekabet.casino^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fnrok367.jadoobet.blog^$important
 ||*.fock.bekabet.casino^$important
-||*.freeluck.free.je^$important
 ||*.frqljktr.jadoou.site^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
@@ -521,6 +520,7 @@
 ||*.lqljywai.jadoou.christmas^$important
 ||*.lskz.bettilt90.com^$important
 ||*.ltvz.jadoou.biz^$important
+||*.luizmatoso.com.br^$important
 ||*.lwqeujgc.jadoobet.xyz^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -546,14 +546,12 @@
 ||*.mostbet92847.help^$important
 ||*.motorola.nl^$important
 ||*.mqe4px.coinbase.ngo^$important
-||*.msedge.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mvd-2026.ru^$important
 ||*.mx9x.com^$important
 ||*.mypwk0n2.jadoou.click^$important
-||*.n.vs108.com^$important
 ||*.n85e216p.jadoou.yachts^$important
 ||*.nachocebu.hostel.town^$important
 ||*.naimislamlinux.github.io^$important
@@ -714,6 +712,7 @@
 ||*.stoic.sh^$important
 ||*.stonecradle.com^$important
 ||*.storage.mntbell.com^$important
+||*.streammobs.com^$important
 ||*.stvdwyqw.site-asli-bedon-filter-1xbet.com^$important
 ||*.sunix-technology.com^$important
 ||*.suo-ico--trustcapital----com--autth.webflow.io^$important
@@ -740,6 +739,7 @@
 ||*.texjqbwa.site-shartbandi-bedun-filter.com^$important
 ||*.tgjg.jadoou.autos^$important
 ||*.theholidayroads.com^$important
+||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
@@ -755,6 +755,7 @@
 ||*.trejar-suite.square.site^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.ufdrepkt.jadoou.autos^$important
 ||*.ulgqmzld.jadoou.online^$important
 ||*.un1rw11q4u.com^$important
@@ -836,6 +837,7 @@
 ||*.www.facebooklogin13.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hseda.com^$important
 ||*.www.instagram-nextjs-khushxxl.vercel.app^$important
 ||*.www.instagramhelper-login.vercel.app^$important
 ||*.www.instatwin.vercel.app^$important
@@ -880,6 +882,7 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.stickersapp.vercel.app^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
