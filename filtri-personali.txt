@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-14 05:26:03
+! Ultimo aggiornamento automatico: 2026-07-14 07:57:09
 ||*.0022a601.pphost.net^$important
 ||*.009090334mn.vercel.app^$important
 ||*.123.ywxww.net^$important
@@ -183,6 +183,7 @@
 ||*.81ro1qyb.radioshartbandi.bet^$important
 ||*.9h5e0vbd.jadoou.club^$important
 ||*.aaimzk.us^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.acthktpb.betropol.bet^$important
@@ -214,6 +215,7 @@
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.armazenamentoweb.s3.us-east-005.backblazeb2.com^$important
+||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
 ||*.aujh.jadoobet.blog^$important
@@ -224,7 +226,6 @@
 ||*.bac-uytbf.com^$important
 ||*.backupso.com^$important
 ||*.balconyresidences.com.br^$important
-||*.beak.in^$important
 ||*.bebidasdelivery-ze24h.shop^$important
 ||*.bebidasdeliverys-ze.shop^$important
 ||*.bellnetmailloginpage.netlify.app^$important
@@ -294,7 +295,6 @@
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
 ||*.credit-card-limitsnubank-dev-limits.s3.us-east-005.backblazeb2.com^$important
-||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.cvjd.fileboroo.com^$important
@@ -342,6 +342,7 @@
 ||*.dozco.com^$important
 ||*.dream-whatsappp.com.cn^$important
 ||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.ds-deep.github.io^$important
 ||*.dstrata-nyxus-5d04be-wave-aurora.pages.dev^$important
 ||*.dudqylyo.jadoou.art^$important
@@ -361,6 +362,7 @@
 ||*.elng.jadoou.baby^$important
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
+||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.estaticosportal.s3.us-east-005.backblazeb2.com^$important
 ||*.estebangt1029.github.io^$important
@@ -505,7 +507,6 @@
 ||*.lgmkszyl.site-shartbandi-farsi.com^$important
 ||*.libss.0x504.com^$important
 ||*.lihi2.me^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lively-items-080933.framer.app^$important
 ||*.liverpoolsite.neocities.org^$important
 ||*.ljqk.bahigo.casino^$important
@@ -567,6 +568,7 @@
 ||*.noventis8.com^$important
 ||*.nsuoqcej.betturkey.bet^$important
 ||*.nswofmyl.site-shartbandi-50toman.com^$important
+||*.nusatoyota.co.id^$important
 ||*.nwhygnbt.behtarin-site-shartbandi.com^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
@@ -583,6 +585,7 @@
 ||*.ogedjbqx.jadoou.baby^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.olptz5o4.jadoou.beauty^$important
 ||*.omwf.jadoou.art^$important
 ||*.onfiltre.com.tr^$important
@@ -696,11 +699,9 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.steam66.cn^$important
 ||*.stearncommunity.com^$important
 ||*.sth4xz5f.pacificcrestforaging.com^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.stvdwyqw.site-asli-bedon-filter-1xbet.com^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -863,7 +864,6 @@
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.qrsu.io^$important
-||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.py^$important
 ||*.www.roblox.com.bi^$important
