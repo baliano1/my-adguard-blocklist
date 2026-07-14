@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-14 19:14:34
+! Ultimo aggiornamento automatico: 2026-07-14 21:54:29
 ||*.0022a601.pphost.net^$important
 ||*.0utl00k-chek-clip.iceiy.com^$important
 ||*.121z2.catex.at^$important
@@ -295,6 +295,7 @@
 ||*.compuserviceonline.com.br^$important
 ||*.con1irmac1on3656.wuaze.com^$important
 ||*.continentalgroup.net.in^$important
+||*.controllerjs.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
@@ -523,10 +524,10 @@
 ||*.luizmatoso.com.br^$important
 ||*.lwqeujgc.jadoobet.xyz^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.m.red-hat.shop^$important
 ||*.maidforyou1985.com^$important
 ||*.maisxc.us.cc^$important
+||*.marjdl.pro^$important
 ||*.mdzt.behtarin-site-shartbandi-football.bet^$important
 ||*.meetvideogoogle.com^$important
 ||*.meme-facebook.blogspot.com^$important
@@ -605,7 +606,6 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.plzm.onjabet1.com^$important
-||*.pns.org.pk^$important
 ||*.pocopaco.co.za^$important
 ||*.portalidentidadverf.sbs^$important
 ||*.postelnini.mk^$important
@@ -710,7 +710,6 @@
 ||*.stickersapp.vercel.app^$important
 ||*.stilles-oertchen.de^$important
 ||*.stoic.sh^$important
-||*.stonecradle.com^$important
 ||*.storage.mntbell.com^$important
 ||*.streammobs.com^$important
 ||*.stvdwyqw.site-asli-bedon-filter-1xbet.com^$important
@@ -720,7 +719,6 @@
 ||*.sutterpoint.com^$important
 ||*.svenom-ghoul-9s1t2u-soul-helheim.pages.dev^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t76o.top^$important
 ||*.talentrecruitments.com^$important
@@ -924,4 +922,5 @@
 ||*.zjyozhki.jadoou.space^$important
 ||*.zxco.madgal.life^$important
 ||*.zxx1gpmw.pars90.download^$important
+||*.zycdjz.com^$important
 ||*.zzcg.bet90forward.win^$important
