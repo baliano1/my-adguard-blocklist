@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-14 13:26:31
+! Ultimo aggiornamento automatico: 2026-07-14 16:10:38
 ||*.0022a601.pphost.net^$important
 ||*.0utl00k-chek-clip.iceiy.com^$important
 ||*.121z2.catex.at^$important
@@ -347,6 +347,7 @@
 ||*.dowonline.ru^$important
 ||*.dozco.com^$important
 ||*.dpd.pjxmhra.ink^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.drevodommima.sk^$important
 ||*.ds-deep.github.io^$important
@@ -356,6 +357,7 @@
 ||*.dynga.pl^$important
 ||*.dzjr.bekabet.casino^$important
 ||*.easybrand.vn^$important
+||*.echkdia.com^$important
 ||*.ecyz.plinko-1xbet.games^$important
 ||*.efficient-emerald-4zsnf1ci-dptiqnyiu7za.edgeone.app^$important
 ||*.egisss.net^$important
@@ -399,13 +401,13 @@
 ||*.fhqc.backgammon.download^$important
 ||*.fibvhxte.bekabet.casino^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fnrok367.jadoobet.blog^$important
 ||*.fock.bekabet.casino^$important
+||*.freeluck.free.je^$important
 ||*.frqljktr.jadoou.site^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
@@ -515,6 +517,7 @@
 ||*.logininstagram-oecf.onrender.com^$important
 ||*.loginservice.cloud^$important
 ||*.lomejordesalamanca.es^$important
+||*.londonairportstransfer.co.uk^$important
 ||*.lqljywai.jadoou.christmas^$important
 ||*.lskz.bettilt90.com^$important
 ||*.ltvz.jadoou.biz^$important
@@ -752,7 +755,6 @@
 ||*.trejar-suite.square.site^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.ufdrepkt.jadoou.autos^$important
 ||*.ulgqmzld.jadoou.online^$important
 ||*.un1rw11q4u.com^$important
