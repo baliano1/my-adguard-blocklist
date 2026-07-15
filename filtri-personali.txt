@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-15 02:05:48
+! Ultimo aggiornamento automatico: 2026-07-15 05:27:07
 ||*.0022a601.pphost.net^$important
 ||*.06t-xiy883-tl87j-xoae-ffyrj.pages.dev^$important
 ||*.0800numbers-uk.co.uk^$important
@@ -359,7 +359,6 @@
 ||*.dqkj-fq6-o46svx-qht-e3eofu.pages.dev^$important
 ||*.dravora-gld-felquna-r5x4fw97-3fw.pages.dev^$important
 ||*.dreamapp.xyz^$important
-||*.dreamwatchevent.com^$important
 ||*.drij.bahsegel90.com^$important
 ||*.dscf.radioshartbandi.bet^$important
 ||*.dusttv.com^$important
@@ -611,6 +610,7 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.plonex-skolt-a7c109-wplm-jfbb.pages.dev^$important
+||*.pns.org.pk^$important
 ||*.pnurgmjx.boro3.bet^$important
 ||*.pocopaco.co.za^$important
 ||*.popular-behaviors-609557.framer.app^$important
