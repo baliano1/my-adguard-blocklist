@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-15 16:17:46
+! Ultimo aggiornamento automatico: 2026-07-15 19:05:28
 ||*.0022a601.pphost.net^$important
 ||*.06t-xiy883-tl87j-xoae-ffyrj.pages.dev^$important
 ||*.0i3n894u-dpwyvwoituy1.edgeone.dev^$important
@@ -292,7 +292,6 @@
 ||*.coin.worldlibirtyfinance.exchange^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
-||*.controllerjs.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
@@ -321,7 +320,6 @@
 ||*.disabled-peach-m28zu4sp.edgeone.dev^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dmcllnical.com^$important
@@ -340,6 +338,7 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dregs-bet365.com.cn^$important
 ||*.drij.bahsegel90.com^$important
@@ -470,7 +469,6 @@
 ||*.jayaram0550.github.io^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
 ||*.jps9pmag.bw90bet.live^$important
 ||*.js.byxly.eu.cc^$important
@@ -567,6 +565,7 @@
 ||*.nqzp.jadoou.mom^$important
 ||*.nswofmyl.site-shartbandi-50toman.com^$important
 ||*.ntegm9h9.varzeshlife.ir^$important
+||*.nusatoyota.co.id^$important
 ||*.nw-facebook.blogspot.com^$important
 ||*.nwp4ut5h.madgal.life^$important
 ||*.ny.lshdw.cc^$important
@@ -588,7 +587,6 @@
 ||*.padisahbetadres.live^$important
 ||*.palharesinformatica.com.br^$important
 ||*.partytimedjsohio.com^$important
-||*.pay.aqiu6.com^$important
 ||*.pbcx.jadoou.lat^$important
 ||*.pbhwzixj.boro1.bet^$important
 ||*.pcupd.com^$important
@@ -705,7 +703,6 @@
 ||*.srva.closer.website^$important
 ||*.ssefhahu.bahsegel90.com^$important
 ||*.sso-ca-ndax-io-com-auth.webflow.io^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -744,6 +741,7 @@
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
+||*.thepullmanfolkestone.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiarrahbafna-byte.github.io^$important
