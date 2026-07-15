@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-15 13:36:48
+! Ultimo aggiornamento automatico: 2026-07-15 16:17:46
 ||*.0022a601.pphost.net^$important
 ||*.06t-xiy883-tl87j-xoae-ffyrj.pages.dev^$important
 ||*.0i3n894u-dpwyvwoituy1.edgeone.dev^$important
@@ -713,6 +713,7 @@
 ||*.sth4xz5f.pacificcrestforaging.com^$important
 ||*.stonecradle.com^$important
 ||*.streammobs.com^$important
+||*.studiogioeli.it^$important
 ||*.stvdwyqw.site-asli-bedon-filter-1xbet.com^$important
 ||*.sunix-technology.com^$important
 ||*.suport-trezor-io-start-us.square.site^$important
