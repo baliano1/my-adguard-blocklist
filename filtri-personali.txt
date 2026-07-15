@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-15 08:02:23
+! Ultimo aggiornamento automatico: 2026-07-15 10:45:43
 ||*.0022a601.pphost.net^$important
 ||*.06t-xiy883-tl87j-xoae-ffyrj.pages.dev^$important
 ||*.0800numbers-uk.co.uk^$important
@@ -234,6 +234,7 @@
 ||*.apppremiumnu.fun^$important
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
+||*.arromaseis.com.tr^$important
 ||*.artemagdalena.org^$important
 ||*.asibvok-vando-0rw71c-ejbyh-3tu34h50.pages.dev^$important
 ||*.asivok-vando-9pu59a-cjbyh-1rs238.pages.dev^$important
@@ -402,6 +403,7 @@
 ||*.fairth.dev^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
+||*.fd.v2downf.shop^$important
 ||*.fd66im-ja9q7-qt5q1i-qkakt.pages.dev^$important
 ||*.felomint.click^$important
 ||*.fesold.com^$important
@@ -418,6 +420,7 @@
 ||*.fnexayyt.site-shartbandi-khareji.com^$important
 ||*.fqul.betkhanee.com^$important
 ||*.freeluck.free.je^$important
+||*.friendsofsclarc.org^$important
 ||*.frqljktr.jadoou.site^$important
 ||*.fukt.link^$important
 ||*.furystaff.tech^$important
@@ -446,6 +449,7 @@
 ||*.grupomcperu.com^$important
 ||*.gsx.life^$important
 ||*.gufbylzl.site-takhtenard-sharti-betland.com^$important
+||*.gurdjieff-philadelphia.org^$important
 ||*.gutando.com^$important
 ||*.gwix.bethazarat.app^$important
 ||*.haqkrygx.site-takhtenard-sharti.online^$important
@@ -464,7 +468,6 @@
 ||*.hqmcfjqy.madgal.life^$important
 ||*.hseda.com^$important
 ||*.hxea.psikologer.com^$important
-||*.icioinc.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ig.do^$important
 ||*.ign0g5ax.site-shartbandi-khareji.com^$important
@@ -526,11 +529,11 @@
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
+||*.londonairportstransfer.co.uk^$important
 ||*.lqljywai.jadoou.christmas^$important
 ||*.lqom.bet90forward.win^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.m4dd8-59wrhg-lrgf6-6wh-9ff4.pages.dev^$important
 ||*.m4q2-cukb12-hz0d4-yzp5en.pages.dev^$important
 ||*.m55uqh6r.daddybetiran.live^$important
@@ -580,6 +583,7 @@
 ||*.nqzp.jadoou.mom^$important
 ||*.nswofmyl.site-shartbandi-50toman.com^$important
 ||*.ntegm9h9.varzeshlife.ir^$important
+||*.nusatoyota.co.id^$important
 ||*.nwp4ut5h.madgal.life^$important
 ||*.nwudg-dav1r-cvc-fxiqo-14lyaw.pages.dev^$important
 ||*.ny.lshdw.cc^$important
@@ -607,6 +611,7 @@
 ||*.pbhwzixj.boro1.bet^$important
 ||*.pcupd.com^$important
 ||*.pdkj.betkhaneiran.com^$important
+||*.pdlaw.com.ph^$important
 ||*.pds35.github.io^$important
 ||*.pe1-zfs6k-3q8k-j53ka-tgl6x.pages.dev^$important
 ||*.peachcity.si^$important
@@ -673,7 +678,6 @@
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.secured-uphold-login-docs.tem3.io^$important
-||*.securedisk.cfd^$important
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
@@ -682,6 +686,7 @@
 ||*.sg123.net^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.siaasesoria.com.mx^$important
 ||*.siteestatico.s3.us-east-005.backblazeb2.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
@@ -967,4 +972,5 @@
 ||*.zxco.madgal.life^$important
 ||*.zxx1gpmw.pars90.download^$important
 ||*.zycdjz.com^$important
+||*.zynimg.com^$important
 ||*.zzcg.bet90forward.win^$important
