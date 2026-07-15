@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-15 05:27:07
+! Ultimo aggiornamento automatico: 2026-07-15 08:02:23
 ||*.0022a601.pphost.net^$important
 ||*.06t-xiy883-tl87j-xoae-ffyrj.pages.dev^$important
 ||*.0800numbers-uk.co.uk^$important
@@ -179,6 +179,7 @@
 ||*.2cca57zt.onjabet1.com^$important
 ||*.2skmlgm2.motabartarin-site-shartbandi-jahan.com^$important
 ||*.30zu55sj.radioshartbandi.bet^$important
+||*.317.wtf^$important
 ||*.380t-i7z-4k214-hyov-lzyfii.pages.dev^$important
 ||*.3kww-eqyjsd-mtqnht-zu812.pages.dev^$important
 ||*.3tq-ybbf-cxs-0u60-46c-2t5.pages.dev^$important
@@ -195,6 +196,7 @@
 ||*.5ufm19dl.pdfbama.com^$important
 ||*.5ym-q2k-wjuiz7-vpczkb-vv9wd3.pages.dev^$important
 ||*.5zti-wx9w-z3v-tswk-5evrn.pages.dev^$important
+||*.6ak-tehnik.si^$important
 ||*.6kqr6pgl.jadoou.lat^$important
 ||*.6r15-3aoj4h-wdhw7t-a3b-0dn.pages.dev^$important
 ||*.6ru4l-wws1-g3ysir-8nfya-uw26w8.pages.dev^$important
@@ -287,6 +289,8 @@
 ||*.ccd-ih9q13-adciw-girf-hmf.pages.dev^$important
 ||*.cckoient.boroo.bet^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.anzho06.xyz^$important
+||*.cdn.file6.goodid.com^$important
 ||*.ceayo90m.jadoou.xyz^$important
 ||*.celebratingseniors.net^$important
 ||*.centralpremiumnu.fun^$important
@@ -313,6 +317,7 @@
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
 ||*.crehmoqz.bekabet.casino^$important
+||*.crimefreesoftware.com^$important
 ||*.crypto-exodus.wasmer.app^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -358,7 +363,7 @@
 ||*.dowonline.ru^$important
 ||*.dqkj-fq6-o46svx-qht-e3eofu.pages.dev^$important
 ||*.dravora-gld-felquna-r5x4fw97-3fw.pages.dev^$important
-||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.drij.bahsegel90.com^$important
 ||*.dscf.radioshartbandi.bet^$important
 ||*.dusttv.com^$important
@@ -397,8 +402,8 @@
 ||*.fairth.dev^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
-||*.fd.v2downf.shop^$important
 ||*.fd66im-ja9q7-qt5q1i-qkakt.pages.dev^$important
+||*.felomint.click^$important
 ||*.fesold.com^$important
 ||*.feulntzw.site-shartbandi-farsi.com^$important
 ||*.ffc-4-473483-ox.firebaseapp.com^$important
@@ -459,6 +464,7 @@
 ||*.hqmcfjqy.madgal.life^$important
 ||*.hseda.com^$important
 ||*.hxea.psikologer.com^$important
+||*.icioinc.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ig.do^$important
 ||*.ign0g5ax.site-shartbandi-khareji.com^$important
@@ -473,7 +479,6 @@
 ||*.itssprout.com^$important
 ||*.iwl-tp313-tna6zp-93ap-5crv.pages.dev^$important
 ||*.j121h.vip^$important
-||*.jawaratekno.com^$important
 ||*.je5k-lid-rab-9yq5t-2ohy-3rrbo.pages.dev^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -494,7 +499,6 @@
 ||*.kcpj.bahigo.casino^$important
 ||*.keitarosofts.com^$important
 ||*.kenwillzltd.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.klavor-plink-4b82fc-mrkt-grendal.pages.dev^$important
@@ -514,6 +518,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layer-bridgetrezr.typedream.app^$important
 ||*.lb.nigsv.com^$important
+||*.lebsons.space^$important
 ||*.lfugd-xjinc-nri-t0e-4pf-1kov49.pages.dev^$important
 ||*.lgmkszyl.site-shartbandi-farsi.com^$important
 ||*.libss.0x504.com^$important
@@ -521,14 +526,15 @@
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
-||*.londonairportstransfer.co.uk^$important
 ||*.lqljywai.jadoou.christmas^$important
 ||*.lqom.bet90forward.win^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.m4dd8-59wrhg-lrgf6-6wh-9ff4.pages.dev^$important
 ||*.m4q2-cukb12-hz0d4-yzp5en.pages.dev^$important
 ||*.m55uqh6r.daddybetiran.live^$important
+||*.magsa.com.pe^$important
 ||*.maidforyou1985.com^$important
 ||*.marjdl.pro^$important
 ||*.marnavi-gld-zentora-r4x9dc63.pages.dev^$important
@@ -610,7 +616,6 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.plonex-skolt-a7c109-wplm-jfbb.pages.dev^$important
-||*.pns.org.pk^$important
 ||*.pnurgmjx.boro3.bet^$important
 ||*.pocopaco.co.za^$important
 ||*.popular-behaviors-609557.framer.app^$important
@@ -618,7 +623,6 @@
 ||*.portalpedagio-br.dynv6.net^$important
 ||*.portalpremiumnu.fun^$important
 ||*.postelnini.mk^$important
-||*.powershell-storage.vg^$important
 ||*.pqxhifiu.jadoou.sbs^$important
 ||*.pranavyadav123.github.io^$important
 ||*.prb02wy1.bingobet.bingo^$important
@@ -643,6 +647,7 @@
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
+||*.redhiban.cfd^$important
 ||*.redirect.blf.cuj.temporary.site^$important
 ||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
@@ -654,12 +659,12 @@
 ||*.robertrowe.com^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
-||*.ryo.gamer.free^$important
 ||*.s.teams-hp.com^$important
 ||*.s3.us-east-1.amazonaws.com^$important
 ||*.s645gfw3.bahsegel90.com^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samiksha.com.sg^$important
+||*.sarinaglobal.sbs^$important
 ||*.sc.c1s.su^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
@@ -668,6 +673,7 @@
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.secured-uphold-login-docs.tem3.io^$important
+||*.securedisk.cfd^$important
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
@@ -749,6 +755,7 @@
 ||*.sultoneff.id^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
+||*.surgeonperth.com.au^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
@@ -825,6 +832,7 @@
 ||*.web-git-06-17-featwebaddportfoliopoolsanimatednu-18150b-uniswap.vercel.app^$important
 ||*.web-testing-dev-entry-gateway-uniswap.vercel.app^$important
 ||*.web-uphold-portal.onepage.website^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
