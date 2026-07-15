@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-15 19:05:28
+! Ultimo aggiornamento automatico: 2026-07-15 21:56:05
 ||*.0022a601.pphost.net^$important
 ||*.06t-xiy883-tl87j-xoae-ffyrj.pages.dev^$important
 ||*.0i3n894u-dpwyvwoituy1.edgeone.dev^$important
@@ -508,7 +508,6 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layanan-undian56.blogspot.com^$important
 ||*.lb.nigsv.com^$important
-||*.lebsons.space^$important
 ||*.ledhjgfdh-sdfjghd.pages.dev^$important
 ||*.leelasaikodeti.github.io^$important
 ||*.legit957-wq.github.io^$important
@@ -599,7 +598,6 @@
 ||*.plasteredplayn.com^$important
 ||*.pns.org.pk^$important
 ||*.pnurgmjx.boro3.bet^$important
-||*.pocopaco.co.za^$important
 ||*.postelnini.mk^$important
 ||*.pqxhifiu.jadoou.sbs^$important
 ||*.prajwalkuchewar.github.io^$important
@@ -709,7 +707,6 @@
 ||*.steam66.cn^$important
 ||*.sth4xz5f.pacificcrestforaging.com^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.stvdwyqw.site-asli-bedon-filter-1xbet.com^$important
 ||*.sunix-technology.com^$important
@@ -873,7 +870,6 @@
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
 ||*.www.stbrb-tgo-stbrd-vlr.vercel.app^$important
-||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
@@ -900,7 +896,6 @@
 ||*.yuvakshimodi-cmyk.github.io^$important
 ||*.yxxyqkkf.jadoou.one^$important
 ||*.z-mustafa.github.io^$important
-||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zero2oneaccounting.com.au^$important
 ||*.zhigao5191.com^$important
