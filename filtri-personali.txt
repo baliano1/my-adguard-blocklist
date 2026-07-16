@@ -162,9 +162,8 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-16 19:04:02
+! Ultimo aggiornamento automatico: 2026-07-16 22:00:16
 ||*.0022a601.pphost.net^$important
-||*.01pr.com.tr^$important
 ||*.078zq932.betyek.bio^$important
 ||*.0898xy.com^$important
 ||*.0rlxki7g.bordbett10.com^$important
@@ -317,6 +316,7 @@
 ||*.dezcom.com^$important
 ||*.dhlsiprod.eu23.smartcommunications.cloud^$important
 ||*.disk.accord1key.cn^$important
+||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
@@ -392,6 +392,7 @@
 ||*.gabyagozetim.com^$important
 ||*.gai1ehyu.jetboro.fun^$important
 ||*.galabet10711.com^$important
+||*.galerisenimutiara.com^$important
 ||*.gbij.betbuf90.com^$important
 ||*.gbntwgmi.boro2.bet^$important
 ||*.gboutros.howto.rocks^$important
@@ -507,7 +508,6 @@
 ||*.keitarosofts.com^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
@@ -770,7 +770,6 @@
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.us-exedos-net.pages.dev^$important
-||*.usafansweepstakes2026.us^$important
 ||*.usbankreplica.vercel.app^$important
 ||*.velvetnights.vip^$important
 ||*.versaclean.com.br^$important
@@ -845,6 +844,7 @@
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
+||*.www.khavar.com^$important
 ||*.www.konsor.ru^$important
 ||*.www.load-hermes--41y20jys.dev.autobricksai.run^$important
 ||*.www.load-hermes--bgg39ysm.dev.autobricksai.run^$important
@@ -943,6 +943,7 @@
 ||*.zbxcdsga.site-shartbandi-farsi.com^$important
 ||*.zczs-a0dzbthpebb3d0b4.z03.azurefd.net^$important
 ||*.zenglobalenerji.com^$important
+||*.zhigao5191.com^$important
 ||*.zhnar.jadoou.space^$important
 ||*.zipper.rapidbranchzi.com^$important
 ||*.zpuc.bekabet.casino^$important
