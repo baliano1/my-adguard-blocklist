@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-16 08:06:54
+! Ultimo aggiornamento automatico: 2026-07-16 10:55:48
 ||*.0022a601.pphost.net^$important
 ||*.078zq932.betyek.bio^$important
 ||*.0rlxki7g.bordbett10.com^$important
@@ -498,7 +498,6 @@
 ||*.lb.nigsv.com^$important
 ||*.lebsons.space^$important
 ||*.libss.0x504.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.litwpjrq.casinomhub.bet^$important
 ||*.llgrzomtw.hazaratbet.games^$important
 ||*.local-update.com^$important
@@ -536,7 +535,6 @@
 ||*.mpdmwhr9.jadoobet.forum^$important
 ||*.mprwjkek.betwanaa.com^$important
 ||*.mpygi.jadoou.space^$important
-||*.msedge.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
