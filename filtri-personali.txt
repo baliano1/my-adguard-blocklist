@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-16 13:42:32
+! Ultimo aggiornamento automatico: 2026-07-16 16:14:22
 ||*.0022a601.pphost.net^$important
 ||*.01pr.com.tr^$important
 ||*.078zq932.betyek.bio^$important
@@ -569,6 +569,7 @@
 ||*.n.vs108.com^$important
 ||*.ncfgesrw.derbi.football^$important
 ||*.ncxps.com^$important
+||*.nightmare-loader.cc^$important
 ||*.nkqj.behtarin-site-shartbandi-football.com^$important
 ||*.nl-i19sdn12k.replit.app^$important
 ||*.nlxmperk.behtarin-site-shartbandi.com^$important
@@ -577,6 +578,7 @@
 ||*.npa8g2x5.cozmo90bet.com^$important
 ||*.nqzp.jadoou.mom^$important
 ||*.ntegm9h9.varzeshlife.ir^$important
+||*.nusatoyota.co.id^$important
 ||*.nwp4ut5h.madgal.life^$important
 ||*.nxyhlvha.fileboroo.com^$important
 ||*.ny.lshdw.cc^$important
@@ -633,6 +635,7 @@
 ||*.records.dennisign.se^$important
 ||*.redhiban.cfd^$important
 ||*.redlk.com^$important
+||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rga.baby^$important
@@ -723,6 +726,7 @@
 ||*.tafhu17n.nextbahis.blog^$important
 ||*.talentrecruitments.com^$important
 ||*.tanscarattorneys.co.tz^$important
+||*.tapestryoftruth.com^$important
 ||*.taxcoder.vercel.app^$important
 ||*.tdhviatnam.com^$important
 ||*.tdzfnvda.plinko-1xbet.games^$important
