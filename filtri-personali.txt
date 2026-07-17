@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-17 05:38:44
+! Ultimo aggiornamento automatico: 2026-07-17 08:03:47
 ||*.0022a601.pphost.net^$important
 ||*.01pr.com.tr^$important
 ||*.078zq932.betyek.bio^$important
@@ -192,6 +192,7 @@
 ||*.9zzh7dnw.coop-fresh.com^$important
 ||*.a.grihstha.com^$important
 ||*.a9fh521j.bazisangkaqazgeychidancepoli.com^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.account.msauth.live^$important
 ||*.achmitzakaria1-cmd.github.io^$important
@@ -217,6 +218,7 @@
 ||*.amzninfo.live^$important
 ||*.andemir1609-a11y.github.io^$important
 ||*.angelic-forms-575718.framer.app^$important
+||*.anyhoo.testeaza.eu^$important
 ||*.app-kraken.zapier.app^$important
 ||*.app.appzcvb.com^$important
 ||*.aqwsby-nw.myshopify.com^$important
@@ -226,6 +228,7 @@
 ||*.arromaseis.com.tr^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
+||*.audicontadores.com^$important
 ||*.aumenteaquiseunovolimite.s3.us-east-005.backblazeb2.com^$important
 ||*.aupzcajq.biabet90.com^$important
 ||*.auucqutq.pdfbama.com^$important
@@ -294,17 +297,17 @@
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.aakmx.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.codingaugust.github.io^$important
 ||*.company-prod-limits-datanubank-withdrawal-limits.s3.us-east-005.backblazeb2.com^$important
 ||*.company-prodnubank-account-limits.s3.us-east-005.backblazeb2.com^$important
 ||*.compuserviceonline.com.br^$important
-||*.continentalgroup.net.in^$important
 ||*.cooonbesspprologhiniu.godaddysites.com^$important
-||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.creative-focus-900014.framer.app^$important
 ||*.creativevoltage.com^$important
+||*.crimefreesoftware.com^$important
 ||*.crypto-trading-sso----netcoins.webflow.io^$important
 ||*.crystalpvp.ru^$important
 ||*.cryztbbzl.site-shartbandi-farsi.com^$important
@@ -325,6 +328,8 @@
 ||*.dezcom.com^$important
 ||*.dhlpackage6847.s3.us-east-2.amazonaws.com^$important
 ||*.disk.accord1key.cn^$important
+||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -335,7 +340,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -345,6 +349,7 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dqgfzcgm.hazzarat.world^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.drfarzanamatin.com^$important
 ||*.drkynxdcu.gem90bet.com^$important
@@ -358,7 +363,6 @@
 ||*.edhabqne.taktikkbet.com^$important
 ||*.elaborate-desenrola.netlify.app^$important
 ||*.elaml4maids.com^$important
-||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
@@ -390,7 +394,6 @@
 ||*.felomint.click^$important
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finalwork-ayg5e3aggehqe7ha.z02.azurefd.net^$important
 ||*.findswap-interface.vercel.app^$important
@@ -417,7 +420,7 @@
 ||*.goodvalue-edu.info^$important
 ||*.greenf.alexion.rs^$important
 ||*.grenox-skolt-d5c471-shrr-bravik.pages.dev^$important
-||*.grupomcperu.com^$important
+||*.gsmtoolpack.com^$important
 ||*.gsx.life^$important
 ||*.gt1i-yo7-8fv7-picq-evtvw.pages.dev^$important
 ||*.gurdjieff-philadelphia.org^$important
@@ -443,7 +446,6 @@
 ||*.hubcenterupdate.com^$important
 ||*.hxdi-o4g3u-j6c5m-uf4th4-1n3.pages.dev^$important
 ||*.hzbu0kgt.betyekios.app^$important
-||*.i-love-git.com^$important
 ||*.i365pptc.lion1bet.com^$important
 ||*.i6s46ndy.site-takhtenard-sharti-betland.com^$important
 ||*.iavehernandez.github.io^$important
@@ -488,11 +490,11 @@
 ||*.kavfquba.onjabet1.com^$important
 ||*.kc2m8580.booro.bet^$important
 ||*.kdfjhkykz.site-shartbandi-farsi.com^$important
-||*.keitarosofts.com^$important
 ||*.kenwillzltd.com^$important
 ||*.kfpjbqczj.jadoobet.pro^$important
 ||*.kgfkfhqgg.gem90bet.com^$important
 ||*.khavar.com^$important
+||*.khoancatbetong89.vn^$important
 ||*.kimajattejiver.com^$important
 ||*.kimyen.net^$important
 ||*.kiranafees06-wq.github.io^$important
@@ -547,12 +549,12 @@
 ||*.mgnj.behtarin-site-shartbandi-football.com^$important
 ||*.mhyp.bahigo90bet.com^$important
 ||*.microsoftquarantine.authorised-support.com^$important
-||*.mitreart.com^$important
 ||*.mlavor-neura-5n04fc-drkt-orionx.pages.dev^$important
 ||*.mogimall.com^$important
 ||*.mohdowaisshah.github.io^$important
 ||*.momita-codes.github.io^$important
 ||*.montenegroput.me^$important
+||*.mosselnet.co.za^$important
 ||*.mprwjkek.betwanaa.com^$important
 ||*.mpygi.jadoou.space^$important
 ||*.mseikoean.allboroughrealestate.com^$important
@@ -569,7 +571,6 @@
 ||*.ncfgesrw.derbi.football^$important
 ||*.ncxps.com^$important
 ||*.ndaxogln.webflow.io^$important
-||*.nightmare-loader.cc^$important
 ||*.nkqj.behtarin-site-shartbandi-football.com^$important
 ||*.noithaticon.vn^$important
 ||*.nsmsm.com^$important
@@ -604,13 +605,12 @@
 ||*.peachcity.si^$important
 ||*.pichinchaencuestapago.click^$important
 ||*.pkcs-sfci-4ftw.nandana-odozoconstruction-com-s-account.workers.dev^$important
-||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.pnsc.radioshartbandi.bet^$important
 ||*.portainer2.dnsalias.com^$important
 ||*.postelnini.mk^$important
 ||*.powerful-choice-040334.framer.app^$important
+||*.preciosasjoyitas.com.mx^$important
 ||*.prince206122.github.io^$important
 ||*.professional-themes-797781.framer.app^$important
 ||*.projetoconnect.s3.us-east-005.backblazeb2.com^$important
@@ -642,7 +642,6 @@
 ||*.redhiban.cfd^$important
 ||*.redlk.com^$important
 ||*.reeselarson.wixsite.com^$important
-||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reutilizemais.co.mz^$important
 ||*.reyanshpatel029-alt.github.io^$important
@@ -679,6 +678,7 @@
 ||*.sarinaglobal.sbs^$important
 ||*.sarthak83006.github.io^$important
 ||*.sbcverification.webflow.io^$important
+||*.sc.c1s.su^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
@@ -894,7 +894,6 @@
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.r.oblox.com.et^$important
-||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.rfefrgdgfddf.duckdns.org^$important
 ||*.www.robiox.com.py^$important
@@ -916,7 +915,6 @@
 ||*.www.taxcoder.vercel.app^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
-||*.www.test.peperoncinochepassione.it^$important
 ||*.www.ti.biogasos.com^$important
 ||*.www.trackingnumbers.org^$important
 ||*.www.vuelaviajero.com^$important
