@@ -162,11 +162,10 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-18 15:52:58
+! Ultimo aggiornamento automatico: 2026-07-18 18:58:18
 ||*.0022a601.pphost.net^$important
 ||*.00award.github.io^$important
 ||*.01pr.com.tr^$important
-||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.2d3fb702-6718-4020-8075-49a7ab926480-00-2keqavwgggh3y.picard.replit.dev^$important
 ||*.2lob5o1r.betbuf90.com^$important
@@ -194,6 +193,7 @@
 ||*.9t8bbts2.winston.bet^$important
 ||*.9zzh7dnw.coop-fresh.com^$important
 ||*.a1h9t4pt.venus90bet.com^$important
+||*.abdulahad.net^$important
 ||*.abhay150602.github.io^$important
 ||*.abzsttana.wpenginepowered.com^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -221,6 +221,7 @@
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.arpumupr.site-shartbandi-pasor.online^$important
+||*.arromaseis.com.tr^$important
 ||*.arvujwijm.irani-music.com^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -236,7 +237,6 @@
 ||*.backupso.com^$important
 ||*.balconyresidences.com.br^$important
 ||*.baterijoskompiuteriams.com^$important
-||*.beak.in^$important
 ||*.beneficiosfullbele.com^$important
 ||*.beoauto.alexion.rs^$important
 ||*.beqbfjhnf.deepspaceparker.com^$important
@@ -278,12 +278,14 @@
 ||*.cdbxemdoq.toofan90bet.com^$important
 ||*.cdctvukr.taktikkbet.com^$important
 ||*.cdmke7zf.sky7bet.casino^$important
+||*.celebratingseniors.net^$important
 ||*.cfplyjmq.efcasino.bet^$important
 ||*.cgavi.derbi.promo^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chatador8.sbs^$important
 ||*.check0preventivo.webcindario.com^$important
 ||*.checkfivem.com^$important
+||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
 ||*.chsxhscsh.tampabayspin.com^$important
@@ -334,6 +336,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -554,7 +557,6 @@
 ||*.noithaticon.vn^$important
 ||*.nruyvebwd.taktikkbet.com^$important
 ||*.nuqx7vo8.jadoobet.pro^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ofertaslatam.vercel.app^$important
@@ -577,7 +579,6 @@
 ||*.palharesinformatica.com.br^$important
 ||*.partytimedjsohio.com^$important
 ||*.pay.aqiu6.com^$important
-||*.pcupd.com^$important
 ||*.pdlaw.com.ph^$important
 ||*.peachcity.si^$important
 ||*.petisse.serveousercontent.com^$important
@@ -693,7 +694,6 @@
 ||*.sp27ct-soldik-biz7-pranor-kelvik.pages.dev^$important
 ||*.spgint.com^$important
 ||*.sso-ledger-hardware-wallet.pages.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -724,7 +724,6 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thepullmanfolkestone.com^$important
-||*.ths.lat^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tinytikesbb.github.io^$important
