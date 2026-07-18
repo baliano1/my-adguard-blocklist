@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-18 07:43:07
+! Ultimo aggiornamento automatico: 2026-07-18 10:15:50
 ||*.0022a601.pphost.net^$important
 ||*.00award.github.io^$important
 ||*.01pr.com.tr^$important
@@ -222,7 +222,6 @@
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.arpumupr.site-shartbandi-pasor.online^$important
-||*.arromaseis.com.tr^$important
 ||*.arvujwijm.irani-music.com^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -239,7 +238,6 @@
 ||*.balconyresidences.com.br^$important
 ||*.baseplatinum.s3.us-east-005.backblazeb2.com^$important
 ||*.bdyemaychiyzmlv.rohdspsou.info^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.beqbfjhnf.deepspaceparker.com^$important
 ||*.bgtnaqoc.fileboroo.com^$important
@@ -592,7 +590,6 @@
 ||*.plan-whatapp.hk.cn^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.premium-vendour.github.io^$important
@@ -709,7 +706,6 @@
 ||*.suwqmlyd.efbetfarsi.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swami-ram.github.io^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.sywsywml.rumahsakit.de^$important
 ||*.talentrecruitments.com^$important
