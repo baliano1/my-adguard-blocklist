@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-19 15:54:13
+! Ultimo aggiornamento automatico: 2026-07-19 19:01:07
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -351,7 +351,6 @@
 ||*.djqiyxyx.calirayalake.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
-||*.dl.natgo.cn^$important
 ||*.dlylkjaji.jetboro.fun^$important
 ||*.doc.e-statements.app^$important
 ||*.docsfan-flora-ability-system.garden^$important
@@ -361,7 +360,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -371,6 +369,7 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dows.sabad724.bio^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dsdvsvqgy.jetbet.download^$important
 ||*.dtsmmaphe.tampabayspin.com^$important
@@ -439,6 +438,7 @@
 ||*.ffyd.bahigo90bet.com^$important
 ||*.fgbojhem.meadowprocessingframework.garden^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.find-lost-devices.info^$important
 ||*.first-security-verden.de^$important
@@ -468,6 +468,7 @@
 ||*.gboutros.howto.rocks^$important
 ||*.gdtuyoor.gamehazarat.com^$important
 ||*.gemini.521119.xyz^$important
+||*.genddos.st^$important
 ||*.genesisclinica.com.br^$important
 ||*.gerenland.click^$important
 ||*.gestionycobranzas.com^$important
@@ -579,6 +580,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lb.nigsv.com^$important
 ||*.lbtzq.funxbet.casino^$important
+||*.lcd88.cfd^$important
 ||*.ledger-safehub.com^$important
 ||*.leniniansexualbeginner.courses^$important
 ||*.lfumk.winston.bet^$important
@@ -656,6 +658,7 @@
 ||*.ojpqxkm.one1x.bet^$important
 ||*.okhan.net^$important
 ||*.olyqj.luxurygoodscaree.com^$important
+||*.onfiltre.com.tr^$important
 ||*.onlinepharmacygx.com^$important
 ||*.ovbeoktk.coop-fresh.com^$important
 ||*.p3.zbjimg.com^$important
@@ -1001,6 +1004,7 @@
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.xvl349jh.vercel.app^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.www.zn5itlu4.vercel.app^$important
 ||*.xenon.studio^$important
 ||*.xfakmoduw.lion1bet.com^$important
