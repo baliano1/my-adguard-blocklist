@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-19 02:24:18
+! Ultimo aggiornamento automatico: 2026-07-19 05:48:08
 ||*.0022a601.pphost.net^$important
 ||*.0e1ilkvi.vercel.app^$important
 ||*.123.ywxww.net^$important
@@ -700,7 +700,6 @@
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
 ||*.pmr1m00a.vercel.app^$important
-||*.pns.org.pk^$important
 ||*.portainer2.dnsalias.com^$important
 ||*.postelnini.mk^$important
 ||*.pouulacmu.phogoldencow.com^$important
