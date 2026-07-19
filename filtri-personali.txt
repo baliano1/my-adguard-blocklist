@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-19 19:01:07
+! Ultimo aggiornamento automatico: 2026-07-19 21:48:24
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -285,6 +285,7 @@
 ||*.caudzzwo.coop-fresh.com^$important
 ||*.caycn.tampabayspin.com^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cencam.com^$important
 ||*.cess.digishart.news^$important
@@ -299,7 +300,6 @@
 ||*.chronicle-archive-keeper.garden^$important
 ||*.chsxhscsh.tampabayspin.com^$important
 ||*.chuguadventures.co.tz^$important
-||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.lumxza.com^$important
@@ -357,9 +357,11 @@
 ||*.docx.malicouscontentcheck.net^$important
 ||*.dogfrpygx.hazzarat.com^$important
 ||*.donkeytourscroatia.com^$important
+||*.donsoft.xyz^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -565,6 +567,7 @@
 ||*.kft.betball90kade.com^$important
 ||*.kgptwmgqf.taktikkbet.com^$important
 ||*.khavar.com^$important
+||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kmtdw.jayswraps.com^$important
@@ -683,7 +686,6 @@
 ||*.pigtweet-kitdiff-it.christmas^$important
 ||*.planetariumobil.ro^$important
 ||*.plasteredplayn.com^$important
-||*.pns.org.pk^$important
 ||*.portainer2.dnsalias.com^$important
 ||*.postelnini.mk^$important
 ||*.pouulacmu.phogoldencow.com^$important
@@ -693,6 +695,7 @@
 ||*.pub-f3382215b.1x1.cash^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
+||*.pvphood.cc^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.pygnidup.gem90bet.com^$important
 ||*.qiniuyunxz.yxflzs.com^$important
@@ -758,6 +761,7 @@
 ||*.sg123.net^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.shreesaiseva.org^$important
 ||*.siaasesoria.com.mx^$important
 ||*.signal-routing-framework.christmas^$important
 ||*.sjc3.sabad724.bio^$important
@@ -768,7 +772,6 @@
 ||*.skinwatch.info^$important
 ||*.smartermail.host^$important
 ||*.snifferip.com^$important
-||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.spamgym.asia^$important
@@ -842,7 +845,6 @@
 ||*.tt.falsafekonkour.site^$important
 ||*.tuasesoriadigital.es^$important
 ||*.tuplediskdkey.christmas^$important
-||*.twu-hwt.org^$important
 ||*.tygnu.lokercorp.com^$important
 ||*.u15e.top^$important
 ||*.u15k.top^$important
@@ -851,10 +853,12 @@
 ||*.ubwzdjejr.fun777game.org^$important
 ||*.uemdkef.webyek.com^$important
 ||*.un1rw11q4u.com^$important
+||*.unixcheats.shop^$important
 ||*.uoxqk.kampongflowers.com^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
+||*.updateservice1-telegramweb.com^$important
 ||*.upgradeultradisponivel.s3.us-east-005.backblazeb2.com^$important
 ||*.urlto.me^$important
 ||*.usacrazyseller.com^$important
@@ -985,6 +989,7 @@
 ||*.www.shopee-jkt505.blogspot.com^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.sk-facebook.blogspot.com^$important
+||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
 ||*.www.steamrub.com^$important
