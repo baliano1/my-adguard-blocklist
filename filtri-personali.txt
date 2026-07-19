@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-19 13:10:13
+! Ultimo aggiornamento automatico: 2026-07-19 15:54:13
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -371,6 +371,7 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dows.sabad724.bio^$important
+||*.dreamwatchevent.com^$important
 ||*.dsdvsvqgy.jetbet.download^$important
 ||*.dtsmmaphe.tampabayspin.com^$important
 ||*.dummy-homepage-instagram.vercel.app^$important
@@ -563,7 +564,6 @@
 ||*.kft.betball90kade.com^$important
 ||*.kgptwmgqf.taktikkbet.com^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kmtdw.jayswraps.com^$important
@@ -655,9 +655,7 @@
 ||*.ojang.pe.kr^$important
 ||*.ojpqxkm.one1x.bet^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.olyqj.luxurygoodscaree.com^$important
-||*.onfiltre.com.tr^$important
 ||*.onlinepharmacygx.com^$important
 ||*.ovbeoktk.coop-fresh.com^$important
 ||*.p3.zbjimg.com^$important
