@@ -162,10 +162,9 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-20 02:39:33
+! Ultimo aggiornamento automatico: 2026-07-20 06:14:13
 ||*.0022a601.pphost.net^$important
 ||*.121jio.senes.at^$important
-||*.123.ywxww.net^$important
 ||*.13830.xyz^$important
 ||*.13842.xyz^$important
 ||*.13920.xyz^$important
@@ -829,6 +828,7 @@
 ||*.tt.falsafekonkour.site^$important
 ||*.tuasesoriadigital.es^$important
 ||*.tuplediskdkey.christmas^$important
+||*.twu-hwt.org^$important
 ||*.txwd.borrender.com^$important
 ||*.tygnu.lokercorp.com^$important
 ||*.u6ggk611.elizabethspizzadenton.com^$important
