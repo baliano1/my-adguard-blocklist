@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-20 19:39:42
+! Ultimo aggiornamento automatico: 2026-07-20 21:57:11
 ||*.0022a601.pphost.net^$important
 ||*.121jio.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -290,7 +290,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.caycn.tampabayspin.com^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cdnvldeyco.github.io^$important
 ||*.celebratingseniors.net^$important
 ||*.cess.digishart.news^$important
@@ -451,6 +450,7 @@
 ||*.fsjkul62.onjabet1.com^$important
 ||*.ftps.payonline-gateway.com^$important
 ||*.fukt.link^$important
+||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
@@ -826,6 +826,7 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.stealth-bomber-radar-cross.garden^$important
+||*.steam66.cn^$important
 ||*.stg.1xfa.xyz^$important
 ||*.stonecradle.com^$important
 ||*.stp12.zabanenglishanari.xyz^$important
@@ -848,7 +849,6 @@
 ||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.system-analytics-pro-guide.courses^$important
-||*.take-care.africa^$important
 ||*.talentrecruitments.com^$important
 ||*.tanishasharma07.github.io^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -1016,6 +1016,7 @@
 ||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.suntrust-onlinebanking.blogspot.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
