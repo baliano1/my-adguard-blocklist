@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-20 16:21:42
+! Ultimo aggiornamento automatico: 2026-07-20 19:39:42
 ||*.0022a601.pphost.net^$important
 ||*.121jio.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -173,6 +173,7 @@
 ||*.4yl6u62i.pdfbama.com^$important
 ||*.5ipju606.venus90bet.com^$important
 ||*.5mp.eu^$important
+||*.6ak-tehnik.si^$important
 ||*.6leriop4.littleitalypizzafortwashington.com^$important
 ||*.6ytetbzh.quickandcleanfetish.com^$important
 ||*.7uaho90m.myluxurykitchenandbath.com^$important
@@ -184,6 +185,7 @@
 ||*.aabqjhcdf.quickandcleanfetish.com^$important
 ||*.aanya900.github.io^$important
 ||*.abandoned-asylum-expedition.garden^$important
+||*.abdulahad.net^$important
 ||*.abhiramk18.github.io^$important
 ||*.abhishekvijay2907.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -367,6 +369,7 @@
 ||*.dogfrpygx.hazzarat.com^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donsoft.xyz^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -379,6 +382,8 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dows.sabad724.bio^$important
+||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dvunixht.boroo.bet^$important
 ||*.dynga.pl^$important
@@ -568,7 +573,6 @@
 ||*.kft.betball90kade.com^$important
 ||*.kgptwmgqf.taktikkbet.com^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.khob.formonstore.com^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
@@ -673,7 +677,6 @@
 ||*.ojang.pe.kr^$important
 ||*.ojpqxkm.one1x.bet^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.olotu.cardanaircraft.org^$important
 ||*.olyqj.luxurygoodscaree.com^$important
 ||*.onedrive-2.previewship.net^$important
@@ -828,6 +831,7 @@
 ||*.stp12.zabanenglishanari.xyz^$important
 ||*.stqdx.gominhabjj.com^$important
 ||*.strangerider.github.io^$important
+||*.streammobs.com^$important
 ||*.sttrt-ledgrs.pages.dev^$important
 ||*.studiogioeli.it^$important
 ||*.subdermal-biometric-chip.garden^$important
