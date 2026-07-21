@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-21 13:40:25
+! Ultimo aggiornamento automatico: 2026-07-21 16:20:34
 ||*.0022a601.pphost.net^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
 ||*.100489.cc^$important
@@ -209,7 +209,6 @@
 ||*.about-us-start-ldgr.pages.dev^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access-divace-bridge.typedream.app^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.acyd.cl^$important
 ||*.admin.byte.in.ua^$important
@@ -303,6 +302,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.community-standards.com^$important
+||*.cehamilton.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cf960450.tw1.ru^$important
 ||*.cglp.cleantruckchecksac.com^$important
@@ -370,9 +370,7 @@
 ||*.deyetechnical.com^$important
 ||*.dezcom.com^$important
 ||*.digital.digitaldatainsights.org^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dlvk.nextbahis.one^$important
@@ -609,6 +607,7 @@
 ||*.mwreese.de^$important
 ||*.mx9x.com^$important
 ||*.my-telstra.ixhwmbpjchd6havowxalzouem-billpay.sense4us.eu^$important
+||*.n.vs108.com^$important
 ||*.na-pg.com^$important
 ||*.nandeesh-s.github.io^$important
 ||*.natural-health-news.com^$important
