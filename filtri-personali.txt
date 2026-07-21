@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-21 02:23:06
+! Ultimo aggiornamento automatico: 2026-07-21 05:46:53
 ||*.0022a601.pphost.net^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
 ||*.0w1a-kw9k-9vif.warrnambool-zambrero-com-s-account.workers.dev^$important
@@ -349,7 +349,6 @@
 ||*.dirge-bet365.com.cn^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dlvk.nextbahis.one^$important
@@ -425,7 +424,6 @@
 ||*.fesold.com^$important
 ||*.fgsnlppf.jadoou.lat^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.fill-form-here-for-blue.surge.sh^$important
 ||*.finanzasbhd-tu-aliado-en-creditos-7a980d53aa0e.replit.app^$important
@@ -460,7 +458,6 @@
 ||*.globalbank.us^$important
 ||*.gofq.phtaxiservices.com^$important
 ||*.gohelpdesk.ie^$important
-||*.goldland8.com^$important
 ||*.gqrkt-dhy2w-gitgjz-zx4e-5kb.pages.dev^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
@@ -552,6 +549,7 @@
 ||*.ledgere.com.cn^$important
 ||*.leviclinton.github.io^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.llttu.hurtigegevinster.com^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
@@ -565,6 +563,7 @@
 ||*.maiaxis.us.cc^$important
 ||*.maidforyou1985.com^$important
 ||*.maixys.us.cc^$important
+||*.manurso.aigroupfood.com^$important
 ||*.meetvideogoogle.com^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mevd0fjv.phimmoichilla.org^$important
@@ -776,7 +775,6 @@
 ||*.ttvsj7o9.jdexteriorcleaning.com^$important
 ||*.tuasesoriadigital.es^$important
 ||*.tweakogen.site^$important
-||*.twu-hwt.org^$important
 ||*.twyd6y14.elizabethspizzadenton.com^$important
 ||*.txvii.hazaratbet.bet^$important
 ||*.txwd.borrender.com^$important
