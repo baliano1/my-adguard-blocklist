@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-21 19:15:38
+! Ultimo aggiornamento automatico: 2026-07-21 22:01:05
 ||*.0022a601.pphost.net^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
 ||*.100489.cc^$important
@@ -238,7 +238,6 @@
 ||*.app-maps.info^$important
 ||*.app.appzcvb.com^$important
 ||*.app.chat-whatsapps.hi.cn^$important
-||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.arromaseis.com.tr^$important
 ||*.aruhq.jbgroup21.com^$important
@@ -306,7 +305,6 @@
 ||*.cf960450.tw1.ru^$important
 ||*.cglp.cleantruckchecksac.com^$important
 ||*.chat-server.maverickpreviews.com^$important
-||*.checkfivem.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
@@ -417,7 +415,6 @@
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
-||*.estudio.ythan.com.br^$important
 ||*.etaru.oasis-active.com^$important
 ||*.evangroup.ru^$important
 ||*.exotic-lime-olunrtbr.edgeone.dev^$important
@@ -456,7 +453,6 @@
 ||*.g2o19aql.charmedanddangerousplush.com^$important
 ||*.g5sy0m2g.calirayalake.com^$important
 ||*.gabyagozetim.com^$important
-||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gerenland.click^$important
@@ -554,6 +550,7 @@
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
+||*.khoancatbetong89.vn^$important
 ||*.khob.formonstore.com^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
@@ -713,7 +710,6 @@
 ||*.steam66.cn^$important
 ||*.stonecradle.com^$important
 ||*.stqdx.gominhabjj.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -757,7 +753,6 @@
 ||*.trustwallet.com-two-factor-authentication02.ao.yesixrq.com^$important
 ||*.ttvsj7o9.jdexteriorcleaning.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.twyd6y14.elizabethspizzadenton.com^$important
 ||*.txvii.hazaratbet.bet^$important
 ||*.txwd.borrender.com^$important
@@ -958,6 +953,7 @@
 ||*.zamilgroups.com^$important
 ||*.zawzq25p.grupoelede.com^$important
 ||*.zenglobalenerji.com^$important
+||*.zhigao5191.com^$important
 ||*.znnop.frisbeeburgerllc.com^$important
 ||*.zpbn.comptonanimalrescue.com^$important
 ||*.zuibs.jetbet.download^$important
