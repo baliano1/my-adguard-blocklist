@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-22 13:43:29
+! Ultimo aggiornamento automatico: 2026-07-22 16:17:31
 ||*.0022a601.pphost.net^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
 ||*.123.ywxww.net^$important
@@ -293,7 +293,6 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
-||*.chrome-desktop.net^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cl.ssouy.com^$important
@@ -467,6 +466,7 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hnhdl.hazaratbet.bet^$important
+||*.hobobot.net^$important
 ||*.hometax.wuaze.com^$important
 ||*.hpnohznb.site-takhtenard-sharti-betland.com^$important
 ||*.hrykp.varzeshlife.ir^$important
@@ -517,7 +517,7 @@
 ||*.kenwillzltd.com^$important
 ||*.kevinmkiarie.github.io^$important
 ||*.khavar.com^$important
-||*.kiabillc.online^$important
+||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kkid.hightidesuffolk.com^$important
@@ -580,7 +580,6 @@
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
 ||*.myservcieklarnaacco.mydomain.zone^$important
-||*.n.vs108.com^$important
 ||*.nandeesh-s.github.io^$important
 ||*.nanz.rumahsakit.de^$important
 ||*.ncxps.com^$important
@@ -659,7 +658,6 @@
 ||*.rxquickpay.com^$important
 ||*.ryr4q9kj.playantwatch.com^$important
 ||*.s.teams-gu.com^$important
-||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samiksha.com.sg^$important
@@ -668,7 +666,6 @@
 ||*.sb123-login.mobi^$important
 ||*.sbcverify-1e6d20.webflow.io^$important
 ||*.scainseto.com.br^$important
-||*.scan.ivankozlovsky.com^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.sdffht3.pages.dev^$important
@@ -692,6 +689,7 @@
 ||*.skript.club^$important
 ||*.skyreals.rumahsakit.de^$important
 ||*.smartermail.host^$important
+||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.sp4ct-korlan-biz8-zorex-malin.pages.dev^$important
