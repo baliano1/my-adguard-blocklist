@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-22 16:17:31
+! Ultimo aggiornamento automatico: 2026-07-22 19:10:47
 ||*.0022a601.pphost.net^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
 ||*.123.ywxww.net^$important
@@ -190,7 +190,6 @@
 ||*.9000-firebase-hv-1781765441869.cluster-cd3bsnf6r5bemwki2bxljme5as.cloudworkstations.dev^$important
 ||*.9vneb.info^$important
 ||*.a6du2gsx.fit2leadconference.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.actorpreparation.com^$important
@@ -293,6 +292,7 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
+||*.chrome-desktop.net^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cl.ssouy.com^$important
@@ -375,7 +375,6 @@
 ||*.dynga.pl^$important
 ||*.ea168jci.customhomebuildersplainfield.com^$important
 ||*.easybrand.vn^$important
-||*.echkdia.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.elypbre.com^$important
@@ -414,7 +413,6 @@
 ||*.ffd.aduaexpressperu.com^$important
 ||*.fgsnlppf.jadoou.lat^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -517,7 +515,6 @@
 ||*.kenwillzltd.com^$important
 ||*.kevinmkiarie.github.io^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kkid.hightidesuffolk.com^$important
@@ -580,6 +577,7 @@
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
 ||*.myservcieklarnaacco.mydomain.zone^$important
+||*.n.vs108.com^$important
 ||*.nandeesh-s.github.io^$important
 ||*.nanz.rumahsakit.de^$important
 ||*.ncxps.com^$important
