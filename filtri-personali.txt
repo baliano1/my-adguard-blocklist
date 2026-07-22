@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-22 19:10:47
+! Ultimo aggiornamento automatico: 2026-07-22 22:01:26
 ||*.0022a601.pphost.net^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
 ||*.123.ywxww.net^$important
@@ -280,7 +280,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cehamilton.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cglp.cleantruckchecksac.com^$important
@@ -708,7 +707,6 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.steam66.cn^$important
 ||*.steamcommumnity.cam^$important
 ||*.stonecradle.com^$important
 ||*.streammobs.com^$important
@@ -719,7 +717,6 @@
 ||*.sutf.kafekarachi.com^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.syqmn.calirayalake.com^$important
 ||*.t13ecldw.calculadoracomisiones.com^$important
