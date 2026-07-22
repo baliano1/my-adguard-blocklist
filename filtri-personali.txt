@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-22 08:22:34
+! Ultimo aggiornamento automatico: 2026-07-22 11:05:41
 ||*.0022a601.pphost.net^$important
 ||*.013708vip.com^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
@@ -225,6 +225,7 @@
 ||*.aftelecom.com.br^$important
 ||*.agenciatributaria.chat^$important
 ||*.agua-assassina.com^$important
+||*.airtickts.com^$important
 ||*.airyvineic.help^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -237,6 +238,7 @@
 ||*.app.appzcvb.com^$important
 ||*.app.estado-online.com^$important
 ||*.applicable-amaranth-l5x9z3bq.edgeone.dev^$important
+||*.archivoscrosoft.com^$important
 ||*.ardruastudio.com^$important
 ||*.areyouready.co.za^$important
 ||*.arnbsix.rumahsakit.de^$important
@@ -252,6 +254,7 @@
 ||*.auyc.pikachuplush.com^$important
 ||*.avanteshipping.com^$important
 ||*.avfzq.maia-bentley.com^$important
+||*.awarenessexhibition.com^$important
 ||*.axoo.colg1.org^$important
 ||*.backupso.com^$important
 ||*.bafkreidjdq2kk4ndtllvx5afsdqrhvgjqgnvj5dupbe7m65winfca7yd3a.ipfs.dweb.link^$important
@@ -310,7 +313,6 @@
 ||*.christophercheung.com^$important
 ||*.chrome-desktop.net^$important
 ||*.chrome-windows.ru^$important
-||*.chrome.browserapp.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
@@ -503,6 +505,7 @@
 ||*.itssprout.com^$important
 ||*.itsupp0rt.de^$important
 ||*.jagadeeswaran-k007.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jb.mywwjj.xyz^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -524,6 +527,7 @@
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
+||*.kiabillc.online^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kkid.hightidesuffolk.com^$important
@@ -819,6 +823,7 @@
 ||*.www.futureoneenterprises.com^$important
 ||*.www.garzaoceanviewrentals.com^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hseda.com^$important
 ||*.www.instagram-clone-login-page.vercel.app^$important
 ||*.www.instagram-support-page.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
