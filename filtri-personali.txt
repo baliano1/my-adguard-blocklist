@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-22 05:46:02
+! Ultimo aggiornamento automatico: 2026-07-22 08:22:34
 ||*.0022a601.pphost.net^$important
 ||*.013708vip.com^$important
 ||*.01ejjpa2.behtarin-site-shartbandi.com^$important
@@ -213,7 +213,6 @@
 ||*.8iuwoa4l.of-tencent.com^$important
 ||*.97ee8.catex.at^$important
 ||*.a6du2gsx.fit2leadconference.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.actorpreparation.com^$important
@@ -298,6 +297,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cehamilton.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cglp.cleantruckchecksac.com^$important
@@ -308,6 +308,9 @@
 ||*.chinesehoroscopes.ca^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
+||*.chrome-desktop.net^$important
+||*.chrome-windows.ru^$important
+||*.chrome.browserapp.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
@@ -370,6 +373,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.down.unicron-cdn.click^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
@@ -448,6 +452,7 @@
 ||*.gbgl.kafekarachi.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
+||*.gestionycobranzas.com^$important
 ||*.getinstantfollowersinstagram.blogspot.com^$important
 ||*.giwl.highkickstkd.com^$important
 ||*.gjwc.kalientestore.com^$important
@@ -498,7 +503,6 @@
 ||*.itssprout.com^$important
 ||*.itsupp0rt.de^$important
 ||*.jagadeeswaran-k007.github.io^$important
-||*.jawaratekno.com^$important
 ||*.jb.mywwjj.xyz^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -520,7 +524,6 @@
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kkid.hightidesuffolk.com^$important
@@ -552,7 +555,6 @@
 ||*.lvcrn.monicarobles.org^$important
 ||*.lxlwn.nextbahis.one^$important
 ||*.m.jkoa.co.kr^$important
-||*.magnusworkspace.com^$important
 ||*.mahhadev3299-collab.github.io^$important
 ||*.maidforyou1985.com^$important
 ||*.maisonchristina.com^$important
@@ -587,7 +589,6 @@
 ||*.nodemetrics9095.com^$important
 ||*.noithaticon.vn^$important
 ||*.nothinganythingok.blogspot.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.occdentebncoprtaltrnsccional.vercel.app^$important
@@ -601,7 +602,6 @@
 ||*.ovzdi.jetbet.download^$important
 ||*.p3.zbjimg.com^$important
 ||*.pagsegurotaxas.co^$important
-||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.peachcity.si^$important
@@ -648,6 +648,7 @@
 ||*.rxquickpay.com^$important
 ||*.ryr4q9kj.playantwatch.com^$important
 ||*.s.teams-gu.com^$important
+||*.s3-python.cc^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samiksha.com.sg^$important
@@ -680,9 +681,11 @@
 ||*.spectrumcommunicationsbvsd.framer.website^$important
 ||*.spgint.com^$important
 ||*.ss136.top^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.steam66.cn^$important
 ||*.steamcommumnity.cam^$important
 ||*.steamcommunity-workshopdesignerbalance.shop^$important
 ||*.stonecradle.com^$important
@@ -816,7 +819,6 @@
 ||*.www.futureoneenterprises.com^$important
 ||*.www.garzaoceanviewrentals.com^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.instagram-clone-login-page.vercel.app^$important
 ||*.www.instagram-support-page.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
@@ -844,7 +846,6 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.phantomdappfix.vercel.app^$important
 ||*.www.reifenquick.de^$important
