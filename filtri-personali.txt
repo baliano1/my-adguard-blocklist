@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-23 05:50:09
+! Ultimo aggiornamento automatico: 2026-07-23 08:23:57
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -288,6 +288,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cehamilton.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -361,6 +362,7 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
@@ -435,7 +437,6 @@
 ||*.imffy.com^$important
 ||*.imt0ken.cc^$important
 ||*.in.vxces.my.id^$important
-||*.indeanapolice.cc^$important
 ||*.inforalz.com^$important
 ||*.infos-reprommation.bolt.host^$important
 ||*.inlnk.co^$important
@@ -483,7 +484,6 @@
 ||*.leger-live-desktop.pages.dev^$important
 ||*.libss.0x504.com^$important
 ||*.lightcord.xyz^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.litsurprise.com^$important
 ||*.live-ledgar-cdn.pages.dev^$important
 ||*.local-update.com^$important
@@ -528,6 +528,7 @@
 ||*.neurocyb.com^$important
 ||*.nizamyu2005.github.io^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
@@ -658,6 +659,7 @@
 ||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
+||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tara-facebook.blogspot.com^$important
