@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-24 05:47:00
+! Ultimo aggiornamento automatico: 2026-07-24 08:21:27
 ||*.0022a601.pphost.net^$important
 ||*.1086lll.com^$important
 ||*.123.ywxww.net^$important
@@ -195,6 +195,7 @@
 ||*.allendostmen.com^$important
 ||*.alsofillsoar.xyz^$important
 ||*.alternativas.ru^$important
+||*.always-undetected.com^$important
 ||*.amazon-clone-six-rho-44.vercel.app^$important
 ||*.americanmanchester.org^$important
 ||*.amid-darnsoul.xyz^$important
@@ -207,6 +208,7 @@
 ||*.areyouready.co.za^$important
 ||*.armsmead-bell.xyz^$important
 ||*.arobinhooddog.life^$important
+||*.arromaseis.com.tr^$important
 ||*.askabhishekdev.github.io^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -257,6 +259,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cehamilton.com^$important
 ||*.celebratingseniors.net^$important
 ||*.char-avid-verb.xyz^$important
@@ -273,7 +276,6 @@
 ||*.claylikepilot.xyz^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coalfact-tear.xyz^$important
 ||*.compuserviceonline.com.br^$important
@@ -332,6 +334,7 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dramdare-shop.xyz^$important
+||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.drug-arereef.xyz^$important
 ||*.duck-fondmoan.xyz^$important
@@ -342,12 +345,10 @@
 ||*.dynga.pl^$important
 ||*.earlnotgray.xyz^$important
 ||*.earltoll-snap.xyz^$important
-||*.easybrand.vn^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.en-treezer-cdn-sso.typedream.app^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.ends-fork-ores.xyz^$important
 ||*.ends-pare-stow.xyz^$important
@@ -429,6 +430,7 @@
 ||*.hoopramplawn.xyz^$important
 ||*.hseda.com^$important
 ||*.hullmall-cool.xyz^$important
+||*.hypercorevector9.lol^$important
 ||*.icoffeecloud.com^$important
 ||*.iconropeknob.xyz^$important
 ||*.idea-nickdoor.xyz^$important
@@ -498,7 +500,6 @@
 ||*.lull-islebrew.xyz^$important
 ||*.m-3fta3c-adob39a7b-duc4signa7.com^$important
 ||*.m.jkoa.co.kr^$important
-||*.maidforyou1985.com^$important
 ||*.mailsonbelle.com.br^$important
 ||*.maisvantagens.s3.us-east-005.backblazeb2.com^$important
 ||*.male-martloss.xyz^$important
@@ -592,6 +593,7 @@
 ||*.out-duct-till.xyz^$important
 ||*.over-clapmolt.xyz^$important
 ||*.p3.zbjimg.com^$important
+||*.packetget.com^$important
 ||*.page-vest-lost.xyz^$important
 ||*.palamakulasanthosh.github.io^$important
 ||*.palharesinformatica.com.br^$important
@@ -663,7 +665,6 @@
 ||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
 ||*.regal-llama-4864f7.netlify.app^$important
-||*.reifenquick.de^$important
 ||*.reimagine-steam.vercel.app^$important
 ||*.rent-a-bnb.vercel.app^$important
 ||*.renukatikhat.github.io^$important
@@ -898,7 +899,9 @@
 ||*.umangsinghsingh055-boop.github.io^$important
 ||*.umeshpal97.github.io^$important
 ||*.un1rw11q4u.com^$important
+||*.undetected-always.com^$important
 ||*.unitecverifi--unitecver.replit.app^$important
+||*.universami.ge^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
