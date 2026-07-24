@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-24 16:31:56
+! Ultimo aggiornamento automatico: 2026-07-24 19:19:42
 ||*.0022a601.pphost.net^$important
 ||*.0ipf30-6ivzuz-ucbl8k-43q.pages.dev^$important
 ||*.123-facebook.blogspot.com^$important
@@ -272,7 +272,6 @@
 ||*.claylikepilot.xyz^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coalfact-tear.xyz^$important
 ||*.codelogr-two.vercel.app^$important
@@ -310,7 +309,9 @@
 ||*.died-halo-tang.xyz^$important
 ||*.diet-graymost.xyz^$important
 ||*.disk-bask-rusk.xyz^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -325,6 +326,7 @@
 ||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
+||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
@@ -647,7 +649,6 @@
 ||*.samecobmill.xyz^$important
 ||*.samiksha.com.sg^$important
 ||*.sand-lure-noon.xyz^$important
-||*.satuatlas.com^$important
 ||*.scainseto.com.br^$important
 ||*.scan-coolhock.xyz^$important
 ||*.scanbot.me^$important
@@ -858,6 +859,7 @@
 ||*.teyhgdghdd.weebly.com^$important
 ||*.thecourierdelivery2.netlify.app^$important
 ||*.theholidayroads.com^$important
+||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thepullmanfolkestone.com^$important
