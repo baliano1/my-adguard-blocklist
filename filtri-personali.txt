@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-24 02:23:47
+! Ultimo aggiornamento automatico: 2026-07-24 05:47:00
 ||*.0022a601.pphost.net^$important
 ||*.1086lll.com^$important
 ||*.123.ywxww.net^$important
@@ -459,6 +459,7 @@
 ||*.keptpilekeep.xyz^$important
 ||*.kgbhost.digital^$important
 ||*.khavar.com^$important
+||*.khoancatbetong89.vn^$important
 ||*.kiabillc.online^$important
 ||*.kiltwent-our.xyz^$important
 ||*.kimyen.net^$important
@@ -1026,7 +1027,6 @@
 ||*.xfinityneete.framer.website^$important
 ||*.xlonex-skolt-d4b671-thrr-cravik.pages.dev^$important
 ||*.xshop.com.tr^$important
-||*.xuezha.net^$important
 ||*.yash762816.github.io^$important
 ||*.yashchandar150-blip.github.io^$important
 ||*.yaykiranotomotiv.com^$important
