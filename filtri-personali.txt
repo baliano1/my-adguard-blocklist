@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-25 19:01:39
+! Ultimo aggiornamento automatico: 2026-07-25 21:52:08
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -205,6 +205,7 @@
 ||*.awarenessexhibition.com^$important
 ||*.azam-crush.github.io^$important
 ||*.babyglee-all.xyz^$important
+||*.backupso.com^$important
 ||*.ballweldleer.xyz^$important
 ||*.bandrice-pity.xyz^$important
 ||*.bandsway-arch.xyz^$important
@@ -257,7 +258,6 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
-||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cl.ssouy.com^$important
 ||*.claylikepilot.xyz^$important
@@ -303,6 +303,7 @@
 ||*.disk-bask-rusk.xyz^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -515,6 +516,7 @@
 ||*.lull-islebrew.xyz^$important
 ||*.m.ezhj2znh069c.com^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.ma.khwgrf.com^$important
 ||*.maidforyou1985.com^$important
 ||*.male-martloss.xyz^$important
@@ -603,7 +605,6 @@
 ||*.pogo-hunt-brisk.xyz^$important
 ||*.pollsort-tick.xyz^$important
 ||*.postelnini.mk^$important
-||*.preciosasjoyitas.com.mx^$important
 ||*.prey-body-word.xyz^$important
 ||*.propgrab-bird.xyz^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -844,7 +845,6 @@
 ||*.stop-lathtrap.xyz^$important
 ||*.stopplay-rich.xyz^$important
 ||*.streaming-ui-react.netlify.app^$important
-||*.streammobs.com^$important
 ||*.stubclue-hold.xyz^$important
 ||*.studiogioeli.it^$important
 ||*.such-sitejoke.xyz^$important
@@ -891,7 +891,6 @@
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
-||*.thepullmanfolkestone.com^$important
 ||*.this-maimreef.xyz^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
