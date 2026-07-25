@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-25 08:01:26
+! Ultimo aggiornamento automatico: 2026-07-25 10:24:07
 ||*.0022a601.pphost.net^$important
 ||*.11bb-fccee8babmhpc0e6.z02.azurefd.net^$important
 ||*.123.ywxww.net^$important
@@ -217,7 +217,6 @@
 ||*.b5f-fzjx-x4ax5-446ef-d6vuc.pages.dev^$important
 ||*.b786876b.pages.dev^$important
 ||*.babyglee-all.xyz^$important
-||*.backupso.com^$important
 ||*.ballweldleer.xyz^$important
 ||*.bandrice-pity.xyz^$important
 ||*.bandsway-arch.xyz^$important
@@ -341,7 +340,6 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dramdare-shop.xyz^$important
-||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.drug-arereef.xyz^$important
 ||*.duck-fondmoan.xyz^$important
@@ -524,7 +522,6 @@
 ||*.ledger-wallets-auth-edges.vercel.app^$important
 ||*.let-dyed-crow.xyz^$important
 ||*.lh.gecnnrl.com^$important
-||*.libss.0x504.com^$important
 ||*.lickinchmail.xyz^$important
 ||*.like-hold-fray.xyz^$important
 ||*.lindnerelektroanlagen.de^$important
@@ -890,6 +887,7 @@
 ||*.vent-live-crab.xyz^$important
 ||*.verb-fowl-old.xyz^$important
 ||*.verbsireblew.xyz^$important
+||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.videomeetgoogle.com^$important
