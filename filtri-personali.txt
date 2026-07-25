@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-25 13:17:06
+! Ultimo aggiornamento automatico: 2026-07-25 16:01:40
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -322,6 +322,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dramdare-shop.xyz^$important
 ||*.dreamapp.xyz^$important
@@ -468,6 +469,7 @@
 ||*.keptpilekeep.xyz^$important
 ||*.kgbhost.digital^$important
 ||*.khavar.com^$important
+||*.khoancatbetong89.vn^$important
 ||*.kiltwent-our.xyz^$important
 ||*.kimyen.net^$important
 ||*.king-culmdown.xyz^$important
@@ -514,7 +516,6 @@
 ||*.lull-islebrew.xyz^$important
 ||*.m.ezhj2znh069c.com^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.ma.khwgrf.com^$important
 ||*.maidforyou1985.com^$important
 ||*.male-martloss.xyz^$important
@@ -666,7 +667,6 @@
 ||*.seismophonic.com^$important
 ||*.sellnotlife.xyz^$important
 ||*.semencepourlavie.org^$important
-||*.semprecardsecure.com^$important
 ||*.separadordecc.com^$important
 ||*.server1341.github.io^$important
 ||*.servicionatural.webcindario.com^$important
@@ -837,6 +837,7 @@
 ||*.spgint.com^$important
 ||*.srvicepromigrogershaweb-81d327.netlify.app^$important
 ||*.started-dekstop.pages.dev^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
