@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-25 05:40:26
+! Ultimo aggiornamento automatico: 2026-07-25 08:01:26
 ||*.0022a601.pphost.net^$important
 ||*.11bb-fccee8babmhpc0e6.z02.azurefd.net^$important
 ||*.123.ywxww.net^$important
@@ -177,6 +177,7 @@
 ||*.89b6n76b.pages.dev^$important
 ||*.97ee7.catex.at^$important
 ||*.aagaun-l13a5-84aif-fti-glu7a.pages.dev^$important
+||*.abdulahad.net^$important
 ||*.absshop-ping.xyz^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
@@ -216,6 +217,7 @@
 ||*.b5f-fzjx-x4ax5-446ef-d6vuc.pages.dev^$important
 ||*.b786876b.pages.dev^$important
 ||*.babyglee-all.xyz^$important
+||*.backupso.com^$important
 ||*.ballweldleer.xyz^$important
 ||*.bandrice-pity.xyz^$important
 ||*.bandsway-arch.xyz^$important
@@ -280,6 +282,7 @@
 ||*.cloudstorage-hub.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cmeradeseguranalentedupla.lovable.app^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coalfact-tear.xyz^$important
 ||*.compuserviceonline.com.br^$important
@@ -339,6 +342,7 @@
 ||*.dowonline.ru^$important
 ||*.dramdare-shop.xyz^$important
 ||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.drug-arereef.xyz^$important
 ||*.duck-fondmoan.xyz^$important
 ||*.duel-gulp-luck.xyz^$important
@@ -354,7 +358,6 @@
 ||*.embedone.com^$important
 ||*.en-sule-trezo.wasmer.app^$important
 ||*.en.taichuan.com^$important
-||*.endpoint.project0.cc^$important
 ||*.ends-fork-ores.xyz^$important
 ||*.ends-pare-stow.xyz^$important
 ||*.epanpano.com^$important
@@ -415,7 +418,6 @@
 ||*.gangteem-beam.xyz^$important
 ||*.garcanocan.co^$important
 ||*.gboutros.howto.rocks^$important
-||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
 ||*.getrichcurl.xyz^$important
 ||*.give-lawncalm.xyz^$important
@@ -501,7 +503,6 @@
 ||*.keptpilekeep.xyz^$important
 ||*.kgbhost.digital^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kiltwent-our.xyz^$important
 ||*.kimyen.net^$important
 ||*.king-culmdown.xyz^$important
@@ -587,6 +588,7 @@
 ||*.nickodds-none.xyz^$important
 ||*.nine-edge-was.xyz^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.obeylandchap.xyz^$important
@@ -797,7 +799,6 @@
 ||*.sp5ct-kalor-biz8-furex-jenik.pages.dev^$important
 ||*.spgint.com^$important
 ||*.sso-kucoin-log-in-eng.typedream.app^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.staticfile-sntandre.wasmer.app^$important
@@ -807,6 +808,7 @@
 ||*.stonecradle.com^$important
 ||*.stop-lathtrap.xyz^$important
 ||*.stopplay-rich.xyz^$important
+||*.streammobs.com^$important
 ||*.stubclue-hold.xyz^$important
 ||*.studiogioeli.it^$important
 ||*.such-sitejoke.xyz^$important
@@ -817,7 +819,6 @@
 ||*.surf-life-sank.xyz^$important
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
-||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swaycladstop.xyz^$important
 ||*.swayoralnear.xyz^$important
 ||*.swiftfusion.tech^$important
@@ -875,6 +876,7 @@
 ||*.tue-orange-01.cfd^$important
 ||*.turniron-mound.xyz^$important
 ||*.tusharsharma2606.github.io^$important
+||*.twu-hwt.org^$important
 ||*.u0jt-qxl2-zkcp.aflores-rorealty-com-s-account.workers.dev^$important
 ||*.ugly-arcs-lyre.xyz^$important
 ||*.ugly-oursold.xyz^$important
@@ -888,7 +890,6 @@
 ||*.vent-live-crab.xyz^$important
 ||*.verb-fowl-old.xyz^$important
 ||*.verbsireblew.xyz^$important
-||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.videomeetgoogle.com^$important
@@ -979,7 +980,6 @@
 ||*.www.mobimpex.ro^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.netflix-clone-css-eight.vercel.app^$important
 ||*.www.netflix-clone-html-css-webpage-git-master-husinats-projects.vercel.app^$important
 ||*.www.netflix-clone-pi-puce.vercel.app^$important
