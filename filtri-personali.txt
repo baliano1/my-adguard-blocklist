@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-26 15:58:47
+! Ultimo aggiornamento automatico: 2026-07-26 19:05:22
 ||*.0022a601.pphost.net^$important
 ||*.0lblop-rol-dlxbl-qgo-fl6kbg.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -218,6 +218,7 @@
 ||*.bore.pub^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
+||*.broadwalkindia.com^$important
 ||*.business-help-center-six.vercel.app^$important
 ||*.businesspage-fixdisplayerror.netlify.app^$important
 ||*.bvaco.com^$important
@@ -310,8 +311,10 @@
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
+||*.femboykisser.sbs^$important
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fiturmenu-idd.actglio.my.id^$important
@@ -387,6 +390,7 @@
 ||*.maidforyou1985.com^$important
 ||*.mail.fairgroovetr.blog^$important
 ||*.mail.rarewingvm.blog^$important
+||*.mail.sandystudiogh.blog^$important
 ||*.meaxsis.us.cc^$important
 ||*.meetvideogoogle.com^$important
 ||*.metrics.gocloudmaps.com^$important
@@ -398,7 +402,6 @@
 ||*.molemole.my.id^$important
 ||*.mosselnet.co.za^$important
 ||*.mostbet26849.help^$important
-||*.msfconfig.icu^$important
 ||*.muaklekcoop.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
@@ -411,7 +414,6 @@
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.p3.zbjimg.com^$important
 ||*.packetget.com^$important
@@ -453,6 +455,7 @@
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.samiksha.com.sg^$important
+||*.sandystudiogh.blog^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
@@ -643,6 +646,7 @@
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.toolshare.com.tr^$important
+||*.top8onlinegame.com^$important
 ||*.tractor.trees4sale.net^$important
 ||*.transactions-esl-text.sbs^$important
 ||*.transactions-esl-text.top^$important
@@ -714,7 +718,6 @@
 ||*.www.g4educacao-google.vercel.app^$important
 ||*.www.hockeytalkontario.ca^$important
 ||*.www.hostingcloud.science^$important
-||*.www.hseda.com^$important
 ||*.www.html-css-peach-one.vercel.app^$important
 ||*.www.insta-clone-smoky.vercel.app^$important
 ||*.www.instagram-baittouts-login.blogspot.com^$important
@@ -792,7 +795,6 @@
 ||*.z17xne-74hs-59t18-28wn-aqd.pages.dev^$important
 ||*.zamilgroups.com^$important
 ||*.zda1-2p9ysz-tvdzg-6atm1o.pages.dev^$important
-||*.zenglobalenerji.com^$important
 ||*.zfnrw2bpzgo-kdply98plsi-7e8f1a-rqv94c.pages.dev^$important
 ||*.zfnrw4b52pz-kdplyplsi-8e1f2a-dfj79c.pages.dev^$important
 ||*.zfnrw5bpzgo-kdply98plsi-8e7f4a-dfj12c.pages.dev^$important
