@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-26 02:28:41
+! Ultimo aggiornamento automatico: 2026-07-26 05:57:53
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.158-158-120-184.cprapid.com^$important
@@ -308,7 +308,6 @@
 ||*.dowonline.ru^$important
 ||*.dravani-gld-belxora-r1m6fc97.pages.dev^$important
 ||*.dravemi-gld-zorquni-r4x1hq97.pages.dev^$important
-||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
@@ -457,6 +456,7 @@
 ||*.kukkinlogxn.webflow.io^$important
 ||*.landing3-web-lcgz.vercel.app^$important
 ||*.landonirwin.com^$important
+||*.lapidorseposoalovbs2.com^$important
 ||*.lavdalassan.netlify.app^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layanan-shopee-8.blogspot.com^$important
