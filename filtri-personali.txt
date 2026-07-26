@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-26 19:05:22
+! Ultimo aggiornamento automatico: 2026-07-26 21:56:00
 ||*.0022a601.pphost.net^$important
 ||*.0lblop-rol-dlxbl-qgo-fl6kbg.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -236,6 +236,7 @@
 ||*.chiptune.com^$important
 ||*.chocolate-advantage-077384.framer.app^$important
 ||*.christophercheung.com^$important
+||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
@@ -274,7 +275,6 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dkb-khl-f40-hbbv-7nar0g-62c1yp.pages.dev^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -282,6 +282,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -293,6 +294,7 @@
 ||*.dravani-gld-belxora-r1m6fc97.pages.dev^$important
 ||*.dravemi-gld-zorquni-r4x1hq97.pages.dev^$important
 ||*.dreamapp.xyz^$important
+||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
 ||*.earnest-rabanadas-1b0b25.netlify.app^$important
@@ -360,14 +362,12 @@
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
 ||*.js.byxly.eu.cc^$important
 ||*.jyothishmathi.in^$important
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
@@ -410,10 +410,12 @@
 ||*.netflixpaymentportalsa.zite.so^$important
 ||*.nikith-reddy-31.github.io^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.p3.zbjimg.com^$important
 ||*.packetget.com^$important
@@ -444,6 +446,7 @@
 ||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reutilizemais.co.mz^$important
+||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.robertrowe.com^$important
 ||*.robiox.com.py^$important
@@ -621,11 +624,13 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.t5ep-vfbg3-bua-zk80fu-ib0e.pages.dev^$important
 ||*.talentrecruitments.com^$important
@@ -749,7 +754,6 @@
 ||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
