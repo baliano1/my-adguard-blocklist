@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-27 16:54:58
+! Ultimo aggiornamento automatico: 2026-07-27 19:21:30
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -243,6 +243,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccguydelivery.netlify.app^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.charming-longma-63e4df.netlify.app^$important
 ||*.chartertimeupdate.framer.website^$important
@@ -417,6 +418,7 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.ji2362.craftum.io^$important
@@ -476,6 +478,7 @@
 ||*.mail.sandystudiogh.blog^$important
 ||*.majestic-eclair-0dd7a8.netlify.app^$important
 ||*.malxisk.us.cc^$important
+||*.mandarin.net.au^$important
 ||*.marianswoman.org^$important
 ||*.marvelous-valkyrie-9d97e1.netlify.app^$important
 ||*.mascixs.us.cc^$important
@@ -569,7 +572,6 @@
 ||*.robinhood-loginv.gitbook.io^$important
 ||*.robiox.com.ps^$important
 ||*.robiox.com.ua^$important
-||*.roblox-xeno.net^$important
 ||*.rough-sky-d4f3.suminar6.workers.dev^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
@@ -598,6 +600,7 @@
 ||*.siaasesoria.com.mx^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
+||*.smoking-hot.net^$important
 ||*.snhgj3avstr-pldwf54kmja-1d2e9f-mk827n.pages.dev^$important
 ||*.snhgj6bdrun-xvtlyspli-3a2b9f-snq33c.pages.dev^$important
 ||*.soft.110route.com^$important
@@ -644,6 +647,7 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.taupe-custard-6d4b9e.netlify.app^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
@@ -668,7 +672,6 @@
 ||*.trtmyanmar.com^$important
 ||*.tsmship.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.un1rw11q4u.com^$important
 ||*.uniswap-clone-p22obeq5n-kirankumargonti.vercel.app^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -770,7 +773,6 @@
 ||*.www.ouzhyi.blue^$important
 ||*.www.oycntgafcx.me^$important
 ||*.www.quick-blue-tick.surge.sh^$important
-||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.roblox.com.mu^$important
 ||*.www.saf-oil.ru^$important
@@ -781,7 +783,6 @@
 ||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.swisscomlei.com^$important
 ||*.www.talktalkkkerr.weebly.com^$important
@@ -809,9 +810,9 @@
 ||*.yhnuj73mjwr-gfvcdrel-0b7d9e-xj299a.pages.dev^$important
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
+||*.zenglobalenerji.com^$important
 ||*.zeta-facebook.blogspot.com^$important
 ||*.zhigao5191.com^$important
 ||*.zippy-gingersnap-1a2527.netlify.app^$important
 ||*.zjstr7a84gpx-qcfzkkmja-0e4f8b-skr5c.pages.dev^$important
 ||*.zuberthakur.github.io^$important
-||*.zycdjz.com^$important
