@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-27 19:21:30
+! Ultimo aggiornamento automatico: 2026-07-27 22:03:24
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -180,7 +180,6 @@
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
-||*.aethersyncmatrix5.lol^$important
 ||*.aftelecom.com.br^$important
 ||*.airtickts.com^$important
 ||*.aktiffkan-paylater.cmm.my.id^$important
@@ -212,6 +211,7 @@
 ||*.autoscouts24de.com^$important
 ||*.awarenessexhibition.com^$important
 ||*.ay4431.craftum.io^$important
+||*.babydiapersinturkey.com^$important
 ||*.backupso.com^$important
 ||*.beleberdon.com^$important
 ||*.beoauto.alexion.rs^$important
@@ -231,6 +231,7 @@
 ||*.bookiinng-com-dubai.webflow.io^$important
 ||*.bookiinng-com-dubaii.webflow.io^$important
 ||*.bore.pub^$important
+||*.breakneckridgefarm.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.broad-cloud-1799.richardwilsontunh63745.workers.dev^$important
@@ -308,7 +309,6 @@
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -321,7 +321,6 @@
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.doxm-6gq-rqy6-7niex-c5kiay.pages.dev^$important
-||*.dreamapp.xyz^$important
 ||*.dreamwatchevent.com^$important
 ||*.dsgagfsahkfsahfjs.shop^$important
 ||*.dulcet-gnome-53755c.netlify.app^$important
@@ -434,6 +433,7 @@
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
+||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.koininlloginin.webflow.io^$important
@@ -453,7 +453,6 @@
 ||*.ledger-wallet.vercel.app^$important
 ||*.ledgrus-live.pages.dev^$important
 ||*.libss.0x504.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.link.quantum-financialsystems.com^$important
 ||*.live-ledge-en-start.pages.dev^$important
 ||*.live-swisscom.firebaseapp.com^$important
@@ -522,6 +521,7 @@
 ||*.onfiltre.com.tr^$important
 ||*.orangeautossale.com^$important
 ||*.other-aqua-2qb7qzos.edgeone.app^$important
+||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.padisahbetingirisi.top^$important
 ||*.pagesygkkk.pages.dev^$important
@@ -631,7 +631,6 @@
 ||*.steady-tapioca-f52fc0.netlify.app^$important
 ||*.stellular-liger-f08bea.netlify.app^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
