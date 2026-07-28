@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-28 05:43:29
+! Ultimo aggiornamento automatico: 2026-07-28 08:27:48
 ||*.0022a601.pphost.net^$important
 ||*.00k-ny8-327hi-c2lc-f65-yogh2g.pages.dev^$important
 ||*.0dp-p7u-hb0if-7l7mby-rz1.pages.dev^$important
@@ -215,11 +215,9 @@
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aethersyncmatrix5.lol^$important
-||*.aftelecom.com.br^$important
 ||*.airtickts.com^$important
 ||*.akash142005.github.io^$important
 ||*.alarmline.com.br^$important
-||*.alineeleuterio.com.br^$important
 ||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
 ||*.alternativas.ru^$important
@@ -240,6 +238,7 @@
 ||*.babydiapersinturkey.com^$important
 ||*.backupso.com^$important
 ||*.badge-free-lifetime-verified.surge.sh^$important
+||*.beak.in^$important
 ||*.benaqrix-biz-plamvureta-c7x5dy82.pages.dev^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bezzful-sherbet-5900d7-mny1204gff-2406wra.pages.dev^$important
@@ -289,7 +288,6 @@
 ||*.christophercheung.com^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
-||*.cl.ssouy.com^$important
 ||*.clavor-bintel-3b82fc-mrkt-grendal.pages.dev^$important
 ||*.cleenfoecleen22.com^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -309,13 +307,13 @@
 ||*.cs.go.kg^$important
 ||*.csplaygems.com^$important
 ||*.customcreationsmaine.com^$important
+||*.cuttingedgefencing.ca^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.danaa-iindonesiaa.vmm.my.id^$important
 ||*.data.yhydl.com^$important
 ||*.dawn-core-2jp.pages.dev^$important
-||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.deliverymailreport.co.za^$important
@@ -329,7 +327,6 @@
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
-||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
@@ -348,12 +345,9 @@
 ||*.dreamwatchevent.com^$important
 ||*.drunf-xplorq-jmudz-e6c582-shrr-gronix.pages.dev^$important
 ||*.dsgagfsahkfsahfjs.shop^$important
-||*.dusttv.com^$important
 ||*.dynga.pl^$important
-||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.enlineabdv--bdv-2026.replit.app^$important
 ||*.epanpano.com^$important
@@ -380,7 +374,6 @@
 ||*.first-security-verden.de^$important
 ||*.fitur-aktivasipay.paylater.buzz^$important
 ||*.flyingmutts.com^$important
-||*.fmrio.com^$important
 ||*.fnworth.top^$important
 ||*.fort-nite.info^$important
 ||*.forteno.top^$important
@@ -390,7 +383,6 @@
 ||*.free-blue-verified-badge.surge.sh^$important
 ||*.frost-treasury.com^$important
 ||*.fukt.link^$important
-||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fynta-bfrnk-vlypx-9r48da-yjbw-krulax.pages.dev^$important
 ||*.fynta-qtwiz-vlypx-4b82fc-gblt-krulax.pages.dev^$important
@@ -426,14 +418,12 @@
 ||*.indusenterprises.co^$important
 ||*.instagramclone-v1.vercel.app^$important
 ||*.instagramhelp.whf.bz^$important
-||*.ircftp.net^$important
-||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jfr5bpzgobk-vronz98plsi-4e5f7a-fyn3t.pages.dev^$important
-||*.jlwz.cn^$important
 ||*.jmudz857kf-zgronpdrf-9e2a5b-gre1l.pages.dev^$important
 ||*.jmudz95kfly-zgron98pdrf-0e3a6b-gre2l.pages.dev^$important
 ||*.jn.onfhvt.com^$important
@@ -445,6 +435,7 @@
 ||*.keshhav44-ux.github.io^$important
 ||*.kflyp-zgron-bvark-8os49d-qrxp-vryska.pages.dev^$important
 ||*.khavar.com^$important
+||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kml2e71kqo-kroptplos-4c6d0a-pli3x.pages.dev^$important
@@ -490,7 +481,6 @@
 ||*.mogimall.com^$important
 ||*.molemole.my.id^$important
 ||*.monetary.coin999.vip^$important
-||*.mosselnet.co.za^$important
 ||*.msfconfig.icu^$important
 ||*.muaklekcoop.com^$important
 ||*.mundocarnes.cl^$important
@@ -508,7 +498,6 @@
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
 ||*.olajirebasit100-creator.github.io^$important
-||*.onfiltre.com.tr^$important
 ||*.openup.to^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
@@ -530,7 +519,6 @@
 ||*.purmed.ro^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.pzx6d15pli-vronzuhy-9c2d0e-dru2n.pages.dev^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qtwiz-skrunt-qtwiz-d8e215-rgtt-blidex.pages.dev^$important
 ||*.qtwiz34bfrn-vlypx65skru-9d6c1f-tdr3a.pages.dev^$important
 ||*.qtwiz553bf-vlypxskru-1d8c3f-fyn9t.pages.dev^$important
@@ -586,7 +574,6 @@
 ||*.sg1932.craftum.io^$important
 ||*.shop.mediasova.ru^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.siaasesoria.com.mx^$important
 ||*.site-qqywn2us1.godaddysites.com^$important
 ||*.sk-comtel.com^$important
 ||*.skrab-bfrnk-vlypx-3b82fc-mskp-vlasco.pages.dev^$important
@@ -597,7 +584,6 @@
 ||*.small-desktop-233616.framer.app^$important
 ||*.smartermail.host^$important
 ||*.smoking-hot.net^$important
-||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.solicitaraq.xyz^$important
@@ -645,7 +631,6 @@
 ||*.stdown.dinju.com^$important
 ||*.stellar-sherbet-1b477b.netlify.app^$important
 ||*.stock-shawl.pages.dev^$important
-||*.stonecradle.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.submit-your-form-here.surge.sh^$important
@@ -665,7 +650,6 @@
 ||*.temirtau-adm.ru^$important
 ||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
-||*.test.peperoncinochepassione.it^$important
 ||*.theearldavis.com^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
@@ -717,7 +701,6 @@
 ||*.walletconnectsupport.xyz^$important
 ||*.web-doc-1si0.quality-poppies-us-s-account.workers.dev^$important
 ||*.webmail3039r03.edgeone.dev^$important
-||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wilobank.evlink11.net^$important
 ||*.windomstatetheater.com^$important
@@ -729,12 +712,9 @@
 ||*.www.3658coni569.cc^$important
 ||*.www.aplicativosafra.com^$important
 ||*.www.apply-on-free-here.surge.sh^$important
-||*.www.ardguisser.com^$important
 ||*.www.astenterprises.com.pk^$important
-||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.badge-free-lifetime-verified.surge.sh^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bpay.blogspot.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
@@ -756,7 +736,6 @@
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
 ||*.www.khavar.com^$important
-||*.www.konsor.ru^$important
 ||*.www.me-ta-ma-sk-log-in.godaddysites.com^$important
 ||*.www.medises.co.kr^$important
 ||*.www.myvcart.com^$important
@@ -764,9 +743,7 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.noelgreen.com^$important
-||*.www.notbak.com^$important
 ||*.www.official-apple.vercel.app^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.paypal-secure.vercel.app^$important
 ||*.www.rehesab.ir^$important
@@ -783,7 +760,6 @@
 ||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.submit-your-form-here.surge.sh^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
