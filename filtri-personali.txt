@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-28 02:10:56
+! Ultimo aggiornamento automatico: 2026-07-28 05:43:29
 ||*.0022a601.pphost.net^$important
 ||*.00k-ny8-327hi-c2lc-f65-yogh2g.pages.dev^$important
 ||*.0dp-p7u-hb0if-7l7mby-rz1.pages.dev^$important
@@ -240,7 +240,6 @@
 ||*.babydiapersinturkey.com^$important
 ||*.backupso.com^$important
 ||*.badge-free-lifetime-verified.surge.sh^$important
-||*.beak.in^$important
 ||*.benaqrix-biz-plamvureta-c7x5dy82.pages.dev^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bezzful-sherbet-5900d7-mny1204gff-2406wra.pages.dev^$important
@@ -288,6 +287,7 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.christophercheung.com^$important
+||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cl.ssouy.com^$important
 ||*.clavor-bintel-3b82fc-mrkt-grendal.pages.dev^$important
@@ -429,7 +429,7 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.jawaratekno.com^$important
+||*.ixirgroup.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jfr5bpzgobk-vronz98plsi-4e5f7a-fyn3t.pages.dev^$important
