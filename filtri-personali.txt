@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-28 16:38:03
+! Ultimo aggiornamento automatico: 2026-07-28 19:17:20
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.12zt-7wx1q8-izxu-712t-6uvxse.pages.dev^$important
@@ -191,7 +191,6 @@
 ||*.activity.octofrost.com^$important
 ||*.adidas.menu^$important
 ||*.admin.byte.in.ua^$important
-||*.admin.gestroom.it^$important
 ||*.adorable-entremet-17d6cf.netlify.app^$important
 ||*.aertomicwallettt.webflow.io^$important
 ||*.aethersyncmatrix5.lol^$important
@@ -217,7 +216,6 @@
 ||*.app.appzcvb.com^$important
 ||*.app.kubitcoin.net^$important
 ||*.archivoscrosoft.com^$important
-||*.areyouready.co.za^$important
 ||*.ariel-bet365.com.cn^$important
 ||*.arromaseis.com.tr^$important
 ||*.atasapka.com.tr^$important
@@ -288,7 +286,6 @@
 ||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
-||*.crimefreesoftware.com^$important
 ||*.cryptefilea.infy.click^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -370,8 +367,8 @@
 ||*.femboykisser.sbs^$important
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
-||*.fine-work-team.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
@@ -413,10 +410,13 @@
 ||*.gutando.com^$important
 ||*.hasalltalent.com^$important
 ||*.heroestales.com^$important
+||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hktax.github.io^$important
+||*.hobobot.net^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hub-ledgr-live-en.pages.dev^$important
 ||*.icoffeecloud.com^$important
 ||*.igra123.com^$important
@@ -427,6 +427,7 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
 ||*.jbcarnedesol.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -438,7 +439,6 @@
 ||*.ke8uy-g2t15z-ozbf-tj3-4330.pages.dev^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
-||*.khoancatbetong89.vn^$important
 ||*.kimyen.net^$important
 ||*.kiocoiologunx.godaddysites.com^$important
 ||*.kits.frog.tw^$important
@@ -506,10 +506,10 @@
 ||*.netflix-clone-steel-three-83.vercel.app^$important
 ||*.netflix-ui-clone-coral.vercel.app^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
-||*.okhan.net^$important
 ||*.oki.jtu.mybluehost.me^$important
 ||*.onfiltre.com.tr^$important
 ||*.onlineausde.andhrauniversity.edu.in^$important
@@ -553,7 +553,6 @@
 ||*.relaxed-phoenix-1f7723.netlify.app^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
-||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.robertrowe.com^$important
@@ -627,7 +626,6 @@
 ||*.sustained-branding-892825.framer.app^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.syncetherlayer.pages.dev^$important
 ||*.talentrecruitments.com^$important
@@ -668,7 +666,7 @@
 ||*.urasenkesydney.org.au^$important
 ||*.vbucksflow.top^$important
 ||*.vcc-library.uk^$important
-||*.vdsina.vg^$important
+||*.vektorex.com^$important
 ||*.versaclean.com.br^$important
 ||*.vertex-treasureplanet.click^$important
 ||*.veryboys.com^$important
