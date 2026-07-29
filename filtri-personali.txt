@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-29 05:48:27
+! Ultimo aggiornamento automatico: 2026-07-29 08:34:18
 ||*.0022a601.pphost.net^$important
 ||*.0jw-m3tnw-wl4-kfm-ir6v-aw4.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -180,6 +180,7 @@
 ||*.absicherung-de.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access-suit-trzr-auth.pages.dev^$important
+||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -187,7 +188,6 @@
 ||*.aethersyncmatrix5.lol^$important
 ||*.aftelecom.com.br^$important
 ||*.airbnb-clone-next13-prtz51emh-mamsheikh.vercel.app^$important
-||*.airtickts.com^$important
 ||*.aktivasi-dana-affilance.netweb.my.id^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -278,10 +278,9 @@
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
 ||*.convertmytub.com^$important
-||*.coralasargetia.ro^$important
+||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
-||*.crimefreesoftware.com^$important
 ||*.cryptefilea.infy.click^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -305,7 +304,6 @@
 ||*.dezcom.com^$important
 ||*.digital.demo.xplorerinsurance.cl^$important
 ||*.disk.accord1key.cn^$important
-||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
@@ -343,9 +341,9 @@
 ||*.et22eu-e3dlus-f4ww6r-517u6l.pages.dev^$important
 ||*.evangroup.ru^$important
 ||*.ewwewexw.pages.dev^$important
+||*.excursiionline.ro^$important
 ||*.exxodus-we--doc.pages.dev^$important
 ||*.ezjvqpj.com^$important
-||*.fabrics.lahoreshoes.com^$important
 ||*.faccebook.com.vn^$important
 ||*.facebbook-login.blogspot.com^$important
 ||*.facebooklogin123.blogspot.com^$important
@@ -364,18 +362,17 @@
 ||*.filerit.com^$important
 ||*.fine-work-team.com^$important
 ||*.first-security-verden.de^$important
-||*.fluidfilm.bg^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.forumdeenergias.com.br^$important
 ||*.free-5522654.webadorsite.com^$important
+||*.frostyislebe.pro^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.gabyagozetim.com^$important
 ||*.gaerh.pages.dev^$important
-||*.galerisenimutiara.com^$important
 ||*.gaurnaina123.github.io^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gemini-balance.tokenplus.io^$important
@@ -383,6 +380,7 @@
 ||*.genddos.st^$important
 ||*.genral-ykk2tgnb.4everland.app^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.gggghgj.pages.dev^$important
 ||*.globalbank.us^$important
 ||*.globalmiddasfoundation.com^$important
@@ -401,7 +399,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.iamfaizzz.github.io^$important
 ||*.icoffeecloud.com^$important
 ||*.if.dvmxzan.net^$important
@@ -413,6 +410,7 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.javariakhalid425.github.io^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -463,11 +461,11 @@
 ||*.luizmatoso.com.br^$important
 ||*.m-r.pw^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.m8vr-pgz59z-icv-zkl9j-dodf.pages.dev^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.fairgroovetr.blog^$important
 ||*.mail.rarewingvm.blog^$important
-||*.mail1.mycollege.com.my^$important
 ||*.mainvault-portfolio.com^$important
 ||*.malaysianpastrybakery.org^$important
 ||*.manassaxena8030.github.io^$important
@@ -485,7 +483,6 @@
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mogimall.com^$important
-||*.mosselnet.co.za^$important
 ||*.msauth.o365s.com^$important
 ||*.msg53.vercel.app^$important
 ||*.muaklekcoop.com^$important
@@ -502,11 +499,13 @@
 ||*.netcashi.wuaze.com^$important
 ||*.nhn-postsview.cafe^$important
 ||*.nirdex-salvin-biz-vartor-lonvik-sp7ct12.pages.dev^$important
+||*.nobleshadebu.pro^$important
 ||*.noithaticon.vn^$important
 ||*.nomelimpoagora.site^$important
 ||*.norveta-gld-larquna-r7t3dw29.pages.dev^$important
 ||*.notification-543721b.com^$important
 ||*.nuholdboardingod.us-iad-10.linodeobjects.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nykesmalteria.com.br^$important
 ||*.o24o.ru^$important
@@ -525,8 +524,9 @@
 ||*.pgroup.ro^$important
 ||*.phvjn0d26qtw-twxplnnx-9b0c4d-gre5a.pages.dev^$important
 ||*.piyushanu345.github.io^$important
-||*.plasteredplayn.com^$important
+||*.planetariumobil.ro^$important
 ||*.poits-homeoffice.integratedport.kz^$important
+||*.pos.nittosupport.ca^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.pstbn.dev^$important
@@ -543,15 +543,14 @@
 ||*.ramona-binance.pages.dev^$important
 ||*.rarewingvm.blog^$important
 ||*.rashi-garg904.github.io^$important
-||*.rathodsoftware.in^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
-||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
+||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.robertrowe.com^$important
@@ -619,7 +618,6 @@
 ||*.srabani2023-engineer.github.io^$important
 ||*.sso-ca-netcoins---autth.webflow.io^$important
 ||*.sso-ndax---io--auth.webflow.io^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -660,6 +658,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.uafsoftware.in^$important
 ||*.udhayarraj619-art.github.io^$important
 ||*.un1rw11q4u.com^$important
@@ -689,7 +688,6 @@
 ||*.webmail-autho.zzchengyuan.com^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsapp-verify.blogspot.com^$important
-||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.winj.life^$important
 ||*.wittenhorst.eu^$important
