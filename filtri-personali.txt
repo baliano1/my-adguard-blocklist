@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-29 02:20:41
+! Ultimo aggiornamento automatico: 2026-07-29 05:48:27
 ||*.0022a601.pphost.net^$important
 ||*.0jw-m3tnw-wl4-kfm-ir6v-aw4.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -279,7 +279,6 @@
 ||*.continentalgroup.net.in^$important
 ||*.convertmytub.com^$important
 ||*.coralasargetia.ro^$important
-||*.corporacioncrf.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
 ||*.crimefreesoftware.com^$important
@@ -346,6 +345,7 @@
 ||*.ewwewexw.pages.dev^$important
 ||*.exxodus-we--doc.pages.dev^$important
 ||*.ezjvqpj.com^$important
+||*.fabrics.lahoreshoes.com^$important
 ||*.faccebook.com.vn^$important
 ||*.facebbook-login.blogspot.com^$important
 ||*.facebooklogin123.blogspot.com^$important
@@ -364,6 +364,7 @@
 ||*.filerit.com^$important
 ||*.fine-work-team.com^$important
 ||*.first-security-verden.de^$important
+||*.fluidfilm.bg^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.forumdeenergias.com.br^$important
@@ -466,6 +467,7 @@
 ||*.maidforyou1985.com^$important
 ||*.mail.fairgroovetr.blog^$important
 ||*.mail.rarewingvm.blog^$important
+||*.mail1.mycollege.com.my^$important
 ||*.mainvault-portfolio.com^$important
 ||*.malaysianpastrybakery.org^$important
 ||*.manassaxena8030.github.io^$important
@@ -505,7 +507,6 @@
 ||*.norveta-gld-larquna-r7t3dw29.pages.dev^$important
 ||*.notification-543721b.com^$important
 ||*.nuholdboardingod.us-iad-10.linodeobjects.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nykesmalteria.com.br^$important
 ||*.o24o.ru^$important
@@ -542,6 +543,7 @@
 ||*.ramona-binance.pages.dev^$important
 ||*.rarewingvm.blog^$important
 ||*.rashi-garg904.github.io^$important
+||*.rathodsoftware.in^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
@@ -658,7 +660,6 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.uafsoftware.in^$important
 ||*.udhayarraj619-art.github.io^$important
 ||*.un1rw11q4u.com^$important
