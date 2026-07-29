@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-29 16:18:02
+! Ultimo aggiornamento automatico: 2026-07-29 19:09:43
 ||*.0022a601.pphost.net^$important
 ||*.0jw-m3tnw-wl4-kfm-ir6v-aw4.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -177,7 +177,6 @@
 ||*.abrir.link^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access-uphelp-loggin.zapier.app^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -211,6 +210,7 @@
 ||*.amzn.asin.monitor.show^$important
 ||*.app.appzcvb.com^$important
 ||*.archivoscrosoft.com^$important
+||*.areyouready.co.za^$important
 ||*.arromaseis.com.tr^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -227,6 +227,7 @@
 ||*.bahismerkez.com^$important
 ||*.bargainbrigade.top^$important
 ||*.bdlrt52skrp-hvpqlhb-3c0f9d-bdq99c.pages.dev^$important
+||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bigframe.netlify.app^$important
 ||*.binance-offer.netlify.app^$important
@@ -257,7 +258,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn-upld-wallt-ens.pages.dev^$important
-||*.cdnorigin.net^$important
 ||*.celebratingseniors.net^$important
 ||*.chase-secureonlinebanking.vercel.app^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -386,6 +386,7 @@
 ||*.free.tiurl.top^$important
 ||*.frostyislebe.pro^$important
 ||*.fukt.link^$important
+||*.fullstacknir.com^$important
 ||*.fullstars.netlify.app^$important
 ||*.furystaff.tech^$important
 ||*.fy5w-nxh6-g2ho.joliver-powershopscentralia-com-s-account.workers.dev^$important
@@ -457,7 +458,6 @@
 ||*.konsor.ru^$important
 ||*.kuceonlogrtn.webflow.io^$important
 ||*.kuucoeen_usa_loaggeinx.godaddysites.com^$important
-||*.lahoreshoes.com^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lb.nigsv.com^$important
@@ -514,14 +514,11 @@
 ||*.norlavi-gld-fentela-p2m5hp86.pages.dev^$important
 ||*.norveta-gld-larquna-r7t3dw29.pages.dev^$important
 ||*.novobanco.pt-clientes.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nykesmalteria.com.br^$important
 ||*.o24o.ru^$important
 ||*.office.spinach.ink^$important
 ||*.ojang.pe.kr^$important
-||*.oknoplastik.sk^$important
-||*.onfiltre.com.tr^$important
 ||*.open-ledgeerlive-offical.zapier.app^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
@@ -688,6 +685,7 @@
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.vicktoriya26.github.io^$important
+||*.videomeetgoogle.com^$important
 ||*.vincentdemiero.com^$important
 ||*.visam.info^$important
 ||*.vivek-chaudhary-24.github.io^$important
