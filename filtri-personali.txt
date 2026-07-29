@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-29 19:09:43
+! Ultimo aggiornamento automatico: 2026-07-29 21:57:23
 ||*.0022a601.pphost.net^$important
 ||*.0jw-m3tnw-wl4-kfm-ir6v-aw4.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -172,7 +172,6 @@
 ||*.65.jj38460.vip^$important
 ||*.65.jj38501.vip^$important
 ||*.9000-firebase-storage-1781018389150.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev^$important
-||*.MAMABEARCOFFEE.COM^$important
 ||*.abdulahad.net^$important
 ||*.abrir.link^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -270,6 +269,7 @@
 ||*.christophercheung.com^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
+||*.cl.ssouy.com^$important
 ||*.classy-mermaid-47bb52.netlify.app^$important
 ||*.clickfast-mint4.netlify.app^$important
 ||*.clonenetfix.netlify.app^$important
@@ -369,14 +369,12 @@
 ||*.fbmt1000k58b53iy2807v1g10jmvgmjbq64tji8fesl6yc125oposv.vercel.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.fedexxl.deliverys.online^$important
-||*.femboykisser.sbs^$important
 ||*.fesold.com^$important
 ||*.fghfhfghyfg.weebly.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filebashupload.pages.dev^$important
 ||*.filerit.com^$important
-||*.filmchill.net^$important
 ||*.fine-work-team.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -428,6 +426,7 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ijexgroup.com.br^$important
+||*.indusenterprises.co^$important
 ||*.instagramconnect.blogspot.com^$important
 ||*.instagramrecovery.blogspot.com^$important
 ||*.io-exods-wlt-sanni.wasmer.app^$important
@@ -519,6 +518,7 @@
 ||*.o24o.ru^$important
 ||*.office.spinach.ink^$important
 ||*.ojang.pe.kr^$important
+||*.onfiltre.com.tr^$important
 ||*.open-ledgeerlive-offical.zapier.app^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
@@ -532,7 +532,6 @@
 ||*.plasteredplayn.com^$important
 ||*.plus.ichannelsurf.com^$important
 ||*.poits-homeoffice.integratedport.kz^$important
-||*.pos.nittosupport.ca^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.precious-sawine-86a095.netlify.app^$important
@@ -680,6 +679,7 @@
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.vcc-library.uk^$important
+||*.vdsina.vg^$important
 ||*.verify-auth.s3.us-west-1.amazonaws.com^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -697,6 +697,7 @@
 ||*.vrajras.com^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wetransfer-shareddocs.s-drc2.cloud.gcore.lu^$important
+||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.winj.life^$important
 ||*.wittenhorst.eu^$important
@@ -708,6 +709,7 @@
 ||*.www.amazon-clone-chi-gilt.vercel.app^$important
 ||*.www.amazon-clone-page.vercel.app^$important
 ||*.www.ardguisser.com^$important
+||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.benshamcentre.co.uk^$important
