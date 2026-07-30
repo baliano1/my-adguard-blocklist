@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-30 02:03:05
+! Ultimo aggiornamento automatico: 2026-07-30 05:36:24
 ||*.0022a601.pphost.net^$important
 ||*.03191190026.github.io^$important
 ||*.123.ywxww.net^$important
@@ -309,7 +309,6 @@
 ||*.deagroup-ks.com^$important
 ||*.dechricganoc.it.com^$important
 ||*.deliverymailreport.co.za^$important
-||*.delp-heizungsbau.de^$important
 ||*.desktop-eng-ledgre.pages.dev^$important
 ||*.desktop-ledgerlive-history.pages.dev^$important
 ||*.desktopledgerlive.pages.dev^$important
@@ -407,6 +406,7 @@
 ||*.gkit-aj80-ni0e.bemir67147-kierko-com-s-account.workers.dev^$important
 ||*.globalbank.us^$important
 ||*.glowing-gibbon-300775.framer.app^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.googles-lab.github.io^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
@@ -421,7 +421,6 @@
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.home-ldger-get.pages.dev^$important
 ||*.home-ledge-us-en.pages.dev^$important
 ||*.hseda.com^$important
@@ -495,6 +494,7 @@
 ||*.mailteam653.weebly.com^$important
 ||*.majdsuxi.us.cc^$important
 ||*.malaysianpastrybakery.org^$important
+||*.mandarin.net.au^$important
 ||*.marina-tours.de^$important
 ||*.marmota.hostel.town^$important
 ||*.marvelous-building-703227.framer.app^$important
@@ -609,6 +609,7 @@
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
+||*.seputartuban.com^$important
 ||*.server-index-page--lezzuzh.replit.app^$important
 ||*.sg123.net^$important
 ||*.shaimalpp.github.io^$important
@@ -718,7 +719,6 @@
 ||*.us-ldgrelives-en.pages.dev^$important
 ||*.us1-auth-docs-static-f049698-p396932.joel-89f.workers.dev^$important
 ||*.vcc-library.uk^$important
-||*.vdsina.vg^$important
 ||*.venom.rotero.vc^$important
 ||*.verifymymailxfinity.weebly.com^$important
 ||*.versaclean.com.br^$important
@@ -810,8 +810,10 @@
 ||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.studyseed.net^$important
 ||*.www.support-data.com^$important
+||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.vuelaviajero.com^$important
