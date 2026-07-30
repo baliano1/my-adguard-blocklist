@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-30 05:36:24
+! Ultimo aggiornamento automatico: 2026-07-30 08:19:29
 ||*.0022a601.pphost.net^$important
 ||*.03191190026.github.io^$important
 ||*.123.ywxww.net^$important
@@ -178,6 +178,7 @@
 ||*.83336.xyz^$important
 ||*.83347.xyz^$important
 ||*.83368.xyz^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accounts-facebook.blogspot.com^$important
 ||*.accountverify.au^$important
@@ -309,6 +310,7 @@
 ||*.deagroup-ks.com^$important
 ||*.dechricganoc.it.com^$important
 ||*.deliverymailreport.co.za^$important
+||*.delp-heizungsbau.de^$important
 ||*.desktop-eng-ledgre.pages.dev^$important
 ||*.desktop-ledgerlive-history.pages.dev^$important
 ||*.desktopledgerlive.pages.dev^$important
@@ -325,13 +327,13 @@
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dl.proxiespool.wiki^$important
-||*.doc.e-statements.app^$important
 ||*.docs--login--ledger-live-desktop-io.typedream.app^$important
 ||*.docshrreadm.me^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -406,7 +408,6 @@
 ||*.gkit-aj80-ni0e.bemir67147-kierko-com-s-account.workers.dev^$important
 ||*.globalbank.us^$important
 ||*.glowing-gibbon-300775.framer.app^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.googles-lab.github.io^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
@@ -421,10 +422,12 @@
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.home-ldger-get.pages.dev^$important
 ||*.home-ledge-us-en.pages.dev^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
+||*.i-love-git.com^$important
 ||*.i4z-d5ho-wdmkb-j54-zp9lw.pages.dev^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -432,6 +435,7 @@
 ||*.igvu7-7g17-p20-xsyh9g-uai0v.pages.dev^$important
 ||*.ihhlttps-roblox.com^$important
 ||*.ijexgroup.com.br^$important
+||*.ikincielesyaciankara.com.tr^$important
 ||*.indigo-difference-130061.framer.app^$important
 ||*.iop3-77a9-3osu.aflores-rorealty-com-s-account.workers.dev^$important
 ||*.ircftp.net^$important
@@ -441,9 +445,7 @@
 ||*.itsecuredesk.com^$important
 ||*.itssprout.com^$important
 ||*.ivvvaaannaaalaaawiiiiifamilly.blogspot.com^$important
-||*.ixirgroup.com^$important
 ||*.jacko-dhl.pages.dev^$important
-||*.jawaratekno.com^$important
 ||*.jengbetieleajantiele.weebly.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jenniferpearlham-lang.github.io^$important
@@ -484,7 +486,6 @@
 ||*.lower-forms-047117.framer.app^$important
 ||*.luizmatoso.com.br^$important
 ||*.lyananxformndanaaz.sigibum.my.id^$important
-||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m2icrosfoftonilelogin.framer.website^$important
 ||*.magnificent-caramel-e8de44.netlify.app^$important
@@ -529,7 +530,6 @@
 ||*.nigg.tashirpizza.su^$important
 ||*.nobleshadebu.pro^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.official-leadgr-en.wasmer.app^$important
@@ -604,7 +604,6 @@
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.sec.dashabi.in^$important
-||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
@@ -710,6 +709,7 @@
 ||*.ullahfazal02-source.github.io^$important
 ||*.un1rw11q4u.com^$important
 ||*.uniswap-eth-chain-gateaway-v25.vercel.app^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.updatextraconzsecure.weebly.com^$important
@@ -718,7 +718,6 @@
 ||*.us-en-desktoplive.pages.dev^$important
 ||*.us-ldgrelives-en.pages.dev^$important
 ||*.us1-auth-docs-static-f049698-p396932.joel-89f.workers.dev^$important
-||*.vcc-library.uk^$important
 ||*.venom.rotero.vc^$important
 ||*.verifymymailxfinity.weebly.com^$important
 ||*.versaclean.com.br^$important
@@ -832,5 +831,6 @@
 ||*.youtransfer.net^$important
 ||*.yuvakshimodi-cmyk.github.io^$important
 ||*.zamilgroups.com^$important
+||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
