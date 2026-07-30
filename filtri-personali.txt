@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-30 16:23:56
+! Ultimo aggiornamento automatico: 2026-07-30 19:20:13
 ||*.0022a601.pphost.net^$important
 ||*.10thys5jkoo3.swjaxonfivs.xyz^$important
 ||*.123.ywxww.net^$important
@@ -195,6 +195,7 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
+||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-lemon.vercel.app^$important
 ||*.amazon-using-nextjs-1o67.vercel.app^$important
@@ -289,7 +290,6 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.curlservice.com^$important
-||*.customcreationsmaine.com^$important
 ||*.cuttingedgefencing.ca^$important
 ||*.cyan-ice-675590.framer.app^$important
 ||*.d.14yaa.com^$important
@@ -326,8 +326,6 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
-||*.dreamapp.xyz^$important
-||*.dreamwatchevent.com^$important
 ||*.dsdsgtrrr.eu.cc^$important
 ||*.dsdsgtrtt.eu.cc^$important
 ||*.dsgagfsahkfsahfjs.shop^$important
@@ -359,7 +357,6 @@
 ||*.femboy.center^$important
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filmchill.net^$important
 ||*.fine-work-team.com^$important
@@ -406,6 +403,7 @@
 ||*.home.aureate.shop^$important
 ||*.hrndumssn.weebly.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
@@ -503,7 +501,6 @@
 ||*.moonpay-commerce-git-fix-com2-2219-theme-page-forms-heliofi.vercel.app^$important
 ||*.moonpay-commerce-git-henryharris-com2-2322-light-e25621-heliofi.vercel.app^$important
 ||*.moonpay-commerce-r5fqezbru-heliofi.vercel.app^$important
-||*.mosselnet.co.za^$important
 ||*.moustikit.com^$important
 ||*.moviereccomendationsystem.netlify.app^$important
 ||*.msoiaxsk.us.cc^$important
@@ -621,6 +618,7 @@
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
 ||*.smoking-hot.net^$important
+||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
 ||*.sp12ct-zormik-biz-fandel-kresor.pages.dev^$important
@@ -638,6 +636,7 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.studioixografiseon.gr^$important
 ||*.sunix-technology.com^$important
