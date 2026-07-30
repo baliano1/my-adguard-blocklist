@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-30 08:19:29
+! Ultimo aggiornamento automatico: 2026-07-30 11:03:57
 ||*.0022a601.pphost.net^$important
 ||*.03191190026.github.io^$important
 ||*.123.ywxww.net^$important
@@ -231,6 +231,7 @@
 ||*.auth-trzurr-io-suit.pages.dev^$important
 ||*.avantkit.com^$important
 ||*.awarenessexhibition.com^$important
+||*.azuremods.cc^$important
 ||*.babydiapersinturkey.com^$important
 ||*.backupso.com^$important
 ||*.bafkreicavkuyvd7kpfoazwtemvzcdg7vxlrwpd4g2uiqachk4a5xdx4e6a.ipfs.dweb.link^$important
@@ -273,7 +274,6 @@
 ||*.christophercheung.com^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
-||*.cl.ssouy.com^$important
 ||*.claim-offer.netlify.app^$important
 ||*.cliente-gg-limpfeirao.shop^$important
 ||*.cliente-yy-limpfeirao.shop^$important
@@ -409,6 +409,7 @@
 ||*.globalbank.us^$important
 ||*.glowing-gibbon-300775.framer.app^$important
 ||*.googles-lab.github.io^$important
+||*.googletagamnager.com^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
@@ -446,6 +447,7 @@
 ||*.itssprout.com^$important
 ||*.ivvvaaannaaalaaawiiiiifamilly.blogspot.com^$important
 ||*.jacko-dhl.pages.dev^$important
+||*.jawaratekno.com^$important
 ||*.jengbetieleajantiele.weebly.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jenniferpearlham-lang.github.io^$important
@@ -530,6 +532,7 @@
 ||*.nigg.tashirpizza.su^$important
 ||*.nobleshadebu.pro^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.official-leadgr-en.wasmer.app^$important
@@ -538,7 +541,6 @@
 ||*.oknoplastik.sk^$important
 ||*.onedrive1.vtcyntrax.org^$important
 ||*.onfiltre.com.tr^$important
-||*.opencode.ai^$important
 ||*.orienttaxtile.com^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
@@ -588,6 +590,7 @@
 ||*.robertrowe.com^$important
 ||*.robiox.com.py^$important
 ||*.robl0xlogin.github.io^$important
+||*.roblox-xeno.info^$important
 ||*.roblox.com.kz^$important
 ||*.roblox.com.mu^$important
 ||*.rohitkumar01dev.github.io^$important
@@ -604,6 +607,7 @@
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.sec.dashabi.in^$important
+||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
