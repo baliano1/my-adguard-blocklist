@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-30 13:50:37
+! Ultimo aggiornamento automatico: 2026-07-30 16:23:56
 ||*.0022a601.pphost.net^$important
 ||*.10thys5jkoo3.swjaxonfivs.xyz^$important
 ||*.123.ywxww.net^$important
@@ -218,8 +218,6 @@
 ||*.auspost.addqe.com^$important
 ||*.avantikacodes30.github.io^$important
 ||*.awarenessexhibition.com^$important
-||*.azuremods.cc^$important
-||*.babydiapersinturkey.com^$important
 ||*.backupso.com^$important
 ||*.baddiehub.com.co^$important
 ||*.basharaboali.github.io^$important
@@ -242,7 +240,6 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
-||*.breakneckridgefarm.com^$important
 ||*.bridge-terezar-us.pages.dev^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -258,15 +255,16 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cdnorigin.net^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.christophercheung.com^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
+||*.cl.ssouy.com^$important
 ||*.claims.eisen.co^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -314,6 +312,7 @@
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dl.proxiespool.wiki^$important
+||*.doc.e-statements.app^$important
 ||*.docs-io-bridge-doc-pagee.pages.dev^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
@@ -376,7 +375,6 @@
 ||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fuz.za.com^$important
-||*.fz.tiansys.cn^$important
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
@@ -420,6 +418,7 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.j19qi1.github.io^$important
 ||*.jawaratekno.com^$important
 ||*.jdbp606-cq9.pages.dev^$important
@@ -567,6 +566,7 @@
 ||*.ramirex.ro^$important
 ||*.rarewingvm.blog^$important
 ||*.rdm.91yunma.cn^$important
+||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
 ||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
@@ -638,7 +638,6 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.studioixografiseon.gr^$important
 ||*.sunix-technology.com^$important
@@ -647,6 +646,7 @@
 ||*.supportmyphone.site^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sxca-exfwedh5azaac7h9.z03.azurefd.net^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.systemallianceinnovation.weebly.com^$important
