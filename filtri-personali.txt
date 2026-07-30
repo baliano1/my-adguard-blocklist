@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-30 19:20:13
+! Ultimo aggiornamento automatico: 2026-07-30 22:02:34
 ||*.0022a601.pphost.net^$important
 ||*.10thys5jkoo3.swjaxonfivs.xyz^$important
 ||*.123.ywxww.net^$important
@@ -195,7 +195,6 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
-||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-lemon.vercel.app^$important
 ||*.amazon-using-nextjs-1o67.vercel.app^$important
@@ -256,7 +255,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cdnorigin.net^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -528,7 +526,6 @@
 ||*.o24o.ru^$important
 ||*.offers.integritycleaningsystems.info^$important
 ||*.ojang.pe.kr^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.orienttaxtile.com^$important
 ||*.outpost.co.ke^$important
@@ -536,6 +533,7 @@
 ||*.pages-trzrsuites.pages.dev^$important
 ||*.palcay.de^$important
 ||*.palharesinformatica.com.br^$important
+||*.panel.b2brouter-secure.com^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.peaceful-copy-420603.framer.app^$important
@@ -688,6 +686,7 @@
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
+||*.uploadloop.com^$important
 ||*.venom.rotero.vc^$important
 ||*.verify-user.surge.sh^$important
 ||*.versaclean.com.br^$important
