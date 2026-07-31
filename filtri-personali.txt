@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-31 13:56:21
+! Ultimo aggiornamento automatico: 2026-07-31 16:42:11
 ||*.0022a601.pphost.net^$important
 ||*.121gle.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -259,6 +259,7 @@
 ||*.chat.ring-whatapp.com.cn^$important
 ||*.checkfivem.com^$important
 ||*.chiptune.com^$important
+||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cjmcbride28.github.io^$important
 ||*.cl.ssouy.com^$important
@@ -279,6 +280,7 @@
 ||*.cpintermedia-net-controlpanel-login-clienttypewebmail8557576565.s3.eu-north-1.amazonaws.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
+||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csca-cmdhe6e9atfjd5ah.z03.azurefd.net^$important
@@ -311,8 +313,10 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
+||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
@@ -358,11 +362,11 @@
 ||*.free.tiurl.top^$important
 ||*.frostyislebe.pro^$important
 ||*.fukt.link^$important
-||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
+||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
@@ -374,14 +378,12 @@
 ||*.gredx.netlify.app^$important
 ||*.green-awx.pages.dev^$important
 ||*.greenf.alexion.rs^$important
-||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.hackers.krd^$important
 ||*.haleema7502.github.io^$important
 ||*.hasalltalent.com^$important
 ||*.heavyhorses.com^$important
 ||*.heroestales.com^$important
-||*.hewadexchange.com^$important
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
@@ -439,7 +441,6 @@
 ||*.leigerd-li-ve-learn.pages.dev^$important
 ||*.lezder-cm-strat-key-us.pages.dev^$important
 ||*.libss.0x504.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.link-magics.lovable.app^$important
 ||*.link.infini.fr^$important
 ||*.live-leedgers--eng-en.pages.dev^$important
@@ -455,8 +456,6 @@
 ||*.m.meta-dm.com^$important
 ||*.macjsiy.us.cc^$important
 ||*.maidforyou1985.com^$important
-||*.mail.fairgroovetr.blog^$important
-||*.main.lahoreshoes.com^$important
 ||*.make-courgette-949087.framer.app^$important
 ||*.mandarin.net.au^$important
 ||*.marnavi-gld-belxora-p2t6hk17.pages.dev^$important
@@ -498,6 +497,7 @@
 ||*.onfiltre.com.tr^$important
 ||*.opieum.github.io^$important
 ||*.orienttaxtile.com^$important
+||*.outpost.co.ke^$important
 ||*.p29c.top^$important
 ||*.p3.zbjimg.com^$important
 ||*.p40f.top^$important
@@ -512,7 +512,6 @@
 ||*.peachcity.si^$important
 ||*.php-web-server--activo2888.replit.app^$important
 ||*.planetariumobil.ro^$important
-||*.plasteredplayn.com^$important
 ||*.portal-netcoinas.zapier.app^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.project-sub31.netlify.app^$important
@@ -635,7 +634,6 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temirtau-adm.ru^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
@@ -643,7 +641,6 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thr-sho52.blogspot.com^$important
-||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiny.cc^$important
 ||*.to.lk^$important
@@ -658,6 +655,7 @@
 ||*.trzorlogin.gitbook.io^$important
 ||*.ttkpay-master.vercel.app^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.uaeuptodate.com^$important
 ||*.ufavalkplus.com^$important
@@ -728,6 +726,7 @@
 ||*.www.facebook-clone-xi-three.vercel.app^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.fotosdemorrodochapeuba.com.br^$important
+||*.www.gestroom.it^$important
 ||*.www.hinet.antoinesrestaurants.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hseda.com^$important
@@ -745,7 +744,6 @@
 ||*.www.myonlinebellfacturation.weebly.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.njjiulong.com^$important
 ||*.www.notbak.com^$important
