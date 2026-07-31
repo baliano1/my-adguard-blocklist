@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-31 16:42:11
+! Ultimo aggiornamento automatico: 2026-07-31 19:19:20
 ||*.0022a601.pphost.net^$important
 ||*.121gle.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -176,6 +176,7 @@
 ||*.89betlc.com^$important
 ||*.9000-firebase-authenticate-1781494318542.cluster-c72u3gwiofapkvxrcwjq5zllcu.cloudworkstations.dev^$important
 ||*.97ee4.catex.at^$important
+||*.MAMABEARCOFFEE.COM^$important
 ||*.abaklinservicios.com.ve^$important
 ||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -224,6 +225,7 @@
 ||*.beautiful-hummingbird-8f2323.netlify.app^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bespoke-alfajores-fef1ce.netlify.app^$important
+||*.bigs.bikershop.biz^$important
 ||*.bitmartloggine.webflow.io^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
@@ -258,6 +260,7 @@
 ||*.chat.connect-whatapp.com.cn^$important
 ||*.chat.ring-whatapp.com.cn^$important
 ||*.checkfivem.com^$important
+||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
@@ -280,6 +283,7 @@
 ||*.cpintermedia-net-controlpanel-login-clienttypewebmail8557576565.s3.eu-north-1.amazonaws.com^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
+||*.cresvin.com^$important
 ||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -302,6 +306,7 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
+||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
@@ -322,7 +327,6 @@
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
-||*.dreamwatchevent.com^$important
 ||*.dtwq1mz6skqlr.cloudfront.net^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
@@ -331,6 +335,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.eloquent-bublanina-d0dc9b.netlify.app^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.endeveteasetsxmimgqiye.vercel.app^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
@@ -362,6 +367,7 @@
 ||*.free.tiurl.top^$important
 ||*.frostyislebe.pro^$important
 ||*.fukt.link^$important
+||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
@@ -384,6 +390,7 @@
 ||*.hasalltalent.com^$important
 ||*.heavyhorses.com^$important
 ||*.heroestales.com^$important
+||*.hewadexchange.com^$important
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
@@ -404,9 +411,9 @@
 ||*.instagram-friendship-dare.blogspot.com^$important
 ||*.instagramprofilelinks.blogspot.com^$important
 ||*.ircftp.net^$important
-||*.isiore.com.co^$important
 ||*.itrustcapital-lo0gin.gitbook.io^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.j138l.vip^$important
 ||*.j80l.vip^$important
 ||*.j87j.vip^$important
@@ -441,6 +448,7 @@
 ||*.leigerd-li-ve-learn.pages.dev^$important
 ||*.lezder-cm-strat-key-us.pages.dev^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.link-magics.lovable.app^$important
 ||*.link.infini.fr^$important
 ||*.live-leedgers--eng-en.pages.dev^$important
@@ -453,7 +461,6 @@
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.macjsiy.us.cc^$important
 ||*.maidforyou1985.com^$important
 ||*.make-courgette-949087.framer.app^$important
@@ -461,7 +468,6 @@
 ||*.marnavi-gld-belxora-p2t6hk17.pages.dev^$important
 ||*.masaka-academy.org^$important
 ||*.mateladepormhub.phemayameltahub.site^$important
-||*.medica-me.com^$important
 ||*.meetvideogoogle.com^$important
 ||*.mercadolibre-details-challenge-kohl.vercel.app^$important
 ||*.met-wemask-exten-sion.webflow.io^$important
@@ -480,7 +486,6 @@
 ||*.ncxps.com^$important
 ||*.netcoinss-logii.webflow.io^$important
 ||*.nf.boletos-notas.com^$important
-||*.nfe.boletos-notas.com^$important
 ||*.nfeletronica.sevendocumentos.vip^$important
 ||*.nigg.tashirpizza.su^$important
 ||*.nobleshadebu.pro^$important
@@ -523,7 +528,6 @@
 ||*.qiniuyunxz.yxflzs.com^$important
 ||*.qv.co.ke^$important
 ||*.ramirex.ro^$important
-||*.rathodsoftware.in^$important
 ||*.rayan-arbab.github.io^$important
 ||*.rbcode.net^$important
 ||*.rdm.91yunma.cn^$important
@@ -558,7 +562,6 @@
 ||*.san6-gvhagaa8ftgnhffc.z02.azurefd.net^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
-||*.scoala1gherla.ro^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -613,6 +616,7 @@
 ||*.steamncommunnity.com^$important
 ||*.stonecradle.com^$important
 ||*.storied-jelly-94f299.netlify.app^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.stunning-kulfi-78ebef.netlify.app^$important
 ||*.stymm67.github.io^$important
@@ -641,6 +645,7 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thr-sho52.blogspot.com^$important
+||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiny.cc^$important
 ||*.to.lk^$important
@@ -670,6 +675,8 @@
 ||*.vaac.club^$important
 ||*.vaishnaviraut3003-cyber.github.io^$important
 ||*.valoresareceber.s3.us-east-005.backblazeb2.com^$important
+||*.vcc-library.uk^$important
+||*.vektorex.com^$important
 ||*.venom.rotero.vc^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -726,7 +733,6 @@
 ||*.www.facebook-clone-xi-three.vercel.app^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.fotosdemorrodochapeuba.com.br^$important
-||*.www.gestroom.it^$important
 ||*.www.hinet.antoinesrestaurants.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hseda.com^$important
@@ -744,6 +750,7 @@
 ||*.www.myonlinebellfacturation.weebly.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.njjiulong.com^$important
 ||*.www.notbak.com^$important
