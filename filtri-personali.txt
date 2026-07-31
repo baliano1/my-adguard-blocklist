@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-07-31 02:29:28
+! Ultimo aggiornamento automatico: 2026-07-31 06:08:40
 ||*.0022a601.pphost.net^$important
 ||*.10thys5jkoo3.swjaxonfivs.xyz^$important
 ||*.121gle.senes.at^$important
@@ -282,6 +282,7 @@
 ||*.cpofficial.com^$important
 ||*.cr590527.tw1.ru^$important
 ||*.creativevoltage.com^$important
+||*.cresvin.com^$important
 ||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -333,6 +334,7 @@
 ||*.elaslicity-bot.github.io^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.elmejorlocal.com.co^$important
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
@@ -356,6 +358,7 @@
 ||*.filmchill.net^$important
 ||*.final-alta.s3.us-east-2.amazonaws.com^$important
 ||*.first-security-verden.de^$important
+||*.fluidfilm.bg^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fnxx.info^$important
@@ -579,7 +582,6 @@
 ||*.sg123.net^$important
 ||*.shayan-yousuf-0099.github.io^$important
 ||*.shop.mediasova.ru^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.siaasesoria.com.mx^$important
 ||*.sistemasyusa.icu^$important
 ||*.sk-comtel.com^$important
@@ -735,6 +737,7 @@
 ||*.www.facebooknenys.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.flow.page^$important
+||*.www.gemrazorback.com^$important
 ||*.www.hdhep.weebly.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hseda.com^$important
