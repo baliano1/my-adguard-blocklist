@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-01 02:29:39
+! Ultimo aggiornamento automatico: 2026-08-01 05:51:57
 ||*.0022a601.pphost.net^$important
 ||*.121dax.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -252,7 +252,6 @@
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
 ||*.creditopichincha-2026--credipichincha2.replit.app^$important
-||*.cresvin.com^$important
 ||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
