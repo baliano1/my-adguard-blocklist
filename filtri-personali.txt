@@ -162,13 +162,12 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-01 05:51:57
+! Ultimo aggiornamento automatico: 2026-08-01 08:13:58
 ||*.0022a601.pphost.net^$important
 ||*.121dax.senes.at^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.2017.peterboonen.be^$important
-||*.MAMABEARCOFFEE.COM^$important
 ||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
@@ -176,6 +175,7 @@
 ||*.admin.gestroom.it^$important
 ||*.aerodromeresolve.pages.dev^$important
 ||*.aftelecom.com.br^$important
+||*.aidlifempowerment.com^$important
 ||*.airtickts.com^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -245,6 +245,7 @@
 ||*.co-emas.com^$important
 ||*.cocfz-9ek-9k3-c6k7b-q7bcw.pages.dev^$important
 ||*.coinbase-invest--camrongraves4.replit.app^$important
+||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
@@ -274,7 +275,6 @@
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc-aavmdlr.vercel.app^$important
@@ -298,7 +298,6 @@
 ||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
-||*.ebullientlife.in^$important
 ||*.ehq2q1-uom2-v8a-ste-38j52p.pages.dev^$important
 ||*.ei641-w9db-l5dq-2s2q8v-prkum.pages.dev^$important
 ||*.electri.billregulator.com^$important
@@ -313,6 +312,7 @@
 ||*.evangroup.ru^$important
 ||*.evoluaagora.s3.us-east-005.backblazeb2.com^$important
 ||*.ewxexewx.pages.dev^$important
+||*.explorer.vg^$important
 ||*.f1jphe-yotvb-d2d-rpsum-wsoo.pages.dev^$important
 ||*.f6o4cs-g38-1yho-ryv6-c06dmn.pages.dev^$important
 ||*.facebookloginnp.blogspot.com^$important
@@ -332,6 +332,7 @@
 ||*.fortniter.live^$important
 ||*.fortquick.top^$important
 ||*.fukt.link^$important
+||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fy-iapple-alert.com^$important
 ||*.fz.tiansys.cn^$important
@@ -374,7 +375,6 @@
 ||*.hseda.com^$important
 ||*.hskm0-4ptyr-02ic-ftes5-6ra.pages.dev^$important
 ||*.htdentshop.com^$important
-||*.humasjatim.id^$important
 ||*.hz9-b1mk-5eg61-j7myx-j7e1nq.pages.dev^$important
 ||*.icoffeecloud.com^$important
 ||*.ifind-maps-recover.com^$important
@@ -382,10 +382,13 @@
 ||*.igra123.com^$important
 ||*.ijexgroup.com.br^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.indusenterprises.co^$important
 ||*.instagram-register.blogspot.com^$important
 ||*.ircftp.net^$important
 ||*.irrelevant-amethyst-kkwymbkj.edgeone.dev^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -453,7 +456,6 @@
 ||*.marketingideal.online^$important
 ||*.mb8905-vxepq9-uz89o-d2j-pbv.pages.dev^$important
 ||*.mc7-t7r-mueh-8or-yqhlqk-74qrb.pages.dev^$important
-||*.medica-me.com^$important
 ||*.meetvideogoogle.com^$important
 ||*.menatextiles.com^$important
 ||*.metrics.gocloudmaps.com^$important
@@ -463,6 +465,7 @@
 ||*.mogimall.com^$important
 ||*.morlita-kig-felquro-r4x8dw26.pages.dev^$important
 ||*.ms22r-2xm-jsd9-kfbcg-cjhc2.pages.dev^$important
+||*.msedge.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
@@ -507,12 +510,15 @@
 ||*.pcupd.com^$important
 ||*.pdf-bro.lat^$important
 ||*.peachcity.si^$important
+||*.pfatrivandrum.org^$important
 ||*.phone-cloud.site^$important
 ||*.phone-lcloud.site^$important
 ||*.pl6c-wbak2s-kkff8e-rllgwp.pages.dev^$important
+||*.planetariumobil.ro^$important
 ||*.pldwf2e18kq-mkrjbplos-9c0d7a-ltp18w.pages.dev^$important
 ||*.pldxu-jpa-dakfrj-zivem-eroo.pages.dev^$important
 ||*.postelnini.mk^$important
+||*.powershell-storage.vg^$important
 ||*.prathamsquad18.github.io^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -535,7 +541,6 @@
 ||*.reifenquick.de^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
-||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.robertrowe.com^$important
@@ -632,7 +637,6 @@
 ||*.sp7ct-jorqal-biz8-mesnor-plavik.pages.dev^$important
 ||*.spgint.com^$important
 ||*.startemseulimite.s3.us-east-005.backblazeb2.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -689,7 +693,6 @@
 ||*.uploadloop.com^$important
 ||*.v-k.com.ua^$important
 ||*.vcc-library.uk^$important
-||*.vektorex.com^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
@@ -746,6 +749,7 @@
 ||*.www.facebooklogin19.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.free-sign-bluemark-now.surge.sh^$important
+||*.www.gestroom.it^$important
 ||*.www.get-all-information-for-blue.surge.sh^$important
 ||*.www.globaldigital.vercel.app^$important
 ||*.www.hgser.closer.website^$important
@@ -785,6 +789,7 @@
 ||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
