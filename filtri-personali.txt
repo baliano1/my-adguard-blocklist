@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-01 15:58:06
+! Ultimo aggiornamento automatico: 2026-08-01 19:03:21
 ||*.0022a601.pphost.net^$important
 ||*.121dax.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -175,6 +175,7 @@
 ||*.65436.xyz^$important
 ||*.65441.xyz^$important
 ||*.65443.xyz^$important
+||*.6ak-tehnik.si^$important
 ||*.72013.xyz^$important
 ||*.72037.xyz^$important
 ||*.785vb6v68.pages.dev^$important
@@ -232,9 +233,9 @@
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.blue-badge-instant-apply.surge.sh^$important
+||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
-||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -252,7 +253,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.ceryptcomlogien.webflow.io^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -320,7 +320,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.evangroup.ru^$important
@@ -347,11 +346,11 @@
 ||*.fy-iapple-alert.com^$important
 ||*.fz.tiansys.cn^$important
 ||*.gabyagozetim.com^$important
-||*.galerisenimutiara.com^$important
 ||*.gangasagarg1114-commits.github.io^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.giant-ways-340713.framer.app^$important
 ||*.giftonline11.weebly.com^$important
 ||*.globalbank.us^$important
@@ -383,6 +382,7 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imootken.top^$important
 ||*.indu9548.github.io^$important
+||*.indusenterprises.co^$important
 ||*.info-resmi-34.blogspot.com^$important
 ||*.information-portal-945a.46573576.workers.dev^$important
 ||*.ing-ledgerr.pages.dev^$important
@@ -398,7 +398,6 @@
 ||*.itssprout.com^$important
 ||*.j77m.vip^$important
 ||*.j77p.vip^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -505,7 +504,6 @@
 ||*.patelprince2006.github.io^$important
 ||*.patient-office-998541.framer.app^$important
 ||*.pay.aqiu6.com^$important
-||*.pcupd.com^$important
 ||*.pdf-bro.lat^$important
 ||*.peachcity.si^$important
 ||*.permanent-verified-blue-tick.surge.sh^$important
@@ -576,7 +574,6 @@
 ||*.snhgj7avstr-pldwfkmja-3d8e0f-snq31c.pages.dev^$important
 ||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
-||*.somautomotivorj.com.br^$important
 ||*.sp12ct-lendor-biz-kazvik-pronsel.pages.dev^$important
 ||*.sp4ct-felmorin-biz8-durem-zafix.pages.dev^$important
 ||*.sp4ct-xarvol-biz8-nurem-zalix.pages.dev^$important
@@ -596,6 +593,7 @@
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
+||*.stdown.dinju.com^$important
 ||*.stonecradle.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
