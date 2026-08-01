@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-01 13:11:40
+! Ultimo aggiornamento automatico: 2026-08-01 15:58:06
 ||*.0022a601.pphost.net^$important
 ||*.121dax.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -252,6 +252,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.ceryptcomlogien.webflow.io^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -294,6 +295,7 @@
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -350,7 +352,6 @@
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.giant-ways-340713.framer.app^$important
 ||*.giftonline11.weebly.com^$important
 ||*.globalbank.us^$important
@@ -395,7 +396,6 @@
 ||*.irrelevant-amethyst-kkwymbkj.edgeone.dev^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.j77m.vip^$important
 ||*.j77p.vip^$important
 ||*.jawaratekno.com^$important
@@ -406,12 +406,10 @@
 ||*.joysofa.com^$important
 ||*.js.byxly.eu.cc^$important
 ||*.juanhz16.github.io^$important
-||*.jyothishmathi.in^$important
 ||*.k82o.top^$important
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
-||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kldzp3d82pl-sfmgbyhy-3c8d5e-vq701a.pages.dev^$important
 ||*.kloclibkblink-dp73tqm8r6w5.edgeone.dev^$important
@@ -428,6 +426,7 @@
 ||*.ledger-security-notice.com^$important
 ||*.ledjgjh-s0sdfjhkgksd.pages.dev^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.lobster-app-97o5r.ondigitalocean.app^$important
 ||*.local-update.com^$important
@@ -466,7 +465,6 @@
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mogimall.com^$important
-||*.msedge.vg^$important
 ||*.msupdate.co.uk^$important
 ||*.msxlkjis.us.cc^$important
 ||*.mtoken-im.cv^$important
@@ -487,13 +485,13 @@
 ||*.nf.boletos-notas.com^$important
 ||*.nfe.boletos-notas.com^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.o4ge-a907i-v5ftua-807v-s1law.pages.dev^$important
 ||*.oauth.onedrive.biz.id^$important
 ||*.od0dm-kqv-5da1ma-8pbr-5380.pages.dev^$important
 ||*.ojang.pe.kr^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onlineseminary.info^$important
 ||*.other-help-488578.framer.app^$important
@@ -517,7 +515,6 @@
 ||*.planetariumobil.ro^$important
 ||*.pldwf2e18kq-mkrjbplos-9c0d7a-ltp18w.pages.dev^$important
 ||*.postelnini.mk^$important
-||*.powershell-storage.vg^$important
 ||*.prathamsquad18.github.io^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.processingaccesstodocs.weebly.com^$important
@@ -537,6 +534,7 @@
 ||*.reifenquick.de^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
+||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.robertrowe.com^$important
@@ -598,7 +596,6 @@
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
 ||*.stonecradle.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
@@ -706,7 +703,6 @@
 ||*.www.facebook-five-nu.vercel.app^$important
 ||*.www.facebook-prime.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.giftonline11.weebly.com^$important
 ||*.www.globaldigital.vercel.app^$important
 ||*.www.hgser.closer.website^$important
