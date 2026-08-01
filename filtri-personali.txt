@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-01 19:03:21
+! Ultimo aggiornamento automatico: 2026-08-01 21:51:36
 ||*.0022a601.pphost.net^$important
 ||*.121dax.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -175,7 +175,6 @@
 ||*.65436.xyz^$important
 ||*.65441.xyz^$important
 ||*.65443.xyz^$important
-||*.6ak-tehnik.si^$important
 ||*.72013.xyz^$important
 ||*.72037.xyz^$important
 ||*.785vb6v68.pages.dev^$important
@@ -183,7 +182,6 @@
 ||*.8366.org^$important
 ||*.88930.xyz^$important
 ||*.89243.xyz^$important
-||*.abdulahad.net^$important
 ||*.abhinav54884-creator.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
@@ -236,6 +234,7 @@
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
+||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -279,7 +278,6 @@
 ||*.creditopichincha-2026--credipichincha2.replit.app^$important
 ||*.crimefreesoftware.com^$important
 ||*.crystalpvp.ru^$important
-||*.cs.go.kg^$important
 ||*.cytheraonline.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -320,6 +318,7 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.evangroup.ru^$important
@@ -346,6 +345,7 @@
 ||*.fy-iapple-alert.com^$important
 ||*.fz.tiansys.cn^$important
 ||*.gabyagozetim.com^$important
+||*.galerisenimutiara.com^$important
 ||*.gangasagarg1114-commits.github.io^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
@@ -409,6 +409,7 @@
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
+||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kldzp3d82pl-sfmgbyhy-3c8d5e-vq701a.pages.dev^$important
 ||*.kloclibkblink-dp73tqm8r6w5.edgeone.dev^$important
@@ -490,7 +491,6 @@
 ||*.oauth.onedrive.biz.id^$important
 ||*.od0dm-kqv-5da1ma-8pbr-5380.pages.dev^$important
 ||*.ojang.pe.kr^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.onlineseminary.info^$important
 ||*.other-help-488578.framer.app^$important
@@ -602,7 +602,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.sympathetic-forms-118600.framer.app^$important
 ||*.talentrecruitments.com^$important
@@ -776,7 +775,6 @@
 ||*.www.y44nlndird4st4maktifsen.duckdns.org^$important
 ||*.www.yh086.com^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.xenon.studio^$important
 ||*.xjnsh235bf-btrzpskr-6d1c5f-xjn78c.pages.dev^$important
 ||*.xn--yh4bx88a.com^$important
