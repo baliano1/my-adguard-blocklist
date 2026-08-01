@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-01 08:13:58
+! Ultimo aggiornamento automatico: 2026-08-01 10:37:58
 ||*.0022a601.pphost.net^$important
 ||*.121dax.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -325,7 +325,6 @@
 ||*.filerit.com^$important
 ||*.find-cioud-phone.us^$important
 ||*.first-security-verden.de^$important
-||*.fluidfilm.bg^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fn4pn-31h-gmb7o9-2cyq-sdm.pages.dev^$important
@@ -386,6 +385,7 @@
 ||*.instagram-register.blogspot.com^$important
 ||*.ircftp.net^$important
 ||*.irrelevant-amethyst-kkwymbkj.edgeone.dev^$important
+||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jawaratekno.com^$important
@@ -482,6 +482,7 @@
 ||*.njbp7-7m4vn4-2wg-4hnj-pldu.pages.dev^$important
 ||*.noithaticon.vn^$important
 ||*.ntn2so-xdbdw-ruz8b6-xw4j.pages.dev^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.o2wz-eis-jtnm-4cc-4on-k09w.pages.dev^$important
@@ -491,7 +492,6 @@
 ||*.ojang.pe.kr^$important
 ||*.ojt-zp3-habj2-30d-vve-nrqd.pages.dev^$important
 ||*.ojxp-p7ls-o9cks-akvlyx-yd3kr.pages.dev^$important
-||*.oknoplastik.sk^$important
 ||*.okzsah-38pd-jvw-wbsma4-pknr.pages.dev^$important
 ||*.onfiltre.com.tr^$important
 ||*.other-help-488578.framer.app^$important
