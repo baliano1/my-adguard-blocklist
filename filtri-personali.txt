@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-02 05:53:11
+! Ultimo aggiornamento automatico: 2026-08-02 08:16:58
 ||*.0022a601.pphost.net^$important
 ||*.10000mutual.blogspot.com^$important
 ||*.123.ywxww.net^$important
@@ -198,6 +198,7 @@
 ||*.app.appzcvb.com^$important
 ||*.apsi.paymentrecpt.com^$important
 ||*.archivoscrosoft.com^$important
+||*.areyouready.co.za^$important
 ||*.arromaseis.com.tr^$important
 ||*.assistance.leboncoin.info^$important
 ||*.atasapka.com.tr^$important
@@ -217,7 +218,6 @@
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bmqbeauty.com.br^$important
-||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
 ||*.bookdngupsites.com^$important
@@ -247,7 +247,6 @@
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.ciclodeprosperidade.s3.us-east-005.backblazeb2.com^$important
-||*.cl.ssouy.com^$important
 ||*.clarityjpoint.info^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.cloudimagehostingupdatesrealted.yzz.me^$important
@@ -279,7 +278,6 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhlsiprod.eu23.smartcommunications.cloud^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.divyaguled202.github.io^$important
 ||*.dl.1003b.56a.com^$important
@@ -333,7 +331,6 @@
 ||*.fidelltyao.cyou^$important
 ||*.fifththirdohio.live^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.financiamentositau.click^$important
 ||*.first-security-verden.de^$important
@@ -375,6 +372,7 @@
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.hqehall.hqehall.fzgh.sonicmenusprices.com^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
@@ -389,6 +387,7 @@
 ||*.ik2npu-rez-7hrh-1db8wd-0dg.pages.dev^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imootken.top^$important
+||*.indusenterprises.co^$important
 ||*.info-resmi-34.blogspot.com^$important
 ||*.information-portal-945a.46573576.workers.dev^$important
 ||*.ing-ledgerr.pages.dev^$important
@@ -406,7 +405,6 @@
 ||*.itssprout.com^$important
 ||*.itsuppports.com^$important
 ||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jiya-byte.github.io^$important
@@ -454,7 +452,6 @@
 ||*.metrics.gocloudmaps.com^$important
 ||*.miaowenhuan.com^$important
 ||*.midasbuys.mobileaccesx-events.com^$important
-||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mobilab.by^$important
 ||*.mogimall.com^$important
@@ -596,14 +593,12 @@
 ||*.stdown.dinju.com^$important
 ||*.steamcommunitty-workspacedesigner.shop^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
-||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -636,7 +631,6 @@
 ||*.trtmyanmar.com^$important
 ||*.trzor-secure-suite.wasmer.app^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.u55u.xyz^$important
 ||*.un1rw11q4u.com^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -672,6 +666,7 @@
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
 ||*.wmwmilntu-edutw.netlify.app^$important
+||*.wqok85qtq.net^$important
 ||*.wwmilntu-tw.netlify.app^$important
 ||*.www-robllox.com^$important
 ||*.www.2026ee.shop^$important
@@ -723,7 +718,6 @@
 ||*.www.mercadolibre-details-challenge-kohl.vercel.app^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
@@ -757,7 +751,6 @@
 ||*.www.submit-application.surge.sh^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.thr-shopee52.blogspot.com^$important
 ||*.www.vuelaviajero.com^$important
