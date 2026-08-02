@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-02 02:27:26
+! Ultimo aggiornamento automatico: 2026-08-02 05:53:11
 ||*.0022a601.pphost.net^$important
 ||*.10000mutual.blogspot.com^$important
 ||*.123.ywxww.net^$important
@@ -547,6 +547,7 @@
 ||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
 ||*.rz44z.pages.dev^$important
+||*.s3o65awrf56.net^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.saiffarid-dev.github.io^$important
@@ -660,6 +661,7 @@
 ||*.vvbattambanghotel.blogspot.com^$important
 ||*.wa.comm-whatapp.com.cn^$important
 ||*.wa.links-whatapp.com.cn^$important
+||*.wantsellonline.com^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wegiveyouinstagramfollowers.blogspot.com^$important
 ||*.wellsfraudsupport.com^$important
@@ -751,6 +753,7 @@
 ||*.www.staking4portfolio.blogspot.com^$important
 ||*.www.staking5portfolio.blogspot.com^$important
 ||*.www.starcountry.net^$important
+||*.www.steamrub.com^$important
 ||*.www.submit-application.surge.sh^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
