@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-02 13:12:51
+! Ultimo aggiornamento automatico: 2026-08-02 15:57:28
 ||*.0022a601.pphost.net^$important
 ||*.0140.ee^$important
 ||*.123.ywxww.net^$important
@@ -298,9 +298,10 @@
 ||*.dezcom.com^$important
 ||*.diplomatic-evidence-242968.framer.app^$important
 ||*.dirck-etick-productrick.alwaysdata.net^$important
+||*.directdownloadl.ink^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.divyaguled202.github.io^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -330,7 +331,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.eng650.vercel.app^$important
 ||*.epanpano.com^$important
@@ -400,7 +400,6 @@
 ||*.hobobot.net^$important
 ||*.hqehall.hqehall.fzgh.sonicmenusprices.com^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https-roblodx.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -420,6 +419,7 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -443,6 +443,7 @@
 ||*.ledger-download-web-sso.typedream.app^$important
 ||*.ledger-log--org.pages.dev^$important
 ||*.ledggerlvewllt.webflow.io^$important
+||*.letsgobok.com^$important
 ||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
@@ -452,7 +453,6 @@
 ||*.logintoyahoo.blogspot.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m.r2c4d.com^$important
@@ -498,7 +498,6 @@
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
 ||*.oki.jtu.mybluehost.me^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
@@ -558,6 +557,7 @@
 ||*.s3o65awrf56.net^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
+||*.safeuploadz.com^$important
 ||*.samiksha.com.sg^$important
 ||*.sand1-bnb-bep20.vercel.app^$important
 ||*.santandermx.dothome.co.kr^$important
@@ -624,6 +624,7 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
+||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -704,7 +705,6 @@
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
-||*.www.benshamcentre.co.uk^$important
 ||*.www.bet365o.org^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
@@ -729,7 +729,6 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.freeinstagramfollowersherenow.blogspot.com^$important
 ||*.www.georgetownmover.com^$important
-||*.www.gestroom.it^$important
 ||*.www.get-instant-loan-us-bank-applynow.vercel.app^$important
 ||*.www.hadiah-resmi1577.blogspot.com^$important
 ||*.www.hajimi-ai.com^$important
@@ -748,6 +747,7 @@
 ||*.www.medises.co.kr^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
@@ -774,6 +774,7 @@
 ||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
+||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.vuelaviajero.com^$important
 ||*.www.wallet-support-ledger-livenanox-cdn.vercel.app^$important
