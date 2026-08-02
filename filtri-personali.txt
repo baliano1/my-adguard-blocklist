@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-02 15:57:28
+! Ultimo aggiornamento automatico: 2026-08-02 19:04:00
 ||*.0022a601.pphost.net^$important
 ||*.0140.ee^$important
 ||*.123.ywxww.net^$important
@@ -251,6 +251,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -326,11 +327,13 @@
 ||*.dsfgrrwerr.eu.cc^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
+||*.eclipsebible.com^$important
 ||*.egc88.org^$important
 ||*.ehall.it.it.m.sonicmenusprices.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.eng650.vercel.app^$important
 ||*.epanpano.com^$important
@@ -376,7 +379,6 @@
 ||*.generator-crypto-2-1.vercel.app^$important
 ||*.gentle-profiterole-cba7ff.netlify.app^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.gkbober.github.io^$important
 ||*.globalbank.us^$important
 ||*.googletagamnager.com^$important
@@ -418,7 +420,6 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -623,7 +624,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
