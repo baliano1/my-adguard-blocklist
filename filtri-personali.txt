@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-03 12:18:41
+! Ultimo aggiornamento automatico: 2026-08-03 17:06:32
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -241,7 +241,6 @@
 ||*.checkfivem.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cim-kolea.com^$important
 ||*.cl.ssouy.com^$important
@@ -291,7 +290,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -323,7 +321,6 @@
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.tugou.com.co^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filopotabsopauldi.com^$important
 ||*.finessa-com.eu.cc^$important
@@ -334,7 +331,6 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
-||*.fz.tiansys.cn^$important
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
@@ -386,7 +382,6 @@
 ||*.j80b.vip^$important
 ||*.j80d.vip^$important
 ||*.javariakhalid425.github.io^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -395,7 +390,6 @@
 ||*.kenwillzltd.com^$important
 ||*.khanabdullah18555-source.github.io^$important
 ||*.khavar.com^$important
-||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.klmqw882lk-yhnujplx-8a1d9e-klm51c.pages.dev^$important
 ||*.kokorostore.it^$important
@@ -410,13 +404,13 @@
 ||*.ledzr-startt.pages.dev^$important
 ||*.letsgobok.com^$important
 ||*.libss.0x504.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.made-in-chlna-com.cleverapps.io^$important
 ||*.maidforyou1985.com^$important
 ||*.mandarin.net.au^$important
@@ -450,11 +444,10 @@
 ||*.newbreedlifearts.org^$important
 ||*.nf.boletos-notas.com^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
+||*.oknoplastik.sk^$important
 ||*.one.vocal-whatapp.hl.cn^$important
 ||*.onfiltre.com.tr^$important
 ||*.online-zahlung-info.de^$important
@@ -639,7 +632,7 @@
 ||*.static.youdm.cn^$important
 ||*.statuesque-swan-4e547a.netlify.app^$important
 ||*.stdown.dinju.com^$important
-||*.stonecradle.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -677,7 +670,6 @@
 ||*.trtmyanmar.com^$important
 ||*.trustwallet-gaufre-7d87ec.netlify.app^$important
 ||*.tuasesoriadigital.es^$important
-||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
 ||*.tzr-oemdj.destiny72.workers.dev^$important
 ||*.u33h.top^$important
@@ -762,7 +754,6 @@
 ||*.www.one.vocal-whatapp.hl.cn^$important
 ||*.www.php-eth-back.vercel.app^$important
 ||*.www.pl.emecsty.com^$important
-||*.www.rbcfort.com^$important
 ||*.www.rblxdopx.blogspot.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.py^$important
@@ -794,7 +785,6 @@
 ||*.www.xfinitywebnotification.weebly.com^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.xenon.studio^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
