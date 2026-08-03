@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-03 02:29:46
+! Ultimo aggiornamento automatico: 2026-08-03 06:18:15
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -222,7 +222,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -282,7 +281,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dowonline.ru^$important
 ||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
@@ -675,7 +673,6 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.stonecradle.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -759,6 +756,7 @@
 ||*.www.facedboak.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.freeinstagramfollowers1m.blogspot.com^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
