@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-04 19:26:02
+! Ultimo aggiornamento automatico: 2026-08-04 22:07:58
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13aw2r55bh.dual3231-1.workers.dev^$important
@@ -211,6 +211,7 @@
 ||*.auth-coinsquare.webflow.io^$important
 ||*.awarenessexhibition.com^$important
 ||*.backupso.com^$important
+||*.beak.in^$important
 ||*.bellsouth-mailer-verify-ed0be0.webflow.io^$important
 ||*.beoauto.alexion.rs^$important
 ||*.berquro-gld-larqumi-a3t5hk78.pages.dev^$important
@@ -249,6 +250,7 @@
 ||*.checkfivem.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
+||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cim-kolea.com^$important
 ||*.cioxnbasxeprologo.gitbook.io^$important
@@ -295,8 +297,8 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.directdownloadl.ink^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dn-pdflite.lat^$important
@@ -343,6 +345,7 @@
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.tugou.com.co^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.findmy-shhjtop.info^$important
 ||*.first-security-verden.de^$important
@@ -364,7 +367,6 @@
 ||*.ganaconfelalla.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
-||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
 ||*.gfvcd835nhw-klmqwfyn-4d7e6f-yh388a.pages.dev^$important
 ||*.glelcbd.com^$important
@@ -373,7 +375,6 @@
 ||*.goldenanthonygodaen.pages.dev^$important
 ||*.googleaccountservices.netlify.app^$important
 ||*.googletagamnager.com^$important
-||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.gregdsd.s3.us-west-1.amazonaws.com^$important
 ||*.grupomcperu.com^$important
@@ -406,6 +407,7 @@
 ||*.ixirgroup.com^$important
 ||*.iy.vjaziwh.com^$important
 ||*.jade-figolla-7d96c8.netlify.app^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jessieprofile.netlify.app^$important
@@ -486,7 +488,6 @@
 ||*.ncxps.com^$important
 ||*.netflixpayment.org^$important
 ||*.netlixanupam.netlify.app^$important
-||*.nf.boletos-notas.com^$important
 ||*.nieuwestep.nl^$important
 ||*.node-layer.vercel.app^$important
 ||*.noithaticon.vn^$important
@@ -643,7 +644,6 @@
 ||*.supportslcloud.help^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
@@ -705,7 +705,6 @@
 ||*.wexwexx344xsxsx.pages.dev^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
-||*.wittenhorst.eu^$important
 ||*.www.amazon-project-theta.vercel.app^$important
 ||*.www.amazon-web-inspired.vercel.app^$important
 ||*.www.aomazzz69.blogspot.com^$important
