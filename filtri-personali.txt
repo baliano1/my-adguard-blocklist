@@ -162,11 +162,12 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-04 16:48:43
+! Ultimo aggiornamento automatico: 2026-08-04 19:26:02
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13aw2r55bh.dual3231-1.workers.dev^$important
 ||*.1717.1000uc.com^$important
+||*.176.65.148.145.ptr.pfcloud.network^$important
 ||*.3.rewardinglocker.com^$important
 ||*.30.rewardinglocker.com^$important
 ||*.32s23s32s3.pages.dev^$important
@@ -218,6 +219,7 @@
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
+||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.bnpp.test.verifcv.com^$important
@@ -238,7 +240,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.center.creatormonetizationsupportglobaluse.click^$important
 ||*.cf.780411.xyz^$important
@@ -327,7 +328,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.eqipodsegrddoffchwttp.iceiy.com^$important
@@ -365,6 +365,7 @@
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.gfvcd835nhw-klmqwfyn-4d7e6f-yh388a.pages.dev^$important
 ||*.glelcbd.com^$important
 ||*.global-server-mail.vercel.app^$important
@@ -444,7 +445,6 @@
 ||*.loquacious-naiad-5360db.netlify.app^$important
 ||*.lovable-humans-199210.framer.app^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.lzrstbg67fgh5fd.sd96asd.workers.dev^$important
 ||*.m-r.pw^$important
 ||*.m.999kyqp.com^$important
@@ -515,6 +515,7 @@
 ||*.planetariumobil.ro^$important
 ||*.poetic-syrniki-c47c02.netlify.app^$important
 ||*.postelnini.mk^$important
+||*.preciosasjoyitas.com.mx^$important
 ||*.private-access.github.io^$important
 ||*.public-faq-start-helps_-trezr.typedream.app^$important
 ||*.public.demo.securecloudsandbox.com^$important
