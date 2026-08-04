@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-04 08:30:43
+! Ultimo aggiornamento automatico: 2026-08-04 11:20:38
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13aw2r55bh.dual3231-1.workers.dev^$important
@@ -283,6 +283,7 @@
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
+||*.deliozmabrano.site.je^$important
 ||*.deliverymailreport.co.za^$important
 ||*.delp-heizungsbau.de^$important
 ||*.demo2.jasinfotech.co.in^$important
@@ -362,7 +363,6 @@
 ||*.genddos.st^$important
 ||*.genuine-dessert-577396.framer.app^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.glelcbd.com^$important
 ||*.global-mail.vercel.app^$important
 ||*.globalbank.us^$important
@@ -391,6 +391,7 @@
 ||*.igra123.com^$important
 ||*.ijexgroup.com.br^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.indusenterprises.co^$important
 ||*.interface-dapp.vercel.app^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
@@ -480,6 +481,7 @@
 ||*.nf.boletos-notas.com^$important
 ||*.node-layer.vercel.app^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
@@ -558,6 +560,7 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safeuploadz.com^$important
 ||*.samiksha.com.sg^$important
+||*.savannahadventureslimited.com^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
