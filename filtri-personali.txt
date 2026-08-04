@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-04 05:43:24
+! Ultimo aggiornamento automatico: 2026-08-04 08:30:43
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13aw2r55bh.dual3231-1.workers.dev^$important
@@ -323,7 +323,6 @@
 ||*.elisans.novayonetim.com^$important
 ||*.email.awiiair.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.evangroup.ru^$important
@@ -384,7 +383,6 @@
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.https-roblodx.com^$important
@@ -393,12 +391,10 @@
 ||*.igra123.com^$important
 ||*.ijexgroup.com.br^$important
 ||*.ikincielesyaciankara.com.tr^$important
-||*.indusenterprises.co^$important
 ||*.interface-dapp.vercel.app^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.j79u.vip^$important
 ||*.j79v.vip^$important
 ||*.j79w.vip^$important
@@ -432,11 +428,11 @@
 ||*.ldv1w5re9rca2907w67tqhgufn9m47ingeecsurj6r496aonbtvw.vercel.app^$important
 ||*.letsgobok.com^$important
 ||*.libss.0x504.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.login-access.blogspot.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m.060827.com^$important
 ||*.m.19981.buzz^$important
 ||*.m.jkoa.co.kr^$important
@@ -499,7 +495,6 @@
 ||*.pay.aqiu6.com^$important
 ||*.paypal.myprocessing.help^$important
 ||*.pcupd.com^$important
-||*.peachcity.si^$important
 ||*.peco.digick.jp^$important
 ||*.pfatrivandrum.org^$important
 ||*.php-eth-back.vercel.app^$important
