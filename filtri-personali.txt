@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-04 14:02:33
+! Ultimo aggiornamento automatico: 2026-08-04 16:48:43
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.13aw2r55bh.dual3231-1.workers.dev^$important
@@ -181,6 +181,7 @@
 ||*.account.yahoojp.dpdns.org^$important
 ||*.accounts.biowikiweb.com^$important
 ||*.acms.saleseos.com^$important
+||*.actualiza-red5g.app^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.afrs-4c203-r02g-ft32-jz6.pages.dev^$important
@@ -209,7 +210,6 @@
 ||*.auth-coinsquare.webflow.io^$important
 ||*.awarenessexhibition.com^$important
 ||*.backupso.com^$important
-||*.beak.in^$important
 ||*.bellsouth-mailer-verify-ed0be0.webflow.io^$important
 ||*.beoauto.alexion.rs^$important
 ||*.berquro-gld-larqumi-a3t5hk78.pages.dev^$important
@@ -327,6 +327,7 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.eqipodsegrddoffchwttp.iceiy.com^$important
@@ -342,7 +343,6 @@
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.tugou.com.co^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.findmy-shhjtop.info^$important
 ||*.first-security-verden.de^$important
@@ -705,7 +705,6 @@
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
-||*.wqok85qtq.net^$important
 ||*.www.amazon-project-theta.vercel.app^$important
 ||*.www.amazon-web-inspired.vercel.app^$important
 ||*.www.aomazzz69.blogspot.com^$important
@@ -754,7 +753,6 @@
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.r.oblox.com.et^$important
-||*.www.rbcfort.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.py^$important
 ||*.www.roblox.com.am^$important
