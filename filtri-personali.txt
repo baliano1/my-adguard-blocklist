@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-05 13:59:51
+! Ultimo aggiornamento automatico: 2026-08-05 16:38:11
 ||*.0022a601.pphost.net^$important
 ||*.105611333.com^$important
 ||*.123.ywxww.net^$important
@@ -257,6 +257,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkerfort.skin^$important
@@ -336,7 +337,6 @@
 ||*.ejjeex.pages.dev^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.enter-pverif-code.info^$important
@@ -395,7 +395,6 @@
 ||*.hklogin.mizuhoscfglobal.com^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.hwykplqn.xyz^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -411,6 +410,7 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.j-tomlinson.com^$important
+||*.jawaratekno.com^$important
 ||*.jedi-crypyo.github.io^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -514,6 +514,7 @@
 ||*.panel.b2brouter-secure.com^$important
 ||*.paperorbit.cloud^$important
 ||*.pay.aqiu6.com^$important
+||*.paymentautomations.biz^$important
 ||*.pcupd.com^$important
 ||*.peee-dash-zim-six.vercel.app^$important
 ||*.pfatrivandrum.org^$important
@@ -672,7 +673,6 @@
 ||*.un1rw11q4u.com^$important
 ||*.uniswap-protocol-dex-relay-v451.vercel.app^$important
 ||*.universami.ge^$important
-||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.vasquomw21.github.io^$important
@@ -804,7 +804,6 @@
 ||*.xfinitymaills110.weebly.com^$important
 ||*.xfinitysupportdesk.com^$important
 ||*.xfinityupdates.vercel.app^$important
-||*.xiazaixitong8.com^$important
 ||*.xjnsh6a45gp-btrzpmja-6e1f4b-xjn83c.pages.dev^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
