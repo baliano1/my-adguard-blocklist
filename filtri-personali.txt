@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-05 02:08:41
+! Ultimo aggiornamento automatico: 2026-08-05 05:42:23
 ||*.0022a601.pphost.net^$important
 ||*.09aieh-zyd-j90-ba8-r2jh-insll.pages.dev^$important
 ||*.0ve2qi.fcxy.cc^$important
@@ -214,6 +214,7 @@
 ||*.alokkumar573.github.io^$important
 ||*.alternativas.ru^$important
 ||*.amazon-web-inspired.vercel.app^$important
+||*.antleds.com^$important
 ||*.aok.dls.mybluehost.me^$important
 ||*.app-binance.github.io^$important
 ||*.app.appzcvb.com^$important
@@ -314,8 +315,10 @@
 ||*.delp-heizungsbau.de^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
+||*.directdownloadl.ink^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dn-pdflite.lat^$important
@@ -392,7 +395,7 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hjha.ao^$important
-||*.hseda.com^$important
+||*.hobobot.net^$important
 ||*.htdentshop.com^$important
 ||*.hubcert.com.br^$important
 ||*.icoffeecloud.com^$important
@@ -453,7 +456,6 @@
 ||*.mailbox-dpkjr4w7vaw1.edgeone.dev^$important
 ||*.maisxc.us.cc^$important
 ||*.manage.u8wins.com^$important
-||*.mandarin.net.au^$important
 ||*.mashood-git.github.io^$important
 ||*.mavulca.com.ve^$important
 ||*.media.u8wins.com^$important
@@ -571,6 +573,7 @@
 ||*.skript.club^$important
 ||*.smartermail.host^$important
 ||*.smoking-hot.net^$important
+||*.soap2dayfree.top^$important
 ||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.sp10ct-corek-biz8-lurem-mafin.pages.dev^$important
@@ -611,7 +614,6 @@
 ||*.sp6ct-vensor-biz8-pralek-jundor.pages.dev^$important
 ||*.spgint.com^$important
 ||*.square-art-eb45.pcqayteudelrlyi.workers.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -621,6 +623,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
