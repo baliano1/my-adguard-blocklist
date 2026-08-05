@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-05 19:24:18
+! Ultimo aggiornamento automatico: 2026-08-05 22:09:19
 ||*.0022a601.pphost.net^$important
 ||*.105611333.com^$important
 ||*.123.ywxww.net^$important
@@ -249,13 +249,11 @@
 ||*.cambodiatouristservice.com^$important
 ||*.campaingofficial.vercel.app^$important
 ||*.campofficial.vercel.app^$important
-||*.cashblaq.fit^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkerfort.skin^$important
@@ -279,6 +277,7 @@
 ||*.conwedd.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
+||*.cpc188.day^$important
 ||*.cpofficial.com^$important
 ||*.cqylt.net^$important
 ||*.creativevoltage.com^$important
@@ -391,7 +390,7 @@
 ||*.hk.mizuhoscfglobal.com^$important
 ||*.hklogin.mizuhoscfglobal.com^$important
 ||*.hobobot.net^$important
-||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hwykplqn.xyz^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -444,7 +443,6 @@
 ||*.lomiva.vu^$important
 ||*.loveleadsfed-xlcbug2t-petermurphyprivate7-hub.ipfs.4everland.app^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maanyakp-ops.github.io^$important
@@ -453,6 +451,7 @@
 ||*.mail.wellsfargoreports.com^$important
 ||*.mailify.cc^$important
 ||*.malizsx.us.cc^$important
+||*.mandarin.net.au^$important
 ||*.map-location.com^$important
 ||*.maps-ios.help^$important
 ||*.marbrerie-buisan.fr^$important
@@ -511,7 +510,6 @@
 ||*.panel.b2brouter-secure.com^$important
 ||*.paperorbit.cloud^$important
 ||*.pay.aqiu6.com^$important
-||*.paymentautomations.biz^$important
 ||*.pcupd.com^$important
 ||*.peee-dash-zim-six.vercel.app^$important
 ||*.pfatrivandrum.org^$important
@@ -602,7 +600,6 @@
 ||*.smartermail.host^$important
 ||*.smoking-hot.net^$important
 ||*.snhgj4a38vs-pldwfkmja-3d2e9f-snq65c.pages.dev^$important
-||*.soap2dayfree.top^$important
 ||*.soft.110route.com^$important
 ||*.softcatalog.ru^$important
 ||*.solar-sanat.net^$important
@@ -636,7 +633,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sweet-cucurucho-77bdde.netlify.app^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
@@ -665,13 +661,14 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.tzr-oeknj.destiny72.workers.dev^$important
 ||*.un1rw11q4u.com^$important
 ||*.uniswap-protocol-dex-relay-v451.vercel.app^$important
 ||*.universami.ge^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
+||*.us.wind0ws.net^$important
 ||*.vasquomw21.github.io^$important
 ||*.vcc-library.uk^$important
 ||*.versaclean.com.br^$important
@@ -728,6 +725,7 @@
 ||*.www.g65t.xyz^$important
 ||*.www.gemiinilugennn.godaddysites.com^$important
 ||*.www.gestionsegalz.com^$important
+||*.www.gestroom.it^$important
 ||*.www.gojojd.weebly.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hseda.com^$important
