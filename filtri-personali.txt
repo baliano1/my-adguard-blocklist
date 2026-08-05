@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-05 16:38:11
+! Ultimo aggiornamento automatico: 2026-08-05 19:24:18
 ||*.0022a601.pphost.net^$important
 ||*.105611333.com^$important
 ||*.123.ywxww.net^$important
@@ -204,7 +204,6 @@
 ||*.amazon.biowikiweb.com^$important
 ||*.americanmanchester.org^$important
 ||*.ankita-babar.github.io^$important
-||*.antleds.com^$important
 ||*.app.appzcvb.com^$important
 ||*.app.creatormonetizationsupportprouse.click^$important
 ||*.app.whatsapp.ih.hl.cn^$important
@@ -250,7 +249,6 @@
 ||*.cambodiatouristservice.com^$important
 ||*.campaingofficial.vercel.app^$important
 ||*.campofficial.vercel.app^$important
-||*.canta-cn.com^$important
 ||*.cashblaq.fit^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
@@ -314,7 +312,6 @@
 ||*.dl.natgo.cn^$important
 ||*.dn-pdflite.lat^$important
 ||*.doc.e-statements.app^$important
-||*.donal.gt.tc^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
@@ -327,7 +324,6 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
-||*.download.ubua.online^$important
 ||*.dowonline.ru^$important
 ||*.dreamwatchevent.com^$important
 ||*.dusttv.com^$important
@@ -337,6 +333,7 @@
 ||*.ejjeex.pages.dev^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.enter-pverif-code.info^$important
@@ -454,6 +451,7 @@
 ||*.maidforyou1985.com^$important
 ||*.mail.vnd.suu.temporary.site^$important
 ||*.mail.wellsfargoreports.com^$important
+||*.mailify.cc^$important
 ||*.malizsx.us.cc^$important
 ||*.map-location.com^$important
 ||*.maps-ios.help^$important
@@ -505,7 +503,6 @@
 ||*.o24o.ru^$important
 ||*.oeprecious.github.io^$important
 ||*.ojang.pe.kr^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
