@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-06 05:45:04
+! Ultimo aggiornamento automatico: 2026-08-06 08:29:22
 ||*.0022a601.pphost.net^$important
 ||*.105611333.com^$important
 ||*.123.ywxww.net^$important
@@ -224,7 +224,6 @@
 ||*.backupso.com^$important
 ||*.bafkreihfzdipod26ligjr2hfyrtjt3bnvc6fyqtgoo3tegaunavw3uhxhy.ipfs.dweb.link^$important
 ||*.bbiwbsiw-tech.github.io^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bermita-nqx-zormela-p7t8dw13.pages.dev^$important
 ||*.betlink44.pro^$important
@@ -277,6 +276,7 @@
 ||*.coinvasxtension.webflow.io^$important
 ||*.comcastupdatelogin.weebly.com^$important
 ||*.compuserviceonline.com.br^$important
+||*.comumvidros.com.br^$important
 ||*.continentalgroup.net.in^$important
 ||*.convivial-lynx-418603.framer.app^$important
 ||*.coralasargetia.ro^$important
@@ -335,11 +335,11 @@
 ||*.eclipsebible.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.embedone.com^$important
 ||*.en-suitts-trezar.wasmer.app^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.enter-pverif-code.info^$important
-||*.epanpano.com^$important
 ||*.erf-0e1zh-6icr8-wy5k-w4h0p.pages.dev^$important
 ||*.es4dr56tyuikdf6g-dp9xyf4hhc53.edgeone.dev^$important
 ||*.evangroup.ru^$important
@@ -371,7 +371,6 @@
 ||*.fullstacknir.com^$important
 ||*.fundodesalvaguarda.s3.us-east-005.backblazeb2.com^$important
 ||*.furystaff.tech^$important
-||*.fz.tiansys.cn^$important
 ||*.g-ze24hbebidas.shop^$important
 ||*.g-zeexpress24h.shop^$important
 ||*.g5.lu^$important
@@ -385,7 +384,6 @@
 ||*.geckotristate.com^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.goo.su^$important
 ||*.googletagamnager.com^$important
@@ -406,6 +404,8 @@
 ||*.hjha.ao^$important
 ||*.hobobot.net^$important
 ||*.hongtintuc999-vn.github.io^$important
+||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hubcert.com.br^$important
 ||*.hwykplqn.xyz^$important
 ||*.icloudsmy-deviced.info^$important
@@ -422,7 +422,6 @@
 ||*.isiore.com.co^$important
 ||*.ithelpdeskweb.co.uk^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.j9s-0ocsy-npc-g1bvk-k0v74.pages.dev^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -461,12 +460,14 @@
 ||*.loosun.net^$important
 ||*.luizmatoso.com.br^$important
 ||*.m.jkoa.co.kr^$important
+||*.m.meta-dm.com^$important
 ||*.m10l-udzm-njt3.shimon-eldrotec-com-s-account.workers.dev^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.3f-icloud.com^$important
 ||*.mail.accounts-location.us^$important
 ||*.mail.icloudsmy-deviced.info^$important
 ||*.mail.localizar-lphone-maps.click^$important
+||*.mailify.cc^$important
 ||*.mailupdatecomcast.weebly.com^$important
 ||*.mandarin.net.au^$important
 ||*.materialdeapoioplanejamentofuturo.s3.us-east-005.backblazeb2.com^$important
@@ -614,6 +615,7 @@
 ||*.shopee987.blogspot.com^$important
 ||*.shopingee.shop^$important
 ||*.shoutout.wix.com^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.siaasesoria.com.mx^$important
 ||*.site-7lhik3ohd.godaddysites.com^$important
 ||*.sk-comtel.com^$important
