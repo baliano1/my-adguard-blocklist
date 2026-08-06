@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-06 08:29:22
+! Ultimo aggiornamento automatico: 2026-08-06 11:19:27
 ||*.0022a601.pphost.net^$important
 ||*.105611333.com^$important
 ||*.123.ywxww.net^$important
@@ -180,7 +180,6 @@
 ||*.651561565.lat^$important
 ||*.678666.shop^$important
 ||*.9o2k-hxw5-pnnh.shimon-eldrotec-com-s-account.workers.dev^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accounts-location.us^$important
 ||*.acessogoldnu.online^$important
@@ -224,6 +223,7 @@
 ||*.backupso.com^$important
 ||*.bafkreihfzdipod26ligjr2hfyrtjt3bnvc6fyqtgoo3tegaunavw3uhxhy.ipfs.dweb.link^$important
 ||*.bbiwbsiw-tech.github.io^$important
+||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bermita-nqx-zormela-p7t8dw13.pages.dev^$important
 ||*.betlink44.pro^$important
@@ -396,13 +396,13 @@
 ||*.h25b.top^$important
 ||*.hasalltalent.com^$important
 ||*.hbkpt0b58pz-xlbdwlsi-2e9f4a-hbk20c.pages.dev^$important
+||*.heajost.online^$important
 ||*.help-trezoorhlp.gitbook.io^$important
 ||*.heroestales.com^$important
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hjha.ao^$important
-||*.hobobot.net^$important
 ||*.hongtintuc999-vn.github.io^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
@@ -422,6 +422,7 @@
 ||*.isiore.com.co^$important
 ||*.ithelpdeskweb.co.uk^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.j9s-0ocsy-npc-g1bvk-k0v74.pages.dev^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -459,6 +460,7 @@
 ||*.lomiva.vu^$important
 ||*.loosun.net^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m10l-udzm-njt3.shimon-eldrotec-com-s-account.workers.dev^$important
@@ -514,7 +516,6 @@
 ||*.nybr.ignorelist.com^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
-||*.oknoplastik.sk^$important
 ||*.one.audios-whatapp.hl.cn^$important
 ||*.one.message-whatapp.com.cn^$important
 ||*.onfiltre.com.tr^$important
@@ -588,13 +589,14 @@
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safeuploadz.com^$important
+||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.sapporo-chugokugo.club^$important
 ||*.sardineext.vercel.app^$important
 ||*.savannahadventureslimited.com^$important
-||*.scainseto.com.br^$important
 ||*.scalarium.info^$important
 ||*.scanbot.me^$important
+||*.scoala1gherla.ro^$important
 ||*.sdffht3.pages.dev^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -652,6 +654,7 @@
 ||*.studiogioeli.it^$important
 ||*.sucursal-virtuall.vercel.app^$important
 ||*.suisseigb.com^$important
+||*.sumiko.vu^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
@@ -677,6 +680,7 @@
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiktokstudio.github.io^$important
+||*.timestampasa.howto.rocks^$important
 ||*.to.lk^$important
 ||*.todosobreinstagram.blogspot.com^$important
 ||*.toolshare.com.tr^$important
@@ -744,6 +748,7 @@
 ||*.www.drgenov.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.gemiinilugennn.godaddysites.com^$important
+||*.www.gestroom.it^$important
 ||*.www.guestdataupds.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -819,4 +824,5 @@
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
 ||*.zjstr6bpzgobk-qcfzk98plsi-4e5f8a-fyn8c.pages.dev^$important
+||*.zoredaye.com^$important
 ||*.zycdjz.com^$important
