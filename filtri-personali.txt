@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-06 13:58:08
+! Ultimo aggiornamento automatico: 2026-08-06 23:54:42
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -176,6 +176,7 @@
 ||*.678666.shop^$important
 ||*.8bn7987b.pages.dev^$important
 ||*.aaavvveeronsss.framer.website^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.actualiza-red5g.app^$important
@@ -353,18 +354,18 @@
 ||*.dowonline.ru^$important
 ||*.dreamwatchevent.com^$important
 ||*.dry-thunder-f3f8.guidance-to-users.workers.dev^$important
+||*.durakutihs.com^$important
 ||*.dusttv.com^$important
 ||*.dvkjdvjdjkldvkkl.weebly.com^$important
 ||*.dynga.pl^$important
-||*.eclipsebible.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.en-suitts-trezar.wasmer.app^$important
 ||*.en-us-desktop-ledgere.pages.dev^$important
 ||*.en.taichuan.com^$important
-||*.endpoint.project0.cc^$important
 ||*.enter-pverif-code.info^$important
+||*.epanpano.com^$important
 ||*.esl-org-message.cfd^$important
 ||*.evangroup.ru^$important
 ||*.exo--dus---web.pages.dev^$important
@@ -391,6 +392,7 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
+||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
 ||*.galabet.girisiguncel.vip^$important
@@ -399,10 +401,10 @@
 ||*.gboutros.howto.rocks^$important
 ||*.gemini.141010.xyz^$important
 ||*.gemini.hrxgxai.com^$important
-||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
 ||*.gfvcd7dplix-klmqwuhy-4c3d0e-yh633a.pages.dev^$important
 ||*.globalbank.us^$important
+||*.golvteametvarberg.se^$important
 ||*.googletagamnager.com^$important
 ||*.gouunchungmissgrand.pages.dev^$important
 ||*.grantexx.com^$important
@@ -416,7 +418,6 @@
 ||*.hasalltalent.com^$important
 ||*.hbkpt0b58pz-xlbdwlsi-2e9f4a-hbk20c.pages.dev^$important
 ||*.hbkpt42bfrn-xlbdwskr-2d7c4f-hbk11c.pages.dev^$important
-||*.heajost.online^$important
 ||*.heavenly-friday-987120.framer.app^$important
 ||*.help-ledgerlive-desk.pages.dev^$important
 ||*.help-trezoorhlp.gitbook.io^$important
@@ -448,7 +449,6 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jatony.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -469,7 +469,6 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-invoices-realworld-fi.pages.dev^$important
 ||*.lenotecadiarqua.it^$important
-||*.libss.0x504.com^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.linktrap.co^$important
 ||*.lion44.net^$important
@@ -529,7 +528,6 @@
 ||*.offline-treser.zapier.app^$important
 ||*.ojang.pe.kr^$important
 ||*.oki.jtu.mybluehost.me^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
@@ -552,7 +550,6 @@
 ||*.q.swnuyc.com^$important
 ||*.qcfzk8avstryz-bgrnd65kmja-0d1e5f-spl4c.pages.dev^$important
 ||*.qiniuyunxz.yxflzs.com^$important
-||*.qv.co.ke^$important
 ||*.r.oblox.com.et^$important
 ||*.r43-b1aae8a08168.herokuapp.com^$important
 ||*.ramirex.ro^$important
@@ -606,13 +603,13 @@
 ||*.shop.mediasova.ru^$important
 ||*.shopingee.shop^$important
 ||*.shopmidasbuy.officiall-events.com^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.siaasesoria.com.mx^$important
 ||*.siayeo.com.sg^$important
 ||*.sign-in-xfinity.weebly.com^$important
 ||*.sign-in-xfinity.weeblysite.com^$important
 ||*.signinxfinity.weebly.com^$important
 ||*.sk-comtel.com^$important
-||*.skript.club^$important
 ||*.smartermail.host^$important
 ||*.smoking-hot.net^$important
 ||*.sochibeer.ru^$important
@@ -680,6 +677,7 @@
 ||*.tsanajjnbb.eu.cc^$important
 ||*.tsanajjncc.eu.cc^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.twxpl826a-phvjn7qmy-5c8e-zgr94p.pages.dev^$important
 ||*.universami.ge^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -691,6 +689,7 @@
 ||*.us.wind0ws.net^$important
 ||*.validacaodedados.s3.us-east-005.backblazeb2.com^$important
 ||*.vcc-library.uk^$important
+||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.victor9699.github.io^$important
@@ -748,6 +747,7 @@
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
 ||*.www.khavar.com^$important
+||*.www.knockknock.top^$important
 ||*.www.konsor.ru^$important
 ||*.www.mailupdatecomcast.weebly.com^$important
 ||*.www.medises.co.kr^$important
@@ -756,7 +756,6 @@
 ||*.www.moonpay-commerce-git-henryharris-com2-2757-heliofi.vercel.app^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.netflixt.top^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
