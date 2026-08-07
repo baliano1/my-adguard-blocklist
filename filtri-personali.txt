@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-07 07:09:28
+! Ultimo aggiornamento automatico: 2026-08-07 09:57:55
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.165-154-235-121.cprapid.com^$important
@@ -250,6 +250,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.channelhub.online^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -328,7 +329,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -370,7 +370,6 @@
 ||*.feelingbuhis.info^$important
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finserveconsulting.com^$important
 ||*.first-security-verden.de^$important
@@ -392,7 +391,6 @@
 ||*.gboutros.howto.rocks^$important
 ||*.gemini.hrxgxai.com^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.ginaruiz.com^$important
 ||*.gipster21.github.io^$important
 ||*.globalbank.us^$important
@@ -424,11 +422,13 @@
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.indusenterprises.co^$important
 ||*.iotrzorhardirewallet.gitbook.io^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -447,12 +447,12 @@
 ||*.kuqoinlognn.gitbook.io^$important
 ||*.land06.aabenrapharma.de^$important
 ||*.landonirwin.com^$important
+||*.lawfirm.paperbirdtech.com^$important
 ||*.leadger-com-sart-inf.pages.dev^$important
 ||*.ledgerlivwallotjikise.webflow.io^$important
 ||*.ledugeer-live.pages.dev^$important
 ||*.lenotecadiarqua.it^$important
 ||*.liketproperty.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.linktrap.co^$important
 ||*.lion44.net^$important
 ||*.live-ledgrs-en.pages.dev^$important
@@ -469,7 +469,6 @@
 ||*.m.500275.com^$important
 ||*.m.fyqn9810la0y.com^$important
 ||*.m.jkoa.co.kr^$important
-||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mailer-xfinity.weebly.com^$important
 ||*.mailify.cc^$important
@@ -506,9 +505,7 @@
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.officialcaseshub.com^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.orienttaxtile.com^$important
 ||*.ornnicon.com^$important
@@ -580,7 +577,6 @@
 ||*.sec.xiaoshabi.nl^$important
 ||*.securityawareness.cc^$important
 ||*.seismophonic.com^$important
-||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
 ||*.seputartuban.com^$important
 ||*.service-diag-solutions.cfd^$important
@@ -664,7 +660,6 @@
 ||*.trtmyanmar.com^$important
 ||*.trustwallet.com.4-240-89-20.cpanel.site^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.uk-gov-mirror.github.io^$important
 ||*.ultraprimenovolimite.s3.us-east-005.backblazeb2.com^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -727,7 +722,6 @@
 ||*.www.drgenov.com^$important
 ||*.www.face-book-book.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.giftrobux.click^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -766,7 +760,6 @@
 ||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
