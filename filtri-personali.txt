@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-07 18:50:41
+! Ultimo aggiornamento automatico: 2026-08-07 21:35:06
 ||*.000037.cc^$important
 ||*.0022a601.pphost.net^$important
 ||*.111112.cc^$important
@@ -301,6 +301,7 @@
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
+||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
@@ -315,11 +316,13 @@
 ||*.dynga.pl^$important
 ||*.e.vg^$important
 ||*.e7fonw-3eskv-1nylv3-vcwdw.pages.dev^$important
+||*.eclipsebible.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.en-io-start-help.typedream.app^$important
 ||*.en.taichuan.com^$important
+||*.endpoint.project0.cc^$important
 ||*.enormous-apricot-bhhnh1v5.edgeone.dev^$important
 ||*.entersistealporete23232.iceiy.com^$important
 ||*.epanpano.com^$important
@@ -375,6 +378,7 @@
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.ikincielesyaciankara.com.tr^$important
 ||*.incomparable-pixie-17b40f.netlify.app^$important
 ||*.indusenterprises.co^$important
 ||*.informapp.info^$important
@@ -385,6 +389,7 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.jaovinic.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -398,7 +403,6 @@
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
-||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-faq-download.pages.dev^$important
 ||*.ledger-starte.pages.dev^$important
@@ -419,7 +423,7 @@
 ||*.mail.tatenengo.ru^$important
 ||*.mailcomcastonline.weebly.com^$important
 ||*.mailglobalsbg.com^$important
-||*.mandarin.net.au^$important
+||*.mailify.cc^$important
 ||*.meetvideogoogle.com^$important
 ||*.meiitecmeskx-iss.gitbook.io^$important
 ||*.metabusinessconsultancy.co.uk^$important
@@ -524,6 +528,7 @@
 ||*.siaasesoria.com.mx^$important
 ||*.simple-security-page--pinewl.replit.app^$important
 ||*.sk-comtel.com^$important
+||*.skript.club^$important
 ||*.smartermail.host^$important
 ||*.smoking-hot.net^$important
 ||*.sochibeer.ru^$important
@@ -675,7 +680,6 @@
 ||*.trtmyanmar.com^$important
 ||*.trust-mail.my^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.tzr-ioqwek.destiny72.workers.dev^$important
 ||*.u.to^$important
 ||*.u648984.softaculous.dev^$important
@@ -747,10 +751,8 @@
 ||*.www.dvkjdvjdjkldvkkl.weebly.com^$important
 ||*.www.facebokksecurity.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
@@ -765,6 +767,7 @@
 ||*.www.medises.co.kr^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.newxfsync.weebly.com^$important
 ||*.www.notbak.com^$important
