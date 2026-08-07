@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-07 12:54:46
+! Ultimo aggiornamento automatico: 2026-08-07 15:52:23
 ||*.000037.cc^$important
 ||*.0022a601.pphost.net^$important
 ||*.111112.cc^$important
@@ -196,6 +196,7 @@
 ||*.amazonjob-opal.vercel.app^$important
 ||*.americanmanchester.org^$important
 ||*.anoopsamazon.vercel.app^$important
+||*.antleds.com^$important
 ||*.anurag2327spotifyclone.netlify.app^$important
 ||*.app.appzcvb.com^$important
 ||*.appsuite-clientlogins.weebly.com^$important
@@ -241,7 +242,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -271,7 +271,6 @@
 ||*.creativevoltage.com^$important
 ||*.credinominasantandermx.iceiy.com^$important
 ||*.crypter00.gt.tc^$important
-||*.cryptomeshforge5.lol^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.d.14yaa.com^$important
@@ -298,10 +297,10 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
-||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
@@ -316,7 +315,6 @@
 ||*.dynga.pl^$important
 ||*.e.vg^$important
 ||*.e7fonw-3eskv-1nylv3-vcwdw.pages.dev^$important
-||*.effectively32.infinityfree.me^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
@@ -333,6 +331,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fesold.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -342,6 +341,7 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
+||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
@@ -368,7 +368,9 @@
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hwykplqn.xyz^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -382,9 +384,7 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jaovinic.github.io^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -413,7 +413,6 @@
 ||*.loosun.net^$important
 ||*.lrautoeletrica.com.br^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
@@ -423,7 +422,6 @@
 ||*.mandarin.net.au^$important
 ||*.meetvideogoogle.com^$important
 ||*.meiitecmeskx-iss.gitbook.io^$important
-||*.meridia.rs^$important
 ||*.metabusinessconsultancy.co.uk^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.metsxmasklognux.gitbook.io^$important
@@ -474,6 +472,7 @@
 ||*.qelquro-nqx-belxeta-p8t4hk23.pages.dev^$important
 ||*.qiniuyunxz.yxflzs.com^$important
 ||*.qrsu.io^$important
+||*.qv.co.ke^$important
 ||*.ramirex.ro^$important
 ||*.rbcode.net^$important
 ||*.rcf.co.mz^$important
@@ -620,6 +619,7 @@
 ||*.sp3ct-grelok-biz8-harqil-tovex.pages.dev^$important
 ||*.spgint.com^$important
 ||*.ssucursalevirtuales.vercel.app^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stcjp.s3.eu-north-1.amazonaws.com^$important
@@ -700,7 +700,6 @@
 ||*.vrajras.com^$important
 ||*.vujpzqbycpkywvwi.digitalplatforumu.com^$important
 ||*.wbillbell.netlify.app^$important
-||*.wealthishealth.free.je^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
@@ -823,6 +822,7 @@
 ||*.xiazaixitong8.com^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
+||*.yakult-hk.com^$important
 ||*.ycgfn9e48kq-msprqlos-4c7d1a-ycg31w.pages.dev^$important
 ||*.ycgvh2ekqlo-pjbrqlos-6c5d1a-ycg33w.pages.dev^$important
 ||*.youtransfer.net^$important
