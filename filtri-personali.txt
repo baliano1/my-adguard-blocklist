@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-07 02:29:22
+! Ultimo aggiornamento automatico: 2026-08-07 04:51:29
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.165-154-235-121.cprapid.com^$important
@@ -447,7 +447,6 @@
 ||*.kuqoinlognn.gitbook.io^$important
 ||*.land06.aabenrapharma.de^$important
 ||*.landonirwin.com^$important
-||*.lawfirm.paperbirdtech.com^$important
 ||*.leadger-com-sart-inf.pages.dev^$important
 ||*.ledgerlivwallotjikise.webflow.io^$important
 ||*.ledugeer-live.pages.dev^$important
@@ -652,6 +651,7 @@
 ||*.timestampasa.howto.rocks^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.tpp.om-stock.com^$important
 ||*.track-sp03.greeninsight.info^$important
 ||*.trahanappraisals.owqpbydmtheu.workers.dev^$important
 ||*.transparenciacanaa.com.br^$important
