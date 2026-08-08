@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-08 01:17:47
+! Ultimo aggiornamento automatico: 2026-08-08 04:08:43
 ||*.000037.cc^$important
 ||*.0022a601.pphost.net^$important
 ||*.111112.cc^$important
@@ -182,7 +182,6 @@
 ||*.879874.com^$important
 ||*.90533.xyz^$important
 ||*.a3b9c102.com^$important
-||*.abdulahad.net^$important
 ||*.abhijeetrajput9.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.account-att-com-b94bef.webflow.io^$important
@@ -226,7 +225,6 @@
 ||*.bank0famerica.vercel.app^$important
 ||*.banshee.retusus.workers.dev^$important
 ||*.baohanhkangen.com^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.berzora-gld-zarquni-c2x1fw97.pages.dev^$important
 ||*.bet298.co^$important
@@ -267,7 +265,6 @@
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn-imtoken.tronscoin.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.codedbyafzalari.github.io^$important
 ||*.codingexpert985.github.io^$important
@@ -375,7 +372,6 @@
 ||*.gayan-ledger.pages.dev^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.ghaminnilagnx.webflow.io^$important
 ||*.giftcard.iptveo.com^$important
 ||*.globalbank.us^$important
@@ -404,7 +400,6 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.im-token.tronscoin.com^$important
 ||*.imtokens.tronscoin.com^$important
-||*.indusenterprises.co^$important
 ||*.inirbhay.github.io^$important
 ||*.inposta.click^$important
 ||*.ipfs.io^$important
@@ -413,6 +408,7 @@
 ||*.isiore.com.co^$important
 ||*.itau.liberaracesso.com^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.jaovinic.github.io^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -428,6 +424,7 @@
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kukcon-xlognx.godaddysites.com^$important
+||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.learn-ledgr-live-en-1jk.pages.dev^$important
 ||*.ledger-home-live-login.pages.dev^$important
@@ -452,6 +449,7 @@
 ||*.mailglobalsbg.com^$important
 ||*.mailify.cc^$important
 ||*.main-ledgre-live.pages.dev^$important
+||*.mandarin.net.au^$important
 ||*.mdimjamam99.github.io^$important
 ||*.meetvideogoogle.com^$important
 ||*.meridia.rs^$important
@@ -567,6 +565,7 @@
 ||*.secondupdatenotice.framer.website^$important
 ||*.secure-page-builder-1--bronwlanky.replit.app^$important
 ||*.seismophonic.com^$important
+||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
 ||*.seputartuban.com^$important
 ||*.seu-delivery.food^$important
@@ -607,7 +606,6 @@
 ||*.static.youdm.cn^$important
 ||*.stcjp.s3.eu-north-1.amazonaws.com^$important
 ||*.stdown.dinju.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.subh498.github.io^$important
 ||*.suit-trezer-web.wasmer.app^$important
@@ -657,6 +655,7 @@
 ||*.trust-mail.my^$important
 ||*.ttrezur-en-us.typedream.app^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.u648984.softaculous.dev^$important
 ||*.uniswaprotocols.top^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -731,9 +730,11 @@
 ||*.www.facebook-calls.blogspot.com^$important
 ||*.www.facebook-developers.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.gett10krobuxofficial.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
+||*.www.hseda.com^$important
 ||*.www.ikzoekzonnepanelen.be^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.it-securegroup.com^$important
@@ -811,6 +812,5 @@
 ||*.zeexpresss-delivery.shop^$important
 ||*.zenglobalenerji.com^$important
 ||*.zh1478.craftum.io^$important
-||*.zhigao5191.com^$important
 ||*.zoredaye.com^$important
 ||*.zycdjz.com^$important
