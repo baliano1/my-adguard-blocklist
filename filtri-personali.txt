@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-08 15:24:58
+! Ultimo aggiornamento automatico: 2026-08-08 18:32:05
 ||*.0022a601.pphost.net^$important
 ||*.1-on-sign-sync-online.com^$important
 ||*.123.ywxww.net^$important
@@ -215,7 +215,9 @@
 ||*.aware-research-270929.framer.app^$important
 ||*.awarenessexhibition.com^$important
 ||*.azalmandhai03-ctrl.github.io^$important
+||*.backup.tkspr1v.com^$important
 ||*.backupso.com^$important
+||*.baltos.online^$important
 ||*.bauble.cleverpondky.com^$important
 ||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
@@ -367,6 +369,7 @@
 ||*.galerisenimutiara.com^$important
 ||*.galyabet.app^$important
 ||*.gboutros.howto.rocks^$important
+||*.genddos.st^$important
 ||*.geo-foundation.vg^$important
 ||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
@@ -406,6 +409,8 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
+||*.jam.cleverpondky.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -679,6 +684,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trezur-start-base-faqs-io.typedream.app^$important
 ||*.trk-105.healthanswers.info^$important
+||*.trtmyanmar.com^$important
 ||*.trustworthy-shallot-648391.framer.app^$important
 ||*.tuasesoriadigital.es^$important
 ||*.tusharkumar80023-create.github.io^$important
