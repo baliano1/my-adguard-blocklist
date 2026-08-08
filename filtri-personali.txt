@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-08 04:08:43
+! Ultimo aggiornamento automatico: 2026-08-08 06:44:06
 ||*.000037.cc^$important
 ||*.0022a601.pphost.net^$important
 ||*.111112.cc^$important
@@ -730,7 +730,6 @@
 ||*.www.facebook-calls.blogspot.com^$important
 ||*.www.facebook-developers.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.gett10krobuxofficial.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
