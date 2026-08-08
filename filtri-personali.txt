@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-08 18:32:05
+! Ultimo aggiornamento automatico: 2026-08-08 21:25:42
 ||*.0022a601.pphost.net^$important
 ||*.1-on-sign-sync-online.com^$important
 ||*.123.ywxww.net^$important
@@ -217,8 +217,6 @@
 ||*.azalmandhai03-ctrl.github.io^$important
 ||*.backup.tkspr1v.com^$important
 ||*.backupso.com^$important
-||*.baltos.online^$important
-||*.bauble.cleverpondky.com^$important
 ||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.big.as^$important
@@ -268,8 +266,6 @@
 ||*.confirmationofmailupdate.weeblysite.com^$important
 ||*.continentalgroup.net.in^$important
 ||*.cool-sound-9e44.jessiedunlapgof21787yad94624.workers.dev^$important
-||*.coralasargetia.ro^$important
-||*.coralwebqe.help^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
@@ -296,12 +292,12 @@
 ||*.dhlvarese.it^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.docusine.com^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -370,9 +366,7 @@
 ||*.galyabet.app^$important
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
-||*.geo-foundation.vg^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.golvteametvarberg.se^$important
 ||*.greenf.alexion.rs^$important
@@ -392,13 +386,13 @@
 ||*.hobobot.net^$important
 ||*.hotmailskjfhurytnadinbox.weebly.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.im-token.tronscoin.com^$important
 ||*.imtokens.tronscoin.com^$important
-||*.indusenterprises.co^$important
 ||*.inspirational-process-593665.framer.app^$important
 ||*.instagram-demo.blogspot.com^$important
 ||*.instagram-instagram.blogspot.com^$important
@@ -434,7 +428,6 @@
 ||*.lenotecadiarqua.it^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.liveledger-offical.pages.dev^$important
-||*.load.dstat.top^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lost.com-isupport.help^$important
@@ -449,12 +442,7 @@
 ||*.maheer466.github.io^$important
 ||*.maidforyou1985.com^$important
 ||*.mail-spectrum-net-login.framer.website^$important
-||*.mail.silverrockay.pro^$important
-||*.mail.springnetpm.pro^$important
-||*.mail.windycreekbc.pro^$important
-||*.mail.zanyyewuh.pro^$important
 ||*.mailglobalsbg.com^$important
-||*.mailify.cc^$important
 ||*.mandarin.net.au^$important
 ||*.meetvideogoogle.com^$important
 ||*.mehrazhowlader.github.io^$important
@@ -498,7 +486,6 @@
 ||*.opensea-ioget.netlify.app^$important
 ||*.opensea-sessions56.netlify.app^$important
 ||*.optinfs.optimalinfos.com^$important
-||*.oregano.brightleafrv.com^$important
 ||*.orienttaxtile.com^$important
 ||*.originalinstagram.blogspot.com^$important
 ||*.outlooksereguri365.hstn.me^$important
@@ -580,13 +567,11 @@
 ||*.shipminttracking.net^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.siaasesoria.com.mx^$important
-||*.silverrockay.pro^$important
 ||*.sin1.contabostorage.com^$important
 ||*.sk-comtel.com^$important
 ||*.skg019403.github.io^$important
 ||*.skript.club^$important
 ||*.smartermail.host^$important
-||*.smartsummitlo.pro^$important
 ||*.smoking-hot.net^$important
 ||*.snifferip.com^$important
 ||*.sochibeer.ru^$important
@@ -643,11 +628,10 @@
 ||*.sp13ct-vormel-biz-pradik-kersor.pages.dev^$important
 ||*.sp13ct-vormor-biz-fradik-kazsel.pages.dev^$important
 ||*.spgint.com^$important
-||*.springnetpm.pro^$important
-||*.ssh.microc2.lol^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
+||*.stdown.dinju.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sucurpanamigoc360.fly.dev^$important
@@ -690,6 +674,7 @@
 ||*.tusharkumar80023-create.github.io^$important
 ||*.twu-hwt.org^$important
 ||*.u.to^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.urlto.me^$important
@@ -722,7 +707,7 @@
 ||*.whatsapp.123zoeken.be^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
-||*.windycreekbc.pro^$important
+||*.wittenhorst.eu^$important
 ||*.worldwideexpressdeliveryfedx.github.io^$important
 ||*.wow.3dgbbfu8gk.com^$important
 ||*.wqdegnhwas.on-forge.com^$important
@@ -765,7 +750,6 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.fix.allwalletdapp.com^$important
 ||*.www.g97z.xyz^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
@@ -785,7 +769,6 @@
 ||*.www.ml-facebook.blogspot.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.netflix-clone-gilt-phi.vercel.app^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
@@ -830,7 +813,6 @@
 ||*.yrnald.4663.org^$important
 ||*.yt2mp3api.ofismall.az^$important
 ||*.zamilgroups.com^$important
-||*.zanyyewuh.pro^$important
 ||*.zeexpresss-48h.shop^$important
 ||*.zeexpresss-bebidas.shop^$important
 ||*.zeexpresss-delivery.shop^$important
