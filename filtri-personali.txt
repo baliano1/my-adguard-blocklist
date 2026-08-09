@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-09 06:50:27
+! Ultimo aggiornamento automatico: 2026-08-09 09:35:20
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -207,7 +207,6 @@
 ||*.amitsharma-hub.github.io^$important
 ||*.amount.999coin.top^$important
 ||*.anjalisinha9508.github.io^$important
-||*.antleds.com^$important
 ||*.app.appzcvb.com^$important
 ||*.arcade.cleverpondky.com^$important
 ||*.archivoscrosoft.com^$important
@@ -255,7 +254,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.certnfcu.wasmer.app^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -268,7 +266,6 @@
 ||*.clktp7agpxo-kphzwmja-4f7g9c-clk96c.pages.dev^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.comfortable-amethyst-wkaujes3.edgeone.dev^$important
 ||*.compuserviceonline.com.br^$important
@@ -327,7 +324,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duajunaid53-gif.github.io^$important
 ||*.durakutihs.com^$important
@@ -385,7 +381,6 @@
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.golvteametvarberg.se^$important
 ||*.goo.su^$important
@@ -614,7 +609,6 @@
 ||*.springnetpm.pro^$important
 ||*.ssh.microc2.lol^$important
 ||*.starts-eng-trezrr.pages.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -627,7 +621,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
@@ -762,6 +755,7 @@
 ||*.www.options-icloud.com^$important
 ||*.www.paribcardsegu.bond^$important
 ||*.www.pemenangshopee66.blogspot.com^$important
+||*.www.quartier-midi.be^$important
 ||*.www.reifenquick.de^$important
 ||*.www.rluxsends.com^$important
 ||*.www.robiox.com.ps^$important
@@ -780,7 +774,6 @@
 ||*.www.starcountry.net^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.tuitui19999.com^$important
 ||*.www.vkr.sqs.mybluehost.me^$important
