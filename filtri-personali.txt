@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-09 01:22:35
+! Ultimo aggiornamento automatico: 2026-08-09 04:14:49
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -255,6 +255,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.certnfcu.wasmer.app^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -315,6 +316,7 @@
 ||*.docs-base-bridge-faq.typedream.app^$important
 ||*.docs.gustavodev.xyz^$important
 ||*.donkeytourscroatia.com^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -383,6 +385,7 @@
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.golvteametvarberg.se^$important
 ||*.goo.su^$important
@@ -422,9 +425,9 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jam.cleverpondky.com^$important
 ||*.jaswanthperuri.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -651,6 +654,7 @@
 ||*.top8onlinegame.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezor-suite-auth-web.typedream.app^$important
+||*.triflackcom.com^$important
 ||*.trizir-bridge.pages.dev^$important
 ||*.trk-105.healthanswers.info^$important
 ||*.trtmyanmar.com^$important
@@ -752,6 +756,7 @@
 ||*.www.ml-facebook.blogspot.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
