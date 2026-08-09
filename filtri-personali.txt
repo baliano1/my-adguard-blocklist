@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-09 12:41:20
+! Ultimo aggiornamento automatico: 2026-08-09 15:26:45
 ||*.0022a601.pphost.net^$important
 ||*.0283a4.icefactory.cl^$important
 ||*.06e34d.icefactory.cl^$important
@@ -262,6 +262,7 @@
 ||*.alternativas.ru^$important
 ||*.americanmanchester.org^$important
 ||*.amirsohail100.github.io^$important
+||*.antleds.com^$important
 ||*.app.appzcvb.com^$important
 ||*.arcade.cleverpondky.com^$important
 ||*.archivoscrosoft.com^$important
@@ -329,6 +330,7 @@
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.comcastinfo.weebly.com^$important
 ||*.comcastmailalert.weebly.com^$important
@@ -357,8 +359,6 @@
 ||*.dbde4b.icefactory.cl^$important
 ||*.dccrsorgi1gov.github.io^$important
 ||*.dcef40.icefactory.cl^$important
-||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.deepik-a.github.io^$important
 ||*.deliverymailreport.co.za^$important
@@ -383,6 +383,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duajunaid53-gif.github.io^$important
 ||*.durakutihs.com^$important
@@ -446,7 +447,6 @@
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.gett10krobuxofficial.blogspot.com^$important
 ||*.giftcodelqvn.aovlienquan-garena.com^$important
 ||*.globalbank.us^$important
@@ -473,6 +473,7 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.indusenterprises.co^$important
 ||*.infoxfinity.weebly.com^$important
 ||*.insolj.vercel.app^$important
 ||*.instagramcom001.github.io^$important
@@ -483,7 +484,6 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jam.cleverpondky.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -501,14 +501,12 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-live-safe.pages.dev^$important
 ||*.lenotecadiarqua.it^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.load.dstat.top^$important
 ||*.local-update.com^$important
 ||*.loginaccountfacebook.blogspot.com^$important
 ||*.loginmyfacebook.blogspot.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
@@ -518,7 +516,6 @@
 ||*.mail.zanyyewuh.pro^$important
 ||*.mailglobalsbg.com^$important
 ||*.mandarin.net.au^$important
-||*.meetvideogoogle.com^$important
 ||*.megaconnet.com^$important
 ||*.meridia.rs^$important
 ||*.meteorclient.shop^$important
@@ -614,7 +611,6 @@
 ||*.siaasesoria.com.mx^$important
 ||*.silverrockay.pro^$important
 ||*.sk-comtel.com^$important
-||*.skript.club^$important
 ||*.smartermail.host^$important
 ||*.smartsummitlo.pro^$important
 ||*.smoking-hot.net^$important
@@ -630,9 +626,11 @@
 ||*.springnetpm.pro^$important
 ||*.ssh.microc2.lol^$important
 ||*.sspecser.weebly.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.subflix.es^$important
 ||*.sumiko.vu^$important
@@ -640,6 +638,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sxfi.weebly.com^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
@@ -667,7 +666,6 @@
 ||*.trtmyanmar.com^$important
 ||*.tte-zuites.wasmer.app^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.uj2-tocl-wyls-ykjh-9pon-os0dhc.pages.dev^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -681,11 +679,8 @@
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
-||*.videomeetgoogle.com^$important
 ||*.vincentdemiero.com^$important
 ||*.visam.info^$important
-||*.vizyonuniversitesi.com.tr^$important
-||*.vizyonuniversitesi.web.tr^$important
 ||*.vnzkt7e52dr-hbkptlpw-6a5b0c-hb699a.pages.dev^$important
 ||*.vormela-gld-belquro-c8x1hk34.pages.dev^$important
 ||*.vrajras.com^$important
@@ -781,7 +776,6 @@
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.proxy.demo.biitpro.com^$important
-||*.www.quartier-midi.be^$important
 ||*.www.reifenquick.de^$important
 ||*.www.roblox.com.bi^$important
 ||*.www.roblox.com.bn^$important
