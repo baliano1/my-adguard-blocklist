@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-09 18:34:34
+! Ultimo aggiornamento automatico: 2026-08-09 21:27:27
 ||*.0022a601.pphost.net^$important
 ||*.0283a4.icefactory.cl^$important
 ||*.06e34d.icefactory.cl^$important
@@ -262,12 +262,10 @@
 ||*.alternativas.ru^$important
 ||*.americanmanchester.org^$important
 ||*.amirsohail100.github.io^$important
-||*.antleds.com^$important
 ||*.app.appzcvb.com^$important
 ||*.arcade.cleverpondky.com^$important
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
-||*.arromaseis.com.tr^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
@@ -327,7 +325,6 @@
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.ciel-iz.github.io^$important
-||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
@@ -359,6 +356,8 @@
 ||*.dbde4b.icefactory.cl^$important
 ||*.dccrsorgi1gov.github.io^$important
 ||*.dcef40.icefactory.cl^$important
+||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.deepik-a.github.io^$important
 ||*.deliverymailreport.co.za^$important
@@ -418,17 +417,16 @@
 ||*.facebookloginf.blogspot.com^$important
 ||*.facebookphotoslogin.blogspot.com^$important
 ||*.facebookphotospages90.blogspot.com^$important
+||*.fairth.dev^$important
 ||*.fake-fb-login.vercel.app^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
 ||*.fb-mobile0.blogspot.com^$important
 ||*.fd.v2downf.shop^$important
 ||*.ferncurrent14.com^$important
-||*.fesold.com^$important
 ||*.ff7e66.icefactory.cl^$important
 ||*.ffbe97.icefactory.cl^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flaiz002.github.io^$important
@@ -447,6 +445,7 @@
 ||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.gett10krobuxofficial.blogspot.com^$important
 ||*.giftcodelqvn.aovlienquan-garena.com^$important
 ||*.globalbank.us^$important
@@ -473,7 +472,6 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
-||*.indusenterprises.co^$important
 ||*.infoxfinity.weebly.com^$important
 ||*.insolj.vercel.app^$important
 ||*.instagramcom001.github.io^$important
@@ -501,12 +499,14 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-live-safe.pages.dev^$important
 ||*.lenotecadiarqua.it^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.load.dstat.top^$important
 ||*.local-update.com^$important
 ||*.loginaccountfacebook.blogspot.com^$important
 ||*.loginmyfacebook.blogspot.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
@@ -542,10 +542,10 @@
 ||*.nios247help-jckl1014.on-forge.com^$important
 ||*.nizami57575.github.io^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
-||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.opensea-nftbox-fc872a1c36fe.herokuapp.com^$important
 ||*.oregano.brightleafrv.com^$important
@@ -666,8 +666,8 @@
 ||*.trtmyanmar.com^$important
 ||*.tte-zuites.wasmer.app^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.uj2-tocl-wyls-ykjh-9pon-os0dhc.pages.dev^$important
-||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.updatexfinity.weebly.com^$important
@@ -681,6 +681,8 @@
 ||*.vgd.vg^$important
 ||*.vincentdemiero.com^$important
 ||*.visam.info^$important
+||*.vizyonuniversitesi.com.tr^$important
+||*.vizyonuniversitesi.web.tr^$important
 ||*.vnzkt7e52dr-hbkptlpw-6a5b0c-hb699a.pages.dev^$important
 ||*.vormela-gld-belquro-c8x1hk34.pages.dev^$important
 ||*.vrajras.com^$important
@@ -756,7 +758,9 @@
 ||*.www.facebookphotoslogin.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.galerihadiah749.blogspot.com^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
+||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
 ||*.www.instagramcom-instagramcom.blogspot.com^$important
 ||*.www.instagramloginpassword.blogspot.com^$important
@@ -792,6 +796,7 @@
 ||*.www.support-data.com^$important
 ||*.www.sxfi.weebly.com^$important
 ||*.www.tdejb.com^$important
+||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.thrshopee17.blogspot.com^$important
 ||*.www.updatexfinity.weebly.com^$important
@@ -828,7 +833,6 @@
 ||*.zamilgroups.com^$important
 ||*.zanyyewuh.pro^$important
 ||*.zenglobalenerji.com^$important
-||*.zhigao5191.com^$important
 ||*.zizifn-anycast.cyliuhao01.workers.dev^$important
 ||*.zorelia-bonusfortune.click^$important
 ||*.zycdjz.com^$important
