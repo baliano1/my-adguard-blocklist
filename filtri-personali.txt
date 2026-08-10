@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-10 12:59:06
+! Ultimo aggiornamento automatico: 2026-08-10 15:56:51
 ||*.0022a601.pphost.net^$important
 ||*.121jio.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -171,11 +171,11 @@
 ||*.25f54b2b-58b1-45c3-bd24-0ee1c8e9cfd0.selstorage.ru^$important
 ||*.34cr34cr3c-8ap.pages.dev^$important
 ||*.3aurbanismo.com.br^$important
-||*.6ak-tehnik.si^$important
 ||*.71693.xyz^$important
 ||*.7ashwani7.github.io^$important
 ||*.7ro-wwv-ftvh-2np810-9v8crh.pages.dev^$important
 ||*.908779.com^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accesoihabilitado.iceiy.com^$important
 ||*.access-lieledgr-eng.pages.dev^$important
@@ -187,7 +187,6 @@
 ||*.aidlifempowerment.com^$important
 ||*.airtickts.com^$important
 ||*.alarmline.com.br^$important
-||*.alineeleuterio.com.br^$important
 ||*.allegrolokalnie.pl-013337.icu^$important
 ||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
@@ -210,6 +209,7 @@
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
+||*.autoclinic.autos^$important
 ||*.awarenessexhibition.com^$important
 ||*.awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev^$important
 ||*.axpgames.github.io^$important
@@ -218,9 +218,9 @@
 ||*.bafkreidia54cvtcl6pqordwdjcjmkrfmco3kvfyzedmycxhdt7tk3fexau.ipfs.dweb.link^$important
 ||*.baltos.online^$important
 ||*.bauble.cleverpondky.com^$important
+||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bhdservisscuentresolu.yzz.me^$important
-||*.bigs.bikershop.biz^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
@@ -262,10 +262,9 @@
 ||*.comcasstweb.weebly.com^$important
 ||*.comcastinc.vercel.app^$important
 ||*.comcastt1eyr.weebly.com^$important
-||*.comumvidros.com.br^$important
+||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
 ||*.coralwebqe.help^$important
-||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
 ||*.cqylt.net^$important
@@ -316,14 +315,12 @@
 ||*.dynga.pl^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.elmejorlocal.com.co^$important
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.erfan82erfan.github.io^$important
 ||*.f005.backblazeb2.com^$important
-||*.fabrics.lahoreshoes.com^$important
 ||*.facebook-2-0-dun.vercel.app^$important
 ||*.facebook-fansdanssapage.blogspot.com^$important
 ||*.facebook.affixlink.app^$important
@@ -346,13 +343,13 @@
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
-||*.foundationforwomenshealth.com^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
+||*.galerisenimutiara.com^$important
 ||*.gamebonusak-bot.github.io^$important
 ||*.genddos.st^$important
 ||*.generous-acknowledgment-515790.framer.app^$important
@@ -363,14 +360,15 @@
 ||*.ghein4.systeme.io^$important
 ||*.giftcodelqvnlq.aovlienquan-garena.com^$important
 ||*.globalbank.us^$important
+||*.golvteametvarberg.se^$important
 ||*.goo.su^$important
 ||*.grandhoreb.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupohenry1.com^$important
+||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.hasalltalent.com^$important
 ||*.heroestales.com^$important
-||*.hewadexchange.com^$important
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
@@ -378,6 +376,7 @@
 ||*.hobobot.net^$important
 ||*.homeledger.zapier.app^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.i.gal^$important
 ||*.icoffeecloud.com^$important
 ||*.id.auth-share.su^$important
@@ -394,8 +393,10 @@
 ||*.instagramlikescheap.blogspot.com^$important
 ||*.instagramsupportsegurity.github.io^$important
 ||*.ircftp.net^$important
+||*.isiore.com.co^$important
 ||*.itsmeasifikbal.github.io^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.j-tomlinson.com^$important
 ||*.jam.cleverpondky.com^$important
 ||*.jawaratekno.com^$important
@@ -431,6 +432,7 @@
 ||*.long-cake-a10a.buidebidexlvtey.workers.dev^$important
 ||*.lscai-dev.github.io^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
@@ -487,20 +489,22 @@
 ||*.page--trezrr-io-logg.pages.dev^$important
 ||*.palharesinformatica.com.br^$important
 ||*.panhalkarpratiksha7-jpg.github.io^$important
+||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.personal-finance-egy.pages.dev^$important
 ||*.pfatrivandrum.org^$important
 ||*.phost.com.br.cssi.com.br^$important
 ||*.php-web-server-3--jmhernandez2990.replit.app^$important
+||*.physicsbyfiziks.org^$important
 ||*.pichincha--credit004.replit.app^$important
 ||*.planetariumobil.ro^$important
-||*.plenia.pt^$important
 ||*.polite-bavarois-37ef3b.netlify.app^$important
 ||*.polizcardactiv.bond^$important
 ||*.postelnini.mk^$important
 ||*.posttelecommail.github.io^$important
 ||*.powercleantank.com.au^$important
 ||*.preciosasjoyitas.com.mx^$important
+||*.privrawmirai.privnetwork.tech^$important
 ||*.prufungkontozu.click^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
@@ -515,7 +519,7 @@
 ||*.rajansingh018.github.io^$important
 ||*.ramirex.ro^$important
 ||*.rapid-oak-629.injaltransferwillgonabaid.workers.dev^$important
-||*.raqmnh.com^$important
+||*.rathodsoftware.in^$important
 ||*.rblox363.github.io^$important
 ||*.rblx-r0bux540xyz.blogspot.com^$important
 ||*.rblx3.github.io^$important
@@ -564,6 +568,7 @@
 ||*.separadordecc.com^$important
 ||*.seputartuban.com^$important
 ||*.sg123.net^$important
+||*.shipminttracking.net^$important
 ||*.shopee769.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.siaasesoria.com.mx^$important
@@ -602,7 +607,6 @@
 ||*.steamcommumminty.cam^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
-||*.sudariocontabilidade.com.br^$important
 ||*.sumiko.vu^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -628,20 +632,20 @@
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
-||*.thesalons.in^$important
 ||*.thisfreeinstagramfollowers.blogspot.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
-||*.timestampasa.howto.rocks^$important
 ||*.to.lk^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.tpp.om-stock.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.triflackcom.com^$important
 ||*.trk-gol.aphipa.info^$important
 ||*.trtmyanmar.com^$important
 ||*.trzer-suite-info.pages.dev^$important
 ||*.tuasesoriadigital.es^$important
+||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
 ||*.u648984.softaculous.dev^$important
 ||*.ui-clone-faraz.vercel.app^$important
@@ -676,6 +680,7 @@
 ||*.willesaxz.pages.dev^$important
 ||*.windomstatetheater.com^$important
 ||*.windycreekbc.pro^$important
+||*.wittenhorst.eu^$important
 ||*.worker-curly-sun-aghamohammadhossein.mhkh831221.workers.dev^$important
 ||*.wqok85qtq.net^$important
 ||*.www.15370.xyz^$important
@@ -741,6 +746,7 @@
 ||*.www.myaccountxfinity.weebly.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.netflix-clone-gray-iota.vercel.app^$important
 ||*.www.netflix-clone-opal-iota.vercel.app^$important
 ||*.www.newkey.co.kr^$important
@@ -805,7 +811,6 @@
 ||*.zamilgroups.com^$important
 ||*.zanyyewuh.pro^$important
 ||*.zdkpt80gpx-wjsng28kxz-3e2f5b-wjq91k.pages.dev^$important
-||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
 ||*.zoltar-frenko-d5b740-ggrht-bn2406pke.pages.dev^$important
 ||*.zowie2l.github.io^$important
