@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-10 15:56:51
+! Ultimo aggiornamento automatico: 2026-08-10 18:51:42
 ||*.0022a601.pphost.net^$important
 ||*.121jio.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -180,6 +180,7 @@
 ||*.accesoihabilitado.iceiy.com^$important
 ||*.access-lieledgr-eng.pages.dev^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.addons-moz-illa-org.pages.dev^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -213,6 +214,7 @@
 ||*.awarenessexhibition.com^$important
 ||*.awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev^$important
 ||*.axpgames.github.io^$important
+||*.babaszepsegverseny.hu^$important
 ||*.backup.tkspr1v.com^$important
 ||*.backupso.com^$important
 ||*.bafkreidia54cvtcl6pqordwdjcjmkrfmco3kvfyzedmycxhdt7tk3fexau.ipfs.dweb.link^$important
@@ -274,6 +276,7 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csplaygems.com^$important
+||*.ctsfactory.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
@@ -313,6 +316,7 @@
 ||*.durakutihs.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
+||*.ebullientlife.in^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
@@ -363,6 +367,7 @@
 ||*.golvteametvarberg.se^$important
 ||*.goo.su^$important
 ||*.grandhoreb.com^$important
+||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupohenry1.com^$important
 ||*.grupomcperu.com^$important
@@ -384,7 +389,9 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.iloveboats.st^$important
 ||*.increasefollowersforinstagram.blogspot.com^$important
+||*.indusenterprises.co^$important
 ||*.instagram-login-ig.blogspot.com^$important
 ||*.instagram002.github.io^$important
 ||*.instagramaaps-code.github.io^$important
@@ -416,6 +423,7 @@
 ||*.konsor.ru^$important
 ||*.laaroma.online.middleeastfragrances.shop^$important
 ||*.laaroma.store.middleeastfragrances.shop^$important
+||*.laborpartyjo.com^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-live-connect-desktop.pages.dev^$important
@@ -436,6 +444,7 @@
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
+||*.mail.quietsurfwi.help^$important
 ||*.mail.silverrockay.pro^$important
 ||*.mail.springnetpm.pro^$important
 ||*.mail.windycreekbc.pro^$important
@@ -480,7 +489,6 @@
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
-||*.onfiltre.com.tr^$important
 ||*.oregano.brightleafrv.com^$important
 ||*.outpost.co.ke^$important
 ||*.p01--ar24docsecurity--qmjhcscz5dnb.code.run^$important
@@ -513,6 +521,7 @@
 ||*.qiniuyunxz.yxflzs.com^$important
 ||*.qomculture.ir^$important
 ||*.qrsu.io^$important
+||*.quietsurfwi.help^$important
 ||*.qv.co.ke^$important
 ||*.r911.site^$important
 ||*.raiffeisen-five.vercel.app^$important
@@ -583,6 +592,7 @@
 ||*.site-zkmjek3ad.godaddysites.com^$important
 ||*.sitio6.apps.viupay.live^$important
 ||*.sk-comtel.com^$important
+||*.skolazasisanjepasa.com^$important
 ||*.smartermail.host^$important
 ||*.smartsummitlo.pro^$important
 ||*.smoking-hot.net^$important
