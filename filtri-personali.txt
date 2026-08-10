@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-10 01:24:33
+! Ultimo aggiornamento automatico: 2026-08-10 04:26:12
 ||*.0022a601.pphost.net^$important
 ||*.0b3ffc.icefactory.cl^$important
 ||*.0e1dd8.icefactory.cl^$important
@@ -253,7 +253,6 @@
 ||*.bafkreidia54cvtcl6pqordwdjcjmkrfmco3kvfyzedmycxhdt7tk3fexau.ipfs.dweb.link^$important
 ||*.baltos.online^$important
 ||*.bauble.cleverpondky.com^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bf9aef.icefactory.cl^$important
 ||*.bhdservisscuentresolu.yzz.me^$important
@@ -285,7 +284,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
 ||*.checkfivem.com^$important
@@ -360,7 +358,6 @@
 ||*.dynga.pl^$important
 ||*.ea50cf.icefactory.cl^$important
 ||*.ec2d17.icefactory.cl^$important
-||*.eclipsebible.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
@@ -381,7 +378,6 @@
 ||*.facebookloginf.blogspot.com^$important
 ||*.facebooksuporteolaine.blogspot.com^$important
 ||*.faceboomlogin.blogspot.com^$important
-||*.fairth.dev^$important
 ||*.fakebooklogin.blogspot.com^$important
 ||*.fakers.co.jp^$important
 ||*.farschid.de^$important
@@ -389,6 +385,7 @@
 ||*.ff7e66.icefactory.cl^$important
 ||*.ffbe97.icefactory.cl^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -403,11 +400,9 @@
 ||*.galerihadiah749.blogspot.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gamebonusak-bot.github.io^$important
-||*.gboutros.howto.rocks^$important
 ||*.genddos.st^$important
 ||*.gentle-paprenjak-7fc631.netlify.app^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.giftcodelqvnlq.aovlienquan-garena.com^$important
 ||*.globalbank.us^$important
 ||*.globe-jrstv.com^$important
@@ -425,7 +420,6 @@
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
@@ -444,8 +438,8 @@
 ||*.isiore.com.co^$important
 ||*.itsmeasifikbal.github.io^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jam.cleverpondky.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -485,7 +479,6 @@
 ||*.menuue-aktivasipays.greata.beauty^$important
 ||*.metaeastasiasecurityteam.github.io^$important
 ||*.meteorclient.shop^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mface-book.com.vn^$important
 ||*.micr0sft.github.io^$important
 ||*.midasbuygame.m7-event.com^$important
@@ -513,6 +506,7 @@
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
 ||*.ojang.pe.kr^$important
+||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.opensea-nftbox-fc872a1c36fe.herokuapp.com^$important
 ||*.oregano.brightleafrv.com^$important
@@ -537,7 +531,6 @@
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
 ||*.pvsa.gxfugy.cn^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qomculture.ir^$important
 ||*.qrsu.io^$important
 ||*.qv.co.ke^$important
@@ -644,6 +637,7 @@
 ||*.u649090.softaculous.dev^$important
 ||*.ui-clone-faraz.vercel.app^$important
 ||*.uj2-tocl-wyls-ykjh-9pon-os0dhc.pages.dev^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.uphloll-xlugnm-io.godaddysites.com^$important
@@ -809,5 +803,6 @@
 ||*.zanyyewuh.pro^$important
 ||*.zdkpt80gpx-wjsng28kxz-3e2f5b-wjq91k.pages.dev^$important
 ||*.zenglobalenerji.com^$important
+||*.zhigao5191.com^$important
 ||*.zowie2l.github.io^$important
 ||*.zycdjz.com^$important
