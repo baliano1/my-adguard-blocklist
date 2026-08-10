@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-10 04:26:12
+! Ultimo aggiornamento automatico: 2026-08-10 07:24:49
 ||*.0022a601.pphost.net^$important
 ||*.0b3ffc.icefactory.cl^$important
 ||*.0e1dd8.icefactory.cl^$important
@@ -209,6 +209,7 @@
 ||*.a78e72.icefactory.cl^$important
 ||*.a92181.icefactory.cl^$important
 ||*.abdulahad.net^$important
+||*.abitcoinbull.com^$important
 ||*.ac0628.icefactory.cl^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accesoihabilitado.iceiy.com^$important
@@ -241,6 +242,7 @@
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
+||*.autoclinic.autos^$important
 ||*.awarenessexhibition.com^$important
 ||*.axpgames.github.io^$important
 ||*.ayurshop.com^$important
@@ -284,13 +286,12 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
 ||*.checkfivem.com^$important
 ||*.checkhousetype.xyz^$important
-||*.chinaapper.com^$important
 ||*.chiptune.com^$important
-||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -310,6 +311,7 @@
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
+||*.cqylt.net^$important
 ||*.creativevoltage.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -360,6 +362,7 @@
 ||*.ec2d17.icefactory.cl^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.elmejorlocal.com.co^$important
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
@@ -392,7 +395,6 @@
 ||*.fmrio.com^$important
 ||*.fnxx.info^$important
 ||*.fukt.link^$important
-||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
@@ -420,8 +422,8 @@
 ||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.id.auth-share.su^$important
 ||*.ignetwork.us^$important
@@ -439,10 +441,8 @@
 ||*.itsmeasifikbal.github.io^$important
 ||*.itssprout.com^$important
 ||*.jam.cleverpondky.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
 ||*.kaleabsintayehu489-dotcom.github.io^$important
 ||*.kantox-preprod.com^$important
@@ -479,6 +479,7 @@
 ||*.menuue-aktivasipays.greata.beauty^$important
 ||*.metaeastasiasecurityteam.github.io^$important
 ||*.meteorclient.shop^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mface-book.com.vn^$important
 ||*.micr0sft.github.io^$important
 ||*.midasbuygame.m7-event.com^$important
@@ -505,11 +506,13 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.opensea-nftbox-fc872a1c36fe.herokuapp.com^$important
 ||*.oregano.brightleafrv.com^$important
+||*.orientedworld.com^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.page--trezrr-io-logg.pages.dev^$important
@@ -537,6 +540,7 @@
 ||*.r911.site^$important
 ||*.rajansingh018.github.io^$important
 ||*.ramirex.ro^$important
+||*.raqmnh.com^$important
 ||*.rcf.co.mz^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
@@ -563,7 +567,6 @@
 ||*.sarthak83006.github.io^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
-||*.scoala1gherla.ro^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -571,6 +574,7 @@
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
+||*.seputartuban.com^$important
 ||*.sg123.net^$important
 ||*.sheokand9806.github.io^$important
 ||*.shipminttracking.net^$important
