@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-11 12:55:15
+! Ultimo aggiornamento automatico: 2026-08-11 15:57:01
 ||*.0022a601.pphost.net^$important
 ||*.004e3a.icefactory.cl^$important
 ||*.00hwee-9rck-fuj-bvii3-y210am.pages.dev^$important
@@ -269,13 +269,11 @@
 ||*.allendostmen.com^$important
 ||*.alok-kumar-sing.github.io^$important
 ||*.alon-live-ledgr.pages.dev^$important
-||*.alphalkenya.com^$important
 ||*.alternativas.ru^$important
 ||*.amazon-opfq.vercel.app^$important
 ||*.americanmanchester.org^$important
 ||*.anirudhsajeesh0.github.io^$important
 ||*.antleds.com^$important
-||*.api.mineblack.lol^$important
 ||*.app---ledger-live.pages.dev^$important
 ||*.app-ledgr-downlod.pages.dev^$important
 ||*.app-ledgr-livedoc.pages.dev^$important
@@ -287,7 +285,6 @@
 ||*.apps-ledgerr.pages.dev^$important
 ||*.apps-ledgger-li.pages.dev^$important
 ||*.apps-ledgre-live.pages.dev^$important
-||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.ask-ledgr-live.pages.dev^$important
 ||*.ask-ledgrwalet-liv.pages.dev^$important
@@ -308,7 +305,6 @@
 ||*.bb2f98.icefactory.cl^$important
 ||*.bd2de7.icefactory.cl^$important
 ||*.bd3685.icefactory.cl^$important
-||*.beak.in^$important
 ||*.began-ledger-live-desktop-eng-us.pages.dev^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bf5893.icefactory.cl^$important
@@ -342,7 +338,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccer-hfa0fmdue4ebhcbd.z03.azurefd.net^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.ce5e30.icefactory.cl^$important
 ||*.celebratingseniors.net^$important
 ||*.center.verifiblueaccountstatusai.click^$important
@@ -411,7 +406,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -472,8 +467,6 @@
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.genddos.st^$important
-||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.gitnikit.github.io^$important
 ||*.globalbank.us^$important
 ||*.golvteametvarberg.se^$important
@@ -505,7 +498,6 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -523,13 +515,13 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lenotecadiarqua.it^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.logan-blokiie-us.pages.dev^$important
 ||*.loginfacebookverification.blogspot.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.los108.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
@@ -549,6 +541,7 @@
 ||*.motiva-rodoviadigital.com^$important
 ||*.msjihasx.us.cc^$important
 ||*.muaklekcoop.com^$important
+||*.mukabar.co.mz^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
 ||*.mx9x.com^$important
@@ -565,6 +558,7 @@
 ||*.nutritious-amethyst-jy6c7lj2.edgeone.dev^$important
 ||*.ny.lshdw.cc^$important
 ||*.o24o.ru^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
@@ -572,7 +566,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
-||*.pcupd.com^$important
 ||*.perturbed-univer-d5a135.bestoptiontrade1.workers.dev^$important
 ||*.pfatrivandrum.org^$important
 ||*.plaermoxred.vercel.app^$important
@@ -666,6 +659,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.sysupdate.online^$important
 ||*.talentrecruitments.com^$important
@@ -720,7 +714,6 @@
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
-||*.wp.ameyiando.com^$important
 ||*.wqok85qtq.net^$important
 ||*.www.accountfacebook.blogspot.com^$important
 ||*.www.ardguisser.com^$important
