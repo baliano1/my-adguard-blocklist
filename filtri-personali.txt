@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-11 01:22:29
+! Ultimo aggiornamento automatico: 2026-08-11 04:16:12
 ||*.0022a601.pphost.net^$important
 ||*.03dac8.icefactory.cl^$important
 ||*.0c3cfe.icefactory.cl^$important
@@ -185,12 +185,11 @@
 ||*.9000-firebase-hv-1781765441869.cluster-cd3bsnf6r5bemwki2bxljme5as.cloudworkstations.dev^$important
 ||*.97123.xyz^$important
 ||*.97ee9.catex.at^$important
-||*.MAMABEARCOFFEE.COM^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accessotkkdigital.vercel.app^$important
 ||*.account-ledgr-start.pages.dev^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.addons-moz-illa-org.pages.dev^$important
 ||*.addqo.com^$important
 ||*.admin.byte.in.ua^$important
@@ -225,7 +224,6 @@
 ||*.available-ledger-hardware-wallet.pages.dev^$important
 ||*.awarenessexhibition.com^$important
 ||*.backupso.com^$important
-||*.beak.in^$important
 ||*.begin--ledgerlive.pages.dev^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bet298.co^$important
@@ -261,6 +259,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cbgroupca.com^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
@@ -287,7 +286,6 @@
 ||*.creativevoltage.com^$important
 ||*.creditoecuador-46--ecuadorcredit3.replit.app^$important
 ||*.creditopichincha-2026--creditoenline3.replit.app^$important
-||*.cresvin.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.d.14yaa.com^$important
@@ -309,7 +307,6 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
-||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
@@ -332,9 +329,7 @@
 ||*.e720639b-3fe0-4f60-9dac-c851a51c27a4-00-1wfhaq8e2y5kg.worf.replit.dev^$important
 ||*.e94ad2.icefactory.cl^$important
 ||*.easycryptos.org^$important
-||*.easyrentbyowner.com^$important
 ||*.ecuardorcredit--ecuadorcred.replit.app^$important
-||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.endpoint.project0.cc^$important
@@ -371,7 +366,6 @@
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
-||*.geeconglobal.com^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
@@ -447,6 +441,7 @@
 ||*.lphone-localizable.life^$important
 ||*.lphone-localizable.top^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
@@ -498,7 +493,6 @@
 ||*.oknoplastik.sk^$important
 ||*.online-ops.mypasschange.com^$important
 ||*.orange-nl.comparecycle.com^$important
-||*.orientedworld.com^$important
 ||*.otkacess.vercel.app^$important
 ||*.otkdigitalacess.vercel.app^$important
 ||*.ottkdigital.vercel.app^$important
@@ -510,9 +504,11 @@
 ||*.pedagio-consulta.dns.army^$important
 ||*.pfatrivandrum.org^$important
 ||*.planetariumobil.ro^$important
+||*.plenia.pt^$important
 ||*.polite-bavarois-37ef3b.netlify.app^$important
 ||*.portamtseg-socialgob.click^$important
 ||*.postelnini.mk^$important
+||*.preciosasjoyitas.com.mx^$important
 ||*.premierepulse.top^$important
 ||*.privrawmirai.privnetwork.tech^$important
 ||*.promt-dpem7p8ov9s7.edgeone.dev^$important
@@ -526,7 +522,6 @@
 ||*.qv.co.ke^$important
 ||*.qwxqw.pages.dev^$important
 ||*.ramirex.ro^$important
-||*.raqmnh.com^$important
 ||*.rbcode.net^$important
 ||*.rblox363.github.io^$important
 ||*.rblx3.github.io^$important
@@ -573,6 +568,7 @@
 ||*.separadordecc.com^$important
 ||*.seputartuban.com^$important
 ||*.sg123.net^$important
+||*.shipminttracking.net^$important
 ||*.shopeeid547.blogspot.com^$important
 ||*.shopeesellerjob.com^$important
 ||*.shqdown.ggzuhao.com^$important
@@ -604,7 +600,6 @@
 ||*.stepupnetworks.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
-||*.sudariocontabilidade.com.br^$important
 ||*.sumiko.vu^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -612,6 +607,7 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.sysupdate.online^$important
+||*.tabak.hr^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -637,6 +633,7 @@
 ||*.transcript.katanareviewpolicy.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.triflackcom.com^$important
+||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
 ||*.twu-hwt.org^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -645,7 +642,6 @@
 ||*.urlto.me^$important
 ||*.us.wind0ws.net^$important
 ||*.vcc-library.uk^$important
-||*.vektorex.com^$important
 ||*.venixfit.com^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -662,7 +658,6 @@
 ||*.waf.proxytunnel.co^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsappwebred.blogspot.com^$important
-||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
 ||*.wqok85qtq.net^$important
@@ -671,7 +666,6 @@
 ||*.www.accessotkkdigital.vercel.app^$important
 ||*.www.acessoregularizacaocnh.online^$important
 ||*.www.ardguisser.com^$important
-||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.backupallfresh2030.com^$important
 ||*.www.benshamcentre.co.uk^$important
@@ -782,6 +776,7 @@
 ||*.yuueuueyyryr.s3.us-west-1.amazonaws.com^$important
 ||*.zamilgroups.com^$important
 ||*.zdkpt32bfrn-wjsngskr-5d8c1f-zdk65c.pages.dev^$important
+||*.zenglobalenerji.com^$important
 ||*.zhantuzs.com^$important
 ||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
