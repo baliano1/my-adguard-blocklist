@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-11 04:16:12
+! Ultimo aggiornamento automatico: 2026-08-11 07:00:24
 ||*.0022a601.pphost.net^$important
 ||*.03dac8.icefactory.cl^$important
 ||*.0c3cfe.icefactory.cl^$important
@@ -189,9 +189,9 @@
 ||*.accessotkkdigital.vercel.app^$important
 ||*.account-ledgr-start.pages.dev^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.addons-moz-illa-org.pages.dev^$important
 ||*.addqo.com^$important
+||*.admetricslab.org^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
@@ -229,7 +229,6 @@
 ||*.bet298.co^$important
 ||*.bhartrajsaini4144-stack.github.io^$important
 ||*.bhdpulseacut0808.yzz.me^$important
-||*.bigs.bikershop.biz^$important
 ||*.bito.com.pk^$important
 ||*.black-card-472507.framer.app^$important
 ||*.blankeyeo.com^$important
@@ -307,7 +306,6 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
-||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
@@ -330,6 +328,7 @@
 ||*.e94ad2.icefactory.cl^$important
 ||*.easycryptos.org^$important
 ||*.ecuardorcredit--ecuadorcred.replit.app^$important
+||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.endpoint.project0.cc^$important
@@ -381,16 +380,13 @@
 ||*.gutando.com^$important
 ||*.help-metamuskwalet.gitbook.io^$important
 ||*.heroestales.com^$important
-||*.hewadexchange.com^$important
 ||*.hi.fxxycr.com^$important
-||*.hindustanagency.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hnhpvt.website^$important
 ||*.hobobot.net^$important
 ||*.hovqr.me^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.i.gal^$important
 ||*.icloudfind.live^$important
 ||*.icoffeecloud.com^$important
@@ -403,6 +399,7 @@
 ||*.inf-cloud.us^$important
 ||*.ircftp.net^$important
 ||*.isamrabbani.github.io^$important
+||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jawaratekno.com^$important
@@ -504,7 +501,6 @@
 ||*.pedagio-consulta.dns.army^$important
 ||*.pfatrivandrum.org^$important
 ||*.planetariumobil.ro^$important
-||*.plenia.pt^$important
 ||*.polite-bavarois-37ef3b.netlify.app^$important
 ||*.portamtseg-socialgob.click^$important
 ||*.postelnini.mk^$important
@@ -567,6 +563,7 @@
 ||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
 ||*.seputartuban.com^$important
+||*.server.servermsn.life^$important
 ||*.sg123.net^$important
 ||*.shipminttracking.net^$important
 ||*.shopeeid547.blogspot.com^$important
@@ -607,7 +604,6 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.sysupdate.online^$important
-||*.tabak.hr^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -658,6 +654,7 @@
 ||*.waf.proxytunnel.co^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsappwebred.blogspot.com^$important
+||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
 ||*.wqok85qtq.net^$important
@@ -734,7 +731,6 @@
 ||*.www.roblox.ly^$important
 ||*.www.saf-oil.ru^$important
 ||*.www.salonmarketing.ca^$important
-||*.www.sgeseducation.com^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.site-ah3d6z3ed.godaddysites.com^$important
 ||*.www.site-jn6w55wca.godaddysites.com^$important
