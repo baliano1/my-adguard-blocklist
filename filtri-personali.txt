@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-11 15:57:01
+! Ultimo aggiornamento automatico: 2026-08-11 18:56:59
 ||*.0022a601.pphost.net^$important
 ||*.004e3a.icefactory.cl^$important
 ||*.00hwee-9rck-fuj-bvii3-y210am.pages.dev^$important
@@ -415,7 +415,6 @@
 ||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
-||*.durakutihs.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
 ||*.e52f7e.icefactory.cl^$important
@@ -565,6 +564,7 @@
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
+||*.parquelosencinos.cl^$important
 ||*.pay.aqiu6.com^$important
 ||*.perturbed-univer-d5a135.bestoptiontrade1.workers.dev^$important
 ||*.pfatrivandrum.org^$important
@@ -614,6 +614,7 @@
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
+||*.scrroeder.com^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
