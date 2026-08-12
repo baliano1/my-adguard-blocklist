@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-12 04:44:02
+! Ultimo aggiornamento automatico: 2026-08-12 07:18:29
 ||*.0022a601.pphost.net^$important
 ||*.0784c5.arcadejafet.cl^$important
 ||*.095a33.arcadejafet.cl^$important
@@ -268,7 +268,6 @@
 ||*.alternativas.ru^$important
 ||*.am.wegae.best^$important
 ||*.americanmanchester.org^$important
-||*.antleds.com^$important
 ||*.api.mineblack.lol^$important
 ||*.app.appzcvb.com^$important
 ||*.archivoscrosoft.com^$important
@@ -457,6 +456,7 @@
 ||*.heroestales.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.htps-www-roblox.co^$important
@@ -466,6 +466,7 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.iloveboats.st^$important
 ||*.im.nbpublic.com^$important
+||*.indusenterprises.co^$important
 ||*.insta-clone-page.vercel.app^$important
 ||*.instagram-mu-rosy.vercel.app^$important
 ||*.ircftp.net^$important
@@ -475,7 +476,7 @@
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
+||*.joker.aec944b68370194a50.link^$important
 ||*.joshyyyjoel.github.io^$important
 ||*.joyeriatauro.com^$important
 ||*.kavacanada.ca^$important
@@ -489,6 +490,7 @@
 ||*.landonirwin.com^$important
 ||*.lasmejoresmxfla.mx^$important
 ||*.lawfirm.paperbirdtech.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.login-page-instagram.vercel.app^$important
 ||*.lomejordesalamanca.es^$important
@@ -501,7 +503,6 @@
 ||*.maidforyou1985.com^$important
 ||*.mail.quietsurfwi.help^$important
 ||*.malienterprises.com^$important
-||*.mandarin.net.au^$important
 ||*.mercadopagobrasil.digital^$important
 ||*.messenger-security-notification-ads.one^$important
 ||*.metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app^$important
@@ -628,10 +629,12 @@
 ||*.spgint.com^$important
 ||*.spotifyasoma.github.io^$important
 ||*.sso-security.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steamcommummity.cam^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sucrsalpersonastdc.site^$important
@@ -666,6 +669,7 @@
 ||*.trezor.win^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
+||*.twu-hwt.org^$important
 ||*.umaimazainab02.github.io^$important
 ||*.undian-shopee536.blogspot.com^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -699,6 +703,7 @@
 ||*.wqok85qtq.net^$important
 ||*.wsapp.fstorages.com^$important
 ||*.wvww-roblox.co^$important
+||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.0ffice365qrcodeconfirmation.un-cnd.org^$important
 ||*.www.88417.xyz^$important
 ||*.www.ardguisser.com^$important
