@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-12 12:59:55
+! Ultimo aggiornamento automatico: 2026-08-12 15:55:41
 ||*.00191c.arcadejafet.cl^$important
 ||*.0022a601.pphost.net^$important
 ||*.002417.arcadejafet.cl^$important
@@ -288,6 +288,7 @@
 ||*.a60789.arcadejafet.cl^$important
 ||*.a939e9.arcadejafet.cl^$important
 ||*.a9e486.arcadejafet.cl^$important
+||*.abdulahad.net^$important
 ||*.ac3c2d.arcadejafet.cl^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access-trzorsuite.pages.dev^$important
@@ -329,6 +330,7 @@
 ||*.bapak178.org^$important
 ||*.bc80a8.arcadejafet.cl^$important
 ||*.be8731.arcadejafet.cl^$important
+||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bersatu.me^$important
 ||*.bet298.co^$important
@@ -446,7 +448,6 @@
 ||*.download.tfyxzai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
-||*.durakutihs.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
 ||*.e0122b.arcadejafet.cl^$important
@@ -475,9 +476,7 @@
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.eqcqecqe.pages.dev^$important
-||*.essizs.com^$important
 ||*.exoduusweb3-wallets.gitbook.io^$important
-||*.explorer.vg^$important
 ||*.f179ed.arcadejafet.cl^$important
 ||*.f371ab.arcadejafet.cl^$important
 ||*.f4967f.arcadejafet.cl^$important
@@ -494,6 +493,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.ff6bad.arcadejafet.cl^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -508,12 +508,10 @@
 ||*.gemini-balance.fly2me.cc^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.golvteametvarberg.se^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
-||*.grupohenry1.com^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.hasalltalent.com^$important
@@ -537,6 +535,7 @@
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jesuiseonlineserpplsuiseonlmiredamanokbrosre.shn-host.ru^$important
+||*.jlwz.cn^$important
 ||*.joker.aec944b68370194a50.link^$important
 ||*.joyeriatauro.com^$important
 ||*.kavacanada.ca^$important
@@ -596,6 +595,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
+||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
 ||*.planetariumobil.ro^$important
@@ -670,6 +670,7 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.sterychnace07.onrender.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sumiko.vu^$important
@@ -704,7 +705,6 @@
 ||*.transcript.arcuspolicyreview.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezorsdevices.support^$important
-||*.triflackcom.com^$important
 ||*.trk-ps-01.mtctifton.com^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
@@ -744,7 +744,6 @@
 ||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
-||*.www.chenwangqiao.com^$important
 ||*.www.controliumbt.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.cutting-edge.in^$important
