@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-12 07:18:29
+! Ultimo aggiornamento automatico: 2026-08-12 09:58:21
 ||*.0022a601.pphost.net^$important
 ||*.0784c5.arcadejafet.cl^$important
 ||*.095a33.arcadejafet.cl^$important
@@ -246,7 +246,6 @@
 ||*.a46964.icefactory.cl^$important
 ||*.a6c19a.arcadejafet.cl^$important
 ||*.a891bf.arcadejafet.cl^$important
-||*.abdulahad.net^$important
 ||*.abhshek-78.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accounts.relayauth.online^$important
@@ -268,6 +267,7 @@
 ||*.alternativas.ru^$important
 ||*.am.wegae.best^$important
 ||*.americanmanchester.org^$important
+||*.antleds.com^$important
 ||*.api.mineblack.lol^$important
 ||*.app.appzcvb.com^$important
 ||*.archivoscrosoft.com^$important
@@ -285,7 +285,6 @@
 ||*.bancolombiacupoaumento.vercel.app^$important
 ||*.bankofamerica.qpon^$important
 ||*.bapak178.org^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bet298.co^$important
 ||*.bgrnd1ekq-phvjn98plos-2c4d9a-zby7w.pages.dev^$important
@@ -401,10 +400,13 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
+||*.essizs.com^$important
 ||*.eu.auditmessages.eu^$important
 ||*.eu.microsft.org^$important
+||*.explorer.vg^$important
 ||*.ez33z3z3z3.pages.dev^$important
 ||*.f0f3bf.arcadejafet.cl^$important
 ||*.f7a353.arcadejafet.cl^$important
@@ -418,7 +420,6 @@
 ||*.feb6cd.icefactory.cl^$important
 ||*.ff6aa7.arcadejafet.cl^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.financialhealthsupport.com^$important
 ||*.first-security-verden.de^$important
@@ -476,6 +477,7 @@
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
+||*.jlwz.cn^$important
 ||*.joker.aec944b68370194a50.link^$important
 ||*.joshyyyjoel.github.io^$important
 ||*.joyeriatauro.com^$important
@@ -495,6 +497,7 @@
 ||*.login-page-instagram.vercel.app^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.m.90manapp.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -503,6 +506,7 @@
 ||*.maidforyou1985.com^$important
 ||*.mail.quietsurfwi.help^$important
 ||*.malienterprises.com^$important
+||*.mandarin.net.au^$important
 ||*.mercadopagobrasil.digital^$important
 ||*.messenger-security-notification-ads.one^$important
 ||*.metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app^$important
@@ -540,7 +544,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
-||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pendaftaraan-pinjaamanbrii.kvv.my.id^$important
 ||*.pfatrivandrum.org^$important
@@ -554,6 +557,7 @@
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
 ||*.pvsa.gxfugy.cn^$important
+||*.qiniuyunxz.yxflzs.com^$important
 ||*.qqwwee.dynamic-dns.net^$important
 ||*.qrco.de^$important
 ||*.quietsurfwi.help^$important
@@ -630,11 +634,9 @@
 ||*.spotifyasoma.github.io^$important
 ||*.sso-security.com^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steamcommummity.cam^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sucrsalpersonastdc.site^$important
@@ -667,6 +669,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trck-new-210.casadelfreno.info^$important
 ||*.trezor.win^$important
+||*.triflackcom.com^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
 ||*.twu-hwt.org^$important
@@ -715,6 +718,7 @@
 ||*.www.borderclick.com^$important
 ||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.cashprodeskchat.com^$important
+||*.www.chenwangqiao.com^$important
 ||*.www.controliumbt.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.cutting-edge.in^$important
