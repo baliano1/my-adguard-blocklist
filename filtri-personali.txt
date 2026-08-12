@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-12 01:39:12
+! Ultimo aggiornamento automatico: 2026-08-12 04:44:02
 ||*.0022a601.pphost.net^$important
 ||*.0784c5.arcadejafet.cl^$important
 ||*.095a33.arcadejafet.cl^$important
@@ -402,7 +402,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.eu.auditmessages.eu^$important
@@ -440,6 +439,7 @@
 ||*.garantilihall.shop^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.geupsrrjfncovb9da7cggdwt3mov4ffiasf25-h28v.vercel.app^$important
 ||*.ghotkshop.com^$important
 ||*.globalbank.us^$important
@@ -457,7 +457,6 @@
 ||*.heroestales.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.htps-www-roblox.co^$important
@@ -490,12 +489,10 @@
 ||*.landonirwin.com^$important
 ||*.lasmejoresmxfla.mx^$important
 ||*.lawfirm.paperbirdtech.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.login-page-instagram.vercel.app^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m.90manapp.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -504,6 +501,7 @@
 ||*.maidforyou1985.com^$important
 ||*.mail.quietsurfwi.help^$important
 ||*.malienterprises.com^$important
+||*.mandarin.net.au^$important
 ||*.mercadopagobrasil.digital^$important
 ||*.messenger-security-notification-ads.one^$important
 ||*.metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app^$important
@@ -555,7 +553,6 @@
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
 ||*.pvsa.gxfugy.cn^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qqwwee.dynamic-dns.net^$important
 ||*.qrco.de^$important
 ||*.quietsurfwi.help^$important
@@ -619,7 +616,6 @@
 ||*.sk-comtel.com^$important
 ||*.skrab-qtwiz-vlypx-5c04ad-srkt-vlasco.pages.dev^$important
 ||*.smartermail.host^$important
-||*.smoking-hot.net^$important
 ||*.snaply-git-main-khadir-salims-projects.vercel.app^$important
 ||*.sochibeer.ru^$important
 ||*.soft.110route.com^$important
@@ -632,11 +628,10 @@
 ||*.spgint.com^$important
 ||*.spotifyasoma.github.io^$important
 ||*.sso-security.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
+||*.stdown.dinju.com^$important
 ||*.steamcommummity.cam^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sucrsalpersonastdc.site^$important
@@ -669,10 +664,8 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trck-new-210.casadelfreno.info^$important
 ||*.trezor.win^$important
-||*.triflackcom.com^$important
 ||*.trtmyanmar.com^$important
 ||*.tuasesoriadigital.es^$important
-||*.twu-hwt.org^$important
 ||*.umaimazainab02.github.io^$important
 ||*.undian-shopee536.blogspot.com^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -727,6 +720,7 @@
 ||*.www.facebookloginid.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.ganpatimatrimonial.com^$important
+||*.www.gestroom.it^$important
 ||*.www.grandprize97.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -776,6 +770,7 @@
 ||*.www.xfinity-signon.weebly.com^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.wx3bux7387x.pages.dev^$important
 ||*.xenon.studio^$important
 ||*.xfiniityupdates.weebly.com^$important
