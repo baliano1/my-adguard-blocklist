@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-13 18:58:03
+! Ultimo aggiornamento automatico: 2026-08-13 21:40:22
 ||*.0022a601.pphost.net^$important
 ||*.0188f6.icefactory.cl^$important
 ||*.0953f8.icefactory.cl^$important
@@ -242,6 +242,7 @@
 ||*.abdulahad.net^$important
 ||*.abumusan.icu^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.ad0a60.icefactory.cl^$important
 ||*.admah.com^$important
@@ -258,7 +259,6 @@
 ||*.allendostmen.com^$important
 ||*.alphalkenya.com^$important
 ||*.alternativas.ru^$important
-||*.americanmanchester.org^$important
 ||*.api.mineblack.lol^$important
 ||*.app.appzcvb.com^$important
 ||*.appl-replica-bootstrap-zena.netlify.app^$important
@@ -351,11 +351,11 @@
 ||*.dhariwalumang.github.io^$important
 ||*.discordclone-smoky.vercel.app^$important
 ||*.disk.accord1key.cn^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dlavor-bintel-3b82fc-mrkt-grendal.pages.dev^$important
 ||*.dnivok-lrelna-9fj50a-cjbyh-3di489.pages.dev^$important
+||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
@@ -367,10 +367,10 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.dravon-kelrix-c607b4-ggr1504bn-n2406pta.pages.dev^$important
 ||*.draxil-zomber-1e91ac-kthn-dravik.pages.dev^$important
-||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
 ||*.dusttv.com^$important
 ||*.dw7-eumhv-g1k5-k8gb-gqc1a0.pages.dev^$important
@@ -387,6 +387,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emivok-trelna-2ed83f-vjbyh-6cb712.pages.dev^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.essizs.com^$important
@@ -417,7 +418,6 @@
 ||*.gemini.1shine.top^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.glbeletronica.com.br^$important
 ||*.glemizng-parfait-a763e6-kl1204lk-n-2406uxj.pages.dev^$important
 ||*.globalbank.us^$important
@@ -441,7 +441,6 @@
 ||*.hlonex-fursa-a7c109-wplm-grw0307rw.pages.dev^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.htqx-mu9hg-aqhpz-rfjaw-paoe.pages.dev^$important
 ||*.i2r6od-aks-prjsms-63na0-kix572.pages.dev^$important
 ||*.i2s-uoinm-xp1e-k89itv-j7bhb.pages.dev^$important
@@ -460,6 +459,7 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
 ||*.jaz-sunaeae-05041b-gr1204gr-gg-2406tlf.pages.dev^$important
 ||*.jazzyt.netlify.app^$important
 ||*.jelvik-pronda-8f9a33-njyhh-g2406xra.pages.dev^$important
@@ -503,13 +503,13 @@
 ||*.lomejordesalamanca.es^$important
 ||*.lraxil-komber-4e91ac-kthn-dravik.pages.dev^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.lunmori-gld-felquta-r1t5dk47.pages.dev^$important
 ||*.luxcar-24.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m5zi-5nyu2g-ec3-2dn9-vt3gf.pages.dev^$important
 ||*.maidforyou1985.com^$important
+||*.mandarin.net.au^$important
 ||*.mantener1wht1.webcindario.com^$important
 ||*.marnix-qustek-a18ce4-ggrbn-t2406aee.pages.dev^$important
 ||*.mbcasesores.com^$important
@@ -540,7 +540,6 @@
 ||*.nimble-cendol-ed4dde.netlify.app^$important
 ||*.noithaticon.vn^$important
 ||*.nshsdfsi.us.cc^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odbieramy-polaczenie.online^$important
 ||*.ojang.pe.kr^$important
@@ -555,6 +554,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
+||*.pay.aqiu6.com^$important
 ||*.pay.paykmc.com^$important
 ||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
@@ -684,7 +684,7 @@
 ||*.tapestryoftruth.com^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
-||*.ten.devurek.xyz^$important
+||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tf.xybcffqlc.xyz^$important
@@ -723,7 +723,6 @@
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.voltagec2.tech^$important
 ||*.vrajras.com^$important
-||*.waf.proxytunnel.co^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
