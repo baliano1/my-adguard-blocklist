@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-13 07:20:58
+! Ultimo aggiornamento automatico: 2026-08-13 10:00:14
 ||*.0022a601.pphost.net^$important
 ||*.02048c89-d542-4483-b098-2584604559db-00-28szhkg9w5s54.worf.replit.dev^$important
 ||*.0754f5.icefactory.cl^$important
@@ -211,7 +211,6 @@
 ||*.airtickts.com^$important
 ||*.aivk.eu.cc^$important
 ||*.alarmline.com.br^$important
-||*.alineeleuterio.com.br^$important
 ||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
 ||*.almistranaya.com^$important
@@ -220,7 +219,6 @@
 ||*.americanmanchester.org^$important
 ||*.amz0p3.eu.cc^$important
 ||*.andres-uribe55.github.io^$important
-||*.antleds.com^$important
 ||*.api.mineblack.lol^$important
 ||*.app.appzcvb.com^$important
 ||*.app.fingo-itau-development.com^$important
@@ -240,6 +238,7 @@
 ||*.baccredomatico.icu^$important
 ||*.backupso.com^$important
 ||*.bapak178.org^$important
+||*.beak.in^$important
 ||*.bellverify-9cc4cd.webflow.io^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bfc66c.icefactory.cl^$important
@@ -278,7 +277,6 @@
 ||*.centralhouselisbonbaixa.hostel.town^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
-||*.checkfivem.com^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chrome-windows.ru^$important
@@ -337,6 +335,7 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -380,7 +379,6 @@
 ||*.feminist-peach-thq3u1dk.edgeone.dev^$important
 ||*.fernjaipurseriesbymarriott-rajasthan.spahotel.guru^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flooriscoveringworld.com^$important
@@ -398,6 +396,7 @@
 ||*.gazw-ru.web.app^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.ghxtccvonc6awwwfeenlgy1cpt0vw9nfesf21-h11v.vercel.app^$important
 ||*.globalbank.us^$important
 ||*.golvteametvarberg.se^$important
@@ -418,6 +417,7 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.i.gal^$important
 ||*.ianaguirre1.github.io^$important
 ||*.ibebidas-zeexpress.shop^$important
@@ -440,6 +440,7 @@
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jjhernandez17.github.io^$important
+||*.jlwz.cn^$important
 ||*.joker.aec944b68370194a50.link^$important
 ||*.joyeriatauro.com^$important
 ||*.jsons.pk^$important
@@ -450,19 +451,18 @@
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
-||*.konsor.ru^$important
 ||*.kontosicherheitsdienst.com^$important
 ||*.kuccoinlogein.webflow.io^$important
 ||*.kundenserivecidn.jdevcloud.com^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-wallet.co^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.login.daysinnsuiteswaterloo.info^$important
 ||*.loginxfinitycom.weebly.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.m-facebooks.vn^$important
 ||*.m.365bet277.com^$important
 ||*.m.hg4310.com^$important
@@ -473,7 +473,7 @@
 ||*.mailbox-validatinggg-outlook-00433.weebly.com^$important
 ||*.main.d1m0ow86j91yrd.amplifyapp.com^$important
 ||*.main.d1xk6yfxdxtpzr.amplifyapp.com^$important
-||*.mandarin.net.au^$important
+||*.mbcasesores.com^$important
 ||*.metamzklgen.gitbook.io^$important
 ||*.metapay.facebook-online.world^$important
 ||*.metrics.gocloudmaps.com^$important
@@ -525,6 +525,7 @@
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
 ||*.pvsa.gxfugy.cn^$important
+||*.qiniuyunxz.yxflzs.com^$important
 ||*.qv.co.ke^$important
 ||*.qwwqqw.pages.dev^$important
 ||*.ramirex.ro^$important
@@ -623,6 +624,7 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telqumi-kxt-felmora-a3x8hk79.pages.dev^$important
+||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
@@ -639,7 +641,6 @@
 ||*.triflackcom.com^$important
 ||*.trueaimportant64-d7bdancyaqdxcjg6.z03.azurefd.net^$important
 ||*.trueinggrik.com^$important
-||*.tuasesoriadigital.es^$important
 ||*.twu-hwt.org^$important
 ||*.unicrane.com^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -745,6 +746,7 @@
 ||*.www.shopee-vn.shop^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.springhillmontessori.com^$important
+||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
 ||*.www.steamcommunitly-glock18.shop^$important
 ||*.www.support-data.com^$important
