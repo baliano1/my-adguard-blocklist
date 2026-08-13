@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-13 15:55:40
+! Ultimo aggiornamento automatico: 2026-08-13 18:58:03
 ||*.0022a601.pphost.net^$important
 ||*.0188f6.icefactory.cl^$important
 ||*.0953f8.icefactory.cl^$important
@@ -295,7 +295,6 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
-||*.botnet.botnet.xd.67.flightleaks.xyz^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bvaco.com^$important
@@ -699,6 +698,7 @@
 ||*.tokeimng.fit^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.totalfitting.com.au^$important
 ||*.transcendent-quokka-c4c95c.netlify.app^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.travik-vormel-c35ad2-njyrr-x2406adt.pages.dev^$important
@@ -707,7 +707,6 @@
 ||*.triflackcom.com^$important
 ||*.trueinggrik.com^$important
 ||*.twu-hwt.org^$important
-||*.u87yy3f87b23f8293bfg83bgu94.bombamodzik.xyz^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
