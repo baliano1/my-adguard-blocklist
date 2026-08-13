@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-13 04:47:58
+! Ultimo aggiornamento automatico: 2026-08-13 07:20:58
 ||*.0022a601.pphost.net^$important
 ||*.02048c89-d542-4483-b098-2584604559db-00-28szhkg9w5s54.worf.replit.dev^$important
 ||*.0754f5.icefactory.cl^$important
@@ -240,7 +240,6 @@
 ||*.baccredomatico.icu^$important
 ||*.backupso.com^$important
 ||*.bapak178.org^$important
-||*.beak.in^$important
 ||*.bellverify-9cc4cd.webflow.io^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bfc66c.icefactory.cl^$important
@@ -399,7 +398,6 @@
 ||*.gazw-ru.web.app^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.ghxtccvonc6awwwfeenlgy1cpt0vw9nfesf21-h11v.vercel.app^$important
 ||*.globalbank.us^$important
 ||*.golvteametvarberg.se^$important
@@ -527,7 +525,6 @@
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
 ||*.pvsa.gxfugy.cn^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qv.co.ke^$important
 ||*.qwwqqw.pages.dev^$important
 ||*.ramirex.ro^$important
@@ -600,6 +597,7 @@
 ||*.spgint.com^$important
 ||*.spring-violet-a55d.caresamullenjhy4ct27cm.workers.dev^$important
 ||*.ssl-ff3a69f1-36ce-441a-8de8-eae84d28ed1e.velasoft.cz^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.status-o2uk.spatialbuzz.net^$important
@@ -607,6 +605,7 @@
 ||*.steamcomunnmity.com^$important
 ||*.store.communitystudionsarts.shop^$important
 ||*.store.workshopcommunitymodshare.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sumiko.vu^$important
@@ -624,7 +623,6 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telqumi-kxt-felmora-a3x8hk79.pages.dev^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
@@ -639,7 +637,6 @@
 ||*.tra-ebon.vercel.app^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.triflackcom.com^$important
-||*.trtmyanmar.com^$important
 ||*.trueaimportant64-d7bdancyaqdxcjg6.z03.azurefd.net^$important
 ||*.trueinggrik.com^$important
 ||*.tuasesoriadigital.es^$important
