@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-13 13:01:04
+! Ultimo aggiornamento automatico: 2026-08-13 15:55:40
 ||*.0022a601.pphost.net^$important
 ||*.0188f6.icefactory.cl^$important
 ||*.0953f8.icefactory.cl^$important
@@ -253,6 +253,7 @@
 ||*.airtickts.com^$important
 ||*.aktiffkan-paylaterzz.urr.my.id^$important
 ||*.alarmline.com.br^$important
+||*.alineeleuterio.com.br^$important
 ||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
 ||*.alphalkenya.com^$important
@@ -311,6 +312,7 @@
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
+||*.checkfivem.com^$important
 ||*.cheerful-rose-tkryjfc0.edgeone.dev^$important
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
@@ -324,7 +326,6 @@
 ||*.comcast-help-home.weebly.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
-||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
@@ -335,6 +336,7 @@
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.danaindonesia-n.netlify.app^$important
+||*.dasberlinerhotel.com^$important
 ||*.data.yhydl.com^$important
 ||*.dcae2d.icefactory.cl^$important
 ||*.dcrun.co.uk^$important
@@ -350,13 +352,11 @@
 ||*.dhariwalumang.github.io^$important
 ||*.discordclone-smoky.vercel.app^$important
 ||*.disk.accord1key.cn^$important
-||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dlavor-bintel-3b82fc-mrkt-grendal.pages.dev^$important
 ||*.dnivok-lrelna-9fj50a-cjbyh-3di489.pages.dev^$important
-||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
@@ -368,7 +368,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.dravon-kelrix-c607b4-ggr1504bn-n2406pta.pages.dev^$important
 ||*.draxil-zomber-1e91ac-kthn-dravik.pages.dev^$important
@@ -389,7 +388,6 @@
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emivok-trelna-2ed83f-vjbyh-6cb712.pages.dev^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.essizs.com^$important
@@ -401,6 +399,7 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flooriscoveringworld.com^$important
@@ -411,7 +410,6 @@
 ||*.foit-k7v1m9-kvc4b-ciyox-tcgu.pages.dev^$important
 ||*.frequent-industry-913696.framer.app^$important
 ||*.fukt.link^$important
-||*.fullstacknir.com^$important
 ||*.funkelixo.net.br^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
@@ -463,7 +461,6 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
 ||*.jaz-sunaeae-05041b-gr1204gr-gg-2406tlf.pages.dev^$important
 ||*.jazzyt.netlify.app^$important
 ||*.jelvik-pronda-8f9a33-njyhh-g2406xra.pages.dev^$important
@@ -480,6 +477,7 @@
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
+||*.konsor.ru^$important
 ||*.kymnp-vvlhkp-7wj-qw9-xojqm.pages.dev^$important
 ||*.lambent-marzipan-07d722.netlify.app^$important
 ||*.lambent-snickerdoodle-40fd2d.netlify.app^$important
@@ -506,7 +504,9 @@
 ||*.lomejordesalamanca.es^$important
 ||*.lraxil-komber-4e91ac-kthn-dravik.pages.dev^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.lunmori-gld-felquta-r1t5dk47.pages.dev^$important
+||*.luxcar-24.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m5zi-5nyu2g-ec3-2dn9-vt3gf.pages.dev^$important
@@ -556,7 +556,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
-||*.pay.aqiu6.com^$important
 ||*.pay.paykmc.com^$important
 ||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
@@ -600,6 +599,7 @@
 ||*.safeuploadz.com^$important
 ||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
+||*.sarafinance.in^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
@@ -627,6 +627,7 @@
 ||*.smartermail.host^$important
 ||*.sochibeer.ru^$important
 ||*.sock-zizifn-kr.ludea-liu.workers.dev^$important
+||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
 ||*.sp0ct-belrem-biz-delqok-lorvix.pages.dev^$important
 ||*.sp0ct-korqax-biz-felnex-yorvik.pages.dev^$important
@@ -657,11 +658,14 @@
 ||*.sp29ct-kastik-biz-zormel-vanqor.pages.dev^$important
 ||*.sp29ct-lensok-biz-karmik-favtor.pages.dev^$important
 ||*.sp29ct-zavlor-biz-hensik-qempar.pages.dev^$important
+||*.spgint.com^$important
 ||*.spotify-clone-beta-two.vercel.app^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.statuesque-buttercream-70ab03-ht1504h-2406cwp.pages.dev^$important
 ||*.stdown.dinju.com^$important
+||*.stratagemzw.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
@@ -682,7 +686,6 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.ten.devurek.xyz^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tf.xybcffqlc.xyz^$important
@@ -721,6 +724,7 @@
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.voltagec2.tech^$important
 ||*.vrajras.com^$important
+||*.waf.proxytunnel.co^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
@@ -752,7 +756,6 @@
 ||*.www.drgenov.com^$important
 ||*.www.expense-eight-weld.vercel.app^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.grand-prize60.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -783,7 +786,6 @@
 ||*.www.reifenquick.de^$important
 ||*.www.roblox.com.gr^$important
 ||*.www.saf-oil.ru^$important
-||*.www.salonmarketing.ca^$important
 ||*.www.sgeseducation.com^$important
 ||*.www.shopee8083.blogspot.com^$important
 ||*.www.sigininxfinity.weebly.com^$important
@@ -794,6 +796,7 @@
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
 ||*.www.store.communitystudionsarts.shop^$important
+||*.www.stratagemzw.com^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
