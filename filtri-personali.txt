@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-14 12:57:33
+! Ultimo aggiornamento automatico: 2026-08-14 15:47:05
 ||*.0022a601.pphost.net^$important
 ||*.002958.icefactory.cl^$important
 ||*.01xpga-agpx11.blogspot.com^$important
@@ -213,7 +213,6 @@
 ||*.a9bd1a.icefactory.cl^$important
 ||*.a9qlsgdbwq4ieg7memxzhbxt8gfrmoafsf43-cg13s.vercel.app^$important
 ||*.ab.airtrade-aviation.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
@@ -223,7 +222,6 @@
 ||*.aftelecom.com.br^$important
 ||*.ahmadraza-cyber.github.io^$important
 ||*.ahneina116x1x.blogspot.com^$important
-||*.aidlifempowerment.com^$important
 ||*.airtickts.com^$important
 ||*.aktiffkan-paylaterzz.hoo.my.id^$important
 ||*.aktiffkanpaylaterbb.resmii-iid2.my.id^$important
@@ -292,7 +290,6 @@
 ||*.chuguadventures.co.tz^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.connecting-plus.digital^$important
@@ -322,7 +319,6 @@
 ||*.device.aaaqku.top^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.divyasri-raju.github.io^$important
 ||*.dl.1003b.56a.com^$important
@@ -342,6 +338,7 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
+||*.download.tfyxzai.com^$important
 ||*.duct-master.com^$important
 ||*.dusttv.com^$important
 ||*.dynga.pl^$important
@@ -397,7 +394,6 @@
 ||*.gladagnn.blogspot.com^$important
 ||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
-||*.golvteametvarberg.se^$important
 ||*.gov-xnui.com^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
@@ -423,6 +419,7 @@
 ||*.isiore.com.co^$important
 ||*.ithelpdeskwebformnotice.weebly.com^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.j157y.vip^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -505,6 +502,7 @@
 ||*.ny.lshdw.cc^$important
 ||*.odbierztelefon.pro^$important
 ||*.office365order.github.io^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.old4.jiaozuo31.com^$important
@@ -512,6 +510,7 @@
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.pagar-pendencias.vercel.app^$important
+||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -572,7 +571,6 @@
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.scrroeder.com^$important
-||*.seasquadshipping.com^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -614,6 +612,7 @@
 ||*.stdown.dinju.com^$important
 ||*.steamxcommunity.ru^$important
 ||*.stratagemzw.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suggca1gs0iwflb79nyix4zhakfghynwsf33-cg13s.vercel.app^$important
 ||*.sumiko.vu^$important
@@ -622,7 +621,6 @@
 ||*.supportioko-commits.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
@@ -681,20 +679,19 @@
 ||*.vgd.vg^$important
 ||*.vincentdemiero.com^$important
 ||*.virtualnextpartner.com^$important
+||*.visam.info^$important
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.vmnacrggc4dpxlvzb9msxnir2dirj6afydsf34-cg13s.vercel.app^$important
 ||*.vrajras.com^$important
 ||*.waf.proxytunnel.co^$important
 ||*.web3eoxdus.zapier.app^$important
-||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wetavers.com^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
 ||*.wordpress-214212-0.cloudclusters.net^$important
-||*.wp.ameyiando.com^$important
 ||*.wqok85qtq.net^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.ardguisser.com^$important
@@ -724,6 +721,7 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.freeinstagram5followers.blogspot.com^$important
 ||*.www.g5.lu^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
@@ -735,6 +733,7 @@
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
 ||*.www.khavar.com^$important
+||*.www.knockknock.top^$important
 ||*.www.konsor.ru^$important
 ||*.www.lassucursalvirtual.vercel.app^$important
 ||*.www.lasucursallvirtual.vercel.app^$important
