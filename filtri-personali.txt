@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-14 01:39:44
+! Ultimo aggiornamento automatico: 2026-08-14 04:45:35
 ||*.0022a601.pphost.net^$important
 ||*.0245dc.icefactory.cl^$important
 ||*.065821.icefactory.cl^$important
@@ -189,7 +189,6 @@
 ||*.1ea875.icefactory.cl^$important
 ||*.1ec4cf.icefactory.cl^$important
 ||*.1f607f.icefactory.cl^$important
-||*.2.indexsinas.me^$important
 ||*.224bb3.icefactory.cl^$important
 ||*.226065.icefactory.cl^$important
 ||*.2292a6.icefactory.cl^$important
@@ -290,7 +289,6 @@
 ||*.abdulahad.net^$important
 ||*.ac903e.icefactory.cl^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.acessocert.netlify.app^$important
 ||*.acessodhj.netlify.app^$important
 ||*.acme-companynubank-transfer-limits.s3.us-east-005.backblazeb2.com^$important
@@ -361,7 +359,6 @@
 ||*.chiptune.com^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
-||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.lnmxys.com^$important
@@ -371,6 +368,7 @@
 ||*.connect-ldgrscom-live.pages.dev^$important
 ||*.continentalgroup.net.in^$important
 ||*.cornerstarnamibia.com^$important
+||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
 ||*.creativevoltage.com^$important
@@ -406,6 +404,7 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.divyasri-raju.github.io^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -465,6 +464,7 @@
 ||*.fmrio.com^$important
 ||*.frtkvnpa.xyz^$important
 ||*.fukt.link^$important
+||*.fullstacknir.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
@@ -504,7 +504,6 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -521,7 +520,6 @@
 ||*.landonirwin.com^$important
 ||*.lassucursalvirtual.vercel.app^$important
 ||*.lasucursallvirtual.vercel.app^$important
-||*.lawfirm.paperbirdtech.com^$important
 ||*.lawoccjd0cbhonysmyi12vtlnbn8jtmjdsf45-h12v.vercel.app^$important
 ||*.ledger-help-io.square.site^$important
 ||*.ledgrliveus.blogspot.com^$important
@@ -530,12 +528,12 @@
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malaysianpastrybakery.org^$important
-||*.mandarin.net.au^$important
 ||*.mapaicloud.com^$important
 ||*.mbcasesores.com^$important
 ||*.medicosantiagomarrero.com^$important
@@ -543,7 +541,6 @@
 ||*.melioniserv.justns.ru^$important
 ||*.menu-aktivasipayc.paylater.buzz^$important
 ||*.meta-game.pages.dev^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.midle-eastcompany.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -561,6 +558,7 @@
 ||*.newcomcastserver.weebly.com^$important
 ||*.noithaticon.vn^$important
 ||*.nurendoesmenco90.wasmer.app^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ocompany-prod-rate-limits.s3.us-east-005.backblazeb2.com^$important
 ||*.ojang.pe.kr^$important
@@ -773,6 +771,7 @@
 ||*.www.roblox.com.bn^$important
 ||*.www.roblox.com.et^$important
 ||*.www.saf-oil.ru^$important
+||*.www.salonmarketing.ca^$important
 ||*.www.sgeseducation.com^$important
 ||*.www.shop88.shop^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
@@ -790,7 +789,6 @@
 ||*.www.www-connect.secure.werllsfargo.com.jmvlogistics.in^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
-||*.www.zhikey.com^$important
 ||*.wxexwexex.pages.dev^$important
 ||*.xenon.studio^$important
 ||*.xfinityemailloginauthentication.vercel.app^$important
