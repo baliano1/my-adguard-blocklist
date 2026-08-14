@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-14 18:47:57
+! Ultimo aggiornamento automatico: 2026-08-14 21:21:05
 ||*.0022a601.pphost.net^$important
 ||*.002958.icefactory.cl^$important
 ||*.01xpga-agpx11.blogspot.com^$important
@@ -192,7 +192,6 @@
 ||*.4f94f8.icefactory.cl^$important
 ||*.5272c7.icefactory.cl^$important
 ||*.65.jj38142.vip^$important
-||*.6ak-tehnik.si^$important
 ||*.6f9a37.icefactory.cl^$important
 ||*.6fa37b.icefactory.cl^$important
 ||*.70f263.icefactory.cl^$important
@@ -214,6 +213,7 @@
 ||*.a9bd1a.icefactory.cl^$important
 ||*.a9qlsgdbwq4ieg7memxzhbxt8gfrmoafsf43-cg13s.vercel.app^$important
 ||*.ab.airtrade-aviation.com^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
@@ -279,6 +279,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cetrumcertifcmeriesc467f.wasmer.app^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -339,7 +340,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.duct-master.com^$important
 ||*.dusttv.com^$important
@@ -360,7 +360,6 @@
 ||*.epanpano.com^$important
 ||*.ertomaincertewhj89.wasmer.app^$important
 ||*.essizs.com^$important
-||*.ezpz.link^$important
 ||*.facebookpageslinkk.blogspot.com^$important
 ||*.facebookteamhelp.blogspot.com^$important
 ||*.fakers.co.jp^$important
@@ -368,6 +367,7 @@
 ||*.fc83a5.icefactory.cl^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finityvoice.weebly.com^$important
 ||*.first-security-verden.de^$important
@@ -388,7 +388,6 @@
 ||*.galerisenimutiara.com^$important
 ||*.gbinsta.cc^$important
 ||*.genddos.st^$important
-||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
 ||*.getaccfreefire2026.netlify.app^$important
 ||*.gh0stmap.vercel.app^$important
@@ -413,6 +412,7 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.indusenterprises.co^$important
 ||*.inemssgecert10c06.wasmer.app^$important
 ||*.ircftp.net^$important
 ||*.isabelle-amaral.github.io^$important
@@ -471,7 +471,6 @@
 ||*.m.pgjt216.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malaysianpastrybakery.org^$important
-||*.mandarin.net.au^$important
 ||*.mapaicloud.com^$important
 ||*.matineseriennhlans89.wasmer.app^$important
 ||*.mbcasesores.com^$important
@@ -559,7 +558,6 @@
 ||*.rwrfx2x.pages.dev^$important
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
-||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safeuploadz.com^$important
 ||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
@@ -621,6 +619,7 @@
 ||*.supportioko-commits.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
@@ -651,7 +650,6 @@
 ||*.trak-ep-90.gnylp.info^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trgwrnchovoqii1mtimelknmjvqxeqrlkzsf14-cg13s.vercel.app^$important
-||*.triflackcom.com^$important
 ||*.trrtblm5pd52qspj3xtdpacce3nh49olsf41-cg13s.vercel.app^$important
 ||*.trtmyanmar.com^$important
 ||*.trueinggrik.com^$important
@@ -684,7 +682,6 @@
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.vmnacrggc4dpxlvzb9msxnir2dirj6afydsf34-cg13s.vercel.app^$important
 ||*.vrajras.com^$important
-||*.waf.proxytunnel.co^$important
 ||*.web3eoxdus.zapier.app^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wetavers.com^$important
