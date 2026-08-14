@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-14 04:45:35
+! Ultimo aggiornamento automatico: 2026-08-14 07:18:16
 ||*.0022a601.pphost.net^$important
 ||*.0245dc.icefactory.cl^$important
 ||*.065821.icefactory.cl^$important
@@ -440,6 +440,7 @@
 ||*.ertomaincertewhj89.wasmer.app^$important
 ||*.essizs.com^$important
 ||*.express-deliverys24h.shop^$important
+||*.ezpz.link^$important
 ||*.f141ef.icefactory.cl^$important
 ||*.f3e873.icefactory.cl^$important
 ||*.f56119.icefactory.cl^$important
@@ -473,6 +474,7 @@
 ||*.gbinsta.cc^$important
 ||*.genddos.st^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.gift.steampowered.ink^$important
 ||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
@@ -520,6 +522,7 @@
 ||*.landonirwin.com^$important
 ||*.lassucursalvirtual.vercel.app^$important
 ||*.lasucursallvirtual.vercel.app^$important
+||*.lawfirm.paperbirdtech.com^$important
 ||*.lawoccjd0cbhonysmyi12vtlnbn8jtmjdsf45-h12v.vercel.app^$important
 ||*.ledger-help-io.square.site^$important
 ||*.ledgrliveus.blogspot.com^$important
@@ -541,6 +544,7 @@
 ||*.melioniserv.justns.ru^$important
 ||*.menu-aktivasipayc.paylater.buzz^$important
 ||*.meta-game.pages.dev^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.midle-eastcompany.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -556,6 +560,7 @@
 ||*.ncxps.com^$important
 ||*.netflixcasinocanada.com^$important
 ||*.newcomcastserver.weebly.com^$important
+||*.nodemetrics3379.com^$important
 ||*.noithaticon.vn^$important
 ||*.nurendoesmenco90.wasmer.app^$important
 ||*.nusatoyota.co.id^$important
@@ -566,7 +571,6 @@
 ||*.onfiltre.com.tr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
-||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -625,6 +629,7 @@
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.scrroeder.com^$important
+||*.seasquadshipping.com^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -641,6 +646,7 @@
 ||*.signageinsignia.co.za^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
+||*.smmnet.store^$important
 ||*.sochibeer.ru^$important
 ||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
@@ -739,13 +745,13 @@
 ||*.www.cutting-edge.in^$important
 ||*.www.dra.com.ve^$important
 ||*.www.drgenov.com^$important
+||*.www.ezpz.link^$important
 ||*.www.facebook-channel.blogspot.com^$important
 ||*.www.ffp.rjg.temporary.site^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.go-to-accounts-dashboards.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
-||*.www.hseda.com^$important
 ||*.www.instagram-chi.vercel.app^$important
 ||*.www.instagram-clone-snowy.vercel.app^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
