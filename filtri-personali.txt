@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-14 15:47:05
+! Ultimo aggiornamento automatico: 2026-08-14 18:47:57
 ||*.0022a601.pphost.net^$important
 ||*.002958.icefactory.cl^$important
 ||*.01xpga-agpx11.blogspot.com^$important
@@ -192,6 +192,7 @@
 ||*.4f94f8.icefactory.cl^$important
 ||*.5272c7.icefactory.cl^$important
 ||*.65.jj38142.vip^$important
+||*.6ak-tehnik.si^$important
 ||*.6f9a37.icefactory.cl^$important
 ||*.6fa37b.icefactory.cl^$important
 ||*.70f263.icefactory.cl^$important
@@ -237,7 +238,6 @@
 ||*.aprobacion.github.io^$important
 ||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
-||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
 ||*.auspost.addqi.com^$important
@@ -290,6 +290,7 @@
 ||*.chuguadventures.co.tz^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.connecting-plus.digital^$important
@@ -319,6 +320,7 @@
 ||*.device.aaaqku.top^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.divyasri-raju.github.io^$important
 ||*.dl.1003b.56a.com^$important
@@ -366,7 +368,6 @@
 ||*.fc83a5.icefactory.cl^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finityvoice.weebly.com^$important
 ||*.first-security-verden.de^$important
@@ -412,7 +413,6 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
-||*.indusenterprises.co^$important
 ||*.inemssgecert10c06.wasmer.app^$important
 ||*.ircftp.net^$important
 ||*.isabelle-amaral.github.io^$important
@@ -471,6 +471,7 @@
 ||*.m.pgjt216.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malaysianpastrybakery.org^$important
+||*.mandarin.net.au^$important
 ||*.mapaicloud.com^$important
 ||*.matineseriennhlans89.wasmer.app^$important
 ||*.mbcasesores.com^$important
@@ -502,7 +503,6 @@
 ||*.ny.lshdw.cc^$important
 ||*.odbierztelefon.pro^$important
 ||*.office365order.github.io^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.old4.jiaozuo31.com^$important
