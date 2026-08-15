@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-15 15:15:49
+! Ultimo aggiornamento automatico: 2026-08-15 18:22:23
 ||*.0022a601.pphost.net^$important
 ||*.003569.icefactory.cl^$important
 ||*.123.ywxww.net^$important
@@ -180,7 +180,6 @@
 ||*.507752.icefactory.cl^$important
 ||*.519ef0.icefactory.cl^$important
 ||*.572783.icefactory.cl^$important
-||*.6ak-tehnik.si^$important
 ||*.6rxzmrvrq9bqrertjzzkd0zbryqk6yki9fb21-cg14v.vercel.app^$important
 ||*.7628bb.icefactory.cl^$important
 ||*.7a7d96.icefactory.cl^$important
@@ -196,7 +195,6 @@
 ||*.abdullahitgithub.github.io^$important
 ||*.abdulrafaydev1.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.accounts-fe50ccd9.jkhjkjk.workers.dev^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
@@ -247,7 +245,6 @@
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnblzoalsc68p7vhdum6xpyhn2zrof248fb39-cg14v.vercel.app^$important
-||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
@@ -280,7 +277,6 @@
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
-||*.continentalgroup.net.in^$important
 ||*.cooktownfood.com^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
@@ -400,7 +396,6 @@
 ||*.gaurnaina123.github.io^$important
 ||*.genddos.st^$important
 ||*.genialcorp.cl^$important
-||*.gestroom.it^$important
 ||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
 ||*.globaldigital.vercel.app^$important
@@ -429,6 +424,7 @@
 ||*.iishpfrhguqyuj4i5rjj7fsxjshhtsgxsf10-h13s.vercel.app^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.iliketutles1233.github.io^$important
+||*.indusenterprises.co^$important
 ||*.instagramloginp.blogspot.com^$important
 ||*.invite.go2omega.com^$important
 ||*.ircftp.net^$important
@@ -437,7 +433,6 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jalk134yn4br10qupbe0xftzrez3pfjgvfb47-h14v.vercel.app^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jhenkargr.github.io^$important
@@ -470,7 +465,6 @@
 ||*.lomejordesalamanca.es^$important
 ||*.lomeqpe.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.lwemuhpbrhwujqu7x-ugk3vphvutaw96z0lcdyzswo.vercel.app^$important
 ||*.m.jkoa.co.kr^$important
@@ -504,7 +498,6 @@
 ||*.newcheckdiepage2026s.netlify.app^$important
 ||*.nodemetrics3379.com^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o9evjme5rxl0qgni0qd5yb50zywbz7gjwfb26-cg14v.vercel.app^$important
 ||*.ojang.pe.kr^$important
@@ -519,6 +512,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
+||*.pay.aqiu6.com^$important
 ||*.paysecureverify.au^$important
 ||*.pcupd.com^$important
 ||*.pemenangshopee27.blogspot.com^$important
@@ -655,7 +649,6 @@
 ||*.trtmyanmar.com^$important
 ||*.ttkpay-nine.vercel.app^$important
 ||*.tvb-su9-xm2vox-kz1i3-4dg9.pages.dev^$important
-||*.twu-hwt.org^$important
 ||*.u87yy3f87b23f8293bfg83bgu94.bombamodzik.xyz^$important
 ||*.ugolu2bpvn2wleduwqb5dyo4r6mkmwiezfb12-cg14v.vercel.app^$important
 ||*.uj8ll3kovqpfsalmxsmjfoefejymbcqdefb42-cg14v.vercel.app^$important
@@ -717,6 +710,7 @@
 ||*.www.facebook-interface.blogspot.com^$important
 ||*.www.fildenford-mq.vercel.app^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
@@ -728,11 +722,13 @@
 ||*.www.khavar.com^$important
 ||*.www.knockknock.top^$important
 ||*.www.konsor.ru^$important
+||*.www.krypton-client.net^$important
 ||*.www.layanan-pemenang33.blogspot.com^$important
 ||*.www.loginfacebook-facebook.blogspot.com^$important
 ||*.www.medises.co.kr^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
