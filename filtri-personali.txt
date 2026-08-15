@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-15 18:22:23
+! Ultimo aggiornamento automatico: 2026-08-15 21:17:05
 ||*.0022a601.pphost.net^$important
 ||*.003569.icefactory.cl^$important
 ||*.123.ywxww.net^$important
@@ -235,7 +235,6 @@
 ||*.bafkreiexrtpkkflfywi6lyfj7zc5bw6zrcvv4dib4wbfjrxnkyxuiohdfm.ipfs.dweb.link^$important
 ||*.bafkreihdo5nwdbpygcjovthmm45hh5g77yzhy4aainks2rgrvkrjvizgee.ipfs.dweb.link^$important
 ||*.bafkreihql7542hbekhfae4355pumneesu37jvm2yqy22hi5wahk5pvyoci.ipfs.dweb.link^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.binancewallett.blogspot.com^$important
 ||*.bito.com.pk^$important
@@ -245,6 +244,7 @@
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnblzoalsc68p7vhdum6xpyhn2zrof248fb39-cg14v.vercel.app^$important
+||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
@@ -277,6 +277,7 @@
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
+||*.continentalgroup.net.in^$important
 ||*.cooktownfood.com^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
@@ -337,7 +338,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.emailvalidaraccountmsn.hstn.me^$important
-||*.embedone.com^$important
 ||*.emctheatre.com^$important
 ||*.en-coiin-square-cloud.square.site^$important
 ||*.en.taichuan.com^$important
@@ -433,6 +433,7 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jalk134yn4br10qupbe0xftzrez3pfjgvfb47-h14v.vercel.app^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jhenkargr.github.io^$important
@@ -465,12 +466,14 @@
 ||*.lomejordesalamanca.es^$important
 ||*.lomeqpe.com^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.lwemuhpbrhwujqu7x-ugk3vphvutaw96z0lcdyzswo.vercel.app^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malaysianpastrybakery.org^$important
+||*.mandarin.net.au^$important
 ||*.matildasbloombox.com^$important
 ||*.mbcasesores.com^$important
 ||*.medicosantiagomarrero.com^$important
@@ -498,6 +501,7 @@
 ||*.newcheckdiepage2026s.netlify.app^$important
 ||*.nodemetrics3379.com^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o9evjme5rxl0qgni0qd5yb50zywbz7gjwfb26-cg14v.vercel.app^$important
 ||*.ojang.pe.kr^$important
@@ -550,12 +554,12 @@
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rgq7x1bvj4fwdn9bnogx0dbcajn5pyvokfb46-h14v.vercel.app^$important
-||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.robertrowe.com^$important
 ||*.robin-hood-airdrop.vercel.app^$important
 ||*.roblox-lo.github.io^$important
 ||*.roblox.com.kz^$important
+||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
 ||*.safeuploadz.com^$important
@@ -608,7 +612,6 @@
 ||*.stdown.dinju.com^$important
 ||*.steammwork-pistols.shop^$important
 ||*.stratagemzw.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sucursaivlrtualpersonas.com^$important
 ||*.sumiko.vu^$important
@@ -649,6 +652,7 @@
 ||*.trtmyanmar.com^$important
 ||*.ttkpay-nine.vercel.app^$important
 ||*.tvb-su9-xm2vox-kz1i3-4dg9.pages.dev^$important
+||*.twu-hwt.org^$important
 ||*.u87yy3f87b23f8293bfg83bgu94.bombamodzik.xyz^$important
 ||*.ugolu2bpvn2wleduwqb5dyo4r6mkmwiezfb12-cg14v.vercel.app^$important
 ||*.uj8ll3kovqpfsalmxsmjfoefejymbcqdefb42-cg14v.vercel.app^$important
@@ -710,10 +714,8 @@
 ||*.www.facebook-interface.blogspot.com^$important
 ||*.www.fildenford-mq.vercel.app^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
-||*.www.hseda.com^$important
 ||*.www.instagramloginp.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.j110q.vip^$important
@@ -780,4 +782,5 @@
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
+||*.zonaah.co.uk^$important
 ||*.zycdjz.com^$important
