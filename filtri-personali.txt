@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-15 03:34:48
+! Ultimo aggiornamento automatico: 2026-08-15 06:31:12
 ||*.0022a601.pphost.net^$important
 ||*.0387ff.icefactory.cl^$important
 ||*.043417.icefactory.cl^$important
@@ -386,7 +386,6 @@
 ||*.fd.v2downf.shop^$important
 ||*.fildenford-mq.vercel.app^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.firstezkpg.run^$important
@@ -423,7 +422,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.hubcert.com.br^$important
 ||*.hudlow.org^$important
 ||*.icoffeecloud.com^$important
