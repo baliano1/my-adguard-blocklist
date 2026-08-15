@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-15 12:29:45
+! Ultimo aggiornamento automatico: 2026-08-15 15:15:49
 ||*.0022a601.pphost.net^$important
 ||*.003569.icefactory.cl^$important
 ||*.123.ywxww.net^$important
@@ -196,6 +196,7 @@
 ||*.abdullahitgithub.github.io^$important
 ||*.abdulrafaydev1.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.accounts-fe50ccd9.jkhjkjk.workers.dev^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
@@ -311,6 +312,7 @@
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
+||*.doc.e-statements.app^$important
 ||*.docusign-server.github.io^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
@@ -337,6 +339,7 @@
 ||*.ecologiaitaliana.eu^$important
 ||*.eg1xbet.com^$important
 ||*.electri.billregulator.com^$important
+||*.elisans.novayonetim.com^$important
 ||*.emailvalidaraccountmsn.hstn.me^$important
 ||*.embedone.com^$important
 ||*.emctheatre.com^$important
@@ -397,6 +400,7 @@
 ||*.gaurnaina123.github.io^$important
 ||*.genddos.st^$important
 ||*.genialcorp.cl^$important
+||*.gestroom.it^$important
 ||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
 ||*.globaldigital.vercel.app^$important
@@ -413,6 +417,8 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hqdvsuiadyt4lcmzqwnzaxhrzldx4viigfb15-h14v.vercel.app^$important
+||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.i1mg2sdjmxxzjsbx4zfi3ej2xksoryhkwfb33-cg14v.vercel.app^$important
 ||*.i4k5hmzmgcf9jfjuaumyxypqarebzuu5xfb30-h14v.vercel.app^$important
 ||*.iambasicallysania.github.io^$important
@@ -423,7 +429,6 @@
 ||*.iishpfrhguqyuj4i5rjj7fsxjshhtsgxsf10-h13s.vercel.app^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.iliketutles1233.github.io^$important
-||*.indusenterprises.co^$important
 ||*.instagramloginp.blogspot.com^$important
 ||*.invite.go2omega.com^$important
 ||*.ircftp.net^$important
@@ -432,6 +437,7 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jalk134yn4br10qupbe0xftzrez3pfjgvfb47-h14v.vercel.app^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jhenkargr.github.io^$important
@@ -486,7 +492,6 @@
 ||*.mobilehsbccprivateonline.com^$important
 ||*.mogimall.com^$important
 ||*.moonpay-paybox-guide.vercel.app^$important
-||*.msgrouppolicy.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
@@ -514,7 +519,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
-||*.pay.aqiu6.com^$important
 ||*.paysecureverify.au^$important
 ||*.pcupd.com^$important
 ||*.pemenangshopee27.blogspot.com^$important
@@ -558,7 +562,6 @@
 ||*.robin-hood-airdrop.vercel.app^$important
 ||*.roblox-lo.github.io^$important
 ||*.roblox.com.kz^$important
-||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
 ||*.safeuploadz.com^$important
@@ -605,6 +608,7 @@
 ||*.spgint.com^$important
 ||*.ssosigninattcomilogin6w2if0.authcurrentlymailupdate.workers.dev^$important
 ||*.ssosigninattcomiloginrw2a84.authcurrentlymailupdate.workers.dev^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -629,7 +633,6 @@
 ||*.tanusharma630.github.io^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
-||*.teamt.co.za^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.ten.devurek.xyz^$important
@@ -690,7 +693,6 @@
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
 ||*.worker-purple-sky-dcfb.mohamad-asghari74.workers.dev^$important
-||*.wp.ameyiando.com^$important
 ||*.wqok85qtq.net^$important
 ||*.wwvw-icloud.com^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
@@ -715,7 +717,6 @@
 ||*.www.facebook-interface.blogspot.com^$important
 ||*.www.fildenford-mq.vercel.app^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
@@ -732,7 +733,6 @@
 ||*.www.medises.co.kr^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
@@ -784,5 +784,4 @@
 ||*.zamilgroups.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
-||*.zonaah.co.uk^$important
 ||*.zycdjz.com^$important
