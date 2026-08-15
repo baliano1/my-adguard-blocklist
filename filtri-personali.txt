@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-15 01:01:30
+! Ultimo aggiornamento automatico: 2026-08-15 03:34:48
 ||*.0022a601.pphost.net^$important
 ||*.0387ff.icefactory.cl^$important
 ||*.043417.icefactory.cl^$important
@@ -245,12 +245,12 @@
 ||*.apptalktalk.mailhelpdesksupport.com^$important
 ||*.areyouready.co.za^$important
 ||*.astha-paruluniversity.github.io^$important
+||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
 ||*.awarenessexhibition.com^$important
 ||*.b3b860.icefactory.cl^$important
 ||*.b8cf3f.icefactory.cl^$important
-||*.backupso.com^$important
 ||*.bafkreiexrtpkkflfywi6lyfj7zc5bw6zrcvv4dib4wbfjrxnkyxuiohdfm.ipfs.dweb.link^$important
 ||*.bafkreihql7542hbekhfae4355pumneesu37jvm2yqy22hi5wahk5pvyoci.ipfs.dweb.link^$important
 ||*.bc1a22.icefactory.cl^$important
@@ -284,7 +284,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chandan9911.github.io^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -294,6 +293,7 @@
 ||*.chiptune.com^$important
 ||*.chrome-windows.ru^$important
 ||*.chuguadventures.co.tz^$important
+||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
@@ -302,7 +302,6 @@
 ||*.company-prod-limit-config.s3.us-east-005.backblazeb2.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.condicoesdemargem.s3.us-east-005.backblazeb2.com^$important
-||*.continentalgroup.net.in^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
@@ -334,7 +333,6 @@
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
-||*.doc.e-statements.app^$important
 ||*.documentssign.info^$important
 ||*.docusign-server.github.io^$important
 ||*.docusign.riberaturisme.es^$important
@@ -351,6 +349,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.dr.flipme.info^$important
 ||*.duct-master.com^$important
@@ -363,7 +362,6 @@
 ||*.ef21b6.icefactory.cl^$important
 ||*.eguiluz.es^$important
 ||*.electri.billregulator.com^$important
-||*.elisans.novayonetim.com^$important
 ||*.emailvalidaraccountmsn.hstn.me^$important
 ||*.embedone.com^$important
 ||*.emctheatre.com^$important
@@ -465,6 +463,7 @@
 ||*.login-verifydocusignauthentication.dannatel.com.br^$important
 ||*.login-verifydocusignauthentication.fomlchev.uk^$important
 ||*.lomejordesalamanca.es^$important
+||*.lomeqpe.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
@@ -475,6 +474,7 @@
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malaysianpastrybakery.org^$important
+||*.mandarin.net.au^$important
 ||*.matildasbloombox.com^$important
 ||*.mbcasesores.com^$important
 ||*.medicosantiagomarrero.com^$important
@@ -509,6 +509,7 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odd-illuminate-147571.framer.app^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
@@ -712,7 +713,6 @@
 ||*.www.docusignsetup.icu^$important
 ||*.www.dra.com.ve^$important
 ||*.www.drgenov.com^$important
-||*.www.ezpz.link^$important
 ||*.www.finityvoice.weebly.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.gestroom.it^$important
@@ -723,7 +723,6 @@
 ||*.www.hopev.eu.cc^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.j110q.vip^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -800,5 +799,4 @@
 ||*.zamilgroups.com^$important
 ||*.zelqori-gld-darnexo-p2x1dk84.pages.dev^$important
 ||*.zenglobalenerji.com^$important
-||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
