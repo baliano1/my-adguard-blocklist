@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-15 06:31:12
+! Ultimo aggiornamento automatico: 2026-08-15 09:21:18
 ||*.0022a601.pphost.net^$important
 ||*.0387ff.icefactory.cl^$important
 ||*.043417.icefactory.cl^$important
@@ -199,6 +199,7 @@
 ||*.519ef0.icefactory.cl^$important
 ||*.627012.xyz^$important
 ||*.68516ecbdfa1400f9f313d831.wasmer.app^$important
+||*.6ak-tehnik.si^$important
 ||*.6b46db.icefactory.cl^$important
 ||*.6c236e.icefactory.cl^$important
 ||*.6d3851.icefactory.cl^$important
@@ -251,6 +252,7 @@
 ||*.awarenessexhibition.com^$important
 ||*.b3b860.icefactory.cl^$important
 ||*.b8cf3f.icefactory.cl^$important
+||*.backupso.com^$important
 ||*.bafkreiexrtpkkflfywi6lyfj7zc5bw6zrcvv4dib4wbfjrxnkyxuiohdfm.ipfs.dweb.link^$important
 ||*.bafkreihql7542hbekhfae4355pumneesu37jvm2yqy22hi5wahk5pvyoci.ipfs.dweb.link^$important
 ||*.bc1a22.icefactory.cl^$important
@@ -302,6 +304,7 @@
 ||*.company-prod-limit-config.s3.us-east-005.backblazeb2.com^$important
 ||*.compuserviceonline.com.br^$important
 ||*.condicoesdemargem.s3.us-east-005.backblazeb2.com^$important
+||*.continentalgroup.net.in^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
@@ -386,6 +389,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fildenford-mq.vercel.app^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.firstezkpg.run^$important
@@ -403,7 +407,6 @@
 ||*.galerisenimutiara.com^$important
 ||*.genddos.st^$important
 ||*.genialcorp.cl^$important
-||*.gestroom.it^$important
 ||*.get-trust-wallet-card-now.info^$important
 ||*.ghoaspanmacopicv3784648402022727363690303.edgeone.dev^$important
 ||*.glbeletronica.com.br^$important
@@ -421,7 +424,6 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
-||*.hseda.com^$important
 ||*.hubcert.com.br^$important
 ||*.hudlow.org^$important
 ||*.icoffeecloud.com^$important
@@ -435,7 +437,6 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jhenkargr.github.io^$important
@@ -472,7 +473,6 @@
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malaysianpastrybakery.org^$important
-||*.mandarin.net.au^$important
 ||*.matildasbloombox.com^$important
 ||*.mbcasesores.com^$important
 ||*.medicosantiagomarrero.com^$important
@@ -486,6 +486,7 @@
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.movieslinke.netlify.app^$important
+||*.msgrouppolicy.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
@@ -507,7 +508,6 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odd-illuminate-147571.framer.app^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
@@ -607,7 +607,6 @@
 ||*.srv1898231.hstgr.cloud^$important
 ||*.ssosigninattcomilogin6w2if0.authcurrentlymailupdate.workers.dev^$important
 ||*.ssosigninattcomiloginrw2a84.authcurrentlymailupdate.workers.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -721,6 +720,7 @@
 ||*.www.hopev.eu.cc^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
+||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.j110q.vip^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -797,4 +797,6 @@
 ||*.zamilgroups.com^$important
 ||*.zelqori-gld-darnexo-p2x1dk84.pages.dev^$important
 ||*.zenglobalenerji.com^$important
+||*.zhigao5191.com^$important
+||*.zonaah.co.uk^$important
 ||*.zycdjz.com^$important
