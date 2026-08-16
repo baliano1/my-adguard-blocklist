@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-16 15:17:16
+! Ultimo aggiornamento automatico: 2026-08-16 18:22:04
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -292,6 +292,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.duct-master.com^$important
 ||*.dusttv.com^$important
@@ -326,6 +327,7 @@
 ||*.fpx-ge1tgo.blogspot.com^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
+||*.funneldiy.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g3b9c105.com^$important
