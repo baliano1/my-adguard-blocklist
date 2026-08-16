@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-16 03:44:01
+! Ultimo aggiornamento automatico: 2026-08-16 06:32:57
 ||*.0022a601.pphost.net^$important
 ||*.052dfe.icefactory.cl^$important
 ||*.09097e.icefactory.cl^$important
@@ -336,7 +336,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.down.unicron-cdn.click^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
@@ -434,6 +433,8 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
+||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
@@ -514,6 +515,7 @@
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.protectedcloud-message.merlekw.workers.dev^$important
+||*.prtsscr.com^$important
 ||*.pubgm.mobileaccesx-events.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.purmed.ro^$important
