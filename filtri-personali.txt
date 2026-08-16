@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-16 12:31:33
+! Ultimo aggiornamento automatico: 2026-08-16 15:17:16
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -174,7 +174,6 @@
 ||*.a3b9c26.com^$important
 ||*.a3b9c2s1.com^$important
 ||*.a3b9c6k1.com^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.account-apple.com.tr^$important
 ||*.acms.saleseos.com^$important
@@ -278,7 +277,6 @@
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -287,7 +285,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.down.unicron-cdn.click^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
@@ -389,7 +386,6 @@
 ||*.isiore.com.co^$important
 ||*.isuzupart.ir^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.janprasad-jan.github.io^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -411,6 +407,7 @@
 ||*.laoshunfaweb2.xyz^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.lcloud.ve-s.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.link.curiosityproject.info^$important
 ||*.llori807.github.io^$important
 ||*.lmasb.es^$important
@@ -424,7 +421,6 @@
 ||*.lostdevice-live.help^$important
 ||*.lostdevice.co^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.lux-an1tran.blogspot.com^$important
 ||*.lux-bantitii1.blogspot.com^$important
 ||*.lux-eo0o0.blogspot.com^$important
@@ -451,6 +447,7 @@
 ||*.masdozx1.blogspot.com^$important
 ||*.mbcasesores.com^$important
 ||*.metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mhvqol.shop^$important
 ||*.microsoftdemo.pages.dev^$important
 ||*.midasnews.mobileaccesx-events.com^$important
@@ -479,10 +476,10 @@
 ||*.n.vs108.com^$important
 ||*.n2thb1ueg4lally6wpfz21z6u6m7zyvwqnsf3-cg1108s.vercel.app^$important
 ||*.ncxps.com^$important
-||*.newstan.online^$important
 ||*.nn1nfwobickgopgcuw3rvcwwudezimafpvsf21-cg1108s.vercel.app^$important
 ||*.nodemetrics3379.com^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
@@ -523,6 +520,7 @@
 ||*.pvsa.gxfugy.cn^$important
 ||*.pyh3.info^$important
 ||*.qhchxoyrghtiwdu0j0dhuehpkuzylgmwj1sf41-cg1108s.vercel.app^$important
+||*.qiniuyunxz.yxflzs.com^$important
 ||*.qv.co.ke^$important
 ||*.ra7233.craftum.io^$important
 ||*.ramirex.ro^$important
@@ -692,13 +690,11 @@
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
 ||*.www.khavar.com^$important
-||*.www.knockknock.top^$important
 ||*.www.konsor.ru^$important
 ||*.www.krypton-client.net^$important
 ||*.www.medises.co.kr^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
