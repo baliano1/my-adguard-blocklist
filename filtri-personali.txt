@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-16 06:32:57
+! Ultimo aggiornamento automatico: 2026-08-16 09:23:16
 ||*.0022a601.pphost.net^$important
 ||*.052dfe.icefactory.cl^$important
 ||*.09097e.icefactory.cl^$important
@@ -256,6 +256,7 @@
 ||*.aypbymd1bcyrfyc5hkr7adatvkp4l2vhlfb33-h14v.vercel.app^$important
 ||*.b4f97e.icefactory.cl^$important
 ||*.backupso.com^$important
+||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bfe57e.icefactory.cl^$important
 ||*.bito.com.pk^$important
@@ -265,7 +266,6 @@
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
-||*.bombayonline.in^$important
 ||*.book.rollingvideogames.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -298,10 +298,10 @@
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
+||*.continentalgroup.net.in^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
-||*.creativevoltage.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.css-ch.blogspot.com^$important
@@ -326,7 +326,6 @@
 ||*.delp-heizungsbau.de^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -336,6 +335,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.down.unicron-cdn.click^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
@@ -343,7 +343,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.dtiorpatpebd2mr8zqgirjvpbvmuufo4jysf5-cg1108s.vercel.app^$important
 ||*.duct-master.com^$important
@@ -361,7 +360,6 @@
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.erdeepaksharm.github.io^$important
-||*.essizs.com^$important
 ||*.eu2.contabostorage.com^$important
 ||*.ez100001lrww771108vezpl1z9ngj2ovlnwkh79esky2zt4c6e3bv.vercel.app^$important
 ||*.ez10000l8uf6g21108veziq73gvgggam82xjzu8eslew9sba3a85v.vercel.app^$important
@@ -402,6 +400,7 @@
 ||*.g8efyxbyslwh11gtww2v86yftgtbh2yydmsf15-cg1108s.vercel.app^$important
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
+||*.gestroom.it^$important
 ||*.get-ledzer-us.pages.dev^$important
 ||*.ghjsc4158lk-mrqxbpli-2ik95d-ghj92c.pages.dev^$important
 ||*.globalbank.us^$important
@@ -417,6 +416,7 @@
 ||*.hobobot.net^$important
 ||*.hossein.ali-azizi2672.workers.dev^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.i-teamdanmark.dk^$important
 ||*.icoffeecloud.com^$important
 ||*.ifj5zymzpstto15d7glrn1qslacax8b5vosf47-cg1108s.vercel.app^$important
@@ -454,7 +454,6 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledgerlive-app--run.pages.dev^$important
 ||*.legenda782.github.io^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.list-serve.com^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
@@ -472,7 +471,6 @@
 ||*.mandarin.net.au^$important
 ||*.mandtlogin.pages.dev^$important
 ||*.mbcasesores.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mfcxhdh0uvsatdv3wv1oo7lgybxxwmtlsf18-cg1108s.vercel.app^$important
 ||*.micr0sft.github.io^$important
 ||*.miriamgualda.com.br^$important
@@ -482,17 +480,16 @@
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.mundocarnes.cl^$important
-||*.munihuacho.gob.pe^$important
 ||*.mx9x.com^$important
 ||*.n.vs108.com^$important
 ||*.n2thb1ueg4lally6wpfz21z6u6m7zyvwqnsf3-cg1108s.vercel.app^$important
 ||*.n3b9c37.com^$important
 ||*.ncxps.com^$important
+||*.newstan.online^$important
 ||*.ngb4vymxdc302qd3hsc8mu2gcn5qhbzgsf2-cg1108s.vercel.app^$important
 ||*.nn1nfwobickgopgcuw3rvcwwudezimafpvsf21-cg1108s.vercel.app^$important
 ||*.nodemetrics3379.com^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odgrslwsrkfs6ok0igls7el0b80rooogqfb23-h14v.vercel.app^$important
 ||*.ojang.pe.kr^$important
@@ -506,6 +503,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
+||*.pay.aqiu6.com^$important
 ||*.pcfhvgb7ntgxj1ycsanlykh6qxqpywdwsf46-cg1108s.vercel.app^$important
 ||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
@@ -521,7 +519,6 @@
 ||*.purmed.ro^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qhchxoyrghtiwdu0j0dhuehpkuzylgmwj1sf41-cg1108s.vercel.app^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qtwiz-bfrnk-vlypx-b8c210-wplm-blidex.pages.dev^$important
 ||*.qv.co.ke^$important
 ||*.ramirex.ro^$important
@@ -601,9 +598,11 @@
 ||*.sp20ct-molqer-biz-prasik-feldom.pages.dev^$important
 ||*.sp20ct-zorqal-biz-dravik-fensom.pages.dev^$important
 ||*.spgint.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.subscription.companymessagecenter.com^$important
 ||*.sui-te-trezr.pages.dev^$important
@@ -633,14 +632,12 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
-||*.thu-iphone-07.cfd^$important
 ||*.tiacreation.club^$important
 ||*.tmi6nol4gm8h1yh5rqabksprkigmikkapasf37-cg1108s.vercel.app^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.totalfitting.com.au^$important
 ||*.trackingnumbers.org^$important
-||*.traderhype.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.twu-hwt.org^$important
@@ -685,7 +682,6 @@
 ||*.www.cutting-edge.in^$important
 ||*.www.drgenov.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
