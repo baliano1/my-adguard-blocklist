@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-16 01:04:41
+! Ultimo aggiornamento automatico: 2026-08-16 03:44:01
 ||*.0022a601.pphost.net^$important
 ||*.052dfe.icefactory.cl^$important
 ||*.09097e.icefactory.cl^$important
@@ -298,7 +298,6 @@
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.compuserviceonline.com.br^$important
-||*.continentalgroup.net.in^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
@@ -358,6 +357,7 @@
 ||*.ed355c.icefactory.cl^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
@@ -403,11 +403,9 @@
 ||*.g8efyxbyslwh11gtww2v86yftgtbh2yydmsf15-cg1108s.vercel.app^$important
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
-||*.genddos.st^$important
 ||*.get-ledzer-us.pages.dev^$important
 ||*.ghjsc4158lk-mrqxbpli-2ik95d-ghj92c.pages.dev^$important
 ||*.globalbank.us^$important
-||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.guiatotalbrasil.com^$important
@@ -420,7 +418,6 @@
 ||*.hobobot.net^$important
 ||*.hossein.ali-azizi2672.workers.dev^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.i-teamdanmark.dk^$important
 ||*.icoffeecloud.com^$important
 ||*.ifj5zymzpstto15d7glrn1qslacax8b5vosf47-cg1108s.vercel.app^$important
@@ -437,8 +434,6 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
-||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
@@ -510,7 +505,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
-||*.pay.aqiu6.com^$important
 ||*.pcfhvgb7ntgxj1ycsanlykh6qxqpywdwsf46-cg1108s.vercel.app^$important
 ||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
@@ -560,7 +554,6 @@
 ||*.roblox.com.ms^$important
 ||*.roblox.com.mu^$important
 ||*.roblox.ly^$important
-||*.royalindiancurryclub.com^$important
 ||*.rxquickpay.com^$important
 ||*.s.team-dx.com^$important
 ||*.s89hbugu68cg7wr6p7wvhlctmdszoesqsf26-cg1108s.vercel.app^$important
@@ -606,7 +599,6 @@
 ||*.sp20ct-molqer-biz-prasik-feldom.pages.dev^$important
 ||*.sp20ct-zorqal-biz-dravik-fensom.pages.dev^$important
 ||*.spgint.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -639,12 +631,14 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.thtp2.volamngayxua.net^$important
+||*.thu-iphone-07.cfd^$important
 ||*.tiacreation.club^$important
 ||*.tmi6nol4gm8h1yh5rqabksprkigmikkapasf37-cg1108s.vercel.app^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.totalfitting.com.au^$important
 ||*.trackingnumbers.org^$important
+||*.traderhype.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.twu-hwt.org^$important
@@ -687,11 +681,12 @@
 ||*.www.controliumbt.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.cutting-edge.in^$important
-||*.www.dra.com.ve^$important
 ||*.www.drgenov.com^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
+||*.www.hseda.com^$important
 ||*.www.instagramfollowersincreasefast.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
@@ -746,6 +741,5 @@
 ||*.zh.wsp-whatapp.hl.cn^$important
 ||*.zhigao5191.com^$important
 ||*.znvqk1ntppxkjsv31jos0vlgeyclufl5hjsf7-cg1108s.vercel.app^$important
-||*.zonaah.co.uk^$important
 ||*.zycdjz.com^$important
 ||*.zz92krldmalgxqwbcqmhqmy5nmcdwjxpsf14-cg1108s.vercel.app^$important
