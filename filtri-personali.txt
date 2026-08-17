@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-17 18:33:05
+! Ultimo aggiornamento automatico: 2026-08-17 21:21:30
 ||*.0022a601.pphost.net^$important
 ||*.04896b.icefactory.cl^$important
 ||*.0f980b.icefactory.cl^$important
@@ -188,7 +188,6 @@
 ||*.9194cd.icefactory.cl^$important
 ||*.9b13de.icefactory.cl^$important
 ||*.abaxmt-v6e0unyq.vercel.app^$important
-||*.abdulahad.net^$important
 ||*.abukhaledcorp.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.access-divace-bridge.typedream.app^$important
@@ -225,6 +224,7 @@
 ||*.backupso.com^$important
 ||*.bankofamericamailcompte.blogspot.com^$important
 ||*.bd7dzn.qpon^$important
+||*.beak.in^$important
 ||*.begin-ledger-support.typedream.app^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bet73099.com^$important
@@ -312,7 +312,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -349,6 +348,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.ff5667.craftum.io^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -362,6 +362,7 @@
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.game.dualuoilocphu.com^$important
+||*.garogradba.mk^$important
 ||*.gemini-logiu.webflow.io^$important
 ||*.gemini-sx-login.gitbook.io^$important
 ||*.geminileginei.webflow.io^$important
@@ -389,13 +390,13 @@
 ||*.holy-poetry-a192.keithphamasql16222.workers.dev^$important
 ||*.homepagee-user-verifiication.vercel.app^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ig-auth.apps.prov.cx^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.in-post-nr281.shop^$important
-||*.indusenterprises.co^$important
 ||*.info-suit-e-treze-er-doc.typedream.app^$important
 ||*.instagram-loginn.vercel.app^$important
 ||*.instagram-prifile-one.vercel.app^$important
@@ -455,6 +456,7 @@
 ||*.lomeqpe.com^$important
 ||*.lubnamaryam531.github.io^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.luxuryslips.xyz^$important
 ||*.lwofmnjvoh9tf9ciqu6o3svqvaijkpd6nsf1-h12v.vercel.app^$important
@@ -463,11 +465,11 @@
 ||*.maidforyou1985.com^$important
 ||*.mandarin.net.au^$important
 ||*.maryboogen.github.io^$important
-||*.mbcasesores.com^$important
 ||*.meinpetvital.de^$important
 ||*.messenger-verification-supporsst.click^$important
 ||*.messenger-verrification-supporst.us^$important
 ||*.metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mjsihda.us.cc^$important
@@ -494,7 +496,6 @@
 ||*.novexia.joergjooss.info^$important
 ||*.ny.lshdw.cc^$important
 ||*.official-coinbus-help.typedream.app^$important
-||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
 ||*.online-novobanco.com^$important
@@ -598,6 +599,8 @@
 ||*.sp10ct-pafem-biz8-murex-korin.pages.dev^$important
 ||*.sp3ct-rislor-biz8-davnek-fomel.pages.dev^$important
 ||*.spgint.com^$important
+||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.streammobs.com^$important
@@ -605,7 +608,6 @@
 ||*.submid-cotact136336.vercel.app^$important
 ||*.sucar77por.bond^$important
 ||*.suite-trezzor-com.typedream.app^$important
-||*.sunix-technology.com^$important
 ||*.support--legderlive-us--learn.typedream.app^$important
 ||*.support-uphold-auths-secure.typedream.app^$important
 ||*.support.clz.kr^$important
@@ -642,6 +644,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trezr-io-start-cloud-sso.typedream.app^$important
 ||*.trtmyanmar.com^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.ubmbutcernavies.wasmer.app^$important
 ||*.uigocjtd1ev9sdwxwpsydrmdghrvpalpsf2-h13s.vercel.app^$important
@@ -710,7 +713,6 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.ozatak.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.py^$important
