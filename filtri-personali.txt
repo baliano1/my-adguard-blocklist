@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-17 03:46:01
+! Ultimo aggiornamento automatico: 2026-08-17 06:46:10
 ||*.0022a601.pphost.net^$important
 ||*.066a90.icefactory.cl^$important
 ||*.121hiu.senes.at^$important
