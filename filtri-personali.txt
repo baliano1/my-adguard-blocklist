@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-17 01:02:07
+! Ultimo aggiornamento automatico: 2026-08-17 03:46:01
 ||*.0022a601.pphost.net^$important
 ||*.066a90.icefactory.cl^$important
 ||*.121hiu.senes.at^$important
@@ -294,6 +294,7 @@
 ||*.diksha-pal04.github.io^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -312,7 +313,6 @@
 ||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.duct-master.com^$important
-||*.dusttv.com^$important
 ||*.dweb.link^$important
 ||*.dynamic-coconut-665358.framer.app^$important
 ||*.dynga.pl^$important
@@ -345,6 +345,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fidelity-investment.vercel.app^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
@@ -361,8 +362,10 @@
 ||*.gagandeep-singh19.github.io^$important
 ||*.galerisenimutiara.com^$important
 ||*.gbwhatsup.app^$important
+||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.goo.su^$important
+||*.grapemundo.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.guiatotalbrasil.com^$important
@@ -378,13 +381,13 @@
 ||*.hitstation.nl^$important
 ||*.hmskcert782mebr7.wasmer.app^$important
 ||*.hobobot.net^$important
-||*.hr-survey.ma^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ig.do^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.ikincielesyaciankara.com.tr^$important
 ||*.indusenterprises.co^$important
 ||*.info-suit-e-treze-er-doc.typedream.app^$important
 ||*.ircftp.net^$important
@@ -407,6 +410,7 @@
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
 ||*.kimyen.net^$important
+||*.kis.marketing^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
@@ -479,7 +483,6 @@
 ||*.nw-facebook.blogspot.com^$important
 ||*.ny.lshdw.cc^$important
 ||*.official-coinbus-help.typedream.app^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
@@ -591,6 +594,7 @@
 ||*.sock-zizifn-us.pennyphd.workers.dev^$important
 ||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
+||*.somautomotivorj.com.br^$important
 ||*.soporteishopreclamacion.com^$important
 ||*.sp20ct-molqer-biz-prasik-feldom.pages.dev^$important
 ||*.spgint.com^$important
@@ -599,7 +603,6 @@
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
 ||*.steamcommumminmty.cam^$important
 ||*.stearmconmumniity.com^$important
 ||*.stilles-oertchen.de^$important
@@ -607,7 +610,6 @@
 ||*.studiogioeli.it^$important
 ||*.sucar77por.bond^$important
 ||*.suite-trezzor-com.typedream.app^$important
-||*.sumiko.vu^$important
 ||*.sunix-technology.com^$important
 ||*.support--legderlive-us--learn.typedream.app^$important
 ||*.support-uphold-auths-secure.typedream.app^$important
@@ -696,7 +698,6 @@
 ||*.www.controliumbt.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.cutting-edge.in^$important
-||*.www.dra.com.ve^$important
 ||*.www.drgenov.com^$important
 ||*.www.facebook0login.blogspot.com^$important
 ||*.www.facebookimagelogin.blogspot.com^$important
