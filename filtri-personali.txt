@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-18 01:00:43
+! Ultimo aggiornamento automatico: 2026-08-18 03:40:06
 ||*.0022a601.pphost.net^$important
 ||*.067368.icefactory.cl^$important
 ||*.07zh-uz1y-725xm-5jzd-huu8vl.pages.dev^$important
@@ -196,6 +196,7 @@
 ||*.9bxwv2tbfyc8dvdgng.vercel.app^$important
 ||*.a195c6.icefactory.cl^$important
 ||*.a6799c.icefactory.cl^$important
+||*.abdulahad.net^$important
 ||*.abertoexpress.vercel.app^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
@@ -226,7 +227,6 @@
 ||*.backoffice.myvibe.co^$important
 ||*.backupso.com^$important
 ||*.bancaporinternet.bartrading.net^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bermita-gld-larqumi-a6x3dk74.pages.dev^$important
 ||*.bermora-gld-lentavi-a6x3dw19.pages.dev^$important
@@ -267,7 +267,6 @@
 ||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chrome-windows.ru^$important
-||*.chuguadventures.co.tz^$important
 ||*.chupapimunyenyoo.github.io^$important
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
@@ -310,7 +309,6 @@
 ||*.digitaldebitos.site^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.faster-cdn-hk.click^$important
 ||*.dl.natgo.cn^$important
@@ -378,8 +376,8 @@
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.game.dualuoilocphu.com^$important
-||*.garogradba.mk^$important
 ||*.genddos.st^$important
+||*.gestroom.it^$important
 ||*.gk.bnznji.net^$important
 ||*.global-accelerationr3que5f-dpojca32e2u6.edgeone.dev^$important
 ||*.globalbank.us^$important
@@ -397,7 +395,6 @@
 ||*.hjelectrics.com^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.i.gal^$important
 ||*.icoffeecloud.com^$important
 ||*.iforrhys-session-hmuxz5su-c1otsfedf---vhwubxx4v0.kharwadejewellers.com^$important
@@ -407,6 +404,7 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.incubalab.com.mx^$important
+||*.indusenterprises.co^$important
 ||*.instagrameasyfollowers.blogspot.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
@@ -458,7 +456,6 @@
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
-||*.mandarin.net.au^$important
 ||*.marneta-gld-lormavi-p1t3fq85.pages.dev^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.midasbuy-official-topup.shop^$important
@@ -488,6 +485,7 @@
 ||*.ny.lshdw.cc^$important
 ||*.oedhfx.shop^$important
 ||*.office.parketthaus-badnauheim.sbs^$important
+||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onedocuvetinary-8t5h.ipfs.4everland.app^$important
 ||*.onfiltre.com.tr^$important
@@ -519,7 +517,6 @@
 ||*.pvsa.gxfugy.cn^$important
 ||*.qelvora-gld-lormeta-a9x2dk68.pages.dev^$important
 ||*.qernora-gld-belxora-a5v9hp74.pages.dev^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qnkxz71mjwy-mtvljren-6j5j7g-zl299a.pages.dev^$important
 ||*.qnkxz7bskra-mtvljwur-6m1j7d-zl399a.pages.dev^$important
 ||*.qpd-6fwy-dj0u-qpxd-6br-8ms67.pages.dev^$important
@@ -538,6 +535,7 @@
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
 ||*.revengegrompegroups.pl^$important
+||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.robertrowe.com^$important
 ||*.roblox.com.am^$important
@@ -591,7 +589,6 @@
 ||*.spgint.com^$important
 ||*.ssosigninattcomilogin4j7t53.authcurrentlymailupdate.workers.dev^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.staticfile-6d308.wasmer.app^$important
 ||*.stdown.dinju.com^$important
@@ -631,6 +628,7 @@
 ||*.tmallsentinel.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.traderhype.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.twu-hwt.org^$important
@@ -692,6 +690,7 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.fpx-ge1tgo.blogspot.com^$important
 ||*.www.g5.lu^$important
+||*.www.gestroom.it^$important
 ||*.www.hello-my-project-for-study.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -720,6 +719,7 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.pasdpalz1.blogspot.com^$important
 ||*.www.pay-com.blogspot.com^$important
 ||*.www.reifenquick.de^$important
