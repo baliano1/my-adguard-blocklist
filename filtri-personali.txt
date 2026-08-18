@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-18 15:26:57
+! Ultimo aggiornamento automatico: 2026-08-18 18:32:08
 ||*.0022a601.pphost.net^$important
 ||*.0ba889.icefactory.cl^$important
 ||*.123.ywxww.net^$important
@@ -284,6 +284,7 @@
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.faster-cdn-hk.click^$important
+||*.dl.natgo.cn^$important
 ||*.doc-ledger-cdn.netlify.app^$important
 ||*.doc.e-statements.app^$important
 ||*.document-share.exceptionalsonepc.com^$important
@@ -353,6 +354,7 @@
 ||*.gwcu.us.org^$important
 ||*.h8g7f6d5s43d4567-dp91egqbnglh.edgeone.dev^$important
 ||*.hasalltalent.com^$important
+||*.hewadexchange.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
@@ -500,6 +502,7 @@
 ||*.s.teams-tv.com^$important
 ||*.safeuploadz.com^$important
 ||*.sagarsrivastava5201-code.github.io^$important
+||*.sagescasebytes.com^$important
 ||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.scainseto.com.br^$important
