@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-18 06:36:17
+! Ultimo aggiornamento automatico: 2026-08-18 09:27:53
 ||*.0022a601.pphost.net^$important
 ||*.067368.icefactory.cl^$important
 ||*.07zh-uz1y-725xm-5jzd-huu8vl.pages.dev^$important
@@ -196,9 +196,9 @@
 ||*.9bxwv2tbfyc8dvdgng.vercel.app^$important
 ||*.a195c6.icefactory.cl^$important
 ||*.a6799c.icefactory.cl^$important
-||*.abdulahad.net^$important
 ||*.abertoexpress.vercel.app^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -215,7 +215,6 @@
 ||*.alternativas.ru^$important
 ||*.api.artistkate.com^$important
 ||*.app.appzcvb.com^$important
-||*.app.faster-cdn-hk.click^$important
 ||*.apple-device.live^$important
 ||*.areyouready.co.za^$important
 ||*.atasapka.com.tr^$important
@@ -261,6 +260,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.ce295f.icefactory.cl^$important
 ||*.ce2ed8.icefactory.cl^$important
 ||*.celebratingseniors.net^$important
@@ -323,7 +323,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -409,9 +408,10 @@
 ||*.ig.do^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
-||*.ijbfi.pk^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.incubalab.com.mx^$important
+||*.indeanapolice.cc^$important
+||*.indusenterprises.co^$important
 ||*.instagrameasyfollowers.blogspot.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
@@ -423,6 +423,7 @@
 ||*.izedeliverys-24h.shop^$important
 ||*.izedeliverys-48h.shop^$important
 ||*.izeexpresss-48h.shop^$important
+||*.jawaratekno.com^$important
 ||*.jbwrblxjbw34.blogspot.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -459,7 +460,6 @@
 ||*.lvmtx8x9-h14.vercel.app^$important
 ||*.lxqzemwt.xyz^$important
 ||*.m.365bet990.com^$important
-||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mandarin.net.au^$important
@@ -525,6 +525,7 @@
 ||*.qernora-gld-belxora-a5v9hp74.pages.dev^$important
 ||*.qnkxz71mjwy-mtvljren-6j5j7g-zl299a.pages.dev^$important
 ||*.qnkxz7bskra-mtvljwur-6m1j7d-zl399a.pages.dev^$important
+||*.qorvi.pro^$important
 ||*.qpd-6fwy-dj0u-qpxd-6br-8ms67.pages.dev^$important
 ||*.qv.co.ke^$important
 ||*.r2gsjgp6-cg17.vercel.app^$important
@@ -575,7 +576,6 @@
 ||*.share.dovgertz.com^$important
 ||*.shipminttracking.net^$important
 ||*.shopee-ltdaw.onrender.com^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.siaasesoria.com.mx^$important
 ||*.signageinsignia.co.za^$important
 ||*.sk-comtel.com^$important
@@ -594,11 +594,8 @@
 ||*.sp4ct-norvurin-biz8-durem-lafix.pages.dev^$important
 ||*.spgint.com^$important
 ||*.ssosigninattcomilogin4j7t53.authcurrentlymailupdate.workers.dev^$important
-||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.staticfile-6d308.wasmer.app^$important
-||*.stdown.dinju.com^$important
 ||*.steamncomnumity.ru^$important
 ||*.stonemicrofinance.co.zw^$important
 ||*.streammobs.com^$important
@@ -607,7 +604,6 @@
 ||*.suspension-esl-org.sbs^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sydneyaffordablecremations.com.au^$important
 ||*.taiwoaden.github.io^$important
 ||*.talentrecruitments.com^$important
@@ -616,6 +612,7 @@
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
 ||*.teach.link^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telmora-gld-zentora-p1t9hc46.pages.dev^$important
 ||*.telvora-gld-felqumi-r7t5dw47.pages.dev^$important
@@ -637,6 +634,7 @@
 ||*.tpp.om-stock.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
+||*.twu-hwt.org^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
@@ -717,7 +715,6 @@
 ||*.www.main-bep20-demo-scriptboss.vercel.app^$important
 ||*.www.medises.co.kr^$important
 ||*.www.mercadolibre.cl^$important
-||*.www.mixierealty.com^$important
 ||*.www.moasd011.blogspot.com^$important
 ||*.www.mrbeast-gifts.blogspot.com^$important
 ||*.www.myvcart.com^$important
