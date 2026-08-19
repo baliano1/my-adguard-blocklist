@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-19 18:28:54
+! Ultimo aggiornamento automatico: 2026-08-19 21:21:02
 ||*.0022a601.pphost.net^$important
 ||*.060a27.icefactory.cl^$important
 ||*.123.ywxww.net^$important
@@ -181,7 +181,6 @@
 ||*.6763c4.icefactory.cl^$important
 ||*.6b70b0.icefactory.cl^$important
 ||*.91ee2d.icefactory.cl^$important
-||*.MAMABEARCOFFEE.COM^$important
 ||*.a46c1f.icefactory.cl^$important
 ||*.a96a636d3dec3a139060b266d7552259.vercel.app^$important
 ||*.abdulahad.net^$important
@@ -204,6 +203,7 @@
 ||*.anushkadas7047.github.io^$important
 ||*.app.appzcvb.com^$important
 ||*.app.faster-cdn-hk.click^$important
+||*.areyouready.co.za^$important
 ||*.arrowinstruments.in^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -211,7 +211,6 @@
 ||*.automanjdopw-netizen.github.io^$important
 ||*.awarenessexhibition.com^$important
 ||*.backupso.com^$important
-||*.baileyemas.com^$important
 ||*.bancolombia2026.webcindario.com^$important
 ||*.bank-one-dusky.vercel.app^$important
 ||*.bb8256.icefactory.cl^$important
@@ -234,7 +233,6 @@
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
 ||*.bughuntersc.github.io^$important
-||*.buruujtech.com^$important
 ||*.businesszip--yasminscott873.replit.app^$important
 ||*.bvaco.com^$important
 ||*.bxzgc51lkwg-swnvdpli-5ln41d-bxz77c.pages.dev^$important
@@ -260,6 +258,7 @@
 ||*.cloudappleid.sviluppo.host^$important
 ||*.cloudbridge.us-iad-10.linodeobjects.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.comcasst11.weebly.com^$important
 ||*.companylimit-processorservice.s3.us-east-005.backblazeb2.com^$important
@@ -287,6 +286,8 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
+||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.faster-cdn-hk.click^$important
 ||*.dl.natgo.cn^$important
@@ -311,7 +312,6 @@
 ||*.dynamicfacebook.blogspot.com^$important
 ||*.dynga.pl^$important
 ||*.e9d8ea.icefactory.cl^$important
-||*.easyrentbyowner.com^$important
 ||*.ec21_com_global-npbmc2jh-incosanna5.ipfs.4everland.app^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
@@ -364,12 +364,12 @@
 ||*.grantexx.com^$important
 ||*.grapemundo.com^$important
 ||*.greenf.alexion.rs^$important
+||*.grupomcperu.com^$important
 ||*.gui.ionosdirectco.com^$important
 ||*.gutando.com^$important
 ||*.h41o.top^$important
 ||*.hasalltalent.com^$important
 ||*.hasjvhlkas0-shfkl1jp32.vercel.app^$important
-||*.hewadexchange.com^$important
 ||*.hidden-star-0b1d.osoriotanikaabvk17394.workers.dev^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
@@ -379,6 +379,7 @@
 ||*.hotmail-session-twmgxsyd-4hleuexj1-----z5imb2ponk.kharwadejewellers.com^$important
 ||*.hr-messages.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hypercorevector5.lol^$important
 ||*.iamnew.powerappsportals.com^$important
 ||*.ibraheem-ahmed-siddiqui.github.io^$important
@@ -393,11 +394,12 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.indeanapolice.cc^$important
+||*.indusenterprises.co^$important
 ||*.instagramlogin74.blogspot.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -473,6 +475,7 @@
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.php-web-server--antijudas2323.replit.app^$important
+||*.pic.li^$important
 ||*.planetariumobil.ro^$important
 ||*.plygg.live^$important
 ||*.post-manifacture-desanpliation.com^$important
@@ -490,7 +493,6 @@
 ||*.qv.co.ke^$important
 ||*.r.oblox.com.et^$important
 ||*.ramirex.ro^$important
-||*.raqmnh.com^$important
 ||*.rbcode.net^$important
 ||*.rcf.co.mz^$important
 ||*.rdm.91yunma.cn^$important
@@ -521,6 +523,7 @@
 ||*.santocomput.top^$important
 ||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
+||*.scoala1gherla.ro^$important
 ||*.scrroeder.com^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -534,11 +537,9 @@
 ||*.service18350150.info^$important
 ||*.seveice.h5-whatsapp-zn.hl.cn^$important
 ||*.sg123.net^$important
-||*.sgskolkata.com^$important
 ||*.share.dovgertz.com^$important
 ||*.shipminttracking.net^$important
 ||*.shivamjagtap58-cloud.github.io^$important
-||*.shivsoftwaresolutions.com^$important
 ||*.shopee187.blogspot.com^$important
 ||*.shopeeid32.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
@@ -571,9 +572,9 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
-||*.sudariocontabilidade.com.br^$important
 ||*.sugardollar.edgeone.dev^$important
 ||*.sunix-technology.com^$important
 ||*.support.clz.kr^$important
@@ -612,6 +613,7 @@
 ||*.trtmyanmar.com^$important
 ||*.trustwallet-source.vercel.app^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.uites-trezoor.pages.dev^$important
 ||*.undianshopee668.blogspot.com^$important
@@ -623,7 +625,6 @@
 ||*.usc1.contabostorage.com^$important
 ||*.varda27.github.io^$important
 ||*.vcc-library.uk^$important
-||*.verifyidentify.com^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
@@ -653,6 +654,7 @@
 ||*.www.216513-apple.com^$important
 ||*.www.24175.xyz^$important
 ||*.www.ardguisser.com^$important
+||*.www.astenterprises.com.pk^$important
 ||*.www.aussieearners.com^$important
 ||*.www.automobile-bk.de^$important
 ||*.www.b77769.com^$important
@@ -719,7 +721,6 @@
 ||*.www.motorola.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.netflixcasino.fyi^$important
 ||*.www.netflixcasinobelgique.com^$important
 ||*.www.netflixcasinouk.com^$important
