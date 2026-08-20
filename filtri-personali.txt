@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-20 18:33:05
+! Ultimo aggiornamento automatico: 2026-08-20 21:23:40
 ||*.0022a601.pphost.net^$important
 ||*.07b779.icefactory.cl^$important
 ||*.07bba8.icefactory.cl^$important
@@ -217,7 +217,6 @@
 ||*.allowed.sbs^$important
 ||*.alternativas.ru^$important
 ||*.amphemol-in.cam^$important
-||*.anyhoo.testeaza.eu^$important
 ||*.aouth.rnicosoft-uid.surge.sh^$important
 ||*.app.appzcvb.com^$important
 ||*.app.faster-cdn-hk.click^$important
@@ -242,6 +241,7 @@
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.blox.watevergames.net^$important
+||*.bm2contabilidade.com.br^$important
 ||*.bmdcompany.com^$important
 ||*.bmnjhy.shop^$important
 ||*.bmpincorporated.com^$important
@@ -269,6 +269,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
@@ -368,7 +369,6 @@
 ||*.fcb7fa.icefactory.cl^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.firstratezim.com^$important
@@ -387,6 +387,7 @@
 ||*.galerisenimutiara.com^$important
 ||*.garam168.com^$important
 ||*.genddos.st^$important
+||*.gestroom.it^$important
 ||*.ghjsc51lkwg-mrqxbpli-2ik18d-ghj77c.pages.dev^$important
 ||*.globalbank.us^$important
 ||*.goo.su^$important
@@ -404,6 +405,7 @@
 ||*.hobobot.net^$important
 ||*.hs04571ae68abbb24b61f9d3f86f9bf297.nexusqal.study^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hwihaliha.vercel.app^$important
 ||*.hypercorevector5.lol^$important
 ||*.i.gal^$important
@@ -412,7 +414,7 @@
 ||*.ig-auth.apps.prov.cx^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
-||*.indusenterprises.co^$important
+||*.ikincielesyaciankara.com.tr^$important
 ||*.ingrids-keuken.nl^$important
 ||*.instagramaccounthacks.blogspot.com^$important
 ||*.instagramcheck.blogspot.com^$important
@@ -422,8 +424,8 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jamesxxsu.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jerome1209op-crypto.github.io^$important
 ||*.jessespridecharters.com^$important
@@ -581,11 +583,11 @@
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
 ||*.separadordecc.com^$important
-||*.seputartuban.com^$important
 ||*.servicioenlineabdv.github.io^$important
 ||*.sg123.net^$important
 ||*.sgdsdvsd325-ascasf235.vercel.app^$important
 ||*.shopeeid767.blogspot.com^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.shrimp-18.github.io^$important
 ||*.shrturl.app^$important
 ||*.siaasesoria.com.mx^$important
@@ -628,7 +630,6 @@
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
-||*.tantralegacy.com^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
 ||*.tattinamecheap.com^$important
@@ -728,6 +729,7 @@
 ||*.www.facebookahla.blogspot.com^$important
 ||*.www.facebooksociallink.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
