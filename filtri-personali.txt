@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-20 03:42:17
+! Ultimo aggiornamento automatico: 2026-08-20 06:38:37
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -197,6 +197,7 @@
 ||*.akm3c-9abm-ofy-e2hfb-aeczbh.pages.dev^$important
 ||*.alahlam.sa^$important
 ||*.alarmline.com.br^$important
+||*.alineeleuterio.com.br^$important
 ||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
 ||*.alternativas.ru^$important
@@ -216,6 +217,7 @@
 ||*.b41378.icefactory.cl^$important
 ||*.backupso.com^$important
 ||*.baileyemas.com^$important
+||*.baoxissde.one^$important
 ||*.basketbackup.com^$important
 ||*.bat-cofra-ab.p-25pblv81.workers.dev^$important
 ||*.bc8.now.sh^$important
@@ -236,6 +238,7 @@
 ||*.blpqr3e29kq-wjnhfplos-0c1d8a-lxp29w.pages.dev^$important
 ||*.blpqr6473lk-vxmzkspli-0ce18c-lxp85c.pages.dev^$important
 ||*.blpqr84lkwg-vxmzkspli-0ce57c-lxp99c.pages.dev^$important
+||*.bm2contabilidade.com.br^$important
 ||*.bmdcompany.com^$important
 ||*.bmnjhy.shop^$important
 ||*.bmpincorporated.com^$important
@@ -263,6 +266,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.catchafirerecords.com^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
@@ -293,6 +297,7 @@
 ||*.cryptomeshforge10.lol^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
+||*.ctsfactory.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.d13585.icefactory.cl^$important
@@ -315,6 +320,7 @@
 ||*.djflslfjflslfikrorie.blogspot.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
+||*.dl.myresult.co.za^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.dominiocaicai.xyz^$important
@@ -376,6 +382,7 @@
 ||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.genddos.st^$important
+||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.goo.su^$important
 ||*.grantexx.com^$important
@@ -426,6 +433,7 @@
 ||*.iqra-frontend.github.io^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
+||*.itsmystik.com^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jamesxxsu.github.io^$important
@@ -453,7 +461,6 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.laxmiverkhade.github.io^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.login452.github.io^$important
 ||*.lomejordesalamanca.es^$important
@@ -472,6 +479,7 @@
 ||*.marnelo-gld-fentora-p6t7hc83.pages.dev^$important
 ||*.marquni-gld-zentavo-p6k4hp85.pages.dev^$important
 ||*.mearchana09.github.io^$important
+||*.meeting.supply-reflection.shop^$important
 ||*.messenger-verficaonti-account-adss.cyou^$important
 ||*.millt.netlify.app^$important
 ||*.miriamgualda.com.br^$important
@@ -505,7 +513,6 @@
 ||*.norzavi-gld-felqumi-p2t9fc52.pages.dev^$important
 ||*.norzora-gld-belqumi-r6t2fq37.pages.dev^$important
 ||*.norzora-gld-zentavi-p9t8hk14.pages.dev^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nydocnrn-cg14.vercel.app^$important
 ||*.nzpzdbet-h16.vercel.app^$important
@@ -519,11 +526,13 @@
 ||*.openup.to^$important
 ||*.originalmeeting.pages.dev^$important
 ||*.outpost.co.ke^$important
+||*.ownnewstoday.live^$important
 ||*.p3.34fsfat.workers.dev^$important
 ||*.p3.zbjimg.com^$important
 ||*.pages-live-ledger-docs.pages.dev^$important
 ||*.palharesinformatica.com.br^$important
 ||*.parquelosencinos.cl^$important
+||*.pay.aqiu6.com^$important
 ||*.paypal3.vercel.app^$important
 ||*.pcupd.com^$important
 ||*.php-web-server--usauarmeduc.replit.app^$important
@@ -540,7 +549,6 @@
 ||*.ptshopee86.blogspot.com^$important
 ||*.ptshopee87.blogspot.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
-||*.purbalinggamandiri.com^$important
 ||*.pusat-shopee885.blogspot.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qcfzk5a49vst-bgrndkmja-7d8e2f-spl2c.pages.dev^$important
@@ -643,7 +651,6 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.studiogioeli.it^$important
-||*.suavasua.vn^$important
 ||*.sunix-technology.com^$important
 ||*.support-ledger-help-desk-login-nano-navy.vercel.app^$important
 ||*.support.clz.kr^$important
@@ -654,6 +661,7 @@
 ||*.tangentwaves.com^$important
 ||*.tanmay2007-pirate.github.io^$important
 ||*.tanscarattorneys.co.tz^$important
+||*.tantralegacy.com^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
 ||*.tattinamecheap.com^$important
@@ -686,6 +694,7 @@
 ||*.trtmyanmar.com^$important
 ||*.ttrazzor-ssuits.wasmer.app^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.twxpl14mjwy-phvjn98bren-8b4e3f-vro5a.pages.dev^$important
 ||*.twxpl949mj-phvjnbren-6b2e1f-vro8a.pages.dev^$important
 ||*.unpretentious-kudu-c39ee8.instawp.site^$important
@@ -712,6 +721,7 @@
 ||*.vormora-gld-felquza-c5m8hp72.pages.dev^$important
 ||*.vrajras.com^$important
 ||*.waf.proxytunnel.co^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wepink-flax.vercel.app^$important
 ||*.widexenmexico.com.mx^$important
@@ -804,6 +814,7 @@
 ||*.xenon.studio^$important
 ||*.xn--yh4bx88a.com^$important
 ||*.xshop.com.tr^$important
+||*.xxpro.dev^$important
 ||*.yakult-hk.com^$important
 ||*.ygby-bifj-fo3v.asantana-cinecolor-com-br-s-account.workers.dev^$important
 ||*.youtransfer.net^$important
