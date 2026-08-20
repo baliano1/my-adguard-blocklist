@@ -162,10 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-20 15:29:13
+! Ultimo aggiornamento automatico: 2026-08-20 18:33:05
 ||*.0022a601.pphost.net^$important
 ||*.07b779.icefactory.cl^$important
 ||*.07bba8.icefactory.cl^$important
+||*.123.ywxww.net^$important
 ||*.14017.xyz^$important
 ||*.14026.xyz^$important
 ||*.14069.xyz^$important
@@ -197,8 +198,8 @@
 ||*.a03lps-j6srjp-y5n-jsc-qbqhw.pages.dev^$important
 ||*.a8rona.sbs^$important
 ||*.aa1c79.icefactory.cl^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -216,6 +217,7 @@
 ||*.allowed.sbs^$important
 ||*.alternativas.ru^$important
 ||*.amphemol-in.cam^$important
+||*.anyhoo.testeaza.eu^$important
 ||*.aouth.rnicosoft-uid.surge.sh^$important
 ||*.app.appzcvb.com^$important
 ||*.app.faster-cdn-hk.click^$important
@@ -233,8 +235,6 @@
 ||*.backupso.com^$important
 ||*.baileyemas.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
-||*.baoxissde.one^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.binance-promo-code.vercel.app^$important
 ||*.bito.com.pk^$important
@@ -242,7 +242,6 @@
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.blox.watevergames.net^$important
-||*.bm2contabilidade.com.br^$important
 ||*.bmdcompany.com^$important
 ||*.bmnjhy.shop^$important
 ||*.bmpincorporated.com^$important
@@ -405,7 +404,6 @@
 ||*.hobobot.net^$important
 ||*.hs04571ae68abbb24b61f9d3f86f9bf297.nexusqal.study^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.hwihaliha.vercel.app^$important
 ||*.hypercorevector5.lol^$important
 ||*.i.gal^$important
@@ -423,7 +421,6 @@
 ||*.io-trezr-bridge-cxy.pages.dev^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.itsmystik.com^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jamesxxsu.github.io^$important
@@ -459,7 +456,6 @@
 ||*.lomeqpe.com^$important
 ||*.lpost-sa72.shop^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.lvks-7it.pages.dev^$important
 ||*.m.jkoa.co.kr^$important
@@ -509,6 +505,7 @@
 ||*.oknoplastik.sk^$important
 ||*.one-graup.com^$important
 ||*.onedocuvetinary-ldjzoo9p-webu43.4everland.app^$important
+||*.onfiltre.com.tr^$important
 ||*.onkrduy3i5fglwseup.vercel.app^$important
 ||*.originalmeeting.pages.dev^$important
 ||*.outpost.co.ke^$important
@@ -588,20 +585,18 @@
 ||*.servicioenlineabdv.github.io^$important
 ||*.sg123.net^$important
 ||*.sgdsdvsd325-ascasf235.vercel.app^$important
-||*.shipminttracking.net^$important
 ||*.shopeeid767.blogspot.com^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.shrimp-18.github.io^$important
 ||*.shrturl.app^$important
 ||*.siaasesoria.com.mx^$important
 ||*.signageinsignia.co.za^$important
 ||*.situs-undian22.blogspot.com^$important
 ||*.sivrex.click^$important
-||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
 ||*.smsechodata.cc^$important
 ||*.sochibeer.ru^$important
+||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
 ||*.somostask.co^$important
 ||*.sp11ct-velsar-biz8-kremor-havnik.pages.dev^$important
@@ -615,9 +610,11 @@
 ||*.spgint.com^$important
 ||*.srsorvete.com.br^$important
 ||*.startcoinsquare.zapier.app^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sunix-technology.com^$important
@@ -626,6 +623,7 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sw.run^$important
+||*.swiftfusion.tech^$important
 ||*.system-webb.webcindario.com^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
