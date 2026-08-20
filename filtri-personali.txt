@@ -162,11 +162,10 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-20 12:39:48
+! Ultimo aggiornamento automatico: 2026-08-20 15:29:13
 ||*.0022a601.pphost.net^$important
 ||*.07b779.icefactory.cl^$important
 ||*.07bba8.icefactory.cl^$important
-||*.123.ywxww.net^$important
 ||*.14017.xyz^$important
 ||*.14026.xyz^$important
 ||*.14069.xyz^$important
@@ -198,8 +197,8 @@
 ||*.a03lps-j6srjp-y5n-jsc-qbqhw.pages.dev^$important
 ||*.a8rona.sbs^$important
 ||*.aa1c79.icefactory.cl^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -233,7 +232,9 @@
 ||*.b9c860.icefactory.cl^$important
 ||*.backupso.com^$important
 ||*.baileyemas.com^$important
+||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.baoxissde.one^$important
+||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.binance-promo-code.vercel.app^$important
 ||*.bito.com.pk^$important
@@ -269,7 +270,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
@@ -375,6 +375,7 @@
 ||*.firstratezim.com^$important
 ||*.flexibilidadeadequada.s3.us-east-005.backblazeb2.com^$important
 ||*.flexibilidadeaseulimite.s3.us-east-005.backblazeb2.com^$important
+||*.flooriscoveringworld.com^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fukt.link^$important
@@ -383,10 +384,10 @@
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.gabyagozetim.com^$important
+||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.garam168.com^$important
 ||*.genddos.st^$important
-||*.gestroom.it^$important
 ||*.ghjsc51lkwg-mrqxbpli-2ik18d-ghj77c.pages.dev^$important
 ||*.globalbank.us^$important
 ||*.goo.su^$important
@@ -404,6 +405,7 @@
 ||*.hobobot.net^$important
 ||*.hs04571ae68abbb24b61f9d3f86f9bf297.nexusqal.study^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hwihaliha.vercel.app^$important
 ||*.hypercorevector5.lol^$important
 ||*.i.gal^$important
@@ -412,6 +414,7 @@
 ||*.ig-auth.apps.prov.cx^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.indusenterprises.co^$important
 ||*.ingrids-keuken.nl^$important
 ||*.instagramaccounthacks.blogspot.com^$important
 ||*.instagramcheck.blogspot.com^$important
@@ -470,6 +473,7 @@
 ||*.mearchana09.github.io^$important
 ||*.metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app^$important
 ||*.metamask.github.io^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitraperijinan.co.id^$important
 ||*.mitreart.com^$important
@@ -505,7 +509,6 @@
 ||*.oknoplastik.sk^$important
 ||*.one-graup.com^$important
 ||*.onedocuvetinary-ldjzoo9p-webu43.4everland.app^$important
-||*.onfiltre.com.tr^$important
 ||*.onkrduy3i5fglwseup.vercel.app^$important
 ||*.originalmeeting.pages.dev^$important
 ||*.outpost.co.ke^$important
@@ -526,6 +529,7 @@
 ||*.pp5erm.sbs^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.primsouscriptionch.com^$important
+||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qagdt-ga5-tzy-tx2-yiku-x4rz3.pages.dev^$important
@@ -596,8 +600,10 @@
 ||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
+||*.smsechodata.cc^$important
 ||*.sochibeer.ru^$important
 ||*.solar-sanat.net^$important
+||*.somostask.co^$important
 ||*.sp11ct-velsar-biz8-kremor-havnik.pages.dev^$important
 ||*.sp13ct-lormor-biz-frandik-zavsel.pages.dev^$important
 ||*.sp15ct-tavqor-biz-melzen-zunvi.pages.dev^$important
@@ -612,7 +618,6 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sunix-technology.com^$important
@@ -621,7 +626,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sw.run^$important
-||*.swiftfusion.tech^$important
 ||*.system-webb.webcindario.com^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
@@ -669,7 +673,6 @@
 ||*.validacioneshtml2026inmd.zya.me^$important
 ||*.valli-18.github.io^$important
 ||*.vcc-library.uk^$important
-||*.vdsina.vg^$important
 ||*.verification-status-id.com^$important
 ||*.verifyidentify.com^$important
 ||*.versaclean.com.br^$important
@@ -697,6 +700,7 @@
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.14025.xyz^$important
 ||*.www.14088.xyz^$important
+||*.www.2goelectricity.cloud^$important
 ||*.www.agingenieria.com.pe^$important
 ||*.www.aouth.rnicosoft-uid.surge.sh^$important
 ||*.www.ardguisser.com^$important
@@ -726,7 +730,6 @@
 ||*.www.facebookahla.blogspot.com^$important
 ||*.www.facebooksociallink.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
@@ -780,6 +783,7 @@
 ||*.www.support-data.com^$important
 ||*.www.support-ledger-help-desk-login-nano-navy.vercel.app^$important
 ||*.www.tdejb.com^$important
+||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.verification-status-id.com^$important
 ||*.www.vuelaviajero.com^$important
@@ -789,6 +793,7 @@
 ||*.www.xncixandjxnajc.com^$important
 ||*.www.zamilgroups.com^$important
 ||*.www.zhikey.com^$important
+||*.wylkpznq.xyz^$important
 ||*.xavlori-kxt-belfeta-r1t5dw62.pages.dev^$important
 ||*.xenon.studio^$important
 ||*.xfinity-103604.weeblysite.com^$important
