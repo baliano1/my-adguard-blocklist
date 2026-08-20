@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-20 06:38:37
+! Ultimo aggiornamento automatico: 2026-08-20 09:29:49
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -198,7 +198,6 @@
 ||*.alahlam.sa^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
-||*.allendaltonproduction.com^$important
 ||*.allendostmen.com^$important
 ||*.alternativas.ru^$important
 ||*.amanduhhs.blogspot.com^$important
@@ -221,7 +220,6 @@
 ||*.basketbackup.com^$important
 ||*.bat-cofra-ab.p-25pblv81.workers.dev^$important
 ||*.bc8.now.sh^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bermora-gld-zelquza-a8x2dw91.pages.dev^$important
 ||*.bermora-gld-zentela-a8x1hp62.pages.dev^$important
@@ -297,7 +295,6 @@
 ||*.cryptomeshforge10.lol^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
-||*.ctsfactory.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.d13585.icefactory.cl^$important
@@ -416,7 +413,6 @@
 ||*.hotmail-session-y4hmdh7g-zsmcogkvt-----uppj0pqihh.kharwadejewellers.com^$important
 ||*.hotmail-session-z2bn0gpe-4fvwiinwc-----yrpozjpynk.kharwadejewellers.com^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.hypercorevector5.lol^$important
 ||*.i.gal^$important
 ||*.ia18-4s9xb3-6h122w-uv81pm.pages.dev^$important
@@ -427,7 +423,6 @@
 ||*.igra123.com^$important
 ||*.iivdfifz-cg14.vercel.app^$important
 ||*.indenticalvirtal.it.com^$important
-||*.indusenterprises.co^$important
 ||*.info-shopee995.blogspot.com^$important
 ||*.intellix-messages.web.app^$important
 ||*.iqra-frontend.github.io^$important
@@ -437,7 +432,6 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jamesxxsu.github.io^$important
-||*.jawaratekno.com^$important
 ||*.jdvu9qpjl20ddayhxu.vercel.app^$important
 ||*.jenniferloeffler.com^$important
 ||*.jerome1209op-crypto.github.io^$important
@@ -461,6 +455,7 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.laxmiverkhade.github.io^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.local-update.com^$important
 ||*.login452.github.io^$important
 ||*.lomejordesalamanca.es^$important
@@ -479,7 +474,6 @@
 ||*.marnelo-gld-fentora-p6t7hc83.pages.dev^$important
 ||*.marquni-gld-zentavo-p6k4hp85.pages.dev^$important
 ||*.mearchana09.github.io^$important
-||*.meeting.supply-reflection.shop^$important
 ||*.messenger-verficaonti-account-adss.cyou^$important
 ||*.millt.netlify.app^$important
 ||*.miriamgualda.com.br^$important
@@ -513,6 +507,7 @@
 ||*.norzavi-gld-felqumi-p2t9fc52.pages.dev^$important
 ||*.norzora-gld-belqumi-r6t2fq37.pages.dev^$important
 ||*.norzora-gld-zentavi-p9t8hk14.pages.dev^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nydocnrn-cg14.vercel.app^$important
 ||*.nzpzdbet-h16.vercel.app^$important
@@ -526,7 +521,6 @@
 ||*.openup.to^$important
 ||*.originalmeeting.pages.dev^$important
 ||*.outpost.co.ke^$important
-||*.ownnewstoday.live^$important
 ||*.p3.34fsfat.workers.dev^$important
 ||*.p3.zbjimg.com^$important
 ||*.pages-live-ledger-docs.pages.dev^$important
@@ -617,11 +611,11 @@
 ||*.siaasesoria.com.mx^$important
 ||*.signageinsignia.co.za^$important
 ||*.situs-undian22.blogspot.com^$important
+||*.sivrex.click^$important
+||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
-||*.smsechodata.cc^$important
 ||*.sochibeer.ru^$important
-||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
 ||*.sp11ct-velsar-biz8-kremor-havnik.pages.dev^$important
 ||*.sp13ct-lormor-biz-frandik-zavsel.pages.dev^$important
@@ -650,13 +644,15 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
+||*.suavasua.vn^$important
 ||*.sunix-technology.com^$important
 ||*.support-ledger-help-desk-login-nano-navy.vercel.app^$important
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.sydneyaffordablecremations.com.au^$important
+||*.swiftfusion.tech^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanmay2007-pirate.github.io^$important
@@ -707,6 +703,7 @@
 ||*.v0-condoshubparty.vercel.app^$important
 ||*.validacioneshtml2026inmd.zya.me^$important
 ||*.vcc-library.uk^$important
+||*.vdsina.vg^$important
 ||*.verifyidentify.com^$important
 ||*.verisaxas.fwh.is^$important
 ||*.versaclean.com.br^$important
@@ -757,6 +754,7 @@
 ||*.www.facebookloginss.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.free1instagramfollowers.blogspot.com^$important
+||*.www.gestroom.it^$important
 ||*.www.havredufaubourg.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -802,7 +800,6 @@
 ||*.www.supp0rtassistance.vercel.app^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.tracking.usps-prioritymails.com^$important
 ||*.www.vuelaviajero.com^$important
