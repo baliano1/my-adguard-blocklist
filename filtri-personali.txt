@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-21 06:39:11
+! Ultimo aggiornamento automatico: 2026-08-21 09:32:21
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.142cee.ralind.at^$important
@@ -180,7 +180,6 @@
 ||*.7142de.icefactory.cl^$important
 ||*.9b1u-q9a0x6-7dwi1-di3iy9.pages.dev^$important
 ||*.a03lps-j6srjp-y5n-jsc-qbqhw.pages.dev^$important
-||*.abdulahad.net^$important
 ||*.abv-abc12.top^$important
 ||*.abv-gbg120.top^$important
 ||*.ac.lcdjqy.com^$important
@@ -251,7 +250,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cembra.ch-0826.com^$important
 ||*.cf9fc6.icefactory.cl^$important
@@ -270,9 +268,9 @@
 ||*.claycoimbra.com.br^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coconutoficial.com.br^$important
+||*.colibrik.com^$important
 ||*.company-customer-entitlements.s3.us-east-005.backblazeb2.com^$important
 ||*.company-limit-governance.s3.us-east-005.backblazeb2.com^$important
 ||*.company-transaction-policy.s3.us-east-005.backblazeb2.com^$important
@@ -300,13 +298,11 @@
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.decameronlasheliconias.hoteltodoincluido.org^$important
-||*.deliverymailreport.co.za^$important
 ||*.delp-heizungsbau.de^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.myresult.co.za^$important
 ||*.dl.natgo.cn^$important
@@ -317,7 +313,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -357,7 +352,6 @@
 ||*.fdfc6d.icefactory.cl^$important
 ||*.fdrv.beeyuskincare.co.nz^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.financialcompany-controls.s3.us-east-005.backblazeb2.com^$important
 ||*.first-security-verden.de^$important
@@ -383,7 +377,6 @@
 ||*.globalbank.us^$important
 ||*.gorillaunit.fr^$important
 ||*.grantexx.com^$important
-||*.grapemundo.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
@@ -396,9 +389,7 @@
 ||*.hielpijnisnietfijn.nl^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https--www-roblox.com^$important
 ||*.hwcps1ekqlo-mtvljlos-4k7i8b-hwc83w.pages.dev^$important
 ||*.hypercorevector5.lol^$important
@@ -407,26 +398,25 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.incrementoautomatico.web.app^$important
-||*.indusenterprises.co^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itsmystik.com^$important
 ||*.itssprout.com^$important
 ||*.ivanalawaivanoffcials.blogspot.com^$important
-||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
 ||*.jq.eitnqh.com^$important
 ||*.kavacanada.ca^$important
+||*.kee126.com^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
+||*.krem.mesoptik.com^$important
 ||*.kuvcoinnloginz.webflow.io^$important
 ||*.landonirwin.com^$important
 ||*.lasucurrsallvirtuaal.vercel.app^$important
@@ -488,10 +478,8 @@
 ||*.no5hs9ah-cg18.vercel.app^$important
 ||*.noithaticon.vn^$important
 ||*.norvexo-kxt-zenlavi-c4x8dw27.pages.dev^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.office365-reactivation-email0.iceiy.com^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.one-graup.com^$important
@@ -620,7 +608,6 @@
 ||*.stdown.dinju.com^$important
 ||*.steamncomnnunity.ru^$important
 ||*.studiogioeli.it^$important
-||*.suavasua.vn^$important
 ||*.sunix-technology.com^$important
 ||*.support-ledger-help-desk-login-nano-navy.vercel.app^$important
 ||*.support.clz.kr^$important
@@ -641,6 +628,7 @@
 ||*.tavmora-kxt-qelzani-p4t6dw93.pages.dev^$important
 ||*.tavquro-kxt-zenmavi-c3t6hp91.pages.dev^$important
 ||*.teakivo.com^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telcgram.us.cc^$important
 ||*.tengfeidn.cn^$important
@@ -667,6 +655,7 @@
 ||*.u.to^$important
 ||*.ulareth20-1vault.pages.dev^$important
 ||*.undian-pemenang2020.blogspot.com^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.urlz.li^$important
@@ -680,6 +669,7 @@
 ||*.verifikasi.vercel.app^$important
 ||*.verifyidentify.com^$important
 ||*.verifysecurenow.weebly.com^$important
+||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.vibecoders.vip^$important
@@ -703,6 +693,7 @@
 ||*.windomstatetheater.com^$important
 ||*.winds11.site^$important
 ||*.winsbonuss.netlify.app^$important
+||*.wittenhorst.eu^$important
 ||*.word.softhand.net^$important
 ||*.wqok85qtq.net^$important
 ||*.wtrkb6f05dr-yktpmlpw-5h8f6d-yk088a.pages.dev^$important
