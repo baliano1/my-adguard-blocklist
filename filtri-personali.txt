@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-21 15:28:22
+! Ultimo aggiornamento automatico: 2026-08-21 18:30:57
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.134642.xyz^$important
@@ -204,6 +204,7 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allegrolokalnie.167v922n4212.lol^$important
 ||*.allendostmen.com^$important
+||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.am.iydxw.best^$important
 ||*.aman-codezz.github.io^$important
@@ -409,6 +410,7 @@
 ||*.hlr-nr11-au93-tasyn-kd6-8vjb72.pages.dev^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.https--www-roblox.com^$important
 ||*.hypercorevector5.lol^$important
 ||*.icoffeecloud.com^$important
@@ -416,6 +418,7 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.indusenterprises.co^$important
 ||*.ingeko-energies.fr^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
@@ -437,7 +440,6 @@
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
-||*.krem.mesoptik.com^$important
 ||*.landonirwin.com^$important
 ||*.laureledu.org^$important
 ||*.lawfirm.paperbirdtech.com^$important
@@ -491,6 +493,7 @@
 ||*.nikjon.vipcasinohub.info^$important
 ||*.nmhjnu.shop^$important
 ||*.noithaticon.vn^$important
+||*.northernvirginiaeyeassociates.com^$important
 ||*.norzora-gld-felmita-p2t6dk93.pages.dev^$important
 ||*.ntccc.vercel.app^$important
 ||*.nusatoyota.co.id^$important
@@ -623,7 +626,6 @@
 ||*.spotify-clone-one-chi-33.vercel.app^$important
 ||*.spotify15.netlify.app^$important
 ||*.ssosigninattcomiloginjr4llc.auth3currentlymailupdate.workers.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -734,6 +736,7 @@
 ||*.www.backupallfresh2030.com^$important
 ||*.www.benshamcentre.co.uk^$important
 ||*.www.blackhattoolz.com^$important
+||*.www.bratusferramentas.grupomoltz.com.br^$important
 ||*.www.bybiksn.com^$important
 ||*.www.chenwangqiao.com^$important
 ||*.www.claim-hadiah.vercel.app^$important
@@ -769,6 +772,7 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.gr^$important
 ||*.www.robiox.com.py^$important
