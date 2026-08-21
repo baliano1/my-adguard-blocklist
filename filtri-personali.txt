@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-21 01:04:27
+! Ultimo aggiornamento automatico: 2026-08-21 03:46:47
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.142cee.ralind.at^$important
@@ -305,7 +305,6 @@
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.myresult.co.za^$important
 ||*.dl.natgo.cn^$important
@@ -356,6 +355,7 @@
 ||*.fdfc6d.icefactory.cl^$important
 ||*.fdrv.beeyuskincare.co.nz^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.financialcompany-controls.s3.us-east-005.backblazeb2.com^$important
 ||*.first-security-verden.de^$important
@@ -376,7 +376,6 @@
 ||*.galerisenimutiara.com^$important
 ||*.gay2-xfn5-ilvn.asantana-cinecolor-com-br-s-account.workers.dev^$important
 ||*.genddos.st^$important
-||*.gestroom.it^$important
 ||*.get-crypto-card.vercel.app^$important
 ||*.ghjsc51lkwg-mrqxbpli-2ik18d-ghj77c.pages.dev^$important
 ||*.globalbank.us^$important
@@ -406,11 +405,13 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.incrementoautomatico.web.app^$important
+||*.indusenterprises.co^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itsmystik.com^$important
 ||*.itssprout.com^$important
 ||*.ivanalawaivanoffcials.blogspot.com^$important
+||*.ixirgroup.com^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -473,6 +474,7 @@
 ||*.myaccount.secure-nexo.com^$important
 ||*.myauthentaffairebellverify.com^$important
 ||*.myguidemail.com^$important
+||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.navjivanexporters.in^$important
 ||*.nayanamanna.github.io^$important
@@ -486,6 +488,7 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.office365-reactivation-email0.iceiy.com^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.one-graup.com^$important
@@ -499,7 +502,6 @@
 ||*.parquelosencinos.cl^$important
 ||*.paularavanelli.com.br^$important
 ||*.pay.aqiu6.com^$important
-||*.pcupd.com^$important
 ||*.phantomwalletsupport.github.io^$important
 ||*.php-web-server--franz1095.replit.app^$important
 ||*.php-web-server--usauarmeduc.replit.app^$important
@@ -571,6 +573,7 @@
 ||*.semencepourlavie.org^$important
 ||*.sendusdt-2.vercel.app^$important
 ||*.separadordecc.com^$important
+||*.seputartuban.com^$important
 ||*.seuplanosilimitado.s3.us-east-005.backblazeb2.com^$important
 ||*.sg123.net^$important
 ||*.shqdown.ggzuhao.com^$important
@@ -599,7 +602,6 @@
 ||*.sp23ct-vemik-biz-lunor-zapek.pages.dev^$important
 ||*.sp4ct-belmorin-biz8-furem-kasix.pages.dev^$important
 ||*.spgint.com^$important
-||*.srsorvete.com.br^$important
 ||*.ssosigninattcomilogin63umis.auth3currentlymailupdate.workers.dev^$important
 ||*.ssosigninattcomilogindhuepe.auth3currentlymailupdate.workers.dev^$important
 ||*.ssosigninattcomiloginjr4llc.auth3currentlymailupdate.workers.dev^$important
@@ -609,12 +611,10 @@
 ||*.ssz22.pages.dev^$important
 ||*.staking5portfolio.blogspot.com^$important
 ||*.starparonline.com.br^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steamncomnnunity.ru^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suavasua.vn^$important
 ||*.sunix-technology.com^$important
@@ -637,7 +637,6 @@
 ||*.tavmora-kxt-qelzani-p4t6dw93.pages.dev^$important
 ||*.tavquro-kxt-zenmavi-c3t6hp91.pages.dev^$important
 ||*.teakivo.com^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telcgram.us.cc^$important
 ||*.tengfeidn.cn^$important
@@ -664,7 +663,6 @@
 ||*.u.to^$important
 ||*.ulareth20-1vault.pages.dev^$important
 ||*.undian-pemenang2020.blogspot.com^$important
-||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.urlz.li^$important
@@ -678,7 +676,6 @@
 ||*.verifikasi.vercel.app^$important
 ||*.verifyidentify.com^$important
 ||*.verifysecurenow.weebly.com^$important
-||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
 ||*.vibecoders.vip^$important
@@ -734,7 +731,6 @@
 ||*.www.facebook.webstore.vn^$important
 ||*.www.fdihub.com.ng^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
