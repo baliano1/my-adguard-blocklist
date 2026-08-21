@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-21 18:30:57
+! Ultimo aggiornamento automatico: 2026-08-21 21:19:53
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.134642.xyz^$important
@@ -264,6 +264,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cembra.ch-0826.com^$important
 ||*.cf9fc6.icefactory.cl^$important
@@ -316,6 +317,7 @@
 ||*.decameronlasheliconias.hoteltodoincluido.org^$important
 ||*.delp-heizungsbau.de^$important
 ||*.dexios.co.za^$important
+||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.diwakars111.github.io^$important
@@ -392,7 +394,6 @@
 ||*.gabyagozetim.com^$important
 ||*.gag-wtz0g-p0z2x-ebpf-ouos7w.pages.dev^$important
 ||*.gaiadeqi.com^$important
-||*.galerisenimutiara.com^$important
 ||*.genddos.st^$important
 ||*.geypsb1j6dstilcprn.vercel.app^$important
 ||*.globalbank.us^$important
@@ -454,6 +455,7 @@
 ||*.lomeqpe.com^$important
 ||*.lppm-kim.com^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -474,6 +476,7 @@
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.mohameds18.github.io^$important
+||*.mon-blanc-04.cfd^$important
 ||*.moonpay-commerce-git-henryharris-com2-2322-light-e25621-heliofi.vercel.app^$important
 ||*.movie875.shop^$important
 ||*.mrqxb71dran-byktp55lpw-5g7e2d-kp294m.pages.dev^$important
@@ -493,7 +496,6 @@
 ||*.nikjon.vipcasinohub.info^$important
 ||*.nmhjnu.shop^$important
 ||*.noithaticon.vn^$important
-||*.northernvirginiaeyeassociates.com^$important
 ||*.norzora-gld-felmita-p2t6dk93.pages.dev^$important
 ||*.ntccc.vercel.app^$important
 ||*.nusatoyota.co.id^$important
@@ -527,6 +529,7 @@
 ||*.polimova.com^$important
 ||*.portal-uphold-en.plasmic.run^$important
 ||*.postelnini.mk^$important
+||*.preciosasjoyitas.com.mx^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.psychological-jade-hbaygccq.edgeone.dev^$important
 ||*.ptshopeeei.blogspot.com^$important
@@ -626,6 +629,7 @@
 ||*.spotify-clone-one-chi-33.vercel.app^$important
 ||*.spotify15.netlify.app^$important
 ||*.ssosigninattcomiloginjr4llc.auth3currentlymailupdate.workers.dev^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -638,7 +642,6 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swanbitcoinguideline.live^$important
 ||*.swanrecovery.com^$important
-||*.swiftfusion.tech^$important
 ||*.swisborrgloginmain.webflow.io^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
@@ -669,6 +672,7 @@
 ||*.to.lk^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.tpp.om-stock.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.tuamigo.tubanruralportaleswebsgt.click^$important
@@ -751,6 +755,7 @@
 ||*.www.facebookprofilelinks.blogspot.com^$important
 ||*.www.fdihub.com.ng^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.get-crypto-card.vercel.app^$important
 ||*.www.hose-esgusta942.com^$important
 ||*.www.hostingcloud.science^$important
