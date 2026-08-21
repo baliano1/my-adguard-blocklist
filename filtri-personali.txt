@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-21 03:46:47
+! Ultimo aggiornamento automatico: 2026-08-21 06:39:11
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.142cee.ralind.at^$important
@@ -272,6 +272,7 @@
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
+||*.coconutoficial.com.br^$important
 ||*.company-customer-entitlements.s3.us-east-005.backblazeb2.com^$important
 ||*.company-limit-governance.s3.us-east-005.backblazeb2.com^$important
 ||*.company-transaction-policy.s3.us-east-005.backblazeb2.com^$important
@@ -305,6 +306,7 @@
 ||*.dezcom.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.myresult.co.za^$important
 ||*.dl.natgo.cn^$important
@@ -438,6 +440,7 @@
 ||*.lpost-sa72.shop^$important
 ||*.lppm-kim.com^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -502,6 +505,7 @@
 ||*.parquelosencinos.cl^$important
 ||*.paularavanelli.com.br^$important
 ||*.pay.aqiu6.com^$important
+||*.pcupd.com^$important
 ||*.phantomwalletsupport.github.io^$important
 ||*.php-web-server--franz1095.replit.app^$important
 ||*.php-web-server--usauarmeduc.replit.app^$important
