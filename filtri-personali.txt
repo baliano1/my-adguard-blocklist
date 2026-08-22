@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-22 18:23:07
+! Ultimo aggiornamento automatico: 2026-08-22 21:17:35
 ||*.0022a601.pphost.net^$important
 ||*.013224.icefactory.cl^$important
 ||*.123.ywxww.net^$important
@@ -229,7 +229,6 @@
 ||*.bdvenezuela-2026--bdvenezuela2026.replit.app^$important
 ||*.beak.in^$important
 ||*.benedettibigpond.com^$important
-||*.beoauto.alexion.rs^$important
 ||*.bgrfd34qnk-hwcps82zlk-9i4g2g-mt492d.pages.dev^$important
 ||*.bgrfd3bdrun-zlkytpli-8i5g9g-bgq79c.pages.dev^$important
 ||*.birukkapp.netlify.app^$important
@@ -263,6 +262,7 @@
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
 ||*.checkfivem.com^$important
+||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.ciu-epo5ai-v57-qro2-640-5wz.pages.dev^$important
@@ -376,11 +376,13 @@
 ||*.galerisenimutiara.com^$important
 ||*.gemminilooginn.webflow.io^$important
 ||*.genddos.st^$important
+||*.gestroom.it^$important
 ||*.gfytvd-wiyn-np4qjd-g9ewg7.pages.dev^$important
 ||*.gilded-baklava-b9e48a.netlify.app^$important
 ||*.gjbbnt-n9or7d1l.vercel.app^$important
 ||*.gleeful-mousse-699032.netlify.app^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
 ||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
@@ -414,7 +416,6 @@
 ||*.itssprout.com^$important
 ||*.ivhk96-c17s.vercel.app^$important
 ||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -429,6 +430,7 @@
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
 ||*.kraknkrakenlogn.webflow.io^$important
+||*.kramersmarionnettes.com^$important
 ||*.krem.mesoptik.com^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
@@ -448,8 +450,8 @@
 ||*.m.meta-dm.com^$important
 ||*.magenta-dieffenbachia-de4f3f.netlify.app^$important
 ||*.maidforyou1985.com^$important
+||*.mandarin.net.au^$important
 ||*.meeting.supply-reflection.shop^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.millsiowaslv.vercel.app^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -483,6 +485,7 @@
 ||*.nusatoyota.co.id^$important
 ||*.nxtflix-clone-by-harshit.netlify.app^$important
 ||*.ny.lshdw.cc^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.on.ovmdjyh.com^$important
@@ -641,7 +644,6 @@
 ||*.trtmyanmar.com^$important
 ||*.twilight-heart-2b68.keithphamasql16222.workers.dev^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.uber-driver-support.netlify.app^$important
 ||*.unusual-account-activity-review.vercel.app^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -715,6 +717,7 @@
 ||*.www.fidelitydigitalassetspolicy.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.geemen-lognxzs.godaddysites.com^$important
+||*.www.gestroom.it^$important
 ||*.www.himans-singh.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
