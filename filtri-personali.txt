@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-22 03:38:07
+! Ultimo aggiornamento automatico: 2026-08-22 06:32:59
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -379,6 +379,7 @@
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
+||*.galerisenimutiara.com^$important
 ||*.geemen-lognxzs.godaddysites.com^$important
 ||*.gemuinlogn.gitbook.io^$important
 ||*.genddos.st^$important
@@ -387,6 +388,7 @@
 ||*.giftcpfree.com^$important
 ||*.globalbank.us^$important
 ||*.gmails-com.netlify.app^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
