@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-22 12:31:10
+! Ultimo aggiornamento automatico: 2026-08-22 15:16:29
 ||*.0022a601.pphost.net^$important
 ||*.013224.icefactory.cl^$important
 ||*.123.ywxww.net^$important
@@ -185,7 +185,6 @@
 ||*.9dedpmd8sg65nymbswvohc-ezdma0cvg7dng6ca.z03.azurefd.net^$important
 ||*.a43970.icefactory.cl^$important
 ||*.a6fc86.icefactory.cl^$important
-||*.abdulahad.net^$important
 ||*.abxithhh.github.io^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
@@ -263,7 +262,6 @@
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
 ||*.checkfivem.com^$important
-||*.chinaapper.com^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.ciu-epo5ai-v57-qro2-640-5wz.pages.dev^$important
@@ -330,6 +328,7 @@
 ||*.drysdalebaconmcstravick.vercel.app^$important
 ||*.duct-master.com^$important
 ||*.dynga.pl^$important
+||*.eccmice.com^$important
 ||*.eferhile-bankofamerica-boost-buddy.static.hf.space^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
@@ -361,6 +360,7 @@
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fiverr992090.digiblogbox.com^$important
+||*.flicargo.com^$important
 ||*.flooriscoveringworld.com^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
@@ -375,7 +375,6 @@
 ||*.galerisenimutiara.com^$important
 ||*.gemminilooginn.webflow.io^$important
 ||*.genddos.st^$important
-||*.gestroom.it^$important
 ||*.gfytvd-wiyn-np4qjd-g9ewg7.pages.dev^$important
 ||*.gilded-baklava-b9e48a.netlify.app^$important
 ||*.gjbbnt-n9or7d1l.vercel.app^$important
@@ -456,11 +455,9 @@
 ||*.mkconstructions.net^$important
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
-||*.mon-blanc-03.cfd^$important
 ||*.mon-blanc-04.cfd^$important
 ||*.mrlhea-d3zzloum.vercel.app^$important
 ||*.msdjxy.us.cc^$important
-||*.msedge.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.mubashirdev-33.github.io^$important
 ||*.muff20-c17s.vercel.app^$important
@@ -468,6 +465,7 @@
 ||*.multiple-level-203606.framer.app^$important
 ||*.multisavcx.xyz^$important
 ||*.mundocarnes.cl^$important
+||*.munihuacho.gob.pe^$important
 ||*.musical-pothos-6925f8.netlify.app^$important
 ||*.mx9x.com^$important
 ||*.myparcelgst-tracking.netlify.app^$important
@@ -534,7 +532,6 @@
 ||*.redirect.me^$important
 ||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
-||*.reifenquick.de^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
@@ -598,7 +595,6 @@
 ||*.spotify25.netlify.app^$important
 ||*.sso--netcoins-com-cdn-n-auuth.webflow.io^$important
 ||*.start-io-treser-en.pages.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.streammobs.com^$important
@@ -643,7 +639,6 @@
 ||*.trtmyanmar.com^$important
 ||*.twilight-heart-2b68.keithphamasql16222.workers.dev^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.uber-driver-support.netlify.app^$important
 ||*.unusual-account-activity-review.vercel.app^$important
 ||*.upaicdn.xinmei365.com^$important
@@ -673,7 +668,6 @@
 ||*.whotsapp-web.hl.cn^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
-||*.winds11.site^$important
 ||*.wittenhorst.eu^$important
 ||*.wqok85qtq.net^$important
 ||*.ww777777777777ftrarwsrttrytrer777777.weebly.com^$important
@@ -718,7 +712,6 @@
 ||*.www.fidelitydigitalassetspolicy.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.geemen-lognxzs.godaddysites.com^$important
-||*.www.gestroom.it^$important
 ||*.www.himans-singh.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
