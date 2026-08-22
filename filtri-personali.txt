@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-22 01:00:58
+! Ultimo aggiornamento automatico: 2026-08-22 03:38:07
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -244,6 +244,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.ce925597.tw1.ru^$important
 ||*.celebratingseniors.net^$important
 ||*.center.metacreatormonetizationsupportsystem.click^$important
@@ -363,7 +364,6 @@
 ||*.festivaldrop.com^$important
 ||*.fieldmin.netlify.app^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flooriscoveringworld.com^$important
@@ -382,6 +382,7 @@
 ||*.geemen-lognxzs.godaddysites.com^$important
 ||*.gemuinlogn.gitbook.io^$important
 ||*.genddos.st^$important
+||*.gestroom.it^$important
 ||*.ghjkhgjkhgghjg.weebly.com^$important
 ||*.giftcpfree.com^$important
 ||*.globalbank.us^$important
@@ -455,7 +456,6 @@
 ||*.meeting.supply-reflection.shop^$important
 ||*.mellifluous-piroshki-d2ae61.netlify.app^$important
 ||*.metamaskiologin-2.gitbook.io^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
@@ -629,7 +629,7 @@
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sub-dana-id.cvgy.my.id^$important
 ||*.sunix-technology.com^$important
@@ -664,7 +664,6 @@
 ||*.tiacreation.club^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
-||*.tpp.om-stock.com^$important
 ||*.tradxyz-v3.us.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
@@ -730,7 +729,6 @@
 ||*.www.festivaldrop.com^$important
 ||*.www.finacink.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
