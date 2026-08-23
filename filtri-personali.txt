@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-23 12:32:05
+! Ultimo aggiornamento automatico: 2026-08-23 15:17:58
 ||*.0022a601.pphost.net^$important
 ||*.0365nn.com^$important
 ||*.123.ywxww.net^$important
@@ -301,7 +301,6 @@
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -346,7 +345,6 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.frforte.com.br^$important
-||*.friendsofsclarc.org^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funneldiy.com^$important
@@ -359,6 +357,7 @@
 ||*.galyabet.app^$important
 ||*.genddos.st^$important
 ||*.genuine-pavlova-a49640.netlify.app^$important
+||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
@@ -369,7 +368,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.i1i8uqzv.pages.dev^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -567,6 +565,7 @@
 ||*.spgint.com^$important
 ||*.ssl.secure-nexo.com^$important
 ||*.static.topxgun.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.su-facebook.blogspot.com^$important
 ||*.support.clz.kr^$important
@@ -608,7 +607,6 @@
 ||*.trustwalletmycard.vercel.app^$important
 ||*.twitch.tj^$important
 ||*.two-step-comunity-de-2208.vercel.app^$important
-||*.twu-hwt.org^$important
 ||*.universami.ge^$important
 ||*.unlockseviceads.business^$important
 ||*.upaicdn.xinmei365.com^$important
