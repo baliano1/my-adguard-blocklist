@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-23 06:34:21
+! Ultimo aggiornamento automatico: 2026-08-23 09:23:39
 ||*.0022a601.pphost.net^$important
 ||*.0poan9ey-cg18.vercel.app^$important
 ||*.121gle.senes.at^$important
@@ -248,7 +248,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
@@ -338,10 +337,8 @@
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flicargo.com^$important
-||*.flooriscoveringworld.com^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
-||*.forsalenear.me^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funneldiy.com^$important
@@ -377,6 +374,7 @@
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.ikincielesyaciankara.com.tr^$important
 ||*.indusenterprises.co^$important
 ||*.instagram-change-password.blogspot.com^$important
 ||*.instagram-login-authentication.duckdns.org^$important
@@ -431,6 +429,7 @@
 ||*.me.h5-whatsapp-zn.hl.cn^$important
 ||*.meta-verified.bolt.host^$important
 ||*.metamask.github.io^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
@@ -559,10 +558,8 @@
 ||*.sqhdk874-cg18.vercel.app^$important
 ||*.sr8envss-cg18.vercel.app^$important
 ||*.ssvar2e7h1dobeh2uw.vercel.app^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
 ||*.still-clickto-to.vercel.app^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
@@ -581,6 +578,7 @@
 ||*.tarkioweb.com^$important
 ||*.taryl0ju-cg18.vercel.app^$important
 ||*.tattinamecheap.com^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
@@ -601,6 +599,7 @@
 ||*.trtmyanmar.com^$important
 ||*.trueaantelopej9-c6fdadamend2bjep.z03.azurefd.net^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.ukeditz.github.io^$important
 ||*.universami.ge^$important
 ||*.unlockseviceads.business^$important
