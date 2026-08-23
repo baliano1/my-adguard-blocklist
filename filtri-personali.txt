@@ -162,13 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-23 01:05:52
+! Ultimo aggiornamento automatico: 2026-08-23 03:46:30
 ||*.0022a601.pphost.net^$important
 ||*.0poan9ey-cg18.vercel.app^$important
 ||*.121gle.senes.at^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.1b1jii-qr14-ifj-qtb-se8-t5et.pages.dev^$important
+||*.1h.vuregyy1.ru^$important
 ||*.1url.at^$important
 ||*.2108.jaunspazinojums.info^$important
 ||*.2zer6rab-cg18.vercel.app^$important
@@ -188,9 +189,7 @@
 ||*.8ec4c7.icefactory.cl^$important
 ||*.97ee4.catex.at^$important
 ||*.9gd6r3nc-cg18.vercel.app^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.account-protection-support.quest^$important
 ||*.accounts-12a7e2aa.jkhjkjk.workers.dev^$important
 ||*.acms.saleseos.com^$important
@@ -249,6 +248,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
@@ -318,6 +318,7 @@
 ||*.e1b778.icefactory.cl^$important
 ||*.e8b390.icefactory.cl^$important
 ||*.eccmice.com^$important
+||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.email-qiye.com^$important
 ||*.embedone.com^$important
@@ -333,6 +334,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fghe2358.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flicargo.com^$important
@@ -347,14 +349,12 @@
 ||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
-||*.garogradba.mk^$important
 ||*.gczgr2n0-cg18.vercel.app^$important
 ||*.gemini.ap.xiaogpt1.eu.org^$important
 ||*.genddos.st^$important
 ||*.gestroom.it^$important
 ||*.getfreeinstagramfollowers100k.blogspot.com^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.govtment.sbs^$important
 ||*.grantexx.com^$important
 ||*.greececommerce.com^$important
@@ -376,7 +376,7 @@
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
-||*.ikincielesyaciankara.com.tr^$important
+||*.indusenterprises.co^$important
 ||*.instagram-change-password.blogspot.com^$important
 ||*.instagram-login-authentication.duckdns.org^$important
 ||*.instagramsecurityhelpline-rgb.github.io^$important
@@ -385,6 +385,7 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.javascript-amazon-project-ruby.vercel.app^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -423,7 +424,6 @@
 ||*.m4jy-5uk2-jw6w5-7nqfo-pltt.pages.dev^$important
 ||*.maidforyou1985.com^$important
 ||*.mailer3-dhl.mdbgo.io^$important
-||*.mandarin.net.au^$important
 ||*.marketplace.zoecondominios.com.br^$important
 ||*.marketplaces.zoecondominios.com.br^$important
 ||*.mcuh82954-h21.vercel.app^$important
@@ -456,11 +456,10 @@
 ||*.noithaticon.vn^$important
 ||*.notlrnlx-cg18.vercel.app^$important
 ||*.nover749.github.io^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
+||*.onfiltre.com.tr^$important
 ||*.onlypackaging.grupoinde.com^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
@@ -559,6 +558,7 @@
 ||*.sqhdk874-cg18.vercel.app^$important
 ||*.sr8envss-cg18.vercel.app^$important
 ||*.ssvar2e7h1dobeh2uw.vercel.app^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -580,7 +580,6 @@
 ||*.tarkioweb.com^$important
 ||*.taryl0ju-cg18.vercel.app^$important
 ||*.tattinamecheap.com^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
@@ -598,10 +597,12 @@
 ||*.tpp.om-stock.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.traveltoitalynow.net^$important
+||*.trtmyanmar.com^$important
 ||*.trueaantelopej9-c6fdadamend2bjep.z03.azurefd.net^$important
 ||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
 ||*.ukeditz.github.io^$important
+||*.universami.ge^$important
 ||*.unlockseviceads.business^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -657,7 +658,6 @@
 ||*.www.facebookclone.duckdns.org^$important
 ||*.www.facebooknenys.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.gifter-rbxrblx.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
