@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-23 03:46:30
+! Ultimo aggiornamento automatico: 2026-08-23 06:34:21
 ||*.0022a601.pphost.net^$important
 ||*.0poan9ey-cg18.vercel.app^$important
 ||*.121gle.senes.at^$important
@@ -341,6 +341,7 @@
 ||*.flooriscoveringworld.com^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
+||*.forsalenear.me^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funneldiy.com^$important
@@ -600,7 +601,6 @@
 ||*.trtmyanmar.com^$important
 ||*.trueaantelopej9-c6fdadamend2bjep.z03.azurefd.net^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.ukeditz.github.io^$important
 ||*.universami.ge^$important
 ||*.unlockseviceads.business^$important
