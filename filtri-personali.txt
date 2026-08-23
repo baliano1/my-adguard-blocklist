@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-23 15:17:58
+! Ultimo aggiornamento automatico: 2026-08-23 18:23:12
 ||*.0022a601.pphost.net^$important
 ||*.0365nn.com^$important
 ||*.123.ywxww.net^$important
@@ -211,6 +211,7 @@
 ||*.app.metacreatormonetizationsupportsystem.click^$important
 ||*.areyouready.co.za^$important
 ||*.arifrxm.github.io^$important
+||*.asiaengrs.com^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.att-bonus.com.mx^$important
@@ -339,6 +340,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fehp52104-h21.vercel.app^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flicargo.com^$important
@@ -368,6 +370,7 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.i1i8uqzv.pages.dev^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -564,6 +567,7 @@
 ||*.spectacular-torrone-362e66.netlify.app^$important
 ||*.spgint.com^$important
 ||*.ssl.secure-nexo.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
@@ -607,6 +611,7 @@
 ||*.trustwalletmycard.vercel.app^$important
 ||*.twitch.tj^$important
 ||*.two-step-comunity-de-2208.vercel.app^$important
+||*.twu-hwt.org^$important
 ||*.universami.ge^$important
 ||*.unlockseviceads.business^$important
 ||*.upaicdn.xinmei365.com^$important
