@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-23 18:23:12
+! Ultimo aggiornamento automatico: 2026-08-23 21:17:31
 ||*.0022a601.pphost.net^$important
 ||*.0365nn.com^$important
 ||*.123.ywxww.net^$important
@@ -211,7 +211,6 @@
 ||*.app.metacreatormonetizationsupportsystem.click^$important
 ||*.areyouready.co.za^$important
 ||*.arifrxm.github.io^$important
-||*.asiaengrs.com^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.att-bonus.com.mx^$important
@@ -222,7 +221,6 @@
 ||*.awarenessexhibition.com^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
-||*.beak.in^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
@@ -249,6 +247,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccpb.ma^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celadon-stroopwafel-407584.netlify.app^$important
 ||*.celebratingseniors.net^$important
 ||*.center.metacreatormonetizationsupportsystem.click^$important
@@ -297,11 +296,11 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.djqi69-c17s.vercel.app^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -322,7 +321,6 @@
 ||*.eccmice.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.eo00q2af.pages.dev^$important
@@ -385,7 +383,6 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.iytg12355-h21.vercel.app^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -454,7 +451,6 @@
 ||*.newspeciallshopp.topup-diamonds.com^$important
 ||*.nexvero.top^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nytn68812-h21.vercel.app^$important
 ||*.ogs.accounts.secure-nexo.com^$important
@@ -476,6 +472,7 @@
 ||*.pic.li^$important
 ||*.planetariumobil.ro^$important
 ||*.postelnini.mk^$important
+||*.powershell-storage.vg^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.prajwalikapal-oss.github.io^$important
 ||*.preciosasjoyitas.com.mx^$important
@@ -674,6 +671,7 @@
 ||*.www.drgenov.com^$important
 ||*.www.facebook-247-support.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.go-still-transfer-bnb.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
