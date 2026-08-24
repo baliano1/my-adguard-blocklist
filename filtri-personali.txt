@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-24 03:50:59
+! Ultimo aggiornamento automatico: 2026-08-24 06:50:25
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1336ooo7.com^$important
@@ -214,6 +214,8 @@
 ||*.b7f3a1.icefactory.cl^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
+||*.bblissmassage.com^$important
+||*.beak.in^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blemstap2026.clm-venoco.com^$important
@@ -546,6 +548,7 @@
 ||*.ssl.secure-nexo.com^$important
 ||*.staging.d393hhhq5devc.amplifyapp.com^$important
 ||*.stasic.it.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
