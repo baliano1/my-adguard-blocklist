@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-24 01:03:42
+! Ultimo aggiornamento automatico: 2026-08-24 03:50:59
 ||*.0022a601.pphost.net^$important
 ||*.123.ywxww.net^$important
 ||*.1336ooo7.com^$important
@@ -186,6 +186,7 @@
 ||*.961c1e.icefactory.cl^$important
 ||*.9bf5c8.icefactory.cl^$important
 ||*.a8aeb8.icefactory.cl^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.admin.byte.in.ua^$important
@@ -312,6 +313,7 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.elitenexusly.cfd^$important
+||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.ep-uk-67tesqe0399n-epace4grh0hpcme5.z02.azurefd.net^$important
@@ -323,7 +325,6 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flicargo.com^$important
@@ -359,7 +360,6 @@
 ||*.him-transsfer.vercel.app^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.hs054346984fa554bdffe51f5ff5e3a88a.nexusqal.site^$important
 ||*.hs304324454bd5ac014c864cc1b7ef3f1d.nexusqal.site^$important
 ||*.hseda.com^$important
@@ -371,6 +371,7 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.iliketutles1233.github.io^$important
+||*.indusenterprises.co^$important
 ||*.infoundianshopee19.blogspot.com^$important
 ||*.infoundianshopee40.blogspot.com^$important
 ||*.infoundianshopee41.blogspot.com^$important
@@ -379,6 +380,7 @@
 ||*.isiore.com.co^$important
 ||*.itshanzaladev.github.io^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -406,6 +408,7 @@
 ||*.lomeqpe.com^$important
 ||*.lorquro-kxt-zemveta-r6t1hk78.pages.dev^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.m.help-coinbase.beer^$important
 ||*.m.jkoa.co.kr^$important
@@ -418,6 +421,7 @@
 ||*.mardortii.github.io^$important
 ||*.mehedi852-ccpc.github.io^$important
 ||*.meta-zen-server.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.miniature-octo-waffle-dpgu17krrwmh.edgeone.dev^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -439,6 +443,7 @@
 ||*.nhn-postsview.cafe^$important
 ||*.noithaticon.vn^$important
 ||*.nowlakshay.github.io^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ogs.accounts.secure-nexo.com^$important
 ||*.ojang.pe.kr^$important
@@ -584,7 +589,6 @@
 ||*.tuse-theta.vercel.app^$important
 ||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
-||*.universami.ge^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
