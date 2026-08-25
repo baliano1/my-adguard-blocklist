@@ -162,13 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-25 12:39:46
+! Ultimo aggiornamento automatico: 2026-08-25 15:38:00
 ||*.0022a601.pphost.net^$important
 ||*.09cbd1.icefactory.cl^$important
 ||*.0ath-2cu2n-fzd-z795c-i7y.pages.dev^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.1h.vuregyy1.ru^$important
+||*.1h.xeteloi4.ru^$important
 ||*.1noqmzrl.pages.dev^$important
 ||*.1url.at^$important
 ||*.1yvg-21tct-muh901-doxs-t1lgi.pages.dev^$important
@@ -189,6 +190,7 @@
 ||*.90j-uvez2-k7d1-pxkim8-c1m5.pages.dev^$important
 ||*._domainkey.gobbledygook.uk^$important
 ||*.a783f8.icefactory.cl^$important
+||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.adbdoc.pages.dev^$important
@@ -204,8 +206,10 @@
 ||*.ambillsaweranguru.yvk.my.id^$important
 ||*.ank-9gc-t67yu4-rdb-qslt5.pages.dev^$important
 ||*.app.appzcvb.com^$important
+||*.architekten-schreiner.de^$important
 ||*.areyouready.co.za^$important
 ||*.arublo.fijibeekeepers.com^$important
+||*.asiaengrs.com^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
@@ -241,6 +245,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cc725-a82w4-4c9q-xqs-ze8.pages.dev^$important
+||*.ccoffice.site^$important
 ||*.cdaonline.com.ar^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -249,7 +254,6 @@
 ||*.chic-dango-a98f0b.netlify.app^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
-||*.cl.ssouy.com^$important
 ||*.cleningvideos.flintrestoration.info^$important
 ||*.clocky.com.ar^$important
 ||*.clone-whatsapp-nextjs.vercel.app^$important
@@ -260,6 +264,7 @@
 ||*.co-emas.com^$important
 ||*.co-ledger-desk.pages.dev^$important
 ||*.coconutoficial.com.br^$important
+||*.codeassociates.co.ke^$important
 ||*.coinbase-lidiya.com^$important
 ||*.com-desktop-ledgrr.pages.dev^$important
 ||*.common-apps-ledgre.pages.dev^$important
@@ -397,6 +402,7 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funneldiy.com^$important
+||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
@@ -430,6 +436,7 @@
 ||*.igk-izj-f72irf-rfp5a-2cm8.pages.dev^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.ijbfi.pk^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imagehopeag.com^$important
 ||*.increasefollowersforinstagram.blogspot.com^$important
@@ -444,9 +451,7 @@
 ||*.instagramsupportverify.blogspot.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.ita-airwaysva.com^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jartd5wn.pages.dev^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
@@ -462,6 +467,7 @@
 ||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
+||*.kolpa.lol^$important
 ||*.konsor.ru^$important
 ||*.kramersmarionnettes.com^$important
 ||*.landonirwin.com^$important
@@ -481,7 +487,6 @@
 ||*.lomeqpe.com^$important
 ||*.lre24artv.fr^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -499,8 +504,8 @@
 ||*.mitra-pemesanan-lpg.hykz.shop^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
+||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
-||*.msgrouppolicy.vg^$important
 ||*.msprq724nhw-ycgfnfyn-0d9e3f-vn388a.pages.dev^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
@@ -540,8 +545,8 @@
 ||*.pic.li^$important
 ||*.pichincha-ecuador-2026--creditopich.replit.app^$important
 ||*.planetariumobil.ro^$important
+||*.plutotvshow.biz^$important
 ||*.postelnini.mk^$important
-||*.powershell-storage.vg^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prepared-salmon-cyd7dagr.edgeone.dev^$important
@@ -558,7 +563,6 @@
 ||*.qv.co.ke^$important
 ||*.ramirex.ro^$important
 ||*.rbcode.net^$important
-||*.rcf.co.mz^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
@@ -613,7 +617,6 @@
 ||*.sk-comtel.com^$important
 ||*.smak.scfrholdings.com^$important
 ||*.smartermail.host^$important
-||*.smileshiplogistics.com^$important
 ||*.smsechodata.cc^$important
 ||*.sochibeer.ru^$important
 ||*.soft.110route.com^$important
@@ -657,16 +660,17 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.theoretical-lime-xlsbhqjx.edgeone.dev^$important
-||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.tpp.om-stock.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.triapfog.com^$important
 ||*.trtmyanmar.com^$important
 ||*.trzrsuiteapp-org-engs.pages.dev^$important
 ||*.tubular-zuccutto-4a99cf.netlify.app^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
@@ -693,6 +697,7 @@
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
+||*.wordtax.ink^$important
 ||*.worker-yonggekk.kpeppe.workers.dev^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.ahhhh.pe.kr^$important
@@ -712,6 +717,7 @@
 ||*.www.cutting-edge.in^$important
 ||*.www.drgenov.com^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
@@ -775,7 +781,6 @@
 ||*.yktpm52lkww-lhjndwur-1i4i7b-ykk44p.pages.dev^$important
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
-||*.zcalton.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
