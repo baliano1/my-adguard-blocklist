@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-25 03:44:17
+! Ultimo aggiornamento automatico: 2026-08-25 06:39:31
 ||*.0022a601.pphost.net^$important
 ||*.02drbi0e.bndcy0h.com^$important
 ||*.0eoabb-9tz-ioddn6-9ylxji.pages.dev^$important
@@ -224,6 +224,7 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bcde48.icefactory.cl^$important
 ||*.bclubb.net^$important
+||*.beak.in^$important
 ||*.bet-365-koreaapp-com-0546e282.pages.dev^$important
 ||*.bet365koreaapp.com^$important
 ||*.bgrfd52vstr-hwcps38mja-8l2j6g-mt918n.pages.dev^$important
@@ -377,7 +378,6 @@
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gemini_us_log.godaddysites.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.gobiotechpestcontrol.com^$important
 ||*.godirectimagesinteractive.info^$important
@@ -394,7 +394,6 @@
 ||*.hotm.io^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
-||*.i-love-git.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ideas4women.eu^$important
 ||*.ignetwork.us^$important
@@ -577,6 +576,7 @@
 ||*.ssosigninattcomiloginn1mag1.emailupdatemicron.workers.dev^$important
 ||*.ssosigninattcomiloginuv26jx.emailupdatemicron.workers.dev^$important
 ||*.ssosigninattcomiloginwztmfn.emailupdatemicron.workers.dev^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -588,7 +588,6 @@
 ||*.surveyupdatesnow.weebly.com^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
