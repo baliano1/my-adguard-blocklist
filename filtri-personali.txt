@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-25 06:39:31
+! Ultimo aggiornamento automatico: 2026-08-25 09:31:24
 ||*.0022a601.pphost.net^$important
 ||*.02drbi0e.bndcy0h.com^$important
 ||*.0eoabb-9tz-ioddn6-9ylxji.pages.dev^$important
@@ -185,7 +185,6 @@
 ||*.65d4028a.34fsfat.workers.dev^$important
 ||*.876v786v.pages.dev^$important
 ||*.9000-firebase-anf-1781589572311.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev^$important
-||*.abdulahad.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accesd-recup.com^$important
 ||*.account-att-com-e1de65.webflow.io^$important
@@ -224,7 +223,6 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bcde48.icefactory.cl^$important
 ||*.bclubb.net^$important
-||*.beak.in^$important
 ||*.bet-365-koreaapp-com-0546e282.pages.dev^$important
 ||*.bet365koreaapp.com^$important
 ||*.bgrfd52vstr-hwcps38mja-8l2j6g-mt918n.pages.dev^$important
@@ -372,14 +370,12 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funneldiy.com^$important
-||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gemini_us_log.godaddysites.com^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.godirectimagesinteractive.info^$important
 ||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
@@ -400,16 +396,17 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imagehopeag.com^$important
+||*.indusenterprises.co^$important
 ||*.instagramfollowersfake.blogspot.com^$important
 ||*.inventoryfn.top^$important
 ||*.irbaz-abid.github.io^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
+||*.ita-airwaysva.com^$important
 ||*.itrust-captal-singin.pages.dev^$important
 ||*.itsecuredesk.au^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
 ||*.jbjns9stq8wa0sr1yrnl4.ijcai-22.org^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -430,7 +427,6 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.learn-coin-base.zapier.app^$important
 ||*.lhjnd4bdrun-yktpmpli-7h0f5g-lhq22c.pages.dev^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lisadrosss-lang.github.io^$important
 ||*.listing-3504791.sagehilltechnologies.com^$important
 ||*.lndosnr743.shop^$important
@@ -451,6 +447,7 @@
 ||*.mantileslty.online^$important
 ||*.marketplacemrecado.com.br^$important
 ||*.menchinarlizator.top^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.middle-rose-59mexohi-dp8frvkwaueh.edgeone.dev^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -475,7 +472,6 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ogs.secure-nexo.com^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.one-whatapp.com.cn^$important
@@ -571,6 +567,7 @@
 ||*.sp23ct-pelik-biz-rumav-qezik.pages.dev^$important
 ||*.sp23ct-ravel-biz-zunik-mepor.pages.dev^$important
 ||*.sp26ct-rumaz-biz-zelav-qonet.pages.dev^$important
+||*.spgint.com^$important
 ||*.ssosigninattcomilogin2jl1ec.mailpatchupdatetheta.workers.dev^$important
 ||*.ssosigninattcomiloginkgj3sv.mailpatchupdatetheta.workers.dev^$important
 ||*.ssosigninattcomiloginn1mag1.emailupdatemicron.workers.dev^$important
@@ -588,6 +585,8 @@
 ||*.surveyupdatesnow.weebly.com^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
+||*.sxetnavelelaio.com^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -610,7 +609,6 @@
 ||*.tiny.cc^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
-||*.tpp.om-stock.com^$important
 ||*.trackj.cc^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezor-fix.io^$important
@@ -764,6 +762,7 @@
 ||*.youtransfer.net^$important
 ||*.ysctfb.top^$important
 ||*.zamilgroups.com^$important
+||*.zcalton.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zhigao5191.com^$important
 ||*.zokomlfakr.eranriklis.com^$important
