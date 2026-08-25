@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-25 15:38:00
+! Ultimo aggiornamento automatico: 2026-08-25 18:34:18
 ||*.0022a601.pphost.net^$important
 ||*.09cbd1.icefactory.cl^$important
 ||*.0ath-2cu2n-fzd-z795c-i7y.pages.dev^$important
@@ -409,6 +409,7 @@
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.geniusnaledi.netlify.app^$important
+||*.gestroom.it^$important
 ||*.ghjsc3140lk-mrqxbpli-2ik79d-ghj63c.pages.dev^$important
 ||*.globalbank.us^$important
 ||*.gobbledygook.uk^$important
@@ -427,7 +428,6 @@
 ||*.hongtintuc999-vn.github.io^$important
 ||*.horoscopedatingagency.uk^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.htttps-www-roblox.co^$important
 ||*.hwidanzban.vercel.app^$important
 ||*.hyperters.github.io^$important
@@ -436,7 +436,6 @@
 ||*.igk-izj-f72irf-rfp5a-2cm8.pages.dev^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
-||*.ijbfi.pk^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imagehopeag.com^$important
 ||*.increasefollowersforinstagram.blogspot.com^$important
@@ -477,6 +476,7 @@
 ||*.ldgr-liv-dsktp.pages.dev^$important
 ||*.ledger-liveusa.zapier.app^$important
 ||*.limitbase-entitlementscompany.s3.us-east-005.backblazeb2.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.live-apps-outlook-connect.abrdns.com^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
@@ -504,7 +504,6 @@
 ||*.mitra-pemesanan-lpg.hykz.shop^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
-||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.msprq724nhw-ycgfnfyn-0d9e3f-vn388a.pages.dev^$important
 ||*.muaklekcoop.com^$important
@@ -660,7 +659,9 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.theoretical-lime-xlsbhqjx.edgeone.dev^$important
+||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
+||*.ticpc8a.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.tpp.om-stock.com^$important
