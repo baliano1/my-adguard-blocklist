@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-26 01:04:44
+! Ultimo aggiornamento automatico: 2026-08-26 03:50:40
 ||*.0022a601.pphost.net^$important
 ||*.072765.icefactory.cl^$important
 ||*.0vvbgc-se8-z0sd-e3c6y9-rxpjn.pages.dev^$important
@@ -231,7 +231,6 @@
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
 ||*.blockchainsafen0de.pages.dev^$important
 ||*.blogs.sokun.jp^$important
 ||*.bm2contabilidade.com.br^$important
@@ -253,6 +252,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccoffice.site^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cdwecce23.pages.dev^$important
 ||*.celebratingseniors.net^$important
 ||*.cf016066-wordpress-4l21s.tw1.ru^$important
@@ -264,6 +264,7 @@
 ||*.chilenosold.fzr.cl^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
+||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.cloudsenterprise26.com^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -320,6 +321,7 @@
 ||*.docs-trezor-app.pages.dev^$important
 ||*.document00.help^$important
 ||*.donkeytourscroatia.com^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.download.caihong.com^$important
@@ -426,7 +428,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.i.gal^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -442,6 +443,7 @@
 ||*.isiore.com.co^$important
 ||*.islemlerim-hemen-garanti.duckdns.org^$important
 ||*.itssprout.com^$important
+||*.ixirgroup.com^$important
 ||*.ixz9-us9w-1ub4.asantana-cinecolor-com-br-s-account.workers.dev^$important
 ||*.jawaratekno.com^$important
 ||*.jeffersonaraujo-dev.github.io^$important
@@ -467,6 +469,7 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layananpengirimantiktok.berjaya27.my.id^$important
 ||*.ledger-web-start.pages.dev^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.loginservice.cloud^$important
@@ -595,8 +598,10 @@
 ||*.solicitareservada.com^$important
 ||*.somostask.co^$important
 ||*.spgint.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
+||*.stdown.dinju.com^$important
 ||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.studiomarywilska.pl^$important
@@ -638,7 +643,7 @@
 ||*.triapfog.com^$important
 ||*.trzkq7c93qt-pxvbmnnx-6p9n1e-pxv990a.pages.dev^$important
 ||*.ttcoups.top^$important
-||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u01193lg.bndcy0h.com^$important
 ||*.unicrane.com^$important
 ||*.upaicdn.xinmei365.com^$important
