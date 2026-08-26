@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-26 12:43:32
+! Ultimo aggiornamento automatico: 2026-08-26 16:14:24
 ||*.0022a601.pphost.net^$important
 ||*.062508.icefactory.cl^$important
 ||*.117ddc.icefactory.cl^$important
@@ -229,6 +229,7 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bc707b.icefactory.cl^$important
 ||*.bcagency-sigma.vercel.app^$important
+||*.beak.in^$important
 ||*.bellsouth-att-signing-31b51f.webflow.io^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
@@ -253,7 +254,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.ccoffice.site^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cf016066-wordpress-4l21s.tw1.ru^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -262,7 +262,6 @@
 ||*.checkfivem.com^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
-||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.cloudsenterprise26.com^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -283,6 +282,7 @@
 ||*.crazy2cdn.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
+||*.cta.edu.pe^$important
 ||*.customer-matrixlimitflowcontrols.s3.us-east-005.backblazeb2.com^$important
 ||*.cute-listening-435415.framer.app^$important
 ||*.d.14yaa.com^$important
@@ -318,7 +318,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.dravemi-kxt-zorveta-a7x4dp96.pages.dev^$important
 ||*.dreamwatchevent.com^$important
@@ -344,7 +343,6 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filipesouzadeoliveira761-cyber.github.io^$important
 ||*.final-aura.top^$important
@@ -354,7 +352,6 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fnxx.info^$important
-||*.forsalenear.me^$important
 ||*.fortwin.fun^$important
 ||*.fromtop.pages.dev^$important
 ||*.fukt.link^$important
@@ -363,7 +360,6 @@
 ||*.furystaff.tech^$important
 ||*.fwna03.duckdns.org^$important
 ||*.fxjoa6xyiq.duckdns.org^$important
-||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
@@ -392,12 +388,12 @@
 ||*.https-wvvw-roblox.com^$important
 ||*.hwidaad.vercel.app^$important
 ||*.icoffeecloud.com^$important
+||*.idylliccreations.net^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imagehopeag.com^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.infinet.digital^$important
 ||*.iniciarverific.kesug.com^$important
 ||*.intraservincs-dmgugxcqbrd0a0es.canadacentral-01.azurewebsites.net^$important
@@ -406,8 +402,6 @@
 ||*.irs810-yj44p-50ltu-wid-46rig.pages.dev^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
-||*.jawaratekno.com^$important
 ||*.jeffersonaraujo-dev.github.io^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -431,10 +425,12 @@
 ||*.l50u69dg.pages.dev^$important
 ||*.landonirwin.com^$important
 ||*.lastepverifyrewadrobux.blogspot.com^$important
+||*.lavos.life^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layananpengirimantiktok.berjaya27.my.id^$important
 ||*.learns-start-ledgrr.pages.dev^$important
 ||*.legalsummoned08-29-2026.netlify.app^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.live-verif-hott.webcindario.com^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
@@ -442,19 +438,21 @@
 ||*.lomejordesalamanca.es^$important
 ||*.lomeqpe.com^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.m.imtoken-market.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.marketingcrew.co.uk^$important
-||*.meissner.ae^$important
+||*.medicosantiagomarrero.com^$important
 ||*.metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app^$important
 ||*.metamwallet.icu^$important
 ||*.metemskwalltelogi-help-guide.pages.dev^$important
 ||*.metropolitan-gray-qbggoc8v.edgeone.dev^$important
 ||*.mfacebook.vn^$important
 ||*.miriamgualda.com.br^$important
+||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
 ||*.ml.ejbgdng.com^$important
 ||*.mnurlogistics.az^$important
@@ -489,11 +487,12 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.pancakeswap-market.pages.dev^$important
+||*.pancar.lol^$important
 ||*.parasjain02.github.io^$important
+||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.perabru.github.io^$important
 ||*.pic.li^$important
-||*.pinklabel.no^$important
 ||*.planetariumobil.ro^$important
 ||*.plutotvshow.biz^$important
 ||*.postelnini.mk^$important
@@ -617,6 +616,7 @@
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tkacess.vercel.app^$important
+||*.tmcksa.com^$important
 ||*.to.lk^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
@@ -624,6 +624,7 @@
 ||*.transacao-nubank.br-tag.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.triapfog.com^$important
+||*.trtmyanmar.com^$important
 ||*.trueabinturonga2-a9g2c3f6cng2fpfn.z03.azurefd.net^$important
 ||*.trustwallet-sendusdt-tron.pages.dev^$important
 ||*.trzkq7c93qt-pxvbmnnx-6p9n1e-pxv990a.pages.dev^$important
@@ -634,6 +635,7 @@
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.us.wind0ws.net^$important
+||*.vc.tnygbw.com^$important
 ||*.vcc-library.uk^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
@@ -760,6 +762,5 @@
 ||*.zcalton.com^$important
 ||*.zenglobalenerji.com^$important
 ||*.zfovgp.top^$important
-||*.zhigao5191.com^$important
 ||*.ziaanha.github.io^$important
 ||*.zycdjz.com^$important
