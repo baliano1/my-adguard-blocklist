@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-26 16:14:24
+! Ultimo aggiornamento automatico: 2026-08-26 19:43:13
 ||*.0022a601.pphost.net^$important
 ||*.062508.icefactory.cl^$important
 ||*.117ddc.icefactory.cl^$important
@@ -360,6 +360,7 @@
 ||*.furystaff.tech^$important
 ||*.fwna03.duckdns.org^$important
 ||*.fxjoa6xyiq.duckdns.org^$important
+||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
@@ -487,7 +488,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.pancakeswap-market.pages.dev^$important
-||*.pancar.lol^$important
 ||*.parasjain02.github.io^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -763,4 +763,3 @@
 ||*.zenglobalenerji.com^$important
 ||*.zfovgp.top^$important
 ||*.ziaanha.github.io^$important
-||*.zycdjz.com^$important
