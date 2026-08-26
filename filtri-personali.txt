@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-26 06:41:02
+! Ultimo aggiornamento automatico: 2026-08-26 09:36:02
 ||*.0022a601.pphost.net^$important
 ||*.072765.icefactory.cl^$important
 ||*.0vvbgc-se8-z0sd-e3c6y9-rxpjn.pages.dev^$important
@@ -205,6 +205,7 @@
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
+||*.alphapicaficagency.com^$important
 ||*.alternativas.ru^$important
 ||*.amzn.zombie.monitor.show^$important
 ||*.app.appzcvb.com^$important
@@ -212,6 +213,7 @@
 ||*.aquaparkyoro.com^$important
 ||*.architekten-schreiner.de^$important
 ||*.areyouready.co.za^$important
+||*.asdsocial.pt^$important
 ||*.asim-24.github.io^$important
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
@@ -224,7 +226,6 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bancaonline.bancainternacional.accesopersona.com^$important
 ||*.bcagency-sigma.vercel.app^$important
-||*.beak.in^$important
 ||*.bellsouth-att-sign-in-8a5eb0.webflow.io^$important
 ||*.bellsouth-att-signing-31b51f.webflow.io^$important
 ||*.bf-cop.nnodes.cl^$important
@@ -391,10 +392,12 @@
 ||*.filerit.com^$important
 ||*.final-aura.top^$important
 ||*.first-security-verden.de^$important
+||*.fiscalizarais.xyz^$important
 ||*.flicargo.com^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fnlocker.cc^$important
+||*.forsalenear.me^$important
 ||*.fortaction.top^$important
 ||*.fortcash.pro^$important
 ||*.fortgm.pro^$important
@@ -418,6 +421,7 @@
 ||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
+||*.ghanioilandgas.com^$important
 ||*.gjk43.vercel.app^$important
 ||*.globalbank.us^$important
 ||*.grantexx.com^$important
@@ -431,12 +435,14 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.i.gal^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imagehopeag.com^$important
+||*.impectorinternational.com^$important
 ||*.impotrenitticcino.top^$important
 ||*.indusenterprises.co^$important
 ||*.iniciarverific.kesug.com^$important
@@ -472,19 +478,18 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layananpengirimantiktok.berjaya27.my.id^$important
 ||*.ledger-web-start.pages.dev^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.loginservice.cloud^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lomeqpe.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luxcar-24.com^$important
 ||*.m.imtoken-market.com^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
+||*.meissner.ae^$important
 ||*.metropolitan-gray-qbggoc8v.edgeone.dev^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -506,6 +511,7 @@
 ||*.ncxps.com^$important
 ||*.noithaticon.vn^$important
 ||*.nusatoyota.co.id^$important
+||*.nw.almfwb.com^$important
 ||*.ny.lshdw.cc^$important
 ||*.obnr.vercel.app^$important
 ||*.occdentebncoprtaltrnsccional.vercel.app^$important
@@ -540,6 +546,7 @@
 ||*.qv.co.ke^$important
 ||*.ramirex.ro^$important
 ||*.rbcode.net^$important
+||*.rcf.co.mz^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
@@ -560,6 +567,7 @@
 ||*.royalindiancurryclub.com^$important
 ||*.ruralbankofdulag.com^$important
 ||*.rxquickpay.com^$important
+||*.ryanborn.net^$important
 ||*.s.team-ek.com^$important
 ||*.s4w.in^$important
 ||*.safeuploadz.com^$important
@@ -617,7 +625,6 @@
 ||*.sxetnavelelaio.com^$important
 ||*.talentrecruitments.com^$important
 ||*.tangentwaves.com^$important
-||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
 ||*.taskpartners.vercel.app^$important
@@ -721,6 +728,7 @@
 ||*.www.namuvpn.com^$important
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
+||*.www.nishiwaki.ne.jp^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.peduli-shopee.blogspot.com^$important
