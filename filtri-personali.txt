@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-28 14:51:23
+! Ultimo aggiornamento automatico: 2026-08-28 23:50:15
 ||*.0022a601.pphost.net^$important
 ||*.0x1x2x3.top^$important
 ||*.123.ywxww.net^$important
@@ -171,18 +171,19 @@
 ||*.1h.xeteloi4.ru^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
+||*.adctanzania.co.tz^$important
 ||*.addurltogoogle.com^$important
 ||*.adityaamitk.github.io^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
 ||*.airtickts.com^$important
+||*.alahlam.sa^$important
 ||*.alarmline.com.br^$important
 ||*.alianshafqat-ctrl.github.io^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.alphapicaficagency.com^$important
-||*.alphasaling.site^$important
 ||*.alternativas.ru^$important
 ||*.amazon-ecommerce-nine.vercel.app^$important
 ||*.amparolarsonpw.com^$important
@@ -203,7 +204,6 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.baomma.kmmiiaaa.com^$important
-||*.beak.in^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
@@ -223,9 +223,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
-||*.chamjs.com^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
 ||*.checkfivem.com^$important
@@ -240,6 +238,7 @@
 ||*.coconutoficial.com.br^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
+||*.coolairesgroup.com^$important
 ||*.coralasargetia.ro^$important
 ||*.corporacioncrf.com^$important
 ||*.cpc188.day^$important
@@ -267,7 +266,6 @@
 ||*.dhamaansh76-code.github.io^$important
 ||*.dhanalakshmi-bedare.github.io^$important
 ||*.diker-bet365.com.cn^$important
-||*.dipre.com.tr^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dj-facebook.blogspot.com^$important
@@ -281,6 +279,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -294,6 +293,7 @@
 ||*.duct-master.com^$important
 ||*.dy.dpwqwaapp.xyz^$important
 ||*.dynga.pl^$important
+||*.easyaround.st^$important
 ||*.eldertechsupport.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
@@ -348,7 +348,8 @@
 ||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
-||*.gestionycobranzas.com^$important
+||*.gd.ozzhlb.net^$important
+||*.gestroom.it^$important
 ||*.get-desktop-ledgr-3m9.pages.dev^$important
 ||*.get-desktop-ledgr.pages.dev^$important
 ||*.get-ledgerlive-en.pages.dev^$important
@@ -442,6 +443,7 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
 ||*.in-app-ledgr-live.pages.dev^$important
+||*.indusenterprises.co^$important
 ||*.info-ledgr-live-wllt.pages.dev^$important
 ||*.info-ledgrcom-eng.pages.dev^$important
 ||*.info-ledgrr-live.pages.dev^$important
@@ -495,6 +497,7 @@
 ||*.learn-ledger-start-io.pages.dev^$important
 ||*.learn-ledgr-liives.pages.dev^$important
 ||*.lilong.kmmiiaaa.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.linen-harbor.com^$important
 ||*.lion.kmmiiaaa.com^$important
 ||*.live.invoice.vult.authenticat0r.buzz^$important
@@ -541,6 +544,7 @@
 ||*.onfiltre.com.tr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
+||*.packmate.in^$important
 ||*.palharesinformatica.com.br^$important
 ||*.pancar.lol^$important
 ||*.paste.mangsud.org^$important
@@ -568,7 +572,7 @@
 ||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
-||*.reservphotoinstaynow.shop^$important
+||*.reservphotoinstay.one^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
@@ -603,7 +607,10 @@
 ||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
+||*.smarthomy.cl^$important
+||*.smsechodata.cc^$important
 ||*.sochibeer.ru^$important
+||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
 ||*.somostask.co^$important
 ||*.sp22ct-kelam-biz-pazo-meni-7h2.pages.dev^$important
@@ -612,7 +619,6 @@
 ||*.spgint.com^$important
 ||*.sso-web-ledgerledger-com-start.typedream.app^$important
 ||*.start-ledger-faq-connect.typedream.app^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -643,7 +649,6 @@
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tmcksa.com^$important
-||*.tokidsa.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.tpp.om-stock.com^$important
@@ -680,7 +685,6 @@
 ||*.windomstatetheater.com^$important
 ||*.windowskernel.lol^$important
 ||*.wittenhorst.eu^$important
-||*.wordtax.ink^$important
 ||*.www--roblox.co^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.aheruw1.vercel.app^$important
@@ -826,13 +830,13 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.spotify-clone-bay-chi.vercel.app^$important
 ||*.www.spotify-clone-kilua.vercel.app^$important
-||*.www.springhillmontessori.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
 ||*.www.steamrub.com^$important
 ||*.www.support-data.com^$important
 ||*.www.surfacedesigndecorinc.vercel.app^$important
 ||*.www.tdejb.com^$important
+||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.trust-wallet-bnb.vercel.app^$important
 ||*.www.uk-facebook.blogspot.com^$important
