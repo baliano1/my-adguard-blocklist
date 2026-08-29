@@ -162,11 +162,10 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-29 18:09:00
+! Ultimo aggiornamento automatico: 2026-08-29 22:58:07
 ||*.0022a601.pphost.net^$important
 ||*.0x1x2x3.top^$important
 ||*.1056435343.vercel.app^$important
-||*.123.ywxww.net^$important
 ||*.13vwj9ylqd-8054d15b1a.vercel.app^$important
 ||*.1717.1000uc.com^$important
 ||*.1h.vuregyy1.ru^$important
@@ -225,7 +224,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.brave-tan-h4doupvw.edgeone.dev^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -241,6 +239,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn-netcoins-ca-auth.square.site^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.ceryptcomlogien.webflow.io^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -347,7 +346,6 @@
 ||*.farschid.de^$important
 ||*.fcebook-facebook.blogspot.com^$important
 ||*.fd.v2downf.shop^$important
-||*.fdstat.vip^$important
 ||*.femade.co.uk^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
@@ -364,12 +362,12 @@
 ||*.funneldiy.com^$important
 ||*.furystaff.tech^$important
 ||*.fz.tiansys.cn^$important
-||*.gabyagozetim.com^$important
 ||*.gaiadeqi.com^$important
 ||*.galerihadiah-shopee12.blogspot.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gd.ozzhlb.net^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.ghanioilandgas.com^$important
 ||*.github-software.su^$important
 ||*.globalbank.us^$important
@@ -401,7 +399,6 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.instagram-chi.vercel.app^$important
 ||*.instagram-clone-app-cyi5.bolt.host^$important
 ||*.instagram-jennifer.blogspot.com^$important
@@ -422,6 +419,7 @@
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
 ||*.killurself1337-cdn.doxbin.mom^$important
+||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kmmiiaaa.com^$important
 ||*.kokorostore.it^$important
@@ -494,9 +492,9 @@
 ||*.netcoinss-logii.webflow.io^$important
 ||*.nimble-cendol-ed4dde.netlify.app^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.nw.almfwb.com^$important
 ||*.ny.lshdw.cc^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
@@ -517,6 +515,7 @@
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prismatic-llama-57f543.netlify.app^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
+||*.protherapycenter.com^$important
 ||*.pt-shopee55.blogspot.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pulgarinrealtor.com^$important
@@ -573,6 +572,7 @@
 ||*.shopee1678.blogspot.com^$important
 ||*.shopeeid-99.blogspot.com^$important
 ||*.shopeeid729.blogspot.com^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.signageinsignia.co.za^$important
 ||*.sixmexicos.com^$important
 ||*.sk-comtel.com^$important
@@ -580,6 +580,7 @@
 ||*.smarthomy.cl^$important
 ||*.sochibeer.ru^$important
 ||*.soft-update.dev^$important
+||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
 ||*.somostask.co^$important
 ||*.sp11ct-bravik-biz8-lorpex-vansel.pages.dev^$important
@@ -610,11 +611,7 @@
 ||*.stakeholder-presentation.netlify.app^$important
 ||*.start-ledger-com-web-en.netlify.app^$important
 ||*.start-live--ledger-app.typedream.app^$important
-||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
-||*.stdown.dinju.com^$important
-||*.streammobs.com^$important
 ||*.strong-taiyaki-b6233a.netlify.app^$important
 ||*.studiogioeli.it^$important
 ||*.suite-apps-cloud-trezor.netlify.app^$important
@@ -622,7 +619,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.symphonious-travesseiro-513885.netlify.app^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -714,6 +710,7 @@
 ||*.www.go-to-accounts-dashboards.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
+||*.www.hseda.com^$important
 ||*.www.instagram-signin.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
