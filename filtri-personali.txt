@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-30 20:29:49
+! Ultimo aggiornamento automatico: 2026-08-30 23:07:13
 ||*.0022a601.pphost.net^$important
 ||*.01a04cad-42ef-7d8a-9686-837792947f0a.arena.site^$important
 ||*.0following.com^$important
@@ -170,6 +170,7 @@
 ||*.105786754.vercel.app^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
+||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
 ||*.2qdoyeotwd-d394aff8de.vercel.app^$important
 ||*.5jjen4v70c-d10b33caf0.vercel.app^$important
@@ -214,7 +215,6 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.basecamp.hostel.town^$important
-||*.beak.in^$important
 ||*.bellpass.netlify.app^$important
 ||*.bellsignin.netlify.app^$important
 ||*.bellssignin.netlify.app^$important
@@ -229,6 +229,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
@@ -383,6 +384,7 @@
 ||*.galerisenimutiara.com^$important
 ||*.gd.ozzhlb.net^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.get-ladgrehelp.zapier.app^$important
 ||*.getsupport-ios.com^$important
 ||*.ghanioilandgas.com^$important
@@ -390,7 +392,6 @@
 ||*.globalbank.us^$important
 ||*.globaldigital.vercel.app^$important
 ||*.gmail-verify.netlify.app^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.gouravchoudhary1008.github.io^$important
 ||*.goxlr.io^$important
 ||*.goxlrutility.net^$important
@@ -417,7 +418,6 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.imgtaram.com^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.instagram-clone-one-mu.vercel.app^$important
 ||*.instagram-ssew.vercel.app^$important
 ||*.instagramlogin910.blogspot.com^$important
@@ -428,7 +428,6 @@
 ||*.j168q.vip^$important
 ||*.j168r.vip^$important
 ||*.j7cw7grb3t-5d9d8f5a36.vercel.app^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -466,6 +465,7 @@
 ||*.mail.exclusives.game-en.com^$important
 ||*.mail.rstelecompa.com.br^$important
 ||*.meta-appealshelppagecenter-for.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mhcbsdfgs.art^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -491,6 +491,7 @@
 ||*.newtoolai-cs.github.io^$important
 ||*.nhhkl.blogspot.com^$important
 ||*.noithaticon.vn^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
@@ -505,7 +506,6 @@
 ||*.pay.aqiu6.com^$important
 ||*.pc.ioo-gate.cn^$important
 ||*.pc.pc-gate.cn^$important
-||*.pcupd.com^$important
 ||*.php-web-server--uniteceduc.replit.app^$important
 ||*.pic.li^$important
 ||*.planetariumobil.ro^$important
@@ -597,7 +597,6 @@
 ||*.sp28ct5-narun-biz-kemri-zolko.pages.dev^$important
 ||*.spgint.com^$important
 ||*.start-ledgren.zapier.app^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -611,7 +610,6 @@
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -642,6 +640,7 @@
 ||*.trust--wallaet--uss.pages.dev^$important
 ||*.trust-wallaet-io.pages.dev^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -760,7 +759,6 @@
 ||*.www.site-l1mv1thaw.godaddysites.com^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.steamrub.com^$important
 ||*.www.supp0rt-assistance.vercel.app^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
@@ -783,10 +781,10 @@
 ||*.yakult-hk.com^$important
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
+||*.zhigao5191.com^$important
 ||*.zlkyt02kww-bgrfd38wur-2j7j9b-bgq82x.pages.dev^$important
 ||*.zoominvite05.pages.dev^$important
 ||*.zoominviteus03.pages.dev^$important
 ||*.zoominvitewebus.pages.dev^$important
 ||*.zoomus6invite.pages.dev^$important
 ||*.zotazo.mcpvia.workers.dev^$important
-||*.zycdjz.com^$important
