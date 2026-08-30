@@ -162,14 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-30 15:58:25
+! Ultimo aggiornamento automatico: 2026-08-30 20:29:49
 ||*.0022a601.pphost.net^$important
 ||*.01a04cad-42ef-7d8a-9686-837792947f0a.arena.site^$important
+||*.0following.com^$important
 ||*.0vjbzaj5qx-ea4c03252c.vercel.app^$important
 ||*.105786754.vercel.app^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
-||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
 ||*.2qdoyeotwd-d394aff8de.vercel.app^$important
 ||*.5jjen4v70c-d10b33caf0.vercel.app^$important
@@ -229,7 +229,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
@@ -272,7 +271,6 @@
 ||*.cryptovectorhub1.lol^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
-||*.cta.edu.pe^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
@@ -359,6 +357,7 @@
 ||*.faugh-bet365.com.cn^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filequanticore.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
@@ -370,7 +369,6 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fnloot.click^$important
-||*.forsalenear.me^$important
 ||*.fortpow.com^$important
 ||*.fortvotre.top^$important
 ||*.fortys.lol^$important
@@ -385,7 +383,6 @@
 ||*.galerisenimutiara.com^$important
 ||*.gd.ozzhlb.net^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.get-ladgrehelp.zapier.app^$important
 ||*.getsupport-ios.com^$important
 ||*.ghanioilandgas.com^$important
@@ -393,6 +390,7 @@
 ||*.globalbank.us^$important
 ||*.globaldigital.vercel.app^$important
 ||*.gmail-verify.netlify.app^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.gouravchoudhary1008.github.io^$important
 ||*.goxlr.io^$important
 ||*.goxlrutility.net^$important
@@ -409,6 +407,7 @@
 ||*.hobobot.net^$important
 ||*.home-facebook.blogspot.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.https-wvvw-roblox.com^$important
 ||*.httpss--www--roblox.co^$important
 ||*.i.gal^$important
@@ -474,7 +473,6 @@
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.mon-xxx-02.cfd^$important
-||*.msedge.vg^$important
 ||*.mteamasklognxi.gitbook.io^$important
 ||*.muaklekcoop.com^$important
 ||*.muhammadhasaandev.github.io^$important
@@ -493,7 +491,6 @@
 ||*.newtoolai-cs.github.io^$important
 ||*.nhhkl.blogspot.com^$important
 ||*.noithaticon.vn^$important
-||*.nw.almfwb.com^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
@@ -552,7 +549,6 @@
 ||*.royalindiancurryclub.com^$important
 ||*.rroll.derlin.ch^$important
 ||*.rxquickpay.com^$important
-||*.ryanborn.net^$important
 ||*.s-frontend-omega.vercel.app^$important
 ||*.s4w.in^$important
 ||*.safeifm.com^$important
@@ -646,7 +642,6 @@
 ||*.trust--wallaet--uss.pages.dev^$important
 ||*.trust-wallaet-io.pages.dev^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -718,6 +713,7 @@
 ||*.www.home-facebook.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
+||*.www.hseda.com^$important
 ||*.www.imtokenq-site.com.cn^$important
 ||*.www.info-hadiah-pemenang85.blogspot.com^$important
 ||*.www.infopemenang-shopee39.blogspot.com^$important
@@ -776,6 +772,7 @@
 ||*.www.website.mypetapp.co.za^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.z-facebook.blogspot.com^$important
+||*.www.zamilgroups.com^$important
 ||*.www.zbibidan.vercel.app^$important
 ||*.www.zhikey.com^$important
 ||*.xelnor-plovik-c82fa1-hfht-r2406adw.pages.dev^$important
@@ -786,7 +783,6 @@
 ||*.yakult-hk.com^$important
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
-||*.zhigao5191.com^$important
 ||*.zlkyt02kww-bgrfd38wur-2j7j9b-bgq82x.pages.dev^$important
 ||*.zoominvite05.pages.dev^$important
 ||*.zoominviteus03.pages.dev^$important
