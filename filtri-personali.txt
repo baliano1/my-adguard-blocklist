@@ -162,17 +162,19 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-08-31 12:35:51
+! Ultimo aggiornamento automatico: 2026-08-31 20:37:29
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.13vwj9ylqd-8054d15b1a.vercel.app^$important
 ||*.1717.1000uc.com^$important
+||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.2n6m0-4s3a3e3q0a1b3-4f460e93dc28a-6c8bcec.id-cgk-1.linodeobjects.com^$important
 ||*.3.zhzy999.net^$important
+||*.3.zhzy999.net3.zhzy999.net^$important
 ||*.35a92bc9-a69c-48fe-ba30-d0080a7b7a9.vercel.app^$important
 ||*.505qd8-z027cl-oghn6-9b4oj.pages.dev^$important
 ||*.589446.xyz^$important
@@ -185,7 +187,6 @@
 ||*.accountoservoi1787402526936.2141811.meusitehostgator.com.br^$important
 ||*.acms.saleseos.com^$important
 ||*.activoformulario2026hgtghmn.github.io^$important
-||*.adctanzania.co.tz^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -230,6 +231,7 @@
 ||*.bo1xkg.sbs^$important
 ||*.bocharen.xyz^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bridg-trzoe.zapier.app^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -269,7 +271,6 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.css-ch.blogspot.com^$important
-||*.cta.edu.pe^$important
 ||*.cu2ajo.casa^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -291,6 +292,7 @@
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.diyasudhera2007-netizen.github.io^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -303,7 +305,6 @@
 ||*.download-sougou.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
-||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
@@ -338,7 +339,6 @@
 ||*.fcdemsnc.com^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filequanticore.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
@@ -370,23 +370,24 @@
 ||*.gemaba-mbh.de^$important
 ||*.general-drab-six.vercel.app^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.ghanioilandgas.com^$important
 ||*.github-software.su^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.grantexx.com^$important
 ||*.grupomarkat.com^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
+||*.harmeetmotors.com^$important
 ||*.hasalltalent.com^$important
 ||*.henvdo7xze-cb6c75f178.vercel.app^$important
+||*.hindustancargologistic.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.holidays.new.hr-rewards.com^$important
 ||*.home.iio-gate.com.cn^$important
 ||*.home.pc-gate.cn^$important
+||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.https-wvvw-roblox.com^$important
 ||*.hub-whats-whatapp.com.cn^$important
@@ -434,7 +435,6 @@
 ||*.ledger-live-logni.pages.dev^$important
 ||*.lhjnd72lowi-yktpmyk-7h8g5g-lhq13c.pages.dev^$important
 ||*.liciiousbeauty.fr^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.lnstagramchecker.github.io^$important
 ||*.local-update.com^$important
@@ -444,7 +444,6 @@
 ||*.lomejordesalamanca.es^$important
 ||*.lomeqpe.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -452,10 +451,10 @@
 ||*.manchesterzip--fabi-sel11.replit.app^$important
 ||*.martcv.com^$important
 ||*.meta-masks.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.microsoftvoicemail-b2f5h6gpeshvfuhk.z02.azurefd.net^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
-||*.mkconstructions.net^$important
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.mon-xxx-02.cfd^$important
@@ -578,7 +577,6 @@
 ||*.sk-comtel.com^$important
 ||*.slh.co.at^$important
 ||*.smartermail.host^$important
-||*.smarthomy.cl^$important
 ||*.sochibeer.ru^$important
 ||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
@@ -606,9 +604,9 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sync-whats-whatapp.com.cn^$important
 ||*.tag-whats-whatapp.com.cn^$important
-||*.taizi.fdstat.vip^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -624,6 +622,7 @@
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
+||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiiktock.sbs^$important
 ||*.tino0908-ecount-dp78obhyuaqp.edgeone.dev^$important
@@ -638,8 +637,8 @@
 ||*.trtmyanmar.com^$important
 ||*.trust-wallaet--uss.pages.dev^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
-||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.urlto.me^$important
@@ -660,6 +659,7 @@
 ||*.web.o-gate.cn^$important
 ||*.web3-easy-connect.com^$important
 ||*.webmail.sendpicz.com^$important
+||*.website.mypetapp.co.za^$important
 ||*.whiteoutworkshop.com^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
@@ -671,7 +671,6 @@
 ||*.www-mfacebook.com.vn^$important
 ||*.www.accountgetfacebook.blogspot.com^$important
 ||*.www.adsbot2-eauj.vercel.app^$important
-||*.www.agcestksa.com^$important
 ||*.www.ardguisser.com^$important
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
@@ -730,6 +729,7 @@
 ||*.www.notbak.com^$important
 ||*.www.nw-facebook.blogspot.com^$important
 ||*.www.ojang.pe.kr^$important
+||*.www.pakstones.com^$important
 ||*.www.pointtohealth.com^$important
 ||*.www.r.oblox.com.et^$important
 ||*.www.reifenquick.de^$important
@@ -758,7 +758,6 @@
 ||*.www.starcountry.net^$important
 ||*.www.support-data.com^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.vuelaviajero.com^$important
 ||*.www.wallet-connect-gate.com^$important
