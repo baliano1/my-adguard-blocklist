@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-01 13:53:59
+! Ultimo aggiornamento automatico: 2026-09-01 18:07:38
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
@@ -176,7 +176,6 @@
 ||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.8h3s-ylhr-0w82l-1tqfq1-svcrr.pages.dev^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
@@ -203,6 +202,7 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bcfxs345nh-dzkpmlpw-6l3g1e-bcf40c.pages.dev^$important
+||*.beak.in^$important
 ||*.belquna-kxt-qelmavi-c6x8dw73.pages.dev^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
@@ -219,7 +219,6 @@
 ||*.bserail.com^$important
 ||*.bvaco.com^$important
 ||*.bxgdc72jwr-yksmv61rel-2f6f8g-fmk91w.pages.dev^$important
-||*.c2.mc-live.online^$important
 ||*.cambodiatouristservice.com^$important
 ||*.casasmediterraneas.com^$important
 ||*.cat.dashabi.in^$important
@@ -260,6 +259,7 @@
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
+||*.delii.icu^$important
 ||*.deliverymailreport.co.za^$important
 ||*.delp-heizungsbau.de^$important
 ||*.denaqvor-biz-pralquremi-c3x7db24.pages.dev^$important
@@ -286,14 +286,15 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
+||*.download.tfyxzai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
 ||*.dynga.pl^$important
 ||*.dzkpm0fdran-myktrlpw-8k5i7d-my811a.pages.dev^$important
 ||*.effervescent-frangipane-6f6c64-ng1004-2406mzr.pages.dev^$important
 ||*.electri.billregulator.com^$important
+||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.eng-us-exe-dos.pages.dev^$important
 ||*.eng-us-exiedos.pages.dev^$important
@@ -305,6 +306,7 @@
 ||*.fenaqvor-biz-prenvaluta-p2m8db61.pages.dev^$important
 ||*.fev-i237y9-3zna2b-fujh-d0w4b.pages.dev^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.firsrledger.pages.dev^$important
 ||*.first-security-verden.de^$important
@@ -321,9 +323,9 @@
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gcashivannaalawiifamilyghcghhcf.blogspot.com^$important
+||*.gd.ozzhlb.net^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.get-ledgrlive-walete.pages.dev^$important
 ||*.getrbloxs.blogspot.com^$important
 ||*.github-software.su^$important
@@ -367,6 +369,7 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
+||*.jawaratekno.com^$important
 ||*.jenaqrix-biz-plamvureta-p5m3dy47.pages.dev^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -453,6 +456,7 @@
 ||*.lomeqpe.com^$important
 ||*.lp.afonsonobreadv.com.br^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.lzo-jh7-dnj3n-yjxi-a9fud.pages.dev^$important
 ||*.m.jkoa.co.kr^$important
@@ -461,7 +465,6 @@
 ||*.marnor-qustek-a58ce1-ggrbn-k2406adp.pages.dev^$important
 ||*.mellifluous-pudding-7221f8-jy1504n-gg-2406xni.pages.dev^$important
 ||*.melvoro-kxt-qervani-p9t4hc38.pages.dev^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mi-solicitud-card-8531.pages.dev^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -491,6 +494,7 @@
 ||*.noithaticon.vn^$important
 ||*.nolvik-quaren-60f8d3-njy1504bn-g2406vpe.pages.dev^$important
 ||*.norkel-zivran-a4d8c0-gb1504tt-hj2406dvo.pages.dev^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.nzn-crmbz-384ae9-fb1204b-bb-2406cya.pages.dev^$important
 ||*.ojang.pe.kr^$important
@@ -506,6 +510,8 @@
 ||*.pfatrivandrum.org^$important
 ||*.phili-theta.vercel.app^$important
 ||*.pic.li^$important
+||*.pingu.business^$important
+||*.pingu.ltd^$important
 ||*.planetariumobil.ro^$important
 ||*.plonik-zartel-a1d953-hn1504gh-tt2406mre.pages.dev^$important
 ||*.plutotvshow.biz^$important
@@ -573,7 +579,6 @@
 ||*.sochibeer.ru^$important
 ||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
-||*.somautomotivorj.com.br^$important
 ||*.somostask.co^$important
 ||*.sp12ct-framik-biz-koldor-pravsel.pages.dev^$important
 ||*.sp12ct-frensok-biz-pravsel-zormik.pages.dev^$important
@@ -670,6 +675,7 @@
 ||*.spgint.com^$important
 ||*.sportssurgeon.org.pk^$important
 ||*.stately-kataifi-f2941b-jyu1004ht-2406fyl.pages.dev^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -706,6 +712,7 @@
 ||*.tiacreation.club^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.topmark-tuitioncentre.co.uk^$important
 ||*.tormax-zelpri-9fd214-gb1504bb-r2406kvu.pages.dev^$important
 ||*.tpp.om-stock.com^$important
 ||*.tr.ee^$important
@@ -716,7 +723,6 @@
 ||*.tronix-valpek-7d32ef-brtt-h2406vra.pages.dev^$important
 ||*.trtmyanmar.com^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.ukh-8rlf-9tbid8-iot6ff-odre9.pages.dev^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -737,6 +743,7 @@
 ||*.vorvik-clenda-b7d204-rgtt-ponvek.pages.dev^$important
 ||*.vrajras.com^$important
 ||*.w.zhzy999.net^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wexlon-pardik-b90c24-br1504tt-nx2406qvk.pages.dev^$important
 ||*.widexenmexico.com.mx^$important
@@ -780,7 +787,7 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
-||*.www.ojang.pe.kr^$important
+||*.www.pingu.surf^$important
 ||*.www.pointtohealth.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.roblox.ly^$important
