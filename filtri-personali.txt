@@ -162,11 +162,10 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-02 02:42:43
+! Ultimo aggiornamento automatico: 2026-09-02 07:35:03
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0vjbzaj5qx-ea4c03252c.vercel.app^$important
-||*.123.ywxww.net^$important
 ||*.16274.xyz^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
@@ -297,13 +296,14 @@
 ||*.disk.accord1key.cn^$important
 ||*.divansh4.github.io^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
+||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download-sougou.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
@@ -358,6 +358,7 @@
 ||*.get-ledgrlive-walete.pages.dev^$important
 ||*.ggggdjjjjjzip--farma26.replit.app^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.goododeqvip.com^$important
 ||*.gottigang.netlify.app^$important
 ||*.govuk-svelte-demo.vercel.app^$important
@@ -373,7 +374,6 @@
 ||*.hindustancargologistic.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.home-live-x-ledgre.pages.dev^$important
 ||*.hotelmate.asia^$important
 ||*.hseda.com^$important
@@ -386,7 +386,6 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.instagramloginpage2021.blogspot.com^$important
 ||*.instant-as-built.de^$important
 ||*.ircftp.net^$important
@@ -395,9 +394,9 @@
 ||*.itsuppports.com^$important
 ||*.ixirgroup.com^$important
 ||*.jaiswalsandhya1234565-sketch.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
 ||*.joyeriatauro.com^$important
 ||*.jucosentino.github.io^$important
 ||*.kaustubhmaniar.github.io^$important
@@ -497,7 +496,6 @@
 ||*.lomeqpe.com^$important
 ||*.lp.afonsonobreadv.com.br^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.lykaworld.de^$important
 ||*.m.jkoa.co.kr^$important
@@ -519,7 +517,6 @@
 ||*.mtoken.loan^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
-||*.mundocarnes.cl^$important
 ||*.munihuacho.gob.pe^$important
 ||*.muriaspetin.es^$important
 ||*.mvrn86dplix-hlgf4yhy-5p0n4g-zk633a.pages.dev^$important
@@ -530,6 +527,7 @@
 ||*.netflix-informaciones.com^$important
 ||*.nextgenafrica.org^$important
 ||*.ngidit-ops.github.io^$important
+||*.ngyusa.com^$important
 ||*.noithaticon.vn^$important
 ||*.norkel-zivran-a4d8c0-gb1504tt-hj2406dvo.pages.dev^$important
 ||*.nusatoyota.co.id^$important
@@ -544,6 +542,7 @@
 ||*.openboxmints7762.netlify.app^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
+||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.paypaynejp781.replit.app^$important
 ||*.pcupd.com^$important
@@ -565,6 +564,7 @@
 ||*.promnet.jp^$important
 ||*.promo-shopee-88.blogspot.com^$important
 ||*.proteccion-bhd-leon-2023.weebly.com^$important
+||*.protherapycenter.com^$important
 ||*.ptsonline.dynv6.net^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.puncak-shopee88.blogspot.com^$important
@@ -603,6 +603,7 @@
 ||*.s4w.in^$important
 ||*.safeifm.com^$important
 ||*.safeuploadz.com^$important
+||*.sakuraloyalty.com^$important
 ||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.satinmaple4.com^$important
@@ -633,6 +634,7 @@
 ||*.smartermail.host^$important
 ||*.snorix-valten-4d0cb8-tt1504gh-p2406vde.pages.dev^$important
 ||*.sochibeer.ru^$important
+||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
 ||*.sp22ct-melok-biz-vori-nemu-18u.pages.dev^$important
 ||*.sp22ct-morak-biz-zenu-ravi-dcv.pages.dev^$important
@@ -642,11 +644,11 @@
 ||*.sp28ct-gavem-biz-quraz-zotek.pages.dev^$important
 ||*.sp29ct-telun-biz-favro-kimra.pages.dev^$important
 ||*.sp29ct-vemti-biz-kelun-fazra.pages.dev^$important
+||*.spgint.com^$important
 ||*.sportssurgeon.org.pk^$important
 ||*.ss.idms-service-cloud2-651246814854185.workers.dev^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
-||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steamcommunitly-balancework.shop^$important
 ||*.stored.steamcommunutty.com^$important
@@ -681,14 +683,15 @@
 ||*.tpp.om-stock.com^$important
 ||*.tr.ee^$important
 ||*.tr.zhzy999.net^$important
+||*.traderhype.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezoxowalleusa.pages.dev^$important
 ||*.trtmyanmar.com^$important
 ||*.tuweb-cr3d1t-001.hstn.me^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.undianshopee-46.blogspot.com^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.urhb.in^$important
@@ -713,6 +716,7 @@
 ||*.wispy-pine-fe66.wmgrnnjfifaddir.workers.dev^$important
 ||*.wittenhorst.eu^$important
 ||*.wordtax.ink^$important
+||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.182onlinee.com^$important
 ||*.www.60720.xyz^$important
 ||*.www.agcestksa.com^$important
@@ -734,7 +738,6 @@
 ||*.www.facebookfakelogin.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.gebyar-shopee-88.blogspot.com^$important
-||*.www.gestroom.it^$important
 ||*.www.getrbloxs.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
