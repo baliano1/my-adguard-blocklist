@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-02 13:11:49
+! Ultimo aggiornamento automatico: 2026-09-02 18:23:53
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
@@ -222,6 +222,7 @@
 ||*.bito.com.pk^$important
 ||*.bjdzgw.com^$important
 ||*.blankeyeo.com^$important
+||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
@@ -231,6 +232,7 @@
 ||*.breathtaking-month-404676.framer.app^$important
 ||*.bridgemanstt.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
+||*.brightroseax.blog^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
 ||*.btmailbt.weebly.com^$important
@@ -240,8 +242,6 @@
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
-||*.catbaparadisehotel.com.vn^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.challenge-meli-rafaeltorres.vercel.app^$important
 ||*.chase-sapphire-ace-demo.vercel.app^$important
@@ -268,7 +268,6 @@
 ||*.creaternjuhuj-000--createrapp000.replit.app^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
-||*.ctsfactory.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
@@ -311,6 +310,7 @@
 ||*.download.suxiazai.com^$important
 ||*.download.tfyxzai.com^$important
 ||*.dreamwatchevent.com^$important
+||*.dreemix.com^$important
 ||*.dskrp7d84gp-mbjmja-3x7v1c-dskps29c.pages.dev^$important
 ||*.dt.tbpujh.com^$important
 ||*.duct-master.com^$important
@@ -320,6 +320,7 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.emeraldstonegc.blog^$important
 ||*.en.taichuan.com^$important
 ||*.en24cs3010777-jpg.github.io^$important
 ||*.endpoint.project0.cc^$important
@@ -332,6 +333,7 @@
 ||*.farschid.de^$important
 ||*.fb-meta-verified-3658-five.vercel.app^$important
 ||*.fd.v2downf.shop^$important
+||*.fdstat.vip^$important
 ||*.ffbnffjhfyuyuudb.weebly.com^$important
 ||*.file-whatsappn.hl.cn^$important
 ||*.file.blackint3.com^$important
@@ -359,7 +361,6 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestionesacademicas2026.iceiy.com^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.ghfcy004lk-pzxqnplx-5t2s4g-ghf84c.pages.dev^$important
 ||*.ghfcy7481lk-pzxqnpli-5tx28d-ghf25c.pages.dev^$important
 ||*.globalbank.us^$important
@@ -388,6 +389,8 @@
 ||*.impectorinternational.com^$important
 ||*.imtokens.tronscoin.com^$important
 ||*.in-trezrsuite.pages.dev^$important
+||*.indeanapolice.cc^$important
+||*.indusenterprises.co^$important
 ||*.instagram-loginn.vercel.app^$important
 ||*.instagramlogin124.blogspot.com^$important
 ||*.interface-beta-eight.vercel.app^$important
@@ -396,6 +399,7 @@
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jaiswalsandhya1234565-sketch.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -405,6 +409,7 @@
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
 ||*.kimyen.net^$important
+||*.kis.marketing^$important
 ||*.kits.frog.tw^$important
 ||*.kjandiaodaadwd1.vercel.app^$important
 ||*.kokorostore.it^$important
@@ -412,7 +417,6 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.legitcps.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.little-brook-f4c8.sfersjgd.workers.dev^$important
 ||*.lktvr3gtqtw-pzxqnnnx-1u0s7e-pz700a.pages.dev^$important
 ||*.lktvr52ghf-pzxqn84mbj-4v8v1g-ds147b.pages.dev^$important
@@ -434,6 +438,8 @@
 ||*.m3650273853-cloud-preview-shared-document-n2.live-document-m36592056.workers.dev^$important
 ||*.m59fo-57n-s1m04-r5fe8-w0qks.pages.dev^$important
 ||*.maidforyou1985.com^$important
+||*.mail.brightroseax.blog^$important
+||*.mail.emeraldstonegc.blog^$important
 ||*.mailify.cc^$important
 ||*.mamaaback.vercel.app^$important
 ||*.mercado-libre-front-end.vercel.app^$important
@@ -461,6 +467,7 @@
 ||*.noithaticon.vn^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
+||*.odinclient.dev^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.one.connect-whatapp.com.cn^$important
@@ -468,14 +475,13 @@
 ||*.orangdj.delettrecharpente.fr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
-||*.palharesinformatica.com.br^$important
+||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
 ||*.pic.li^$important
 ||*.pingu.business^$important
 ||*.pingu.ltd^$important
 ||*.planetariumobil.ro^$important
-||*.plutotvshow.biz^$important
 ||*.porterneuman.mx^$important
 ||*.postelnini.mk^$important
 ||*.practisingcertificateprotection.com^$important
@@ -522,7 +528,6 @@
 ||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.satinmaple4.com^$important
-||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.scrroeder.com^$important
@@ -548,14 +553,12 @@
 ||*.soft.110route.com^$important
 ||*.solana-pay-dusky.vercel.app^$important
 ||*.solar-sanat.net^$important
-||*.somautomotivorj.com.br^$important
 ||*.sonyps4customerservice.blogspot.com^$important
 ||*.sp23ct-vunel-biz-zemik-polar.pages.dev^$important
 ||*.spgint.com^$important
 ||*.spicy-event-237486.framer.app^$important
 ||*.spofiy-hardware.online^$important
 ||*.sportssurgeon.org.pk^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -566,11 +569,11 @@
 ||*.suprememarketing.co.in^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
+||*.taskerempresascol.co^$important
 ||*.taunahi.st^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
@@ -593,6 +596,7 @@
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
+||*.tpp.om-stock.com^$important
 ||*.tr.ee^$important
 ||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
@@ -705,7 +709,6 @@
 ||*.www.frontend-eight-gamma-89.vercel.app^$important
 ||*.www.geamini-looggoiinn.godaddysites.com^$important
 ||*.www.geminimgloginn.godaddysites.com^$important
-||*.www.gestroom.it^$important
 ||*.www.gh0stmap.vercel.app^$important
 ||*.www.gid4life.blogspot.com^$important
 ||*.www.global-server-mail.vercel.app^$important
@@ -755,6 +758,7 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.novapharma.org^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.onlydotas2.hop.ru^$important
 ||*.www.ortonhall.spahotel.guru^$important
 ||*.www.pingu.surf^$important
