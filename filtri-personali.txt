@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-02 18:23:53
+! Ultimo aggiornamento automatico: 2026-09-02 22:57:35
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
@@ -217,7 +217,6 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.beacon.ltdglobal.co.uk^$important
-||*.beak.in^$important
 ||*.bitly.cx^$important
 ||*.bito.com.pk^$important
 ||*.bjdzgw.com^$important
@@ -229,6 +228,7 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bogodukhov.com.ua^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.breathtaking-month-404676.framer.app^$important
 ||*.bridgemanstt.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -242,11 +242,11 @@
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
+||*.catbaparadisehotel.com.vn^$important
 ||*.celebratingseniors.net^$important
 ||*.challenge-meli-rafaeltorres.vercel.app^$important
 ||*.chase-sapphire-ace-demo.vercel.app^$important
 ||*.chat-server.maverickpreviews.com^$important
-||*.cheatclients.com^$important
 ||*.checkfivem.com^$important
 ||*.chiptune.com^$important
 ||*.chuguadventures.co.tz^$important
@@ -291,7 +291,6 @@
 ||*.discord-clone-project-gamma.vercel.app^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -333,11 +332,9 @@
 ||*.farschid.de^$important
 ||*.fb-meta-verified-3658-five.vercel.app^$important
 ||*.fd.v2downf.shop^$important
-||*.fdstat.vip^$important
 ||*.ffbnffjhfyuyuudb.weebly.com^$important
 ||*.file-whatsappn.hl.cn^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flint-32.com^$important
@@ -361,6 +358,7 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestionesacademicas2026.iceiy.com^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.ghfcy004lk-pzxqnplx-5t2s4g-ghf84c.pages.dev^$important
 ||*.ghfcy7481lk-pzxqnpli-5tx28d-ghf25c.pages.dev^$important
 ||*.globalbank.us^$important
@@ -389,13 +387,13 @@
 ||*.impectorinternational.com^$important
 ||*.imtokens.tronscoin.com^$important
 ||*.in-trezrsuite.pages.dev^$important
-||*.indeanapolice.cc^$important
 ||*.indusenterprises.co^$important
 ||*.instagram-loginn.vercel.app^$important
 ||*.instagramlogin124.blogspot.com^$important
 ||*.interface-beta-eight.vercel.app^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
+||*.ita-airwaysva.com^$important
 ||*.itssprout.com^$important
 ||*.ixirgroup.com^$important
 ||*.jaiswalsandhya1234565-sketch.github.io^$important
@@ -408,8 +406,6 @@
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
-||*.kimyen.net^$important
-||*.kis.marketing^$important
 ||*.kits.frog.tw^$important
 ||*.kjandiaodaadwd1.vercel.app^$important
 ||*.kokorostore.it^$important
@@ -417,6 +413,7 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.legitcps.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.little-brook-f4c8.sfersjgd.workers.dev^$important
 ||*.lktvr3gtqtw-pzxqnnnx-1u0s7e-pz700a.pages.dev^$important
 ||*.lktvr52ghf-pzxqn84mbj-4v8v1g-ds147b.pages.dev^$important
@@ -426,12 +423,10 @@
 ||*.logininstagram.blogspot.com^$important
 ||*.loginusagemini.godaddysites.com^$important
 ||*.lomejordesalamanca.es^$important
-||*.lomeqpe.com^$important
 ||*.lp.afonsonobreadv.com.br^$important
 ||*.lrezqnie61wp5d9rnwu.vercel.app^$important
 ||*.luisvalverdes833-coder.github.io^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -444,7 +439,6 @@
 ||*.mamaaback.vercel.app^$important
 ||*.mercado-libre-front-end.vercel.app^$important
 ||*.messagerie01-blocagebox.abrdns.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mnurlogistics.az^$important
@@ -462,7 +456,6 @@
 ||*.ncxps.com^$important
 ||*.netflix-github-com.vercel.app^$important
 ||*.netflixcasino.co.it^$important
-||*.ngyusa.com^$important
 ||*.njj.standard.us-east-1.oortstorages.com^$important
 ||*.noithaticon.vn^$important
 ||*.nusatoyota.co.id^$important
@@ -475,6 +468,7 @@
 ||*.orangdj.delettrecharpente.fr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
+||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
@@ -482,6 +476,7 @@
 ||*.pingu.business^$important
 ||*.pingu.ltd^$important
 ||*.planetariumobil.ro^$important
+||*.plutotvshow.biz^$important
 ||*.porterneuman.mx^$important
 ||*.postelnini.mk^$important
 ||*.practisingcertificateprotection.com^$important
@@ -569,12 +564,14 @@
 ||*.suprememarketing.co.in^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
 ||*.taskerempresascol.co^$important
 ||*.taunahi.st^$important
+||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telstra243.blogspot.com^$important
@@ -620,7 +617,6 @@
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
-||*.vincentdemiero.com^$important
 ||*.visam.info^$important
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
