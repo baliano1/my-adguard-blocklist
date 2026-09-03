@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-03 02:48:08
+! Ultimo aggiornamento automatico: 2026-09-03 07:43:50
 ||*.000ek4ploe.weebly.com^$important
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
@@ -177,6 +177,7 @@
 ||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.aadityapalsagwan.github.io^$important
 ||*.aaofrx1mfv-76a5a3a10d.vercel.app^$important
+||*.abonent-app.ru^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accounts.velonqore.com^$important
 ||*.aceleresuasantagens.s3.us-east-005.backblazeb2.com^$important
@@ -222,6 +223,7 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bancoitauconsig.com^$important
 ||*.beacon.ltdglobal.co.uk^$important
+||*.beak.in^$important
 ||*.benotrobot.online^$important
 ||*.bigbauer.com^$important
 ||*.bito.com.pk^$important
@@ -235,10 +237,8 @@
 ||*.bnet.playm8ru.win^$important
 ||*.boklsngstaysdetails.com^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightroseax.blog^$important
-||*.brightworks.cz^$important
 ||*.bserail.com^$important
 ||*.bvaco.com^$important
 ||*.call.whatapp-ml.com.cn^$important
@@ -251,6 +251,7 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
+||*.cheatclients.com^$important
 ||*.check-problem-about.meta-helps.com^$important
 ||*.checkfivem.com^$important
 ||*.chiptune.com^$important
@@ -283,7 +284,6 @@
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
-||*.deliciassobencomenda.com.br^$important
 ||*.delii.icu^$important
 ||*.deliverymailreport.co.za^$important
 ||*.delp-heizungsbau.de^$important
@@ -293,6 +293,7 @@
 ||*.dfd.zhzy999.net^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.dnxx.xenxe.biz.id^$important
@@ -338,6 +339,7 @@
 ||*.fb-meta-verified-3658-five.vercel.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flint-32.com^$important
@@ -388,7 +390,6 @@
 ||*.invrecoverytollinkt.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.ita-airwaysva.com^$important
 ||*.itau-snowy.vercel.app^$important
 ||*.itauu.vercel.app^$important
 ||*.itssprout.com^$important
@@ -405,6 +406,7 @@
 ||*.kenwillzltd.com^$important
 ||*.keshav529.github.io^$important
 ||*.khavar.com^$important
+||*.kimyen.net^$important
 ||*.kits.frog.tw^$important
 ||*.kokorostore.it^$important
 ||*.konsor.ru^$important
@@ -418,13 +420,13 @@
 ||*.loginmicrosoft.fwh.is^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.brightroseax.blog^$important
 ||*.mail.emeraldstonegc.blog^$important
-||*.mailify.cc^$important
 ||*.malakproduction.com^$important
 ||*.mdborhanulislam8-af.github.io^$important
 ||*.mercado-libre-frontend.vercel.app^$important
@@ -448,10 +450,12 @@
 ||*.n.vs108.com^$important
 ||*.ncafepost.com^$important
 ||*.ncxps.com^$important
+||*.neilshairdressers.co.uk^$important
 ||*.noithaticon.vn^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.dev^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
@@ -459,7 +463,6 @@
 ||*.only1sam20.github.io^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
-||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.pc.instagram-e.com.cn^$important
 ||*.pcupd.com^$important
@@ -518,6 +521,7 @@
 ||*.sarveshwarg2026.github.io^$important
 ||*.satinmaple4.com^$important
 ||*.sayan-444.github.io^$important
+||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.scrroeder.com^$important
@@ -549,13 +553,12 @@
 ||*.spgint.com^$important
 ||*.srpranto.github.io^$important
 ||*.started-led-ger.framer.website^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.submit-problem-about.meta-helps.com^$important
-||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
@@ -565,7 +568,6 @@
 ||*.tarkioweb.com^$important
 ||*.taskerempresascol.co^$important
 ||*.taunahi.st^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telstra23.blogspot.com^$important
@@ -578,7 +580,6 @@
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
 ||*.theservice4u.com^$important
-||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiny.cc^$important
 ||*.to.lk^$important
@@ -592,7 +593,6 @@
 ||*.tt-facebook.blogspot.com^$important
 ||*.twcv.weebly.com^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -605,9 +605,9 @@
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vgd.vg^$important
+||*.vintageeventos.com.mx^$important
 ||*.visam.info^$important
 ||*.vizyonuniversitesi.com.tr^$important
-||*.vizyonuniversitesi.web.tr^$important
 ||*.vrajras.com^$important
 ||*.vw4erh1s34-042627db98.vercel.app^$important
 ||*.w.zhzy999.net^$important
@@ -699,7 +699,6 @@
 ||*.www.govuk-svelte-demo.vercel.app^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
-||*.www.hseda.com^$important
 ||*.www.httpverfi-cecompte-buro-wbemai-id-retrunsectionusl-inboxwhct.usluga.me^$important
 ||*.www.iman110.com^$important
 ||*.www.infogmx.de^$important
@@ -769,7 +768,6 @@
 ||*.www.support-data.com^$important
 ||*.www.taxasnovasreducao.online^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.telstra23.blogspot.com^$important
 ||*.www.test-tau-black-69.vercel.app^$important
 ||*.www.test.peperoncinochepassione.it^$important
