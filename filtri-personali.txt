@@ -162,20 +162,21 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-03 18:18:45
+! Ultimo aggiornamento automatico: 2026-09-03 22:57:25
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.10qin-wps.api-ms365-cloud.workers.dev^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
-||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
+||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
 ||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.34c343c.pages.dev^$important
 ||*.5klandaxax5.blogspot.com^$important
+||*.PEDIANOW.ORG^$important
 ||*.a29807753-byte.github.io^$important
 ||*.aadityapalsagwan.github.io^$important
 ||*.aaofrx1mfv-76a5a3a10d.vercel.app^$important
@@ -216,6 +217,7 @@
 ||*.aumentolija.s3.us-east-005.backblazeb2.com^$important
 ||*.avanteshipping.com^$important
 ||*.awarenessexhibition.com^$important
+||*.b2b.jewmailer.net^$important
 ||*.backupso.com^$important
 ||*.bah5szv.myrdbx.io^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
@@ -252,6 +254,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.cheatclients.com^$important
@@ -277,7 +280,6 @@
 ||*.coralasargetia.ro^$important
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
-||*.crazy2cdn.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.currency.777coin.top^$important
@@ -311,7 +313,6 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
-||*.download-sougou.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -319,7 +320,6 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
-||*.download.tfyxzai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.dreemix.com^$important
 ||*.duct-master.com^$important
@@ -334,7 +334,6 @@
 ||*.endpoint.project0.cc^$important
 ||*.epanpano.com^$important
 ||*.erscstattungif92.site^$important
-||*.eventourarte.cl^$important
 ||*.evoatc.com^$important
 ||*.excel-eight-flax.vercel.app^$important
 ||*.extpaypalupdatenonqs.blogspot.com^$important
@@ -347,6 +346,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.feat-gardening-prerequisite-welcome.trycloudflare.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flint-32.com^$important
@@ -366,7 +366,6 @@
 ||*.gbagobar.vercel.app^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.ghytyk7ugyh6ygy6yg.weebly.com^$important
 ||*.globalbank.us^$important
 ||*.grantexx.com^$important
@@ -383,6 +382,7 @@
 ||*.hobobot.net^$important
 ||*.hse-card.com^$important
 ||*.hse-renewals.com^$important
+||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.https-wvvw-roblox.com^$important
 ||*.https-wwwv-roblox.co^$important
@@ -402,7 +402,6 @@
 ||*.isiore.com.co^$important
 ||*.itauu.vercel.app^$important
 ||*.itssprout.com^$important
-||*.ixirgroup.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -428,7 +427,9 @@
 ||*.login-virement.jimdofree.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
+||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.brightroseax.blog^$important
@@ -437,7 +438,6 @@
 ||*.mbfsl.com^$important
 ||*.md.rytzskl.com^$important
 ||*.mercadolibre-details.vercel.app^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mgpxq.com^$important
 ||*.mi-solicitud-3917-production.up.railway.app^$important
 ||*.miriamgualda.com.br^$important
@@ -561,6 +561,7 @@
 ||*.solar-sanat.net^$important
 ||*.somentehoje.s3.us-east-005.backblazeb2.com^$important
 ||*.spgint.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -597,6 +598,7 @@
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
+||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
@@ -604,6 +606,7 @@
 ||*.tt-facebook.blogspot.com^$important
 ||*.tuiskr.com^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.uc0ajq-nk.myshopify.com^$important
 ||*.uke50neeqi3azcmqnbe.vercel.app^$important
@@ -738,7 +741,6 @@
 ||*.www.mp.pancake.run^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
-||*.www.nccommunication.be^$important
 ||*.www.netflix-clone-html-css.vercel.app^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
