@@ -162,11 +162,12 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-04 02:46:18
+! Ultimo aggiornamento automatico: 2026-09-04 07:40:24
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
+||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
 ||*.1xlite-64426.today^$important
@@ -221,7 +222,6 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bancavirtual-solicitud-634-production.up.railway.app^$important
 ||*.banco-pichincha.weebly.com^$important
-||*.beak.in^$important
 ||*.bedgries0b.azurewebsites.net^$important
 ||*.benotrobot.online^$important
 ||*.bito.com.pk^$important
@@ -254,6 +254,7 @@
 ||*.cheatclients.com^$important
 ||*.checkfivem.com^$important
 ||*.chiptune.com^$important
+||*.chiroartist.com^$important
 ||*.chmbhcjmbhcjmmmmmmm.weebly.com^$important
 ||*.christopherchidera123-svg.github.io^$important
 ||*.chuguadventures.co.tz^$important
@@ -340,7 +341,6 @@
 ||*.fern-plume.com^$important
 ||*.fidlerontheroofkccom.s3.us-east-2.amazonaws.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flowport098.us-iad-10.linodeobjects.com^$important
@@ -447,6 +447,7 @@
 ||*.mehedi-web-dev.github.io^$important
 ||*.mercadolibre-challenge-florabril.vercel.app^$important
 ||*.metamask-portal.yzz.me^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mgpxq.com^$important
 ||*.microsoftword.programgridsoft.com^$important
 ||*.miriamgualda.com.br^$important
@@ -471,7 +472,6 @@
 ||*.nlink.at^$important
 ||*.node-slate.com^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.dev^$important
 ||*.ojang.pe.kr^$important
@@ -562,6 +562,7 @@
 ||*.sg123.net^$important
 ||*.shopee-848.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.shreesaiseva.org^$important
 ||*.siaasesoria.com.mx^$important
 ||*.signageinsignia.co.za^$important
 ||*.signinattcomdynamicilriaplogin3ymqyiym6h.mailupdatealpha.workers.dev^$important
@@ -603,7 +604,6 @@
 ||*.teerathlucky12.github.io^$important
 ||*.tehnomag.rs^$important
 ||*.tejas3861.github.io^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
@@ -710,6 +710,7 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.flyn.co^$important
 ||*.www.gbagobar.vercel.app^$important
+||*.www.gestroom.it^$important
 ||*.www.gpluspsawe.weebly.com^$important
 ||*.www.hadiah-shopee1111.blogspot.com^$important
 ||*.www.hakunamatata.hostel.town^$important
@@ -743,6 +744,7 @@
 ||*.www.myvcart.com^$important
 ||*.www.nachocebu.hostel.town^$important
 ||*.www.namuvpn.com^$important
+||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
@@ -815,5 +817,4 @@
 ||*.zamowienie8x.lat^$important
 ||*.zamowienie9x.lat^$important
 ||*.zeta-facebook.blogspot.com^$important
-||*.zhigao5191.com^$important
 ||*.zycdjz.com^$important
