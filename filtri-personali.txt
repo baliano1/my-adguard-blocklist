@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-04 13:07:05
+! Ultimo aggiornamento automatico: 2026-09-04 18:02:50
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0ki94-nvz-bhpf-bzxc-our4.pages.dev^$important
@@ -171,14 +171,12 @@
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
-||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
 ||*.1xbetbk1.com^$important
 ||*.25fthr77.blogspot.com^$important
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
 ||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
-||*.3brosstore.com^$important
 ||*.3s1inc.com^$important
 ||*.999.34c9f78b4ef541baac4a6e84d4f832a7.lol^$important
 ||*.PEDIANOW.ORG^$important
@@ -225,12 +223,12 @@
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightroseax.blog^$important
 ||*.brightworks.cz^$important
@@ -269,7 +267,6 @@
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
 ||*.crystalpvp.ru^$important
-||*.cs.go.kg^$important
 ||*.cyclograph.xyz^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -283,7 +280,6 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dfd.zhzy999.net^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.djdkkdjbdhshaww.weebly.com^$important
 ||*.dl.1003b.56a.com^$important
@@ -293,15 +289,17 @@
 ||*.dolaition-bit.github.io^$important
 ||*.done4you.tv^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
+||*.download.tfyxzai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.dreemix.com^$important
 ||*.duct-master.com^$important
@@ -331,6 +329,7 @@
 ||*.fern-plume.com^$important
 ||*.fidlerontheroofkccom.s3.us-east-2.amazonaws.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filecon.sbs^$important
 ||*.filerit.com^$important
 ||*.finaznauto.es^$important
@@ -345,6 +344,7 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funneldiy.com^$important
+||*.fz.tiansys.cn^$important
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gandhibali.org^$important
@@ -354,7 +354,6 @@
 ||*.geotehnica.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.goo.su^$important
 ||*.grantexx.com^$important
@@ -386,7 +385,6 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
 ||*.incrementoautomatico.firebaseapp.com^$important
-||*.indusenterprises.co^$important
 ||*.infocardphoto.info^$important
 ||*.infolayanan-shopee47.blogspot.com^$important
 ||*.iphoneapplepaycharged-contacthelpdesk-vwvwnsnh.on-forge.com^$important
@@ -416,20 +414,22 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layanan-undian66.blogspot.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.lonato-cc-il-leone-shopping-center.vodafone-on-line.it^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jinwanglai.com^$important
+||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m93g57n8y-dpi68p6e0a00.edgeone.dev^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.brightroseax.blog^$important
 ||*.mail.emeraldstonegc.blog^$important
 ||*.mentaclean.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mftb-concerts.de^$important
 ||*.mgpxq.com^$important
 ||*.midasnews.mobileaccesx-events.com^$important
@@ -461,7 +461,6 @@
 ||*.nicopolzin.de^$important
 ||*.node-slate.com^$important
 ||*.noithaticon.vn^$important
-||*.northernvirginiaeyeassociates.com^$important
 ||*.notifications.microsoft-ssl.com^$important
 ||*.novix24.de^$important
 ||*.nusatoyota.co.id^$important
@@ -482,6 +481,7 @@
 ||*.page-portal-alert-gcx3fk.vercel.app^$important
 ||*.page-portal-integrity-phxsqr.vercel.app^$important
 ||*.palharesinformatica.com.br^$important
+||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pembatalan-pinjamaanz.resmi-qui.my.id^$important
 ||*.pemenang-shopee4.blogspot.com^$important
@@ -580,7 +580,6 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swanvalleycoop.vercel.app^$important
 ||*.swedberg-hodgkinson.s3.eu-north-1.amazonaws.com^$important
-||*.take-care.africa^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -606,6 +605,7 @@
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
+||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
