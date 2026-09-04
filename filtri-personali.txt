@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-04 18:02:50
+! Ultimo aggiornamento automatico: 2026-09-04 22:46:04
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0ki94-nvz-bhpf-bzxc-our4.pages.dev^$important
@@ -171,6 +171,7 @@
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
+||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
 ||*.1xbetbk1.com^$important
 ||*.25fthr77.blogspot.com^$important
@@ -184,6 +185,7 @@
 ||*.abonent-app.ru^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
+||*.adctanzania.co.tz^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -228,7 +230,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightroseax.blog^$important
 ||*.brightworks.cz^$important
@@ -242,6 +243,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chargesfoundcalluandtakeaction-xiw3etfz.on-forge.com^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -267,6 +269,7 @@
 ||*.cpc188.day^$important
 ||*.cpofficial.com^$important
 ||*.crystalpvp.ru^$important
+||*.cs.go.kg^$important
 ||*.cyclograph.xyz^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -277,9 +280,11 @@
 ||*.deagroup-ks.com^$important
 ||*.deliverymailreport.co.za^$important
 ||*.delp-heizungsbau.de^$important
+||*.deoriatimes.com^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dfd.zhzy999.net^$important
+||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.djdkkdjbdhshaww.weebly.com^$important
 ||*.dl.1003b.56a.com^$important
@@ -289,6 +294,7 @@
 ||*.dolaition-bit.github.io^$important
 ||*.done4you.tv^$important
 ||*.donkeytourscroatia.com^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -337,6 +343,7 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.formidable-ivory-hy7ukyrb.edgeone.dev^$important
+||*.fotosdepuebla.org^$important
 ||*.free-5532335.webadorsite.com^$important
 ||*.free-5555167.webadorsite.com^$important
 ||*.freiburger-gruendertage.de^$important
@@ -355,8 +362,8 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
-||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.h57365.cc^$important
@@ -414,7 +421,6 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.layanan-undian66.blogspot.com^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
@@ -568,7 +574,6 @@
 ||*.sso-trezor-com-start-x-auth.typedream.app^$important
 ||*.stardustottawa.com^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steamcommunitly-glockbalancework.shop^$important
@@ -580,6 +585,7 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swanvalleycoop.vercel.app^$important
 ||*.swedberg-hodgkinson.s3.eu-north-1.amazonaws.com^$important
+||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -697,7 +703,6 @@
 ||*.www.free-5555167.webadorsite.com^$important
 ||*.www.gebyar-shopee2026.blogspot.com^$important
 ||*.www.gemini-project.eu^$important
-||*.www.gestroom.it^$important
 ||*.www.hadiah-shopee1111.blogspot.com^$important
 ||*.www.hadiah-shopee2023.blogspot.com^$important
 ||*.www.hadiahshopee3434.blogspot.com^$important
