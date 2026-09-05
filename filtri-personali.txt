@@ -162,9 +162,8 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-05 12:19:51
+! Ultimo aggiornamento automatico: 2026-09-05 17:06:33
 ||*.0022a601.pphost.net^$important
-||*.0following.com^$important
 ||*.0s8k-x5e9-qtge.aflores-rorealty-com-s-account.workers.dev^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -172,6 +171,7 @@
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
+||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
@@ -188,6 +188,7 @@
 ||*.abhila45.github.io^$important
 ||*.abonent-app.ru^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.accountservicescenter.co.za^$important
 ||*.acms.saleseos.com^$important
 ||*.addurltogoogle.com^$important
@@ -265,7 +266,6 @@
 ||*.cloud.shikarathekashmirspride.com^$important
 ||*.cloudeliveryenterprise.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coconutoficial.com.br^$important
 ||*.communication-hub.vg^$important
@@ -302,10 +302,8 @@
 ||*.dhlcypr.us.cc^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.link-whats-whatapp.com.cn^$important
-||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
@@ -340,7 +338,6 @@
 ||*.fd.v2downf.shop^$important
 ||*.fern-plume.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filecon.sbs^$important
 ||*.filerit.com^$important
 ||*.first-agency-743956.framer.app^$important
@@ -360,6 +357,7 @@
 ||*.gebyar-shopee84.blogspot.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.giftscommunity.beer^$important
 ||*.glamorous-galaxy-093116.framer.app^$important
 ||*.globalbank.us^$important
@@ -430,7 +428,6 @@
 ||*.logintocomcast.weebly.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.ls.trezorrussia.ru^$important
-||*.luizmatoso.com.br^$important
 ||*.luminouspower.com.pk^$important
 ||*.lx4i.ens78.cc^$important
 ||*.ly-facebook.blogspot.com^$important
@@ -443,7 +440,6 @@
 ||*.masimuddin.com^$important
 ||*.megaofertss.com^$important
 ||*.meranova.top^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mickyyk.github.io^$important
 ||*.microsaft-365.com^$important
 ||*.miriamgualda.com.br^$important
@@ -454,7 +450,6 @@
 ||*.mogimall.com^$important
 ||*.mohitrajpu15252-dev.github.io^$important
 ||*.mrsweaterltd.com^$important
-||*.msedge.vg^$important
 ||*.mtoken.baby^$important
 ||*.mtoken.click^$important
 ||*.muaklekcoop.com^$important
@@ -476,7 +471,6 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.dev^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.oluwatoyindev-tech.github.io^$important
@@ -537,7 +531,7 @@
 ||*.rxquickpay.com^$important
 ||*.s47p.top^$important
 ||*.s4w.in^$important
-||*.safeuploadz.com^$important
+||*.safeifm.com^$important
 ||*.sales.ifree.page^$important
 ||*.sallim.alwaysdata.net^$important
 ||*.samiksha.com.sg^$important
@@ -568,12 +562,12 @@
 ||*.smackapp.com^$important
 ||*.smartermail.host^$important
 ||*.sochibeer.ru^$important
+||*.soft.110route.com^$important
 ||*.solar-sanat.net^$important
 ||*.sp11ct-jarsik-biz8-pelnor-vadrek.pages.dev^$important
 ||*.sp30ct-munok-biz-zarix-kemel.pages.dev^$important
 ||*.spgint.com^$important
 ||*.spif394.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -585,6 +579,7 @@
 ||*.surajyadav-07.github.io^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -691,6 +686,7 @@
 ||*.www.formento1932.it^$important
 ||*.www.galerihadiah749.blogspot.com^$important
 ||*.www.gebyar-shopee84.blogspot.com^$important
+||*.www.gestroom.it^$important
 ||*.www.h5.ring-whatapp.com.cn^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
