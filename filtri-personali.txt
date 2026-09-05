@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-05 02:47:55
+! Ultimo aggiornamento automatico: 2026-09-05 07:22:01
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0s8k-x5e9-qtge.aflores-rorealty-com-s-account.workers.dev^$important
@@ -181,6 +181,7 @@
 ||*.3cud-je09-uln1.accounting-coralridgetowerssouth-com-s-account.workers.dev^$important
 ||*.523486.xyz^$important
 ||*.643467.xyz^$important
+||*.6ak-tehnik.si^$important
 ||*.7wk0-c0co-0t2l.dturcotte-predictms-com-s-account.workers.dev^$important
 ||*.999.34c9f78b4ef541baac4a6e84d4f832a7.lol^$important
 ||*.PEDIANOW.ORG^$important
@@ -190,7 +191,6 @@
 ||*.account-att-com-cb52f4.webflow.io^$important
 ||*.accountservicescenter.co.za^$important
 ||*.acms.saleseos.com^$important
-||*.adctanzania.co.tz^$important
 ||*.addurltogoogle.com^$important
 ||*.admin-instagram.orderyuk.info^$important
 ||*.admin.byte.in.ua^$important
@@ -352,7 +352,6 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.formidable-ivory-hy7ukyrb.edgeone.dev^$important
-||*.fotosdepuebla.org^$important
 ||*.frosttreasurycomect.corn-iu-baking.top^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
@@ -367,11 +366,12 @@
 ||*.gebyar-shopee84.blogspot.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.giftscommunity.beer^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
 ||*.grand-prize60.blogspot.com^$important
+||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.haiiiihello.top^$important
@@ -388,6 +388,7 @@
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.hy.iudxed.com^$important
+||*.i-love-git.com^$important
 ||*.ibuscar-icloud.com^$important
 ||*.icoffeecloud.com^$important
 ||*.id51395813.cfd^$important
@@ -396,6 +397,7 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
+||*.indusenterprises.co^$important
 ||*.infocardphoto.info^$important
 ||*.intermaticopacifico.onrender.com^$important
 ||*.ircftp.net^$important
@@ -413,6 +415,7 @@
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
 ||*.kimyen.net^$important
+||*.kis.marketing^$important
 ||*.kits.frog.tw^$important
 ||*.kocaman.github.io^$important
 ||*.kokorostore.it^$important
@@ -424,6 +427,7 @@
 ||*.laststepverify.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledger-portal-cliente.pages.dev^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.link.bitpie-blockchain.com^$important
 ||*.linux-hp-prodesk-600-g2-sff.tailbe60c2.ts.net^$important
 ||*.lnk.ink^$important
@@ -439,6 +443,7 @@
 ||*.m36502847-shared-docu.live-document-m365022.workers.dev^$important
 ||*.magalu.free.je^$important
 ||*.maidforyou1985.com^$important
+||*.mailify.cc^$important
 ||*.malupieng.com.br^$important
 ||*.mascottevent95.fr^$important
 ||*.megaofertss.com^$important
@@ -453,7 +458,6 @@
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.morris-satellite-deferred-letters.trycloudflare.com^$important
-||*.mothertouch.ac.zw^$important
 ||*.mrsweaterltd.com^$important
 ||*.mscepl.com^$important
 ||*.mtoken.baby^$important
@@ -576,6 +580,7 @@
 ||*.staking3portfolio.blogspot.com^$important
 ||*.start-faq-en-trezr-cdq.typedream.app^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.streammobs.com^$important
@@ -584,7 +589,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -797,6 +801,5 @@
 ||*.yakult-hk.com^$important
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
-||*.zhigao5191.com^$important
 ||*.zotazo.mcpvia.workers.dev^$important
 ||*.zycdjz.com^$important
