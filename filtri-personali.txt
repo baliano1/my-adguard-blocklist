@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-05 17:06:33
+! Ultimo aggiornamento automatico: 2026-09-05 19:53:17
 ||*.0022a601.pphost.net^$important
 ||*.0s8k-x5e9-qtge.aflores-rorealty-com-s-account.workers.dev^$important
 ||*.121deo.senes.at^$important
@@ -253,6 +253,7 @@
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.ccleaner.gl^$important
 ||*.ccoffice.site^$important
 ||*.cdaonline.com.ar^$important
 ||*.celebratingseniors.net^$important
@@ -357,7 +358,6 @@
 ||*.gebyar-shopee84.blogspot.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.giftscommunity.beer^$important
 ||*.glamorous-galaxy-093116.framer.app^$important
 ||*.globalbank.us^$important
@@ -440,6 +440,7 @@
 ||*.masimuddin.com^$important
 ||*.megaofertss.com^$important
 ||*.meranova.top^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mickyyk.github.io^$important
 ||*.microsaft-365.com^$important
 ||*.miriamgualda.com.br^$important
@@ -496,6 +497,7 @@
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
+||*.proveedoradeproyectosysoluciones.com^$important
 ||*.proxy-test-001.pages.dev^$important
 ||*.pub-83376ac3386547329baf15d6989eb8c7.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
