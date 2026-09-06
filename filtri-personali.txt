@@ -162,14 +162,13 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-06 12:34:49
+! Ultimo aggiornamento automatico: 2026-09-06 17:29:07
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
-||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.24086.xyz^$important
 ||*.3.zhzy999.net^$important
@@ -215,6 +214,7 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bccupdatesurveynow.weebly.com^$important
+||*.beak.in^$important
 ||*.bet83053.com^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
@@ -226,6 +226,7 @@
 ||*.bnet.playm8ru.win^$important
 ||*.boiwithyew.vercel.app^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bpcz54r-h04r.vercel.app^$important
 ||*.branquo-gld-felzavi-a4x3pw72.pages.dev^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -240,8 +241,10 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cbck47r-h02r.vercel.app^$important
+||*.ccn.fdstat.vip^$important
 ||*.ccoffice.site^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.charles-schwab-update-1.pages.dev^$important
 ||*.charles-schwab-update-3.pages.dev^$important
@@ -269,7 +272,6 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.d.14yaa.com^$important
-||*.d.wanyouxi7.com^$important
 ||*.d30sec8k5ond2x.cloudfront.net^$important
 ||*.da51ca.pages.dev^$important
 ||*.damiancollier.com^$important
@@ -296,6 +298,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -311,7 +314,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.ep-quiet-crimson-sparrow-dshvcfgudsamazgp.z01.azurefd.net^$important
@@ -361,7 +363,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https-wwwv-roblox.co^$important
 ||*.icoffeecloud.com^$important
 ||*.idshopee-59.blogspot.com^$important
@@ -381,7 +382,6 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.iwssprez12344.github.io^$important
-||*.jawaratekno.com^$important
 ||*.jaweriakhan6906.github.io^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -414,14 +414,15 @@
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
+||*.mailify.cc^$important
 ||*.mcstaging.americanexpresspop.com^$important
 ||*.metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^$important
 ||*.metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
@@ -442,11 +443,11 @@
 ||*.netflix-56s.pages.dev^$important
 ||*.noithaticon.vn^$important
 ||*.nuevacajadeahorroformulario.github.io^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.one-graup.com^$important
-||*.onfiltre.com.tr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.pakpharma.ci^$important
@@ -577,6 +578,7 @@
 ||*.trtmyanmar.com^$important
 ||*.trustwalletsupport455-crypto.github.io^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.tzdw31e-h04e.vercel.app^$important
 ||*.uldz48s-h02s.vercel.app^$important
 ||*.undian-hadiah-shopee1212.blogspot.com^$important
