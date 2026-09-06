@@ -162,9 +162,10 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-06 17:29:07
+! Ultimo aggiornamento automatico: 2026-09-06 19:57:04
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
+||*.0rder-ver1f2345.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
@@ -336,6 +337,7 @@
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
+||*.fonij.cm^$important
 ||*.fromtop.pages.dev^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
@@ -419,7 +421,6 @@
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
-||*.mailify.cc^$important
 ||*.mcstaging.americanexpresspop.com^$important
 ||*.metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^$important
 ||*.metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^$important
@@ -508,6 +509,7 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -607,6 +609,7 @@
 ||*.vyankatesh9880.github.io^$important
 ||*.w.zhzy999.net^$important
 ||*.watco.microsoft-notifcation.com^$important
+||*.waveplus.mediabyte.be^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wind.ntlsmartfull.com^$important
