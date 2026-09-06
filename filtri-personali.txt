@@ -162,14 +162,14 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-06 19:57:04
+! Ultimo aggiornamento automatico: 2026-09-06 22:39:29
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
-||*.0rder-ver1f2345.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
+||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.24086.xyz^$important
 ||*.3.zhzy999.net^$important
@@ -197,6 +197,7 @@
 ||*.allendostmen.com^$important
 ||*.alphapicaficagency.com^$important
 ||*.alphasaling.site^$important
+||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-html-css-hazel.vercel.app^$important
 ||*.amazon-v2.isha-dev.com^$important
@@ -211,11 +212,9 @@
 ||*.att-store-104668.weeblysite.com^$important
 ||*.audicontadores.com^$important
 ||*.awarenessexhibition.com^$important
-||*.b2b.jewmailer.net^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bccupdatesurveynow.weebly.com^$important
-||*.beak.in^$important
 ||*.bet83053.com^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
@@ -242,10 +241,8 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cbck47r-h02r.vercel.app^$important
-||*.ccn.fdstat.vip^$important
 ||*.ccoffice.site^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.charles-schwab-update-1.pages.dev^$important
 ||*.charles-schwab-update-3.pages.dev^$important
@@ -273,6 +270,7 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.d.14yaa.com^$important
+||*.d.wanyouxi7.com^$important
 ||*.d30sec8k5ond2x.cloudfront.net^$important
 ||*.da51ca.pages.dev^$important
 ||*.damiancollier.com^$important
@@ -315,6 +313,7 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.ep-quiet-crimson-sparrow-dshvcfgudsamazgp.z01.azurefd.net^$important
@@ -337,7 +336,6 @@
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
-||*.fonij.cm^$important
 ||*.fromtop.pages.dev^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
@@ -349,7 +347,6 @@
 ||*.gebyarshopee-2021.blogspot.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.gloronyan.github.io^$important
 ||*.goo.su^$important
@@ -365,6 +362,7 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.https-wwwv-roblox.co^$important
 ||*.icoffeecloud.com^$important
 ||*.idshopee-59.blogspot.com^$important
@@ -384,6 +382,7 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.iwssprez12344.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jaweriakhan6906.github.io^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -411,16 +410,15 @@
 ||*.ledger-get-live-dbh.pages.dev^$important
 ||*.ledger-live-login-ckx.pages.dev^$important
 ||*.ledgerr-desktop-live.pages.dev^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
+||*.mailify.cc^$important
 ||*.mcstaging.americanexpresspop.com^$important
 ||*.metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^$important
 ||*.metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^$important
@@ -431,6 +429,7 @@
 ||*.mogimall.com^$important
 ||*.mqhx68k-h04k.vercel.app^$important
 ||*.mrsweaterltd.com^$important
+||*.msedge.vg^$important
 ||*.msv7g13dr-yrpkwpli-1v2t6g-msv74c.pages.dev^$important
 ||*.mtoken.click^$important
 ||*.muaklekcoop.com^$important
@@ -449,6 +448,7 @@
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.one-graup.com^$important
+||*.onfiltre.com.tr^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.pakpharma.ci^$important
@@ -475,7 +475,6 @@
 ||*.pvsa.gxfugy.cn^$important
 ||*.qdxyqhotel.com^$important
 ||*.qiniuyunxz.yxflzs.com^$important
-||*.qv.co.ke^$important
 ||*.rabbitfuns.su^$important
 ||*.ramirex.ro^$important
 ||*.rbcode.net^$important
@@ -500,6 +499,7 @@
 ||*.rushikesh-rane.github.io^$important
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
+||*.sablayan.seasonshotelmindoro.com^$important
 ||*.sahilkushwaha19.github.io^$important
 ||*.sales.ifree.page^$important
 ||*.samaoluwasegun-dev.github.io^$important
@@ -551,11 +551,12 @@
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
+||*.taizi.fdstat.vip^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
+||*.taunahi.st^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.teleabonent.ru^$important
@@ -609,7 +610,6 @@
 ||*.vyankatesh9880.github.io^$important
 ||*.w.zhzy999.net^$important
 ||*.watco.microsoft-notifcation.com^$important
-||*.waveplus.mediabyte.be^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wind.ntlsmartfull.com^$important
