@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-06 02:46:01
+! Ultimo aggiornamento automatico: 2026-09-06 07:35:09
 ||*.0022a601.pphost.net^$important
 ||*.01felipeaugusto-star.github.io^$important
 ||*.0following.com^$important
@@ -176,6 +176,7 @@
 ||*.1url.at^$important
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
+||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.3cud-je09-uln1.accounting-coralridgetowerssouth-com-s-account.workers.dev^$important
 ||*.3fx43fx34xf.pages.dev^$important
 ||*.97ee1.ralind.at^$important
@@ -224,6 +225,7 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.barclays-bank.vercel.app^$important
+||*.beak.in^$important
 ||*.began-ledger-live-io-us.pages.dev^$important
 ||*.binance-blog.vercel.app^$important
 ||*.binance-co.github.io^$important
@@ -239,6 +241,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.br-icloud.support^$important
 ||*.br1.bbbooss.shop^$important
 ||*.br1.cccooss.shop^$important
@@ -262,6 +265,7 @@
 ||*.cb85df97.onedrive-1mr.pages.dev^$important
 ||*.ccoffice.site^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -291,6 +295,7 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csdgryg.buwrh.com^$important
+||*.curlservice.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
@@ -298,11 +303,9 @@
 ||*.data.yhydl.com^$important
 ||*.david-santos7.github.io^$important
 ||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.deliverymailreport.co.za^$important
 ||*.delp-heizungsbau.de^$important
-||*.deoriatimes.com^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dfd.zhzy999.net^$important
@@ -395,7 +398,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https-wwwv-roblox.co^$important
 ||*.hutsoysnotsbi--crediecuador1.replit.app^$important
 ||*.ibuscar-icloud.com^$important
@@ -440,8 +442,8 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.itzthesandy.github.io^$important
-||*.jawaratekno.com^$important
 ||*.jayaram0550.github.io^$important
+||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.joel-eapen.github.io^$important
@@ -482,10 +484,10 @@
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
-||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mailify.cc^$important
+||*.mandarin.net.au^$important
 ||*.metamask-connect.vercel.app^$important
 ||*.metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app^$important
 ||*.metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app^$important
@@ -509,8 +511,10 @@
 ||*.mrsweaterltd.com^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
+||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.muzamilmeerdev.github.io^$important
+||*.mx9x.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.ncxps.com^$important
@@ -525,7 +529,6 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.objectstorage.ap-kulai-2.oraclecloud.com^$important
-||*.odinclient.dev^$important
 ||*.oficial-icloud.com^$important
 ||*.oiuytfghjkdfgvbn--crediecuador1.replit.app^$important
 ||*.ojang.pe.kr^$important
@@ -556,13 +559,12 @@
 ||*.prajwalkuchewar.github.io^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
-||*.proveedoradeproyectosysoluciones.com^$important
 ||*.pt-shopee-29.blogspot.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pushkar-hub.github.io^$important
 ||*.pvsa.gxfugy.cn^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.quantitive.top^$important
+||*.qv.co.ke^$important
 ||*.rabbitfuns.su^$important
 ||*.rafaelmdsouza.github.io^$important
 ||*.raj24k.github.io^$important
@@ -631,7 +633,6 @@
 ||*.spotify-client-beta.vercel.app^$important
 ||*.spotify25.netlify.app^$important
 ||*.sso-trust-wallet-us.pages.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -651,7 +652,6 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tarkioweb.com^$important
-||*.taunahi.st^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.teleabonent.ru^$important
@@ -665,6 +665,7 @@
 ||*.theservice4u.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
+||*.ticpc8a.com^$important
 ||*.tinyurl.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
@@ -676,7 +677,6 @@
 ||*.trust-wallet-customer-support-number.github.io^$important
 ||*.trustwallet-secure-check.vercel.app^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.ultramaisnu.s3.us-east-005.backblazeb2.com^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
