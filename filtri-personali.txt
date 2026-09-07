@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-07 14:44:27
+! Ultimo aggiornamento automatico: 2026-09-07 18:58:05
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0rder-ver1f2345.com^$important
@@ -218,8 +218,8 @@
 ||*.atescasss.vercel.app^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
+||*.aura.tcplegit.space^$important
 ||*.authentication.ms^$important
-||*.b2b.jewmailer.net^$important
 ||*.backhausstorage.work.gd^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
@@ -236,7 +236,6 @@
 ||*.bnet.playm8ru.win^$important
 ||*.boaa.privatbanks.org^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.brgyjfux.tlxbdrec.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -293,6 +292,7 @@
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
 ||*.dhl.iformalia.es^$important
+||*.dinamikakargo.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.diwakar01-dev.github.io^$important
@@ -309,12 +309,12 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dpmlbwzs.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.draveta-gld-belquza-c3x6hq18.pages.dev^$important
 ||*.dreamwatchevent.com^$important
@@ -329,7 +329,6 @@
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emersondasilva-dev.github.io^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.ep-ch-bk7zgxe6dqz3-hyh2fbd3ezd9fda8.z02.azurefd.net^$important
@@ -345,8 +344,10 @@
 ||*.fb-meta-verified-3658-alpha.vercel.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.fdhdocref.com^$important
+||*.fdstat.vip^$important
 ||*.feitcarj.broadridge.verifypasskey.com^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flao.keki.workers.dev^$important
@@ -358,6 +359,7 @@
 ||*.fromtop.pages.dev^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
+||*.fz.tiansys.cn^$important
 ||*.gafmbkrt.tlxbdrec.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
@@ -366,7 +368,6 @@
 ||*.gegenwartskunstfreiburg.online^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.getswisspass.com^$important
 ||*.gijstdno.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.globalbank.us^$important
@@ -389,11 +390,13 @@
 ||*.hsc54b5e71edca585062d8f1293700b2ae.nexusqalinka2.quest^$important
 ||*.hseda.com^$important
 ||*.hstwcboa.broadridge.verifypasskey.com^$important
+||*.htdentshop.com^$important
 ||*.https-wvvw-roblox.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
+||*.iloveboats.st^$important
 ||*.impectorinternational.com^$important
 ||*.indusenterprises.co^$important
 ||*.infinet.digital^$important
@@ -402,9 +405,9 @@
 ||*.iovkfbcw.buovzsax.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.iqywjheo.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.ircftp.net^$important
-||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.ivaoficialphn2020303.blogspot.com^$important
+||*.jalebel7abeb.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -437,8 +440,10 @@
 ||*.m.meta-dm.com^$important
 ||*.macrojgarnetgaurod-bch9arambvbdf9d7.z03.azurefd.net^$important
 ||*.maidforyou1985.com^$important
+||*.mail.quietsurfwi.help^$important
 ||*.mailify.cc^$important
 ||*.main.d1xdn5bib8f7no.amplifyapp.com^$important
+||*.malupieng.com.br^$important
 ||*.mcstagingarg.americanexpresspop.com^$important
 ||*.metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^$important
 ||*.metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^$important
@@ -503,12 +508,13 @@
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qiniuyunxz.yxflzs.com^$important
+||*.quietsurfwi.help^$important
+||*.qv.co.ke^$important
 ||*.qwagkthn.tkarnxef.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.qxrhyadw.hstwcboa.broadridge.verifypasskey.com^$important
 ||*.qyrox.xyz^$important
 ||*.rabbitfuns.su^$important
 ||*.ramirex.ro^$important
-||*.rcf.co.mz^$important
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
@@ -533,6 +539,7 @@
 ||*.rxquickpay.com^$important
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
+||*.safeifm.com^$important
 ||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.satyarishikesh.github.io^$important
@@ -562,6 +569,7 @@
 ||*.spotfjfhh-crypto.github.io^$important
 ||*.spwcbfmt.xoujftgp.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.staging.d8yffvk7rzff1.amplifyapp.com^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -596,6 +604,7 @@
 ||*.thr-sho52.blogspot.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
+||*.ticpc8a.com^$important
 ||*.tkarnxef.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.tlxbdrec.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.to.lk^$important
@@ -604,8 +613,6 @@
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
 ||*.tpp.om-stock.com^$important
-||*.tr.zhzy999.net^$important
-||*.traderhype.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.truealionfish4w-fvdaa0hzbzfggeew.z03.azurefd.net^$important
@@ -633,6 +640,7 @@
 ||*.vrajras.com^$important
 ||*.waveplus.mediabyte.be^$important
 ||*.web3-crypto-gate.com^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wijaya168.net^$important
@@ -663,7 +671,6 @@
 ||*.www.fb-meta-verified-3658-alpha.vercel.app^$important
 ||*.www.filesusr.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hs0f10450e870118083da2265d502a5387.nexusqalinka2.quest^$important
@@ -675,6 +682,7 @@
 ||*.www.hs696c66ed7a7c108a267ddc4bad5cc0f0.nexusqalinka2.quest^$important
 ||*.www.hsc54b5e71edca585062d8f1293700b2ae.nexusqalinka2.quest^$important
 ||*.www.hseda.com^$important
+||*.www.iloveboats.st^$important
 ||*.www.insta.license-verification.net^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.iv4yqohk.51f8y981ds.com^$important
