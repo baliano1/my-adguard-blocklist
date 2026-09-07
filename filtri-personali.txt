@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-07 18:58:05
+! Ultimo aggiornamento automatico: 2026-09-07 23:15:28
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0rder-ver1f2345.com^$important
@@ -174,6 +174,9 @@
 ||*.1h.vuregyy1.ru^$important
 ||*.235694.blogspot.com^$important
 ||*.24096.xyz^$important
+||*.3.zhzy999.net^$important
+||*.3.zhzy999.net3.zhzy999.net^$important
+||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.32afd211b2.nxcli.io^$important
 ||*.34rx34x4.pages.dev^$important
 ||*.4tfw2hj.pages.dev^$important
@@ -220,6 +223,7 @@
 ||*.audicontadores.com^$important
 ||*.aura.tcplegit.space^$important
 ||*.authentication.ms^$important
+||*.b2b.jewmailer.net^$important
 ||*.backhausstorage.work.gd^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
@@ -291,6 +295,7 @@
 ||*.delp-heizungsbau.de^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
+||*.dfd.zhzy999.net^$important
 ||*.dhl.iformalia.es^$important
 ||*.dinamikakargo.com^$important
 ||*.disk.accord1key.cn^$important
@@ -309,12 +314,14 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dpmlbwzs.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.draveta-gld-belquza-c3x6hq18.pages.dev^$important
 ||*.dreamwatchevent.com^$important
@@ -329,6 +336,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emersondasilva-dev.github.io^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.ep-ch-bk7zgxe6dqz3-hyh2fbd3ezd9fda8.z02.azurefd.net^$important
@@ -344,7 +352,6 @@
 ||*.fb-meta-verified-3658-alpha.vercel.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.fdhdocref.com^$important
-||*.fdstat.vip^$important
 ||*.feitcarj.broadridge.verifypasskey.com^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
@@ -368,6 +375,7 @@
 ||*.gegenwartskunstfreiburg.online^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.getswisspass.com^$important
 ||*.gijstdno.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.globalbank.us^$important
@@ -398,7 +406,6 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.iloveboats.st^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.infinet.digital^$important
 ||*.instatram.github.io^$important
 ||*.iofwzrlm.ehksctpb.zhwiduom.qxrhyadw.hstwcboa.broadridge.verifypasskey.com^$important
@@ -407,11 +414,10 @@
 ||*.ircftp.net^$important
 ||*.itssprout.com^$important
 ||*.ivaoficialphn2020303.blogspot.com^$important
-||*.jalebel7abeb.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
-||*.joyeriatauro.com^$important
 ||*.jswen.com^$important
 ||*.jvwdgqix.zhwiduom.qxrhyadw.hstwcboa.broadridge.verifypasskey.com^$important
 ||*.kaminstudio-debus.de^$important
@@ -434,7 +440,6 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loyaltyprogram.ink^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -449,7 +454,6 @@
 ||*.metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^$important
 ||*.metamaskchromeextensionn.blogspot.com^$important
 ||*.metemxaslogiz.gitbook.io^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.miujsykw.ynhcwzij.feitcarj.broadridge.verifypasskey.com^$important
@@ -481,6 +485,7 @@
 ||*.nxpvblft.qxrhyadw.hstwcboa.broadridge.verifypasskey.com^$important
 ||*.ny.lshdw.cc^$important
 ||*.o.valdeaisne.co^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.one-graup.com^$important
@@ -502,6 +507,7 @@
 ||*.pmipomezia.it^$important
 ||*.poste-carta-dedicata-a-te.my^$important
 ||*.postelnini.mk^$important
+||*.powershell-storage.vg^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
@@ -604,7 +610,6 @@
 ||*.thr-sho52.blogspot.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
-||*.ticpc8a.com^$important
 ||*.tkarnxef.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.tlxbdrec.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.to.lk^$important
@@ -638,9 +643,9 @@
 ||*.vmi3534729.contaboserver.net^$important
 ||*.vodafoneelevation.de^$important
 ||*.vrajras.com^$important
+||*.w.zhzy999.net^$important
 ||*.waveplus.mediabyte.be^$important
 ||*.web3-crypto-gate.com^$important
-||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wijaya168.net^$important
@@ -671,6 +676,7 @@
 ||*.www.fb-meta-verified-3658-alpha.vercel.app^$important
 ||*.www.filesusr.com^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hs0f10450e870118083da2265d502a5387.nexusqalinka2.quest^$important
@@ -681,7 +687,6 @@
 ||*.www.hs6429b18715a5dd68ac051d352a3ca960.nexusqalinka2.quest^$important
 ||*.www.hs696c66ed7a7c108a267ddc4bad5cc0f0.nexusqalinka2.quest^$important
 ||*.www.hsc54b5e71edca585062d8f1293700b2ae.nexusqalinka2.quest^$important
-||*.www.hseda.com^$important
 ||*.www.iloveboats.st^$important
 ||*.www.insta.license-verification.net^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
