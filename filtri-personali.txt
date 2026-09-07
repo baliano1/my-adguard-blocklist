@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-07 02:43:49
+! Ultimo aggiornamento automatico: 2026-09-07 07:52:50
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0rder-ver1f2345.com^$important
@@ -170,12 +170,8 @@
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
-||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.2066hg.com^$important
-||*.3.zhzy999.net^$important
-||*.3.zhzy999.net3.zhzy999.net^$important
-||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.647768.xyz^$important
 ||*.78b68vb6.pages.dev^$important
 ||*.PEDIANOW.ORG^$important
@@ -189,7 +185,6 @@
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
-||*.adps.pro^$important
 ||*.aftelecom.com.br^$important
 ||*.aidlifempowerment.com^$important
 ||*.airbnb-clone-with-dotnet-server.vercel.app^$important
@@ -201,7 +196,6 @@
 ||*.allendostmen.com^$important
 ||*.alphapicaficagency.com^$important
 ||*.alphasaling.site^$important
-||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amazon-clone-html-css-hazel.vercel.app^$important
 ||*.amazon.avlinfo.in^$important
@@ -213,8 +207,8 @@
 ||*.atasapka.com.tr^$important
 ||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
-||*.authgen.deals^$important
 ||*.awarenessexhibition.com^$important
+||*.b2b.jewmailer.net^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bbva-app-1-c6c6bqhhg7dqh0a9.mexicocentral-01.azurewebsites.net^$important
@@ -227,6 +221,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.branquo-gld-felzavi-a4x3pw72.pages.dev^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -240,6 +235,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.charles-schwab-update-2.pages.dev^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -267,6 +263,7 @@
 ||*.credi-en-linia--ecu-emprende.replit.app^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
+||*.cu.srijanajha.com.np^$important
 ||*.curlservice.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -283,7 +280,6 @@
 ||*.delp-heizungsbau.de^$important
 ||*.dexios.co.za^$important
 ||*.dezcom.com^$important
-||*.dfd.zhzy999.net^$important
 ||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
@@ -304,7 +300,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.dreemix.com^$important
 ||*.duct-master.com^$important
@@ -335,7 +330,6 @@
 ||*.free-5505069.webadorsite.com^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
-||*.funneldiy.com^$important
 ||*.fz.tiansys.cn^$important
 ||*.g36b.top^$important
 ||*.gaiadeqi.com^$important
@@ -390,10 +384,12 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ldgre-lives.pages.dev^$important
 ||*.ledgerwaliet.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.lomejordesalamanca.es^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -410,7 +406,6 @@
 ||*.mobile.handel.92482048.detail.lv.ohbcjf.com^$important
 ||*.mogimall.com^$important
 ||*.mrsweaterltd.com^$important
-||*.msedge.vg^$important
 ||*.msv7g13dr-yrpkwpli-1v2t6g-msv74c.pages.dev^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
@@ -424,7 +419,6 @@
 ||*.netflix-56s.pages.dev^$important
 ||*.netflixclonebyyash.vercel.app^$important
 ||*.noithaticon.vn^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
@@ -440,7 +434,6 @@
 ||*.paycity.za-bzjw.cfd^$important
 ||*.pcupd.com^$important
 ||*.pdf-editore.com^$important
-||*.pdfmun.software^$important
 ||*.pfatrivandrum.org^$important
 ||*.pic.li^$important
 ||*.pingu.ltd^$important
@@ -457,7 +450,6 @@
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qdxyqhotel.com^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.rabbitfuns.su^$important
 ||*.ramirex.ro^$important
 ||*.rapid-breeze-725e.adeshsinghbest.workers.dev^$important
@@ -494,7 +486,6 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -506,10 +497,8 @@
 ||*.sg123.net^$important
 ||*.sheokand9806.github.io^$important
 ||*.shopee7677.blogspot.com^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.siaasesoria.com.mx^$important
 ||*.signageinsignia.co.za^$important
-||*.signaturenib.rest^$important
 ||*.sites.google.com^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
@@ -533,11 +522,10 @@
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.taizi.fdstat.vip^$important
+||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
-||*.tarkioweb.com^$important
 ||*.taunahi.st^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
@@ -565,7 +553,6 @@
 ||*.trtmyanmar.com^$important
 ||*.trustwalletsupport455-crypto.github.io^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.undian-hadiah-shopee1212.blogspot.com^$important
 ||*.undian-shopee-2023.blogspot.com^$important
@@ -587,7 +574,6 @@
 ||*.vormavi-gld-felmora-p4t8kh35.pages.dev^$important
 ||*.vrajras.com^$important
 ||*.vwwv-icloud.com^$important
-||*.w.zhzy999.net^$important
 ||*.watco.microsoft-notifcation.com^$important
 ||*.waveplus.mediabyte.be^$important
 ||*.website.mypetapp.co.za^$important
@@ -629,7 +615,6 @@
 ||*.www.find-helpcenter.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.generator-crypto-2-1.vercel.app^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
