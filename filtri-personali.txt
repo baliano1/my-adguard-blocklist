@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-08 02:55:07
+! Ultimo aggiornamento automatico: 2026-09-08 07:47:32
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0rder-ver1f2345.com^$important
@@ -242,11 +242,13 @@
 ||*.bnet.playm8ru.win^$important
 ||*.boaa.privatbanks.org^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
 ||*.buovzsax.ykvwoqni.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.c17pu9o6k3-3755b1f233.vercel.app^$important
+||*.c2.mc-live.online^$important
 ||*.cambodiatouristservice.com^$important
 ||*.casasmediterraneas.com^$important
 ||*.cat.dashabi.in^$important
@@ -254,6 +256,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -277,7 +280,6 @@
 ||*.coolairesgroup.com^$important
 ||*.coralasargetia.ro^$important
 ||*.cpc188.day^$important
-||*.cpofficial.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.cu.srijanajha.com.np^$important
@@ -298,7 +300,6 @@
 ||*.dhl.iformalia.es^$important
 ||*.dhome-affriaide-group09302039402.us-iad-10.linodeobjects.com^$important
 ||*.dinamikakargo.com^$important
-||*.disk.accord1key.cn^$important
 ||*.divvanews.com^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -330,7 +331,6 @@
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.eloquent-fenglisu-517598.netlify.app^$important
-||*.embedone.com^$important
 ||*.en-en-coinbase.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
@@ -369,7 +369,6 @@
 ||*.gegenwartskunstfreiburg.online^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.go-still-transfer-bnb.vercel.app^$important
 ||*.goswisspass.com^$important
@@ -404,6 +403,7 @@
 ||*.iloveboats.st^$important
 ||*.image-upscaling.net^$important
 ||*.impectorinternational.com^$important
+||*.indusenterprises.co^$important
 ||*.infinet.digital^$important
 ||*.insta.license-verification.net^$important
 ||*.ircftp.net^$important
@@ -427,6 +427,7 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.leafy-kheer-c7e968.netlify.app^$important
+||*.leanmaestro.com^$important
 ||*.ledgerw.vercel.app^$important
 ||*.legendary-speculoos-ba9176.netlify.app^$important
 ||*.lives-ledgred-io.pages.dev^$important
@@ -443,7 +444,6 @@
 ||*.m.shenglongmuyi.cn^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.quietsurfwi.help^$important
-||*.mailify.cc^$important
 ||*.malupieng.com.br^$important
 ||*.metamask-web.vercel.app^$important
 ||*.michealmoore0018-wq.github.io^$important
@@ -462,7 +462,6 @@
 ||*.muledo.com^$important
 ||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
-||*.mx9x.com^$important
 ||*.my-portfolio-three-nu-59.vercel.app^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
@@ -472,6 +471,7 @@
 ||*.nlink.at^$important
 ||*.noithaticon.vn^$important
 ||*.notify-app.bolt.host^$important
+||*.nusatoyota.co.id^$important
 ||*.nuytxpel.dpmlbwzs.kxpuaset.ganetjcw.feitcarj.broadridge.verifypasskey.com^$important
 ||*.ny.lshdw.cc^$important
 ||*.o.valdeaisne.co^$important
@@ -479,9 +479,9 @@
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onboarding-docs-portal.com^$important
-||*.one-graup.com^$important
 ||*.onfiltre.com.tr^$important
 ||*.onlinetrustwalletsnys.vercel.app^$important
+||*.opalcraftsmp.com^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.pablowib.github.io^$important
@@ -496,7 +496,6 @@
 ||*.planetariumobil.ro^$important
 ||*.plutotvshow.biz^$important
 ||*.postelnini.mk^$important
-||*.powershell-storage.vg^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.princetak10.github.io^$important
@@ -565,6 +564,7 @@
 ||*.sk-comtel.com^$important
 ||*.sleepy-moccasin-djnjrsr4.edgeone.dev^$important
 ||*.smartermail.host^$important
+||*.snowproject.lol^$important
 ||*.sochibeer.ru^$important
 ||*.soft.110route.com^$important
 ||*.sp30ct-murev-biz-qalon-zadex.pages.dev^$important
@@ -585,7 +585,6 @@
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.swisscommobievole.vu^$important
 ||*.tangentwaves.com^$important
 ||*.tanish-ashu.github.io^$important
@@ -620,6 +619,7 @@
 ||*.twu-hwt.org^$important
 ||*.u-lovat-six.vercel.app^$important
 ||*.u.to^$important
+||*.universami.ge^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
@@ -695,6 +695,7 @@
 ||*.www.hs696c66ed7a7c108a267ddc4bad5cc0f0.nexusqalinka2.quest^$important
 ||*.www.hsc54b5e71edca585062d8f1293700b2ae.nexusqalinka2.quest^$important
 ||*.www.hsd5905f2078e2789383ef4e04cc5f7b7d.nexusqalinka2.quest^$important
+||*.www.hseda.com^$important
 ||*.www.iloveboats.st^$important
 ||*.www.insta.license-verification.net^$important
 ||*.www.instagram-ten-blond.vercel.app^$important
