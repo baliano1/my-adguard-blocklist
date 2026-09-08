@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-08 13:16:25
+! Ultimo aggiornamento automatico: 2026-09-08 18:16:20
 ||*.0022a601.pphost.net^$important
 ||*.0following.com^$important
 ||*.0rder-ver1f2345.com^$important
@@ -241,7 +241,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
@@ -254,7 +253,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -275,12 +273,12 @@
 ||*.coralasargetia.ro^$important
 ||*.cpc188.day^$important
 ||*.cpoffer.com^$important
+||*.cpofficial.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.cu.srijanajha.com.np^$important
 ||*.cumsalvadornetsv2.hstn.me^$important
 ||*.curlservice.com^$important
-||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.data.yhydl.com^$important
@@ -318,7 +316,6 @@
 ||*.download.suxiazai.com^$important
 ||*.dralp-fskob-zlik-652-krip-flandez-zog-803.pages.dev^$important
 ||*.dreamwatchevent.com^$important
-||*.dreemix.com^$important
 ||*.drysdalebaconmcstravick.vercel.app^$important
 ||*.dskrp458bf-mbjskr-3w2r8g-dskps01c.pages.dev^$important
 ||*.duct-master.com^$important
@@ -327,6 +324,7 @@
 ||*.eet-lzip--wespack.replit.app^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
@@ -339,7 +337,6 @@
 ||*.farschid.de^$important
 ||*.fb-meta-verified-25017.vercel.app^$important
 ||*.fd.v2downf.shop^$important
-||*.fdstat.vip^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
@@ -383,7 +380,6 @@
 ||*.hobobot.net^$important
 ||*.hosamwailon.github.io^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https--www--roblox.com^$important
 ||*.https-wwwv-roblox.co^$important
 ||*.hwn64-775bf-zmb73-skr-5y2t9g-hwn64-50c.pages.dev^$important
@@ -393,9 +389,9 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.iloveboats.st^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.instagram-clone-v10.vercel.app^$important
 ||*.ircftp.net^$important
+||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.itstrafflc.us^$important
 ||*.jawaratekno.com^$important
@@ -425,7 +421,6 @@
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ledgrrlive-app-eng.pages.dev^$important
 ||*.lhjnd52skrp-yktpmyk-7j0i4e-lhq99c.pages.dev^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.link.infini.fr^$important
 ||*.live-ledgrer.pages.dev^$important
 ||*.ln8npost-web-ee52.sa6mzr.top^$important
@@ -437,7 +432,6 @@
 ||*.lpr47-155pz-mvk62-155ls-4b1c5d-lpr47-155c.pages.dev^$important
 ||*.lpr47-185bf-mvk62-185sk-4b7c1d-lpr47-185c.pages.dev^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.lustrous-taffy-6c1050.netlify.app^$important
 ||*.m.jkoa.co.kr^$important
@@ -450,7 +444,6 @@
 ||*.melquro-kxt-qervani-p6t4hc29.pages.dev^$important
 ||*.metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^$important
 ||*.metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mirtavo-gld-quelnix-b8t5pf71.pages.dev^$important
 ||*.mitreart.com^$important
@@ -483,7 +476,6 @@
 ||*.ojang.pe.kr^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
-||*.opalcraftsmp.com^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
@@ -502,6 +494,7 @@
 ||*.plutotvshow.biz^$important
 ||*.postelnini.mk^$important
 ||*.pousadapordosolcmd.com.br^$important
+||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.projectsapp-one.vercel.app^$important
@@ -543,6 +536,7 @@
 ||*.reutilizemais.co.mz^$important
 ||*.rfboszrqhnvrhepbubq.vercel.app^$important
 ||*.rheddh.com^$important
+||*.riderspin.com^$important
 ||*.robertrowe.com^$important
 ||*.roblox.com.pt^$important
 ||*.royalindiancurryclub.com^$important
@@ -586,17 +580,15 @@
 ||*.sleepy-moccasin-djnjrsr4.edgeone.dev^$important
 ||*.smartermail.host^$important
 ||*.smilling-long-pannel.edgeone.dev^$important
-||*.sochibeer.ru^$important
 ||*.soft.110route.com^$important
-||*.solar-sanat.net^$important
 ||*.spgint.com^$important
 ||*.spra-froz-glim-609-dvon-skraver-znip-378.pages.dev^$important
 ||*.spring-queen-de46.dellzeldaden965q5c1.workers.dev^$important
 ||*.start-page-39478-rfilvaprdsxicag-workers-1ra.pages.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.support.clz.kr^$important
 ||*.surl.li^$important
@@ -608,6 +600,7 @@
 ||*.tapestryoftruth.com^$important
 ||*.task-master-suite--careers46.replit.app^$important
 ||*.taunahi.st^$important
+||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.teleabonent.ru^$important
@@ -618,7 +611,6 @@
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
 ||*.theoremaoliveoil.com^$important
-||*.theservice4u.com^$important
 ||*.thtp2.volamngayxua.net^$important
 ||*.tiacreation.club^$important
 ||*.tiny.cc^$important
@@ -631,6 +623,7 @@
 ||*.trtmyanmar.com^$important
 ||*.trustwallet-tokentwtowner.vercel.app^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.ufcgymmexico.com^$important
 ||*.unidexai-temp.vercel.app^$important
@@ -641,7 +634,6 @@
 ||*.urlz.li^$important
 ||*.us.wind0ws.net^$important
 ||*.v0-mailspectrum.vercel.app^$important
-||*.vcc-library.uk^$important
 ||*.verification-blueticks-fb33.vercel.app^$important
 ||*.verification-blueticks-fb36.vercel.app^$important
 ||*.verifybluecheckmark-eight.vercel.app^$important
@@ -731,7 +723,6 @@
 ||*.www.netflix-clone-mauve-kappa.vercel.app^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.oringosmod.com^$important
 ||*.www.parceldashboardwelcomeclientstationonlinepacket.artkiyotomotiv.com^$important
 ||*.www.pasarseller.shop^$important
