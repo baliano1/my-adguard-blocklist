@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-09 18:16:39
+! Ultimo aggiornamento automatico: 2026-09-09 22:53:36
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -172,13 +172,16 @@
 ||*.365756zxd.com^$important
 ||*.4eclient.com^$important
 ||*.6381863365.com^$important
+||*.6ak-tehnik.si^$important
 ||*.PEDIANOW.ORG^$important
+||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.adps.pro^$important
+||*.aftelecom.com.br^$important
 ||*.aidlifempowerment.com^$important
 ||*.airtickts.com^$important
 ||*.alarmline.com.br^$important
@@ -187,6 +190,7 @@
 ||*.allxfinity.weebly.com^$important
 ||*.alphapicaficagency.com^$important
 ||*.alphasaling.site^$important
+||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.api.cdn22.net^$important
 ||*.app.appzcvb.com^$important
@@ -220,6 +224,7 @@
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
+||*.blueoceanealtd.co.ke^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
@@ -235,6 +240,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.centrala-administracja.vercel.app^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -284,6 +290,7 @@
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
+||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
@@ -302,6 +309,7 @@
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.epanpano.com^$important
+||*.epsinf.com^$important
 ||*.exoduswallethelpcenter.vercel.app^$important
 ||*.facebologin.blogspot.com^$important
 ||*.facebookcustomersupportnumber25.blogspot.com^$important
@@ -317,6 +325,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.fedx-logistics.netlify.app^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filmchill.net^$important
 ||*.find-my-phone.click^$important
@@ -332,6 +341,7 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
 ||*.guide-page-media-article-6004.23949006.workers.dev^$important
@@ -352,6 +362,7 @@
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.iloveboats.st^$important
 ||*.impectorinternational.com^$important
+||*.indusenterprises.co^$important
 ||*.infos-destinataire.bolt.host^$important
 ||*.insourcehealthcare.com^$important
 ||*.instagramlikescheap.blogspot.com^$important
@@ -364,6 +375,7 @@
 ||*.itssprout.com^$important
 ||*.ivanaalwis.blogspot.com^$important
 ||*.jawaratekno.com^$important
+||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
 ||*.jswen.com^$important
@@ -535,6 +547,7 @@
 ||*.messenger-clone-psi.vercel.app^$important
 ||*.metafox-cws-preview.pages.dev^$important
 ||*.metamsklog-wel.pages.dev^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mfacebookloginn.blogspot.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -552,7 +565,6 @@
 ||*.nav-ledgerg-us.pages.dev^$important
 ||*.ncxps.com^$important
 ||*.ne-live-ledgr.pages.dev^$important
-||*.neilshairdressers.co.uk^$important
 ||*.newww-sooty.vercel.app^$important
 ||*.noithaticon.vn^$important
 ||*.ny.lshdw.cc^$important
@@ -668,7 +680,6 @@
 ||*.tehnomag.rs^$important
 ||*.teleabonent.ru^$important
 ||*.teliou.com^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
@@ -712,7 +723,6 @@
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.vrajras.com^$important
 ||*.web-start-trezo-us.typedream.app^$important
-||*.webcstore.pw^$important
 ||*.webservicecomcast-auth00-xfinitiy.weebly.com^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsappzoeiras.blogspot.com^$important
@@ -749,6 +759,7 @@
 ||*.www.facebooklogininfo.blogspot.com^$important
 ||*.www.fb-meta-verified-48503.vercel.app^$important
 ||*.www.first-security-verden.de^$important
+||*.www.gestroom.it^$important
 ||*.www.hari.gemez.de.page.moonton-zone.com^$important
 ||*.www.himans-singh.vercel.app^$important
 ||*.www.hostingcloud.science^$important
@@ -759,6 +770,7 @@
 ||*.www.instagramlogin68.blogspot.com^$important
 ||*.www.instagramlogin99.blogspot.com^$important
 ||*.www.instagramrecovery.blogspot.com^$important
+||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
 ||*.www.khavar.com^$important
@@ -770,7 +782,6 @@
 ||*.www.namuvpn.com^$important
 ||*.www.nccommunication.be^$important
 ||*.www.notbak.com^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.oringosmod.com^$important
 ||*.www.pesta-shopee-22.blogspot.com^$important
@@ -822,3 +833,4 @@
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
 ||*.zhigao5191.com^$important
+||*.zycdjz.com^$important
