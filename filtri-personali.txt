@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-10 18:02:57
+! Ultimo aggiornamento automatico: 2026-09-10 22:55:12
 ||*.02teste.cc^$important
 ||*.0following.com^$important
 ||*.1111-100520.weeblysite.com^$important
@@ -172,7 +172,6 @@
 ||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
-||*.3brosstore.com^$important
 ||*.4eclient.com^$important
 ||*.97ee1.ralind.at^$important
 ||*.983426.com^$important
@@ -209,13 +208,11 @@
 ||*.areyouready.co.za^$important
 ||*.atasapka.com.tr^$important
 ||*.atlanticblowers.s3.us-east-2.amazonaws.com^$important
-||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
 ||*.aumentapersonas-net.vercel.app^$important
 ||*.auravibes04ko.shop^$important
 ||*.australiangifts-xs805.ink^$important
 ||*.australianvouchers-ks501.ink^$important
-||*.b2b.jewmailer.net^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bd1lnn.top^$important
@@ -226,7 +223,6 @@
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.blueoceanealtd.co.ke^$important
 ||*.bmdcompany.com^$important
@@ -278,6 +274,7 @@
 ||*.cs.go.kg^$important
 ||*.csavbsvasvasvasv.pages.dev^$important
 ||*.d.14yaa.com^$important
+||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.data.yhydl.com^$important
 ||*.dbsbanking.online^$important
@@ -328,6 +325,7 @@
 ||*.envs.sh^$important
 ||*.epanpano.com^$important
 ||*.epsinf.com^$important
+||*.eurofarm.ge^$important
 ||*.europetranslations.net^$important
 ||*.events.adobeforbusiness.com^$important
 ||*.excel-micro.wasmer.app^$important
@@ -354,6 +352,7 @@
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.garanthmn.art^$important
+||*.garogradba.mk^$important
 ||*.geberaloffer02.onrender.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
@@ -379,6 +378,7 @@
 ||*.hotmail-session-ckgu2ysl-8ueczirgl-----arstocjwsn.zoecondominios.com.br^$important
 ||*.hotmail-session-mjxtmxmg-ixb4qojnj-----d2mdsfzrix.zoecondominios.com.br^$important
 ||*.hotmail-session-nmjk0bri-ww5ct9w0m-----yo26j491vd.zoecondominios.com.br^$important
+||*.hseda.com^$important
 ||*.hsgd26wqe.blogspot.com^$important
 ||*.htdentshop.com^$important
 ||*.html-website--celinedelcourte.replit.app^$important
@@ -388,7 +388,6 @@
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.inset-liveledger-en.netlify.app^$important
 ||*.instagram-chi-ten.vercel.app^$important
 ||*.instagram-tip.blogspot.com^$important
@@ -404,6 +403,7 @@
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
+||*.jlwz.cn^$important
 ||*.jomang27.github.io^$important
 ||*.jswen.com^$important
 ||*.kavacanada.ca^$important
@@ -451,7 +451,6 @@
 ||*.merit72.github.io^$important
 ||*.metamask-update.github.io^$important
 ||*.metamaskconnect-auth.io^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mfacebooks.com.vn^$important
 ||*.middle-rose-59mexohi-dp8frvkwaueh.edgeone.dev^$important
 ||*.mide-empress.github.io^$important
@@ -470,6 +469,7 @@
 ||*.mtoken.homes^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
+||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.mx-flow.de^$important
 ||*.mycnsqurligin.webflow.io^$important
@@ -561,6 +561,7 @@
 ||*.scooter.cozyvistany.com^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -600,7 +601,6 @@
 ||*.sso---secure-robinhood--coms.webflow.io^$important
 ||*.sso-uphold-com-auth-x-auth.netlify.app^$important
 ||*.staging.d6bkdpdctugto.amplifyapp.com^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.wave-whatsapp.com^$important
 ||*.static.youdm.cn^$important
@@ -640,7 +640,6 @@
 ||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
-||*.tripfarely.com^$important
 ||*.trisfou.site^$important
 ||*.trtmyanmar.com^$important
 ||*.trueamarvellous2m-hyebdwdeb9ccgdb7.z03.azurefd.net^$important
@@ -806,5 +805,4 @@
 ||*.zamilgroups.com^$important
 ||*.zetaval.metcalfphoto.com^$important
 ||*.zhigao5191.com^$important
-||*.zunimar.cl^$important
 ||*.zycdjz.com^$important
