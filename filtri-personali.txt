@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-10 13:17:47
+! Ultimo aggiornamento automatico: 2026-09-10 18:02:57
 ||*.02teste.cc^$important
 ||*.0following.com^$important
 ||*.1111-100520.weeblysite.com^$important
@@ -172,6 +172,7 @@
 ||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
 ||*.1h.xeteloi4.ru^$important
+||*.3brosstore.com^$important
 ||*.4eclient.com^$important
 ||*.97ee1.ralind.at^$important
 ||*.983426.com^$important
@@ -208,27 +209,30 @@
 ||*.areyouready.co.za^$important
 ||*.atasapka.com.tr^$important
 ||*.atlanticblowers.s3.us-east-2.amazonaws.com^$important
+||*.atom.freehosting.dev^$important
 ||*.audicontadores.com^$important
 ||*.aumentapersonas-net.vercel.app^$important
+||*.auravibes04ko.shop^$important
 ||*.australiangifts-xs805.ink^$important
 ||*.australianvouchers-ks501.ink^$important
 ||*.b2b.jewmailer.net^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bd1lnn.top^$important
+||*.beak.in^$important
 ||*.beastmarkart.github.io^$important
 ||*.beryl-bet365.com.cn^$important
 ||*.bilalsalimi.com^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
+||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.blueoceanealtd.co.ke^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
@@ -244,7 +248,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cb-ssl.org^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cesar6jvpereira-lgtm.github.io^$important
 ||*.cfconfiglogin.vercel.app^$important
@@ -259,11 +262,11 @@
 ||*.clone-whatsapp-nextjs.vercel.app^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.co-emas.com^$important
 ||*.coconutoficial.com.br^$important
 ||*.coinbas-enpro.zapier.app^$important
 ||*.comcastlog.weebly.com^$important
-||*.communication-hub.vg^$important
 ||*.compuserviceonline.com.br^$important
 ||*.connect.wave-whatsapp.com^$important
 ||*.continentalgroup.net.in^$important
@@ -275,7 +278,6 @@
 ||*.cs.go.kg^$important
 ||*.csavbsvasvasvasv.pages.dev^$important
 ||*.d.14yaa.com^$important
-||*.d.wanyouxi7.com^$important
 ||*.damiancollier.com^$important
 ||*.data.yhydl.com^$important
 ||*.dbsbanking.online^$important
@@ -284,7 +286,6 @@
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.debt-ledger.pages.dev^$important
-||*.deliverymailreport.co.za^$important
 ||*.delp-heizungsbau.de^$important
 ||*.devcatools.pcriot.com^$important
 ||*.developed-moccasin-gsqaxb6nfs-kkobyqpwga.edgeone.app^$important
@@ -307,6 +308,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -350,10 +352,12 @@
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.gaiadeqi.com^$important
+||*.galerisenimutiara.com^$important
 ||*.garanthmn.art^$important
 ||*.geberaloffer02.onrender.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.globalsupportupdate.top^$important
 ||*.goodlife-6jp.pages.dev^$important
@@ -376,9 +380,11 @@
 ||*.hotmail-session-mjxtmxmg-ixb4qojnj-----d2mdsfzrix.zoecondominios.com.br^$important
 ||*.hotmail-session-nmjk0bri-ww5ct9w0m-----yo26j491vd.zoecondominios.com.br^$important
 ||*.hsgd26wqe.blogspot.com^$important
+||*.htdentshop.com^$important
 ||*.html-website--celinedelcourte.replit.app^$important
 ||*.icoffeecloud.com^$important
 ||*.icon.sigma-whatsapp.com^$important
+||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
@@ -398,7 +404,6 @@
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
 ||*.jomang27.github.io^$important
 ||*.jswen.com^$important
 ||*.kavacanada.ca^$important
@@ -420,6 +425,7 @@
 ||*.lenalena1268.github.io^$important
 ||*.light-aquamarine-o9esov3l-dpdycnoyj29j.edgeone.dev^$important
 ||*.liikepalvelu.com^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.live-gold-q3yxldis.edgeone.dev^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
@@ -432,6 +438,7 @@
 ||*.lovely-surprise-937079.framer.app^$important
 ||*.lqcx.dgyuehuiwan.com^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -510,8 +517,6 @@
 ||*.preciosasjoyitas.com.mx^$important
 ||*.productoslili.cl^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
-||*.protherapycenter.com^$important
-||*.ptpilatesstudio.com^$important
 ||*.public-cnbas-en-us.typedream.app^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -527,7 +532,6 @@
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
-||*.redlk.com^$important
 ||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reservphotoinstay.one^$important
@@ -601,9 +605,9 @@
 ||*.static.wave-whatsapp.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sumansanand.github.io^$important
+||*.sumnitasinvestment.com^$important
 ||*.support.clz.kr^$important
 ||*.supporthsbcsecure.com^$important
 ||*.suryahitech.com^$important
@@ -636,6 +640,7 @@
 ||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
+||*.tripfarely.com^$important
 ||*.trisfou.site^$important
 ||*.trtmyanmar.com^$important
 ||*.trueamarvellous2m-hyebdwdeb9ccgdb7.z03.azurefd.net^$important
@@ -648,7 +653,6 @@
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
-||*.us.wind0ws.net^$important
 ||*.usps.avaturefed.net^$important
 ||*.verifiedbadge-aurora.vercel.app^$important
 ||*.versaclean.com.br^$important
@@ -664,7 +668,6 @@
 ||*.vrajras.com^$important
 ||*.we-tranfer-filedownload.vercel.app^$important
 ||*.web-ledger.eng-usa.app^$important
-||*.webcstore.pw^$important
 ||*.webpage-en-legor-start.pages.dev^$important
 ||*.website.mypetapp.co.za^$important
 ||*.webtorton.edgeone.dev^$important
@@ -714,6 +717,7 @@
 ||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
+||*.www.hseda.com^$important
 ||*.www.hsgd26wqe.blogspot.com^$important
 ||*.www.imtouken.com^$important
 ||*.www.instagram-chi-ten.vercel.app^$important
@@ -763,7 +767,6 @@
 ||*.www.roblox.et^$important
 ||*.www.roblox.ly^$important
 ||*.www.robuxdeals-gamma.vercel.app^$important
-||*.www.ryzhe.com^$important
 ||*.www.saf-oil.ru^$important
 ||*.www.salonmarketing.ca^$important
 ||*.www.sgeseducation.com^$important
@@ -771,7 +774,6 @@
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
-||*.www.support-data.com^$important
 ||*.www.swedbank-lt.weebly.com^$important
 ||*.www.tdejb.com^$important
 ||*.www.tecunonline.com^$important
