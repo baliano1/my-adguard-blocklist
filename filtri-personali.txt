@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-10 02:56:20
+! Ultimo aggiornamento automatico: 2026-09-10 07:53:58
 ||*.02teste.cc^$important
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
@@ -173,7 +173,6 @@
 ||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.4eclient.com^$important
-||*.6ak-tehnik.si^$important
 ||*.PEDIANOW.ORG^$important
 ||*.abertoexpres.vercel.app^$important
 ||*.abilityindisabilityindia.org^$important
@@ -185,6 +184,7 @@
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
+||*.adopdf.shop^$important
 ||*.aftelecom.com.br^$important
 ||*.aidlifempowerment.com^$important
 ||*.airbnb-demo-delta.vercel.app^$important
@@ -199,6 +199,7 @@
 ||*.alternativas.ru^$important
 ||*.amatteroflaw.com.au^$important
 ||*.amazon.iqraashraf.dev^$important
+||*.api.vexxuhq.site^$important
 ||*.app.appzcvb.com^$important
 ||*.archivoscrosoft.com^$important
 ||*.archway.cozyvistany.com^$important
@@ -223,6 +224,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
@@ -234,7 +236,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cesar6jvpereira-lgtm.github.io^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -260,7 +261,7 @@
 ||*.cpc188.day^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
-||*.cu.srijanajha.com.np^$important
+||*.ctsfactory.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.d9z8a3s3e-7r6t1h7n7f-1b6e3b-6d8d6g9w8b5f2g-1e4c9y6m1z5o1.us-southeast-1.linodeobjects.com^$important
@@ -289,7 +290,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -320,7 +320,6 @@
 ||*.fb-meta-verified-3658-sage.vercel.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fls-a2b3065d-afb4-4e9d-88c1-b1b9e2ca48f8.laravel.cloud^$important
@@ -341,6 +340,7 @@
 ||*.globalbank.us^$important
 ||*.globalsupportupdate.top^$important
 ||*.go-zeexpress24h.shop^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
 ||*.gruponovopatamar.s3.us-east-005.backblazeb2.com^$important
@@ -505,7 +505,6 @@
 ||*.merit72.github.io^$important
 ||*.messagerie02-livebox-ind.abrdns.com^$important
 ||*.metafox-cws-preview.pages.dev^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.middle-rose-59mexohi-dp8frvkwaueh.edgeone.dev^$important
 ||*.miriamgualda.com.br^$important
 ||*.missing-lavender-v0k2dg0l.edgeone.dev^$important
@@ -530,6 +529,7 @@
 ||*.netflix-github-com.vercel.app^$important
 ||*.new-recovery.info-meta-noreply.com^$important
 ||*.noithaticon.vn^$important
+||*.northernvirginiaeyeassociates.com^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
@@ -554,6 +554,7 @@
 ||*.postelnini.mk^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
+||*.productoslili.cl^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.pubgmidas.turnoffers.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -634,7 +635,6 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.support-tracking-schweiz-a4gjwi5xta8s.ijcai-22.org^$important
 ||*.support.clz.kr^$important
@@ -651,6 +651,7 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.teleabonent.ru^$important
+||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.thecoussserguy.club^$important
@@ -690,6 +691,7 @@
 ||*.vow8ubo4zcpwalpcyjv.vercel.app^$important
 ||*.vrajras.com^$important
 ||*.we3ibma1l.github.io^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.webtorton.edgeone.dev^$important
 ||*.widexenmexico.com.mx^$important
@@ -759,6 +761,7 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.newww-sooty.vercel.app^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.onedrive-58x0.vercel.app^$important
 ||*.www.parceldashboardwelcomeclientstationonlineopacketofficeshipment.artkiyotomotiv.com^$important
@@ -817,4 +820,5 @@
 ||*.zentexa.com^$important
 ||*.zetaval.metcalfphoto.com^$important
 ||*.zhigao5191.com^$important
+||*.zunimar.cl^$important
 ||*.zycdjz.com^$important
