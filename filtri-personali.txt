@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-11 18:08:36
+! Ultimo aggiornamento automatico: 2026-09-11 22:56:38
 ||*.02teste.cc^$important
 ||*.0following.com^$important
 ||*.0xaihub.pages.dev^$important
@@ -192,7 +192,6 @@
 ||*.adopdf.shop^$important
 ||*.aftelecom.com.br^$important
 ||*.aidlifempowerment.com^$important
-||*.airtickts.com^$important
 ||*.aishwarya-rathore.github.io^$important
 ||*.akaruvicha.com^$important
 ||*.aktifka4npaylaters.tnn.my.id^$important
@@ -237,7 +236,6 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bnpparibas.mitarbeitervorteile.de^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bringjp37.icu^$important
@@ -252,6 +250,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chase.personalaccount.app^$important
 ||*.chaseuk.personalaccount.app^$important
@@ -262,11 +261,9 @@
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
-||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.memxzf.com^$important
-||*.cn.unionlever.com^$important
 ||*.coconutoficial.com.br^$important
 ||*.compuserviceonline.com.br^$important
 ||*.contact-paversnstones.s3.us-west-2.amazonaws.com^$important
@@ -312,6 +309,7 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.pocketbitcoindesktop.com^$important
+||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
 ||*.dugovicova.sk^$important
@@ -357,7 +355,9 @@
 ||*.gemini.cxxtms.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.get-login-leddgr-live.framer.website^$important
+||*.glbeletronica.com.br^$important
 ||*.gleysiferreira.github.io^$important
 ||*.globalbank.us^$important
 ||*.globalsupportupdate.top^$important
@@ -387,7 +387,6 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.inspiring-kheer-6a8642.netlify.app^$important
 ||*.instagramcheck.blogspot.com^$important
 ||*.instagramfollowers7894.blogspot.com^$important
@@ -437,7 +436,6 @@
 ||*.menu-aktivasipay-laters.fgtgh.my.id^$important
 ||*.meta-verified-blueticks-fb5.vercel.app^$important
 ||*.metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.meuappsicrdonline.ignorelist.com^$important
 ||*.microsoft-advertising-authentification.sgn-1.com^$important
 ||*.miriamgualda.com.br^$important
@@ -449,7 +447,7 @@
 ||*.mogimall.com^$important
 ||*.momoloansrwf.vercel.app^$important
 ||*.monetico-pay.cfd^$important
-||*.motorhomecinema.com^$important
+||*.mothertouch.ac.zw^$important
 ||*.moviedbclonefirst.netlify.app^$important
 ||*.moz-extensionkeplrr-pudgbhnp-avds-projects-gnhfnp-avds-projects.vercel.app^$important
 ||*.mrsweaterltd.com^$important
@@ -474,6 +472,7 @@
 ||*.nl2.hypervpn.cc^$important
 ||*.noithaticon.vn^$important
 ||*.nsidebymeliaalicanteportamaris.spahotel.guru^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
@@ -595,7 +594,7 @@
 ||*.start-ledgerus.readme.io^$important
 ||*.startapps-trxor-io.readme.io^$important
 ||*.startcom.framer.website^$important
-||*.static.topxgun.com^$important
+||*.static.ilclock.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.streammobs.com^$important
@@ -638,6 +637,7 @@
 ||*.trtmyanmar.com^$important
 ||*.trzbridge.zapier.app^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.u7o2i.icu^$important
 ||*.undian-resmi312.blogspot.com^$important
