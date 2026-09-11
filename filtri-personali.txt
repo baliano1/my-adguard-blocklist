@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-11 02:51:20
+! Ultimo aggiornamento automatico: 2026-09-11 07:45:03
 ||*.02teste.cc^$important
 ||*.0following.com^$important
 ||*.0xaihub.pages.dev^$important
@@ -224,7 +224,6 @@
 ||*.bankofamerica-uscom.vercel.app^$important
 ||*.banque-online.com^$important
 ||*.bd1lnn.top^$important
-||*.beak.in^$important
 ||*.bebjthman.vercel.app^$important
 ||*.beryl-bet365.com.cn^$important
 ||*.bhd-acreditaciones.netlify.app^$important
@@ -240,6 +239,7 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bnpparibas.mitarbeitervorteile.de^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.booking.housegoldehoms.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -277,6 +277,7 @@
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
 ||*.coralasargetia.ro^$important
+||*.coralpac.com^$important
 ||*.cotecsecuritygroup.com^$important
 ||*.cpc188.day^$important
 ||*.cq.lzkqhez.net^$important
@@ -337,7 +338,6 @@
 ||*.epanpano.com^$important
 ||*.epsinf.com^$important
 ||*.eu-assets.contentstack.com^$important
-||*.eurofarm.ge^$important
 ||*.expansaopersonalizada.s3.us-east-005.backblazeb2.com^$important
 ||*.f1nancier.com^$important
 ||*.facebookbigeronline.blogspot.com^$important
@@ -347,14 +347,12 @@
 ||*.fb-login-page.vercel.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.fileget.plumbco.co.nz^$important
 ||*.filerit.com^$important
 ||*.finanzen-im-fokus.online^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
-||*.fortdelgres.com^$important
 ||*.franciscojfcosta1787865291113.0720058.meusitehostgator.com.br^$important
 ||*.fraudcheck.sviluppo.host^$important
 ||*.fukt.link^$important
@@ -363,13 +361,12 @@
 ||*.g5.lu^$important
 ||*.gaiadeqi.com^$important
 ||*.galerisenimutiara.com^$important
-||*.garogradba.mk^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.gleysiferreira.github.io^$important
 ||*.globalbank.us^$important
 ||*.globalsupportupdate.top^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.goodlife-6jp.pages.dev^$important
 ||*.grantexx.com^$important
 ||*.grindhousegarage.pro^$important
@@ -390,14 +387,13 @@
 ||*.hmmaffsrrhnhot.weebly.com^$important
 ||*.hobobot.net^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.html-website--celinedelcourte.replit.app^$important
 ||*.icoffeecloud.com^$important
 ||*.id.verifyaccount.store^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
-||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
+||*.indusenterprises.co^$important
 ||*.inset-liveledger-en.netlify.app^$important
 ||*.inspiring-kheer-6a8642.netlify.app^$important
 ||*.instagramfollowers7894.blogspot.com^$important
@@ -422,9 +418,11 @@
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
 ||*.ldgrr-live-auth.pages.dev^$important
+||*.leanmaestro.com^$important
 ||*.ledger-com-auth-starts.pages.dev^$important
 ||*.ledger-live-wallet-start-conect-us-en.typedream.app^$important
 ||*.ledger-wallet-portal.pages.dev^$important
+||*.letstalkhomes.ca^$important
 ||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.lnk.ua^$important
@@ -449,6 +447,7 @@
 ||*.metamask-ai-agent.vercel.app^$important
 ||*.metamask-update.github.io^$important
 ||*.metamask2-eight.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.meuappsicrdonline.ignorelist.com^$important
 ||*.millsiowaslv.vercel.app^$important
 ||*.miriamgualda.com.br^$important
@@ -481,7 +480,6 @@
 ||*.netsfliz.netlify.app^$important
 ||*.noithaticon.vn^$important
 ||*.nsidebymeliaalicanteportamaris.spahotel.guru^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
@@ -599,11 +597,13 @@
 ||*.sso---secure-robinhood--coms.webflow.io^$important
 ||*.stacyboris30-tech.github.io^$important
 ||*.startcom.framer.website^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.wave-whatsapp.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steamqowered.store^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sumnitasinvestment.com^$important
 ||*.support.clz.kr^$important
@@ -643,7 +643,6 @@
 ||*.trustwallet-source.vercel.app^$important
 ||*.tuse-theta.vercel.app^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -674,7 +673,6 @@
 ||*.wild-sunset-9c10.jernzen26.workers.dev^$important
 ||*.windomstatetheater.com^$important
 ||*.wittenhorst.eu^$important
-||*.wordtax.ink^$important
 ||*.ww547.scotiaabankk.com^$important
 ||*.wwalucircle.com^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
@@ -695,6 +693,7 @@
 ||*.www.click-to-enjoy.vercel.app^$important
 ||*.www.comcastlog.weebly.com^$important
 ||*.www.controliumbt.com^$important
+||*.www.craftsparkdimensions.com^$important
 ||*.www.crazywickedaddiction.com^$important
 ||*.www.cutting-edge.in^$important
 ||*.www.dcpste-electrtexxhtconnexes.vercel.app^$important
@@ -740,7 +739,6 @@
 ||*.www.noreply-notification.icu^$important
 ||*.www.notbak.com^$important
 ||*.www.ohereceramics.cn^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.ok8386.com.mx^$important
 ||*.www.okhan.net^$important
 ||*.www.onchains-247service.live^$important
@@ -798,7 +796,6 @@
 ||*.xshop.com.tr^$important
 ||*.yakult-hk.com^$important
 ||*.ydljmn.com^$important
-||*.yokobd.com^$important
 ||*.youtransfer.net^$important
 ||*.z-bio.link^$important
 ||*.zamilgroups.com^$important
