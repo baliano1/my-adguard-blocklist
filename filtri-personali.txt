@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-11 13:12:15
+! Ultimo aggiornamento automatico: 2026-09-11 18:08:36
 ||*.02teste.cc^$important
 ||*.0following.com^$important
 ||*.0xaihub.pages.dev^$important
@@ -261,11 +261,12 @@
 ||*.chiptune.com^$important
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
+||*.cid.gov.so^$important
+||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.memxzf.com^$important
 ||*.cn.unionlever.com^$important
-||*.co-emas.com^$important
 ||*.coconutoficial.com.br^$important
 ||*.compuserviceonline.com.br^$important
 ||*.contact-paversnstones.s3.us-west-2.amazonaws.com^$important
@@ -283,7 +284,6 @@
 ||*.damiancollier.com^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.delp-heizungsbau.de^$important
 ||*.dev.uspsstampstogo.com^$important
@@ -304,6 +304,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -311,7 +312,6 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.pocketbitcoindesktop.com^$important
-||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
 ||*.dugovicova.sk^$important
@@ -357,7 +357,6 @@
 ||*.gemini.cxxtms.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.get-login-leddgr-live.framer.website^$important
 ||*.gleysiferreira.github.io^$important
 ||*.globalbank.us^$important
@@ -387,7 +386,6 @@
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
-||*.ikincielesyaciankara.com.tr^$important
 ||*.impectorinternational.com^$important
 ||*.indusenterprises.co^$important
 ||*.inspiring-kheer-6a8642.netlify.app^$important
@@ -398,6 +396,7 @@
 ||*.island-path.pages.dev^$important
 ||*.itssprout.com^$important
 ||*.jagriti-mishra.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -418,6 +417,7 @@
 ||*.ledger-com-auth-starts.pages.dev^$important
 ||*.ledger-live-in-log.pages.dev^$important
 ||*.letstalkhomes.ca^$important
+||*.lindnerelektroanlagen.de^$important
 ||*.live365email.dothome.co.kr^$important
 ||*.lnk.ink^$important
 ||*.lnk.ua^$important
@@ -449,6 +449,7 @@
 ||*.mogimall.com^$important
 ||*.momoloansrwf.vercel.app^$important
 ||*.monetico-pay.cfd^$important
+||*.motorhomecinema.com^$important
 ||*.moviedbclonefirst.netlify.app^$important
 ||*.moz-extensionkeplrr-pudgbhnp-avds-projects-gnhfnp-avds-projects.vercel.app^$important
 ||*.mrsweaterltd.com^$important
@@ -473,9 +474,7 @@
 ||*.nl2.hypervpn.cc^$important
 ||*.noithaticon.vn^$important
 ||*.nsidebymeliaalicanteportamaris.spahotel.guru^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -490,7 +489,6 @@
 ||*.panel.mkk9991999912.observer^$important
 ||*.parahivanaalawiasu.blogspot.com^$important
 ||*.parceldashboardclientstationopacketofficeshipmentdelivery.artkiyotomotiv.com^$important
-||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pegug.de^$important
 ||*.pesta--shopee779.blogspot.com^$important
@@ -597,7 +595,6 @@
 ||*.start-ledgerus.readme.io^$important
 ||*.startapps-trxor-io.readme.io^$important
 ||*.startcom.framer.website^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -609,7 +606,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -630,7 +626,6 @@
 ||*.theoremaoliveoil.com^$important
 ||*.thriving-tarsier-58c180.netlify.app^$important
 ||*.thtp2.volamngayxua.net^$important
-||*.tiacreation.club^$important
 ||*.tinyurl.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
@@ -643,7 +638,6 @@
 ||*.trtmyanmar.com^$important
 ||*.trzbridge.zapier.app^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.u7o2i.icu^$important
 ||*.undian-resmi312.blogspot.com^$important
@@ -682,6 +676,7 @@
 ||*.wwalucircle.com^$important
 ||*.www--roblox.co^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
+||*.www.0akw8w.com^$important
 ||*.www.ardguisser.com^$important
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
@@ -707,10 +702,8 @@
 ||*.www.facebooksociallink.blogspot.com^$important
 ||*.www.fb-meta-verified-87632.vercel.app^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
-||*.www.hseda.com^$important
 ||*.www.instagramcheck.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jm-tiktok-llc.com^$important
@@ -732,7 +725,6 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.nsidebymeliaalicanteportamaris.spahotel.guru^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.onchains-247service.live^$important
 ||*.www.pesta--shopee779.blogspot.com^$important
