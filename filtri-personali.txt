@@ -162,8 +162,9 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-12 12:36:07
+! Ultimo aggiornamento automatico: 2026-09-12 17:40:06
 ||*.0following.com^$important
+||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
 ||*.1h.vuregyy1.ru^$important
@@ -234,12 +235,14 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.booking.jh-print.com^$important
 ||*.bookish-pancake-two.vercel.app^$important
 ||*.bridge-docs-trezar-auth.webflow.io^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
+||*.c2.mc-live.online^$important
 ||*.cambodiatouristservice.com^$important
 ||*.cancelsecurealfa.vercel.app^$important
 ||*.casasmediterraneas.com^$important
@@ -248,6 +251,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cerexedwardsteamword2136.myclickfunnels.com^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -318,7 +322,6 @@
 ||*.ecapi.org^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.epanpano.com^$important
@@ -341,7 +344,6 @@
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
-||*.fotosdepuebla.org^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.fz.tiansys.cn^$important
@@ -350,9 +352,7 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
 ||*.gift-community.beer^$important
-||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
 ||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
@@ -428,7 +428,6 @@
 ||*.loop-lumen.com^$important
 ||*.loop1979.pages.dev^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.icrosoft.org^$important
 ||*.m.jkoa.co.kr^$important
@@ -473,7 +472,6 @@
 ||*.palharesinformatica.com.br^$important
 ||*.palm-night.pages.dev^$important
 ||*.parametroevolucao.s3.us-east-005.backblazeb2.com^$important
-||*.pay.aqiu6.com^$important
 ||*.pay.emag.ro^$important
 ||*.pcupd.com^$important
 ||*.pembatalan-pinjama4n.tymg.my.id^$important
@@ -582,7 +580,6 @@
 ||*.statistical-plum-qw6rhrm1.edgeone.dev^$important
 ||*.stdown.dinju.com^$important
 ||*.streamflowfi.netlify.app^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.sumnitasinvestment.com^$important
 ||*.support-desktop-help.square.site^$important
@@ -595,10 +592,8 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.taunahi.st^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.testbclomb.rudofopelomi.workers.dev^$important
@@ -726,7 +721,6 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
 ||*.www.officialseller.vip^$important
-||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.parahivanaalawiasu.blogspot.com^$important
 ||*.www.parceldashboardclientstationopacketofficeshipmentdelivery.artkiyotomotiv.com^$important
