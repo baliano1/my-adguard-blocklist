@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-12 20:08:34
+! Ultimo aggiornamento automatico: 2026-09-12 22:48:22
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -221,7 +221,6 @@
 ||*.aw3749333-coder.github.io^$important
 ||*.awarenessexhibition.com^$important
 ||*.awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev^$important
-||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bantuan-malay.biz.id^$important
 ||*.beak.in^$important
@@ -250,7 +249,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cerexedwardsteamword2136.myclickfunnels.com^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -321,6 +319,7 @@
 ||*.ecapi.org^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.epanpano.com^$important
@@ -370,7 +369,6 @@
 ||*.hobobot.net^$important
 ||*.hofmemorabilia.ebaymclaren-austin.eventshouse.app^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.iahnp-g5p-0jym-r1nwm-11-09-2026-hh.pages.dev^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -413,7 +411,6 @@
 ||*.ledger-live-get-desktop-coz.pages.dev^$important
 ||*.letstalkhomes.ca^$important
 ||*.ligjerccobstartt.webflow.io^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.link-site-1690-oosxzbs2r-carmonamarc2-3645s-projects.vercel.app^$important
 ||*.live-en-ledger-lcn.pages.dev^$important
 ||*.lively-field-d81c.rudofopelomi.workers.dev^$important
@@ -459,6 +456,7 @@
 ||*.noithaticon.vn^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -547,7 +545,6 @@
 ||*.shopeeid414.blogspot.com^$important
 ||*.shopeetbk7272.blogspot.com^$important
 ||*.shpeeaffilator.com^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.signageinsignia.co.za^$important
 ||*.signinattcomdynamicilriaplogin311z157us8.mailserversslverify.workers.dev^$important
 ||*.signinattcomdynamicilriaplogin7i05yvw4nt.mailserversslverify.workers.dev^$important
@@ -586,13 +583,13 @@
 ||*.suryahitech.com^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.taunahi.st^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
+||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.testbclomb.rudofopelomi.workers.dev^$important
@@ -609,7 +606,6 @@
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
 ||*.tpp.om-stock.com^$important
-||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.tripfarely.com^$important
 ||*.trtmyanmar.com^$important
@@ -685,6 +681,7 @@
 ||*.www.franciscojfcosta1787865291113.0720058.meusitehostgator.com.br^$important
 ||*.www.free-5464113.webadorsite.com^$important
 ||*.www.fyshur.com^$important
+||*.www.gestroom.it^$important
 ||*.www.hadiah-shopee116.blogspot.com^$important
 ||*.www.hadiah-shopee246.blogspot.com^$important
 ||*.www.hadiah-shopee523.blogspot.com^$important
