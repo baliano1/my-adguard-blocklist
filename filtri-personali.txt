@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-12 17:40:06
+! Ultimo aggiornamento automatico: 2026-09-12 20:08:34
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -242,7 +242,6 @@
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
-||*.c2.mc-live.online^$important
 ||*.cambodiatouristservice.com^$important
 ||*.cancelsecurealfa.vercel.app^$important
 ||*.casasmediterraneas.com^$important
