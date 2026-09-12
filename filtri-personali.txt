@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-12 02:58:45
+! Ultimo aggiornamento automatico: 2026-09-12 07:48:54
 ||*.0following.com^$important
 ||*.112232sigincomcastnow.weebly.com^$important
 ||*.123.ywxww.net^$important
@@ -254,7 +254,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdn.file6.goodid.com^$important
-||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
 ||*.chiptune.com^$important
@@ -263,6 +262,7 @@
 ||*.cid.gov.so^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.coconutoficial.com.br^$important
 ||*.coinsquar-io.zapier.app^$important
 ||*.coinsquare-loginas.typedream.app^$important
@@ -290,6 +290,7 @@
 ||*.danakagetrsm.vercel.app^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.delp-heizungsbau.de^$important
 ||*.desktop-ledgrre.pages.dev^$important
@@ -327,7 +328,6 @@
 ||*.ehay.item.com.login.secures-wr8wcvzo.thechennaistores.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.emoto.mk^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
@@ -346,10 +346,12 @@
 ||*.fileget.plumbco.co.nz^$important
 ||*.filerit.com^$important
 ||*.financesantanderm.tu.lahmtm.com^$important
+||*.firojkhan.com.np^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fortnitecalculator.lol^$important
+||*.fotosdepuebla.org^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.fz.tiansys.cn^$important
@@ -379,7 +381,6 @@
 ||*.hira-jahangir.github.io^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.home-coinsquarr.zapier.app^$important
 ||*.home-page-coinsqure.zapier.app^$important
 ||*.hseda.com^$important
@@ -389,10 +390,13 @@
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.ikincielesyaciankara.com.tr^$important
 ||*.illimited.updatemybilling.app^$important
 ||*.impectorinternational.com^$important
 ||*.implicit-purple-58wmi6wx.edgeone.dev^$important
 ||*.imtokencom.top^$important
+||*.indonesias.me^$important
+||*.indusenterprises.co^$important
 ||*.infocitypinamar.com^$important
 ||*.inicio-2026aunthentication365.yzz.me^$important
 ||*.instagramcheck.blogspot.com^$important
@@ -450,9 +454,11 @@
 ||*.m3tamsklogen.gitbook.io^$important
 ||*.maidforyou1985.com^$important
 ||*.malupieng.com.br^$important
+||*.massgravel.dev^$important
 ||*.media.valvewizard.uk^$important
 ||*.meta-verified-blueticks-fb5.vercel.app^$important
 ||*.meta-verified-blueticks-fb8.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.microsoft-advertising-authentification.sgn-1.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -460,7 +466,6 @@
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.momoloansrwf.vercel.app^$important
-||*.mothertouch.ac.zw^$important
 ||*.moz-extensionkeplrr-pudgbhnp-avds-projects-gnhfnp-avds-projects.vercel.app^$important
 ||*.mrsweaterltd.com^$important
 ||*.msglock109334.square.site^$important
@@ -486,6 +491,7 @@
 ||*.ondp.finance^$important
 ||*.onfiltre.com.tr^$important
 ||*.opalcraftsmp.com^$important
+||*.oss.cop.lat^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
@@ -579,7 +585,6 @@
 ||*.shopeeid220.blogspot.com^$important
 ||*.shopeetbk7272.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.siaasesoria.com.mx^$important
 ||*.signageinsignia.co.za^$important
 ||*.signinattcomdynamicilriaplogin311z157us8.mailserversslverify.workers.dev^$important
 ||*.signinattcomdynamicilriaplogin7i05yvw4nt.mailserversslverify.workers.dev^$important
@@ -609,6 +614,7 @@
 ||*.startapps-trxor-io.readme.io^$important
 ||*.started-coin-square.zapier.app^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.statistical-plum-qw6rhrm1.edgeone.dev^$important
 ||*.stdown.dinju.com^$important
@@ -619,6 +625,7 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -643,7 +650,6 @@
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
 ||*.tpp.om-stock.com^$important
-||*.tr.zhzy999.net^$important
 ||*.tramite.creditscolombia.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.tripfarely.com^$important
@@ -737,6 +743,7 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.parahivanaalawiasu.blogspot.com^$important
 ||*.www.parceldashboardclientstationopacketofficeshipmentdelivery.artkiyotomotiv.com^$important
