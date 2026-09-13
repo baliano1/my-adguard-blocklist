@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-13 17:53:56
+! Ultimo aggiornamento automatico: 2026-09-13 20:15:43
 ||*.00.app.dev.rhone.email^$important
 ||*.0967-ssa-02.vercel.app^$important
 ||*.0following.com^$important
@@ -551,6 +551,7 @@
 ||*.sendusdtupdated.vercel.app^$important
 ||*.separadordecc.com^$important
 ||*.seputartuban.com^$important
+||*.server.miranarts-top.cc^$important
 ||*.sg123.net^$important
 ||*.shiva52310.github.io^$important
 ||*.shopee3899.blogspot.com^$important
@@ -568,6 +569,7 @@
 ||*.spgint.com^$important
 ||*.staffadmin.vip^$important
 ||*.staging.d3kw313lgg38m8.amplifyapp.com^$important
+||*.startvsgame.com^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
@@ -586,6 +588,7 @@
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
+||*.tapped.top^$important
 ||*.taunahi.st^$important
 ||*.tavlok.horse^$important
 ||*.tecunonline.com^$important
