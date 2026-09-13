@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-13 20:15:43
+! Ultimo aggiornamento automatico: 2026-09-13 22:49:56
 ||*.00.app.dev.rhone.email^$important
 ||*.0967-ssa-02.vercel.app^$important
 ||*.0following.com^$important
@@ -201,6 +201,7 @@
 ||*.allendostmen.com^$important
 ||*.alphapicaficagency.com^$important
 ||*.alphasaling.site^$important
+||*.alternativas.ru^$important
 ||*.anshulpatel17.github.io^$important
 ||*.api.wipmania.net^$important
 ||*.app-exodusweb.pages.dev^$important
@@ -215,6 +216,7 @@
 ||*.audicontadores.com^$important
 ||*.auedc.pages.dev^$important
 ||*.awarenessexhibition.com^$important
+||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.basahslot.org^$important
 ||*.benevolent-elf-eeaeab.netlify.app^$important
@@ -294,6 +296,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -313,7 +316,6 @@
 ||*.epanpano.com^$important
 ||*.epsinf.com^$important
 ||*.escrtsattiungch99.site^$important
-||*.executorhub.space^$important
 ||*.express-dhl-production.up.railway.app^$important
 ||*.ext-coinbais-us.wasmer.app^$important
 ||*.f005.backblazeb2.com^$important
@@ -330,7 +332,6 @@
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
-||*.firojkhan.com.np^$important
 ||*.first-security-verden.de^$important
 ||*.fls-a2ba3ea2-2297-46d0-bceb-50440331a6c9.laravel.cloud^$important
 ||*.flyingmutts.com^$important
@@ -346,6 +347,7 @@
 ||*.gebyarshopee228.blogspot.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.gimenilowgoin.godaddysites.com^$important
 ||*.gimernilogun.webflow.io^$important
 ||*.globalbank.us^$important
@@ -365,7 +367,6 @@
 ||*.hot-moccasin-v46kgzzn.edgeone.dev^$important
 ||*.hotflix.eu.cc^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https--www--roblox.com^$important
 ||*.hurt-black-ozr1td9x.edgeone.dev^$important
 ||*.iamivanaalawicash.blogspot.com^$important
@@ -393,6 +394,7 @@
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
+||*.jlwz.cn^$important
 ||*.join-coin-eng.zapier.app^$important
 ||*.jswen.com^$important
 ||*.juno65.godaddysites.com^$important
@@ -421,9 +423,9 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.ahv3ctpms4e.timeforsurveys.com^$important
+||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maga-zine-luiza.com^$important
 ||*.maidforyou1985.com^$important
@@ -436,7 +438,6 @@
 ||*.meta-verified-blueticks-fb12.vercel.app^$important
 ||*.meta-verified-blueticks-fb5.vercel.app^$important
 ||*.meta-verified-blueticks-fb8.vercel.app^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.microezip--dpaships.replit.app^$important
 ||*.minimonsterrrrr.github.io^$important
 ||*.miriamgualda.com.br^$important
@@ -533,7 +534,6 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -551,7 +551,6 @@
 ||*.sendusdtupdated.vercel.app^$important
 ||*.separadordecc.com^$important
 ||*.seputartuban.com^$important
-||*.server.miranarts-top.cc^$important
 ||*.sg123.net^$important
 ||*.shiva52310.github.io^$important
 ||*.shopee3899.blogspot.com^$important
@@ -584,14 +583,13 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.sysd4696-dot.github.io^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tapped.top^$important
-||*.taunahi.st^$important
 ||*.tavlok.horse^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
@@ -684,7 +682,6 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.gamiiinlogio.godaddysites.com^$important
 ||*.www.gebyarshopee228.blogspot.com^$important
-||*.www.gestroom.it^$important
 ||*.www.gimenilowgoin.godaddysites.com^$important
 ||*.www.globalbersama.com^$important
 ||*.www.hostingcloud.science^$important
