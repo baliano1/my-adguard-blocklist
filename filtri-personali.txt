@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-14 17:36:24
+! Ultimo aggiornamento automatico: 2026-09-14 21:24:45
 ||*.0following.com^$important
 ||*.121jio.senes.at^$important
 ||*.1708dkfjxusxkxlolxxisdforxxllp1-endpoint-d9huf9bsffb3hab8.z03.azurefd.net^$important
@@ -229,7 +229,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.botcheck-cf.top^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -366,7 +365,12 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
+||*.get.acivated.win^$important
+||*.get.activaed.win^$important
+||*.get.activatd.win^$important
+||*.get.activted.win^$important
 ||*.get.acttivated.win^$important
+||*.get.ativated.win^$important
 ||*.gizmotide.com^$important
 ||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
@@ -393,6 +397,7 @@
 ||*.im-token.bar^$important
 ||*.im-wallet-dapp.com.cn^$important
 ||*.im-wallet-web3.com.cn^$important
+||*.images.fishing-tools.cyou^$important
 ||*.imcoin.me^$important
 ||*.impectorinternational.com^$important
 ||*.indonesias.me^$important
@@ -436,7 +441,6 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.lylib.fun^$important
 ||*.m.jkoa.co.kr^$important
@@ -619,6 +623,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trezoriostarts.godaddysites.com^$important
 ||*.trezr-io-cloud-sso.typedream.app^$important
+||*.tripfarely.com^$important
 ||*.trtmyanmar.com^$important
 ||*.true-soft.su^$important
 ||*.tushar7826.github.io^$important
@@ -659,6 +664,7 @@
 ||*.wittenhorst.eu^$important
 ||*.word.en-coda.shop^$important
 ||*.wordpress-214953-0.cloudclusters.net^$important
+||*.workerstats.net^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www-trezor-io-backups.nhcarwraps.com^$important
 ||*.www.0akw8w.com^$important
