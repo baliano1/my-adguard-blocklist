@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-14 03:12:27
+! Ultimo aggiornamento automatico: 2026-09-14 11:41:46
 ||*.00.app.dev.rhone.email^$important
 ||*.0following.com^$important
 ||*.121jio.senes.at^$important
@@ -171,11 +171,10 @@
 ||*.1717.1000uc.com^$important
 ||*.197352.xyz^$important
 ||*.198348.gl^$important
-||*.1h.vuregyy1.ru^$important
-||*.1h.xeteloi4.ru^$important
 ||*.1url.at^$important
 ||*.2017-facebook.blogspot.com^$important
 ||*.2r3k7-opu-d5z0-9x90k-08-09-2026-hh.pages.dev^$important
+||*.4eclient.com^$important
 ||*.683436.xyz^$important
 ||*.90claim-free-robux-instant.blogspot.com^$important
 ||*.985757.xyz^$important
@@ -185,7 +184,6 @@
 ||*.acc.jiangsujiaxue.com^$important
 ||*.account.docusign.us.ci^$important
 ||*.acms.saleseos.com^$important
-||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aeuxbq.pages.dev^$important
@@ -214,10 +212,8 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.basahslot.org^$important
 ||*.bcagency-sigma.vercel.app^$important
-||*.beak.in^$important
 ||*.benevolent-elf-eeaeab.netlify.app^$important
 ||*.bito.com.pk^$important
-||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blog-whatsappx.hl.cn^$important
 ||*.blogs.sokun.jp^$important
@@ -238,6 +234,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cedarmillcc.live^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -336,7 +333,6 @@
 ||*.fd.v2downf.shop^$important
 ||*.file-whatsappn.hl.cn^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finallyfoundyouofc.com^$important
 ||*.fingerprint-veri.info^$important
@@ -355,6 +351,8 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
+||*.get.acivated.win^$important
+||*.get.activatd.win^$important
 ||*.get.acttivated.win^$important
 ||*.gimenilowgoin.godaddysites.com^$important
 ||*.gimernilogun.webflow.io^$important
@@ -395,7 +393,6 @@
 ||*.itssprout.com^$important
 ||*.ivanaalawikepnew.blogspot.com^$important
 ||*.iwuaawdjdwja.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jkea-gvcehmdkbtcdc8fm.z03.azurefd.net^$important
@@ -405,7 +402,6 @@
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
 ||*.kimyen.net^$important
-||*.kits.frog.tw^$important
 ||*.konsor.ru^$important
 ||*.kqid7e1vkh3d0r88k3d.vercel.app^$important
 ||*.landing-click.com^$important
@@ -414,8 +410,6 @@
 ||*.layanan-shopee17.blogspot.com^$important
 ||*.ledger-get-live.pages.dev^$important
 ||*.ledgerr-livv.pages.dev^$important
-||*.letstalkhomes.ca^$important
-||*.lindnerelektroanlagen.de^$important
 ||*.lnk.ink^$important
 ||*.local-update.com^$important
 ||*.login-treqasc.webflow.io^$important
@@ -436,6 +430,8 @@
 ||*.malupieng.com.br^$important
 ||*.massgravel.dev^$important
 ||*.meta-verified-blueticks-fb15.vercel.app^$important
+||*.meteorrejects.net^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mi-solicitud-card-9194.andres457646.workers.dev^$important
 ||*.minimonsterrrrr.github.io^$important
 ||*.miriamgualda.com.br^$important
@@ -465,6 +461,7 @@
 ||*.ns2.corelinksvcgateway.com^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
+||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
 ||*.oli841.github.io^$important
@@ -477,7 +474,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
-||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
 ||*.php-web-server--militarymandril.replit.app^$important
 ||*.pic.li^$important
@@ -529,6 +525,7 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -559,8 +556,8 @@
 ||*.spgint.com^$important
 ||*.square-nddax-en-us.square.site^$important
 ||*.startvsgame.com^$important
+||*.statementreaderdownload.com^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.store.workshopcommunitycreatemods.com^$important
@@ -597,7 +594,6 @@
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
 ||*.tpp.om-stock.com^$important
-||*.tr.zhzy999.net^$important
 ||*.tracker1-9sb.pages.dev^$important
 ||*.traditional-violet-gzelm9rw.edgeone.dev^$important
 ||*.transaction1-esl.cfd^$important
@@ -605,6 +601,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trezarsuiteapp.wasmer.app^$important
 ||*.trezoriostarts.godaddysites.com^$important
+||*.trouserstreak.net^$important
 ||*.trtmyanmar.com^$important
 ||*.true-soft.su^$important
 ||*.twitch.tj^$important
