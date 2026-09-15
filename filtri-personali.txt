@@ -162,18 +162,21 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-15 16:10:18
+! Ultimo aggiornamento automatico: 2026-09-15 20:49:36
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
 ||*.49aaaf6e.eee34s.pages.dev^$important
+||*.4eclient.com^$important
 ||*.8s7q0g-qw644c24y-mbtz1k9p8m2-fsgc.pages.dev^$important
 ||*.PEDIANOW.ORG^$important
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.accountassistcenter.vercel.app^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.acrobat.proposal.name.ng^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
@@ -232,6 +235,7 @@
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
+||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.ceba-facility.publicite-gratuite.info^$important
 ||*.celebratingseniors.net^$important
@@ -261,6 +265,7 @@
 ||*.cs.go.kg^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
+||*.dailyushistory.com^$important
 ||*.damiancollier.com^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
@@ -283,7 +288,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -301,6 +305,7 @@
 ||*.edwanex.com^$important
 ||*.edwanex.pro-linuxpl.com^$important
 ||*.electri.billregulator.com^$important
+||*.elisans.novayonetim.com^$important
 ||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
@@ -316,9 +321,11 @@
 ||*.farschid.de^$important
 ||*.fb-faceboook.blogspot.com^$important
 ||*.fd.v2downf.shop^$important
+||*.fdstat.vip^$important
 ||*.fetchr-delivr.pages.dev^$important
 ||*.ficus.in^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finanzas.debaneth.com^$important
 ||*.fingerprint-veri.info^$important
@@ -406,8 +413,8 @@
 ||*.lomejordesalamanca.es^$important
 ||*.lq7mla.cfd^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
-||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malupieng.com.br^$important
@@ -490,9 +497,11 @@
 ||*.portal.onepansol.site^$important
 ||*.postelnini.mk^$important
 ||*.practisingcertificateprotection.com^$important
+||*.preciosasjoyitas.com.mx^$important
 ||*.private-ledgr-live.pages.dev^$important
 ||*.prkgilrs-usdt-draner-frant.vercel.app^$important
 ||*.pro-ledgeron.pages.dev^$important
+||*.prodimetal.com^$important
 ||*.product-ledgerr.pages.dev^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.profitable-yellow-5gazskvd.edgeone.dev^$important
@@ -574,9 +583,9 @@
 ||*.signageinsignia.co.za^$important
 ||*.sk-comtel.com^$important
 ||*.smartermail.host^$important
+||*.soft.110route.com^$important
 ||*.solution-ledgrcom.pages.dev^$important
 ||*.sp30ct-qavik-biz-vemur-zemad.pages.dev^$important
-||*.spgint.com^$important
 ||*.srv.conti.pk^$important
 ||*.sso--netcoins-com-cdn-n-auuth.webflow.io^$important
 ||*.sso-uphold-com-cdn-a-autth.framer.website^$important
@@ -644,6 +653,7 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
+||*.taizi.fdstat.vip^$important
 ||*.talkandtypeapp.com^$important
 ||*.tamiralia7-afk.github.io^$important
 ||*.tangentwaves.com^$important
@@ -674,13 +684,12 @@
 ||*.trouserstreak.net^$important
 ||*.trtmyanmar.com^$important
 ||*.trust-wallet-bnb.vercel.app^$important
-||*.twu-hwt.org^$important
+||*.twitch.tj^$important
 ||*.type--start-ledgr-en-usa.pages.dev^$important
 ||*.u.to^$important
 ||*.un-ledgeer-live.pages.dev^$important
 ||*.un-ledgr-starts.pages.dev^$important
 ||*.un-lives-ledgr.pages.dev^$important
-||*.uno-play.online^$important
 ||*.up-helps-io-ledgr-starts.pages.dev^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
