@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-15 20:49:36
+! Ultimo aggiornamento automatico: 2026-09-15 23:22:44
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -173,10 +173,8 @@
 ||*.PEDIANOW.ORG^$important
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.accountassistcenter.vercel.app^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.acrobat.proposal.name.ng^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
@@ -211,6 +209,7 @@
 ||*.b1n6qd.lat^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
+||*.beak.in^$important
 ||*.bestdev5649.github.io^$important
 ||*.bet83059.com^$important
 ||*.billanddonne.direct.quickconnect.to^$important
@@ -235,8 +234,8 @@
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
-||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.ceba-facility.publicite-gratuite.info^$important
 ||*.celebratingseniors.net^$important
 ||*.centres-sociaux58.fr^$important
@@ -288,6 +287,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -321,7 +321,6 @@
 ||*.farschid.de^$important
 ||*.fb-faceboook.blogspot.com^$important
 ||*.fd.v2downf.shop^$important
-||*.fdstat.vip^$important
 ||*.fetchr-delivr.pages.dev^$important
 ||*.ficus.in^$important
 ||*.file.blackint3.com^$important
@@ -362,7 +361,6 @@
 ||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
 ||*.gramaleste.com.br^$important
-||*.grantexx.com^$important
 ||*.grupomcperu.com^$important
 ||*.guide-live-ldger.pages.dev^$important
 ||*.h1xdmv.qpon^$important
@@ -390,7 +388,6 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -411,6 +408,7 @@
 ||*.login-microsoftonnline.jimdofree.com^$important
 ||*.login.hotmails.info^$important
 ||*.lomejordesalamanca.es^$important
+||*.loop-lumen.com^$important
 ||*.lq7mla.cfd^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
@@ -418,12 +416,14 @@
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.malupieng.com.br^$important
+||*.mandarin.net.au^$important
 ||*.manjaresdelmar.com.ar^$important
 ||*.massgravel.dev^$important
 ||*.megadump.hetmedialab.nl^$important
 ||*.melvotove4.flywheelsites.com^$important
 ||*.metapay.facebook-secure.shop^$important
 ||*.meteorrejects.net^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.minpop.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -481,7 +481,6 @@
 ||*.pages-ledgrdesktop.pages.dev^$important
 ||*.pages-ledgrolive-eng.pages.dev^$important
 ||*.pages-trezr-io-home.pages.dev^$important
-||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.paypal-app.online^$important
 ||*.paypall-login.blogspot.com^$important
@@ -501,7 +500,6 @@
 ||*.private-ledgr-live.pages.dev^$important
 ||*.prkgilrs-usdt-draner-frant.vercel.app^$important
 ||*.pro-ledgeron.pages.dev^$important
-||*.prodimetal.com^$important
 ||*.product-ledgerr.pages.dev^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.profitable-yellow-5gazskvd.edgeone.dev^$important
@@ -652,7 +650,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.taizi.fdstat.vip^$important
 ||*.talkandtypeapp.com^$important
 ||*.tamiralia7-afk.github.io^$important
@@ -660,9 +657,9 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tapped.top^$important
+||*.taunahi.st^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.theholidayroads.com^$important
@@ -684,7 +681,7 @@
 ||*.trouserstreak.net^$important
 ||*.trtmyanmar.com^$important
 ||*.trust-wallet-bnb.vercel.app^$important
-||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.type--start-ledgr-en-usa.pages.dev^$important
 ||*.u.to^$important
 ||*.un-ledgeer-live.pages.dev^$important
@@ -727,6 +724,7 @@
 ||*.vodafoneelevation.de^$important
 ||*.vrajras.com^$important
 ||*.wallet-click-tow.vercel.app^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.windomstatetheater.com^$important
