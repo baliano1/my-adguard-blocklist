@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-15 03:14:39
+! Ultimo aggiornamento automatico: 2026-09-15 10:59:44
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -171,7 +171,6 @@
 ||*.1w4.chckdataq.info^$important
 ||*.1xlite-12947.pro^$important
 ||*.44444321.sbs^$important
-||*.4eclient.com^$important
 ||*.6267261.sbs^$important
 ||*.8s7q0g-qw644c24y-mbtz1k9p8m2-fsgc.pages.dev^$important
 ||*.9000-firebase-anf-1781589572311.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev^$important
@@ -185,7 +184,6 @@
 ||*.accountassistcenter.vercel.app^$important
 ||*.accurateonlinelogin.top^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.acrobat.proposal.name.ng^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
@@ -216,7 +214,6 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bantuann-dana-care.webcare.web.id^$important
 ||*.bbva-hiring-paperless.appspot.com^$important
-||*.beak.in^$important
 ||*.bebidasexpress.shop^$important
 ||*.berkshire-hathavvay.club^$important
 ||*.bet83043.com^$important
@@ -232,7 +229,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.botcheck-cf.top^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
@@ -246,6 +242,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chckdataq.info^$important
@@ -264,6 +261,7 @@
 ||*.compuserviceonline.com.br^$important
 ||*.comunidad--comunidadunitec.replit.app^$important
 ||*.conselhoconsultivominsaa-asd.pages.dev^$important
+||*.contididit.conti.pk^$important
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
 ||*.copiose.org^$important
@@ -292,6 +290,7 @@
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
+||*.dnswwt.club^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
@@ -327,7 +326,6 @@
 ||*.fd.v2downf.shop^$important
 ||*.fgenerftion.click^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.fingerprint-veri.info^$important
 ||*.first-security-verden.de^$important
@@ -360,13 +358,14 @@
 ||*.get.activates.win^$important
 ||*.get.activtaed.win^$important
 ||*.get.activted.win^$important
+||*.get.actrivated.win^$important
 ||*.get.acttivated.win^$important
 ||*.get.actvated.win^$important
+||*.get.atcivated.win^$important
 ||*.get.ativated.win^$important
 ||*.get.cativated.win^$important
 ||*.get.ctivated.win^$important
 ||*.get.sctivated.win^$important
-||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
 ||*.gmkn.chckdataq.info^$important
 ||*.grantexx.com^$important
@@ -428,20 +427,18 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminouspower.com.pk^$important
-||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail.topup.en-coda.shop^$important
 ||*.malupieng.com.br^$important
+||*.mandarin.net.au^$important
 ||*.massgravel.dev^$important
 ||*.medialek.cyou^$important
 ||*.messagerie02-livebox-ind.abrdns.com^$important
 ||*.meta-verified-blueticks-fb15.vercel.app^$important
 ||*.metamaskwallett.blogspot.com^$important
 ||*.meteorrejects.net^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.minpop.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -452,6 +449,7 @@
 ||*.mtoken.online^$important
 ||*.mtoken.org.uk^$important
 ||*.muaklekcoop.com^$important
+||*.muledo.com^$important
 ||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.myid-telstra.flutterflow.app^$important
@@ -463,7 +461,6 @@
 ||*.nicole-martin.accessadmin.co.za^$important
 ||*.no-reply.mail-seguro.com^$important
 ||*.noithaticon.vn^$important
-||*.northernvirginiaeyeassociates.com^$important
 ||*.npost.cafe^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
@@ -471,7 +468,6 @@
 ||*.office-365-msn--oficeer.replit.app^$important
 ||*.officialseller.vip^$important
 ||*.ofg6l.list-zllw.com^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -558,12 +554,12 @@
 ||*.seismophonic.com^$important
 ||*.sell.tik-tokworldwide.com^$important
 ||*.semencepourlavie.org^$important
+||*.seputartuban.com^$important
 ||*.server.miranarts-top.cc^$important
 ||*.setting-bluetick-ai.vercel.app^$important
 ||*.sg123.net^$important
 ||*.showroom.ebaymotorspro.co.uk^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.siddharthgaikwad-git.github.io^$important
 ||*.signageinsignia.co.za^$important
 ||*.sijesty.eu.cc^$important
@@ -603,6 +599,7 @@
 ||*.tapestryoftruth.com^$important
 ||*.tapped.top^$important
 ||*.teams-tl.com^$important
+||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.temu-steam.vercel.app^$important
@@ -622,15 +619,12 @@
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
 ||*.topup.en-coda.shop^$important
-||*.tpp.om-stock.com^$important
 ||*.track.chanret.com^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.tripfarely.com^$important
 ||*.trouserstreak.net^$important
 ||*.trtmyanmar.com^$important
 ||*.turko-athar.pages.dev^$important
-||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
@@ -662,7 +656,6 @@
 ||*.workerstats.net^$important
 ||*.ww547.shopbidaithanroblox.com^$important
 ||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
-||*.www.0akw8w.com^$important
 ||*.www.1profitdeal.com^$important
 ||*.www.1xlite-12947.pro^$important
 ||*.www.5ginvestmentnews.com^$important
@@ -759,6 +752,7 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.nhhkl.blogspot.com^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.olepetterottersen.com^$important
 ||*.www.openexpressdion.cfd^$important
