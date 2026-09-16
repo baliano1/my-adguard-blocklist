@@ -162,9 +162,8 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-16 16:03:29
+! Ultimo aggiornamento automatico: 2026-09-16 23:30:56
 ||*.0following.com^$important
-||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198348.gl^$important
 ||*.33333333-8r7.pages.dev^$important
@@ -177,7 +176,6 @@
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.acrobat.proposal.name.ng^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
@@ -192,12 +190,12 @@
 ||*.alphapicaficagency.com^$important
 ||*.alphasaling.site^$important
 ||*.alternativas.ru^$important
+||*.amaamn.com^$important
 ||*.angefundsu.sbs^$important
 ||*.api.wipmania.net^$important
 ||*.app-encontrarid.click^$important
 ||*.app.appzcvb.com^$important
 ||*.applogincloude.life^$important
-||*.archivoscrosoft.com^$important
 ||*.areyouready.co.za^$important
 ||*.atasapka.com.tr^$important
 ||*.audicontadores.com^$important
@@ -214,7 +212,6 @@
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
-||*.blit.co.za^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
@@ -245,6 +242,7 @@
 ||*.ch-pak-informations.bolt.host^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
+||*.chiptune.com^$important
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
@@ -309,7 +307,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -317,6 +314,7 @@
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
 ||*.download.suxiazai.com^$important
+||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
 ||*.dynga.pl^$important
 ||*.ei1i7-qqt-v6l4-2qu9k-08-09-2026-hh.pages.dev^$important
@@ -417,6 +415,7 @@
 ||*.im.nbpublic.com^$important
 ||*.images.fishing-tools.cyou^$important
 ||*.impectorinternational.com^$important
+||*.indonesias.me^$important
 ||*.info-resmi-24.blogspot.com^$important
 ||*.infohadiah-jkt225.blogspot.com^$important
 ||*.infopemenang-shopee39.blogspot.com^$important
@@ -475,7 +474,6 @@
 ||*.meteorclientplus.com^$important
 ||*.meteorclients.com^$important
 ||*.meteorrejects.net^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.minpop.com^$important
 ||*.mintpass-05.pages.dev^$important
 ||*.miriamgualda.com.br^$important
@@ -498,6 +496,7 @@
 ||*.noithaticon.vn^$important
 ||*.norquiva83.pro^$important
 ||*.now-support.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
@@ -523,6 +522,7 @@
 ||*.pfatrivandrum.org^$important
 ||*.pic.li^$important
 ||*.planetariumobil.ro^$important
+||*.polarclient.net^$important
 ||*.portal.onepansol.site^$important
 ||*.postelnini.mk^$important
 ||*.practisingcertificateprotection.com^$important
@@ -602,6 +602,7 @@
 ||*.signintoxfinitycomcast.weebly.com^$important
 ||*.sirenasultana.com^$important
 ||*.sk-comtel.com^$important
+||*.skyblock-addons.com^$important
 ||*.smartermail.host^$important
 ||*.smmrgv.vercel.app^$important
 ||*.snowy-pond-b047.cqadttixs.workers.dev^$important
@@ -619,6 +620,7 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.summarjax.com^$important
 ||*.summoners-ledger.pages.dev^$important
@@ -730,6 +732,7 @@
 ||*.www.form-1lx3.vercel.app^$important
 ||*.www.gebyarsmarkmartcoid.blogspot.com^$important
 ||*.www.gestionempresarialdanier.blogspot.com^$important
+||*.www.gestroom.it^$important
 ||*.www.granzprizeshopee77.blogspot.com^$important
 ||*.www.hadiah-shopee179.blogspot.com^$important
 ||*.www.hadiah-shopeeday.blogspot.com^$important
@@ -769,6 +772,7 @@
 ||*.www.new-click-app-99.surge.sh^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.online-facebook-privacy.blogspot.com^$important
 ||*.www.paslanta.vercel.app^$important
