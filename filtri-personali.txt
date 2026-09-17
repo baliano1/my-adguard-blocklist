@@ -162,9 +162,8 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-17 16:09:52
+! Ultimo aggiornamento automatico: 2026-09-17 20:55:07
 ||*.0following.com^$important
-||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198-macros.com^$important
 ||*.198348.gl^$important
@@ -180,6 +179,7 @@
 ||*.accountoservoi1787402526936.2141811.meusitehostgator.com.br^$important
 ||*.acessapp.vercel.app^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -206,6 +206,7 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.barryrzhang.com^$important
+||*.beak.in^$important
 ||*.benxproperties.com^$important
 ||*.bfproteins.com^$important
 ||*.bito.com.pk^$important
@@ -229,6 +230,7 @@
 ||*.bserail.com^$important
 ||*.cafelila.cr^$important
 ||*.cambodiatouristservice.com^$important
+||*.casasmediterraneas.com^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
@@ -253,7 +255,6 @@
 ||*.cloud-flow-5211.p-6ee76db7.workers.dev^$important
 ||*.cloud-sharing.com^$important
 ||*.cloud.pearlpeel.com^$important
-||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.coconutoficial.com.br^$important
@@ -280,6 +281,7 @@
 ||*.danll737321-beep.github.io^$important
 ||*.dash.doorfilesahringboxinfor.top^$important
 ||*.data.yhydl.com^$important
+||*.dcfpp.com^$important
 ||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
@@ -306,7 +308,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -353,7 +354,6 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fomofamilytrade.club^$important
-||*.foundrysourcings.co.uk^$important
 ||*.foxroach.s3.us-east-2.amazonaws.com^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
@@ -396,7 +396,6 @@
 ||*.globalrnatrixsurvey.com^$important
 ||*.glowing-dragon-a02757.netlify.app^$important
 ||*.go-io-web.zapier.app^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.goiudgh.com^$important
 ||*.gpsmarocpro.com^$important
 ||*.grupomcperu.com^$important
@@ -419,7 +418,6 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
-||*.indonesias.me^$important
 ||*.indusenterprises.co^$important
 ||*.infcuenta26.freepage.cc^$important
 ||*.inregisterworkshop.com^$important
@@ -501,6 +499,7 @@
 ||*.munihuacho.gob.pe^$important
 ||*.my-html-app-production-wsufv2.laravel.cloud^$important
 ||*.mysura.it^$important
+||*.n.vs108.com^$important
 ||*.ncxps.com^$important
 ||*.ne777empresa.com^$important
 ||*.nedionpsin.vercel.app^$important
@@ -593,7 +592,6 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -639,6 +637,7 @@
 ||*.surun.info^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.swiftprotocolresolvers.web.app^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
