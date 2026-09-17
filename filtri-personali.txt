@@ -162,8 +162,9 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-17 20:55:07
+! Ultimo aggiornamento automatico: 2026-09-17 23:21:03
 ||*.0following.com^$important
+||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198-macros.com^$important
 ||*.198348.gl^$important
@@ -175,7 +176,7 @@
 ||*.8c03599bf331aecc11a9ac2220d1a999f.h-wire900.workers.dev^$important
 ||*.9yap5maufuuo-hbk14.vercel.app^$important
 ||*.abilityindisabilityindia.org^$important
-||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.accountoservoi1787402526936.2141811.meusitehostgator.com.br^$important
 ||*.acessapp.vercel.app^$important
 ||*.acms.saleseos.com^$important
@@ -221,6 +222,7 @@
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
 ||*.booking.ampergohoms.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.booking.homsgardesth.com^$important
 ||*.books-facebook.blogspot.com^$important
 ||*.breezeclient.com^$important
@@ -236,6 +238,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cautious-graphs-513223.framer.app^$important
+||*.ccleaner.gl^$important
 ||*.cdaonline.com.ar^$important
 ||*.celebratingseniors.net^$important
 ||*.cg327233.tw1.ru^$important
@@ -244,7 +247,6 @@
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
 ||*.chiptune.com^$important
-||*.chiroartist.com^$important
 ||*.chronostrade.ro^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
@@ -344,6 +346,7 @@
 ||*.fd.v2downf.shop^$important
 ||*.ficus.in^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filmplusapk.com.co^$important
 ||*.finallyfoundyouoffical.com^$important
@@ -354,6 +357,7 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fomofamilytrade.club^$important
+||*.fonij.cm^$important
 ||*.foxroach.s3.us-east-2.amazonaws.com^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
@@ -418,7 +422,6 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
-||*.indusenterprises.co^$important
 ||*.infcuenta26.freepage.cc^$important
 ||*.inregisterworkshop.com^$important
 ||*.insta-clone-mauve.vercel.app^$important
@@ -429,7 +432,6 @@
 ||*.itssprout.com^$important
 ||*.iyn4ce9o.casero.store^$important
 ||*.jaringanmitrakerja.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jetjeffersons.com^$important
@@ -509,7 +511,6 @@
 ||*.notable-orange-vbdpjgry.edgeone.dev^$important
 ||*.note-base-t0xj.p-2f66mze8.workers.dev^$important
 ||*.nova-client.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.o02938fleedeckss09o29292.s3.us-east-2.amazonaws.com^$important
 ||*.odinclient.com^$important
@@ -639,6 +640,7 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
 ||*.swiftprotocolresolvers.web.app^$important
+||*.take-care.africa^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -772,7 +774,6 @@
 ||*.www.khavar.com^$important
 ||*.www.kn2xei4c.6lnov0.cn^$important
 ||*.www.konsor.ru^$important
-||*.www.kryptonclient.lol^$important
 ||*.www.materialines2542542452.vercel.app^$important
 ||*.www.medises.co.kr^$important
 ||*.www.meeethamskeslugin.godaddysites.com^$important
@@ -788,6 +789,7 @@
 ||*.www.newkey.co.kr^$important
 ||*.www.nextbeu.com^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.page-verification-success.vercel.app^$important
 ||*.www.pointtohealth.com^$important
