@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-18 20:21:05
+! Ultimo aggiornamento automatico: 2026-09-18 22:59:13
 ||*.0following.com^$important
 ||*.121312.b-cdn.net^$important
 ||*.121hiu.senes.at^$important
@@ -179,7 +179,6 @@
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.acsbgw.cfd^$important
 ||*.acslwroz.cfd^$important
 ||*.acspar.cfd^$important
@@ -215,6 +214,7 @@
 ||*.alternativas.ru^$important
 ||*.alturl.com^$important
 ||*.amaamn.com^$important
+||*.api-relay.cc^$important
 ||*.app.appzcvb.com^$important
 ||*.apps-blockfi--cdn-eng.webflow.io^$important
 ||*.areyouready.co.za^$important
@@ -315,6 +315,7 @@
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donutclients.net^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -324,6 +325,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.ds21f2kftzrpw.cloudfront.net^$important
 ||*.duct-master.com^$important
@@ -355,7 +357,6 @@
 ||*.feedyblockz.com^$important
 ||*.ff.alwayssecuredhub.net^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fiturrr-menuugo-pays.rages.hair^$important
@@ -376,7 +377,6 @@
 ||*.gamblerigmod.org^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gemecomussngiin.gitbook.io^$important
-||*.genovaw.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
@@ -406,7 +406,6 @@
 ||*.hobobot.net^$important
 ||*.hpfile.cyou^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.husanpreet-kaur-45.github.io^$important
 ||*.hyqdeapmec2.webflow.io^$important
 ||*.icoffeecloud.com^$important
@@ -427,6 +426,7 @@
 ||*.itssprout.com^$important
 ||*.ivanaalawigcash2026.blogspot.com^$important
 ||*.jasminvansh11.github.io^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -474,6 +474,7 @@
 ||*.meta-marketplace.merchant-gateway-cashier.cfd^$important
 ||*.metamaskloginu.blogspot.com^$important
 ||*.meteorclients.com^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.microsoft.authorised-support.com^$important
 ||*.milkyfloors.vercel.app^$important
 ||*.miriamgualda.com.br^$important
@@ -501,7 +502,6 @@
 ||*.nwest.int.tst-cfp.nl^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.com^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -622,7 +622,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.t7tjjjjjjao.github.io^$important
 ||*.tandt-48k-oo1.pages.dev^$important
 ||*.tangentwaves.com^$important
@@ -631,6 +630,7 @@
 ||*.taunahi.st^$important
 ||*.taxincomeggov.com^$important
 ||*.tck-con02.smartvertex.info^$important
+||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
@@ -683,6 +683,7 @@
 ||*.vormuni-mpt-zanqavi-a4x7ka51.pages.dev^$important
 ||*.vrajras.com^$important
 ||*.web2.pancake.run^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wielixclient.com^$important
