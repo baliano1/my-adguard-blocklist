@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-18 15:45:46
+! Ultimo aggiornamento automatico: 2026-09-18 20:21:05
 ||*.0following.com^$important
 ||*.121312.b-cdn.net^$important
 ||*.121hiu.senes.at^$important
@@ -179,6 +179,7 @@
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.acsbgw.cfd^$important
 ||*.acslwroz.cfd^$important
 ||*.acspar.cfd^$important
@@ -230,6 +231,7 @@
 ||*.bancopichincha.weebly.com^$important
 ||*.basvurrrprsmynnkmpnyaa94823482.online^$important
 ||*.bchp.tenant-dates427392.sbs^$important
+||*.beak.in^$important
 ||*.berquni-mpt-zavfelo-r4x8ka65.pages.dev^$important
 ||*.bito.com.pk^$important
 ||*.blankeyeo.com^$important
@@ -240,6 +242,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bookingrm.arrivalprofile.com^$important
 ||*.breezeclient.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -247,7 +250,6 @@
 ||*.bserail.com^$important
 ||*.c0mpr0bar-cuenta-b-h-d2024.weebly.com^$important
 ||*.c14-private-room.live^$important
-||*.c2.mc-live.online^$important
 ||*.cambodiatouristservice.com^$important
 ||*.casasforestallosmuermos.com^$important
 ||*.casasmediterraneas.com^$important
@@ -256,6 +258,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.ceiic.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -293,6 +296,7 @@
 ||*.davidwilsonmagician-droid.github.io^$important
 ||*.dcfpp.com^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
@@ -311,7 +315,6 @@
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donutclients.net^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.down.qqfarmer.com.cn^$important
@@ -321,7 +324,6 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.ds21f2kftzrpw.cloudfront.net^$important
 ||*.duct-master.com^$important
@@ -335,6 +337,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.email-nsd-gov-pk-2fa.pages.dev^$important
 ||*.en---secure--sso-netcoins-com-cdn.webflow.io^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.epanpano.com^$important
@@ -371,9 +374,9 @@
 ||*.fz.tiansys.cn^$important
 ||*.galerisenimutiara.com^$important
 ||*.gamblerigmod.org^$important
-||*.garogradba.mk^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gemecomussngiin.gitbook.io^$important
+||*.genovaw.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
 ||*.gestroom.it^$important
@@ -424,9 +427,9 @@
 ||*.itssprout.com^$important
 ||*.ivanaalawigcash2026.blogspot.com^$important
 ||*.jasminvansh11.github.io^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
+||*.jlwz.cn^$important
 ||*.johanrosenphoto.se^$important
 ||*.jswen.com^$important
 ||*.juank95frontentdv.github.io^$important
@@ -471,7 +474,6 @@
 ||*.meta-marketplace.merchant-gateway-cashier.cfd^$important
 ||*.metamaskloginu.blogspot.com^$important
 ||*.meteorclients.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.microsoft.authorised-support.com^$important
 ||*.milkyfloors.vercel.app^$important
 ||*.miriamgualda.com.br^$important
@@ -499,6 +501,7 @@
 ||*.nwest.int.tst-cfp.nl^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.com^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -523,11 +526,11 @@
 ||*.portugal-demo-b809c22957159f4.webflow.io^$important
 ||*.post-info-swiss.com^$important
 ||*.postelnini.mk^$important
+||*.powershell-storage.vg^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prestige-client.org^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
-||*.protherapycenter.com^$important
 ||*.ptshopeeid88.blogspot.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -547,6 +550,7 @@
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
+||*.rheddh.com^$important
 ||*.ritikcoder0017-dev.github.io^$important
 ||*.robertrowe.com^$important
 ||*.robinxlogin-robinhood.gitbook.io^$important
@@ -568,6 +572,7 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -603,6 +608,7 @@
 ||*.srsorvete.com.br^$important
 ||*.srv.conti.pk^$important
 ||*.star.zcnet.net^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -625,7 +631,6 @@
 ||*.taunahi.st^$important
 ||*.taxincomeggov.com^$important
 ||*.tck-con02.smartvertex.info^$important
-||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
@@ -657,7 +662,6 @@
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
-||*.update.googlecert.help^$important
 ||*.updatingnowyahoo.weebly.com^$important
 ||*.userhotels.org^$important
 ||*.uwumail.pw^$important
@@ -679,7 +683,6 @@
 ||*.vormuni-mpt-zanqavi-a4x7ka51.pages.dev^$important
 ||*.vrajras.com^$important
 ||*.web2.pancake.run^$important
-||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wielixclient.com^$important
@@ -799,6 +802,7 @@
 ||*.www.website.mypetapp.co.za^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.xelquva-gld-dorlina-r8x7hc53.pages.dev^$important
 ||*.xenon.studio^$important
 ||*.xfconnectoinfinitycomcastt.weebly.com^$important
