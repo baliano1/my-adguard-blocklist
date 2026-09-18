@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-18 03:01:58
+! Ultimo aggiornamento automatico: 2026-09-18 10:30:01
 ||*.0following.com^$important
 ||*.11ec78d.netsolhost.com^$important
 ||*.121312.b-cdn.net^$important
@@ -178,7 +178,7 @@
 ||*.7iv67789b.pages.dev^$important
 ||*.a2zapk.dev^$important
 ||*.abilityindisabilityindia.org^$important
-||*.accesstelematics.com^$important
+||*.acc.jiangsujiaxue.com^$important
 ||*.accounts.binanceuz.co^$important
 ||*.acms.saleseos.com^$important
 ||*.acrilicoporto.pt^$important
@@ -228,16 +228,15 @@
 ||*.allegrolokalnie.pl-aukcja.cfd^$important
 ||*.allendostmen.com^$important
 ||*.alphapicaficagency.com^$important
-||*.alphasaling.site^$important
 ||*.alternativas.ru^$important
 ||*.alturl.com^$important
 ||*.amaamn.com^$important
 ||*.amyajamerson04.s3.us-east-2.amazonaws.com^$important
 ||*.anshul-kukreti.github.io^$important
 ||*.anuragverma43.github.io^$important
-||*.api.wipmania.net^$important
 ||*.app.appzcvb.com^$important
 ||*.areyouready.co.za^$important
+||*.asiaengrs.com^$important
 ||*.atasapka.com.tr^$important
 ||*.audicontadores.com^$important
 ||*.background-check-status.com^$important
@@ -247,7 +246,6 @@
 ||*.basvurrrprsmynnkmpnyaa94823482.online^$important
 ||*.basvurulariyapinkacirmayinekim.cfd^$important
 ||*.bchp.tenant-dates427392.sbs^$important
-||*.beak.in^$important
 ||*.bep20usdt-five.vercel.app^$important
 ||*.berquni-mpt-zavfelo-r4x8ka65.pages.dev^$important
 ||*.bito.com.pk^$important
@@ -259,7 +257,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.booking.homthrooms.com^$important
 ||*.breezeclient.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -281,6 +278,7 @@
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
 ||*.chiptune.com^$important
+||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
@@ -331,6 +329,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -345,20 +344,17 @@
 ||*.dw.hiyhho.net^$important
 ||*.dynga.pl^$important
 ||*.e4o.tenant-dates427392.sbs^$important
-||*.elearn.servecomputer.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.email-nsd-gov-pk-2fa.pages.dev^$important
 ||*.email-validation-sup-ffpu.bolt.host^$important
 ||*.en---secure--sso-netcoins-com-cdn.webflow.io^$important
-||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.epanpano.com^$important
 ||*.epibenie.dz^$important
 ||*.epsinf.com^$important
 ||*.ertyui-9-oiuytr--oportunidad-ec.replit.app^$important
-||*.eventourarte.cl^$important
 ||*.exodus-wallet.global.ssl.fastly.net^$important
 ||*.facebook-facebook45sr.blogspot.com^$important
 ||*.facebooksuporteolaine.blogspot.com^$important
@@ -370,7 +366,6 @@
 ||*.ferdelmann.charles.office-share-microsoft.com^$important
 ||*.ficofacil.com^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fivemsevmeyenerkekler.xyz^$important
@@ -379,7 +374,6 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.fogelservicesss.s3.us-east-2.amazonaws.com^$important
-||*.fonij.cm^$important
 ||*.form-rg59.vercel.app^$important
 ||*.form-uung.vercel.app^$important
 ||*.form1-indol-delta.vercel.app^$important
@@ -387,29 +381,20 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funnymap.net^$important
-||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.galerisenimutiara.com^$important
 ||*.gamblerigmod.org^$important
+||*.garogradba.mk^$important
 ||*.gate-43985.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.get.acitvated.win^$important
 ||*.get.acivated.win^$important
-||*.get.acrivated.win^$important
 ||*.get.actiated.win^$important
-||*.get.activatd.win^$important
-||*.get.activatedd.win^$important
-||*.get.activates.win^$important
-||*.get.activtaed.win^$important
 ||*.get.actrivated.win^$important
 ||*.get.acttivated.win^$important
-||*.get.ativated.win^$important
-||*.get.cativated.win^$important
 ||*.get.ctivated.win^$important
-||*.get.sctivated.win^$important
 ||*.ghostclient.net^$important
 ||*.gji.sa.com^$important
 ||*.glbeletronica.com.br^$important
@@ -437,6 +422,8 @@
 ||*.igra123.com^$important
 ||*.imap.usslimsounds.com^$important
 ||*.impectorinternational.com^$important
+||*.indonesias.me^$important
+||*.indusenterprises.co^$important
 ||*.innstagrram.netlify.app^$important
 ||*.invmove.com^$important
 ||*.ircftp.net^$important
@@ -482,11 +469,13 @@
 ||*.manish1719.github.io^$important
 ||*.marlowclient.com^$important
 ||*.marryingmybestfriend.com^$important
+||*.massgravel.net^$important
 ||*.mehdi-bellache.github.io^$important
 ||*.messagrie-conseillerbnpparibasnumero-requis-nki3c43ch.vercel.app^$important
 ||*.metai-mskl-oginuix.godaddysites.com^$important
 ||*.metamaskextensionnn.gitbook.io^$important
 ||*.meteorclients.com^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.milkyfloors.vercel.app^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
@@ -594,7 +583,6 @@
 ||*.seputartuban.com^$important
 ||*.sg123.net^$important
 ||*.shopeejkt4017.blogspot.com^$important
-||*.shqdown.ggzuhao.com^$important
 ||*.sigmaclient.net^$important
 ||*.signageinsignia.co.za^$important
 ||*.sirenasultana.com^$important
@@ -623,12 +611,13 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.take-care.africa^$important
+||*.swiftfusion.tech^$important
 ||*.talented-points-295814.framer.app^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.taunahi.st^$important
+||*.techtattva.in^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
@@ -646,14 +635,12 @@
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
 ||*.topmark-tuitioncentre.co.uk^$important
-||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.trustedfunds-portal.com^$important
 ||*.tt1sk-gbo-j9l7-4u8g7-17-09-2026-hh.pages.dev^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.uasputnik.com^$important
 ||*.uno-play.xyz^$important
 ||*.upaicdn.xinmei365.com^$important
