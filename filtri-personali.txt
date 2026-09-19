@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-19 02:59:08
+! Ultimo aggiornamento automatico: 2026-09-19 07:57:16
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -171,6 +171,7 @@
 ||*.198348.gl^$important
 ||*.1url.at^$important
 ||*.22qq-client.com^$important
+||*.3brosstore.com^$important
 ||*.4eclient.com^$important
 ||*.753525.xyz^$important
 ||*.aakashthapa7.github.io^$important
@@ -249,13 +250,11 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
 ||*.chestenechilbi.ch^$important
-||*.chiptune.com^$important
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cicz40c-h10c.vercel.app^$important
@@ -354,7 +353,6 @@
 ||*.ghostclient.net^$important
 ||*.gilded-baklava-b9e48a.netlify.app^$important
 ||*.gix.ru.com^$important
-||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
 ||*.gonzaskid-1.paiza-user-free.cloud^$important
 ||*.goo.su^$important
@@ -378,6 +376,7 @@
 ||*.hobobot.net^$important
 ||*.hpfile.cyou^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
@@ -385,6 +384,7 @@
 ||*.impectorinternational.com^$important
 ||*.implantdentistrytx.com^$important
 ||*.indonesias.me^$important
+||*.indusenterprises.co^$important
 ||*.infolayanan-shopee47.blogspot.com^$important
 ||*.insta-followers-likes.netlify.app^$important
 ||*.invmove.com^$important
@@ -398,7 +398,6 @@
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
 ||*.johanrosenphoto.se^$important
 ||*.jpwa10s-h17s.vercel.app^$important
 ||*.jswen.com^$important
@@ -427,7 +426,6 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminexclient.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m-hamann.com^$important
@@ -600,7 +598,9 @@
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.t7tjjjjjjao.github.io^$important
+||*.taizi.fdstat.vip^$important
 ||*.tandt-48k-oo1.pages.dev^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -670,6 +670,7 @@
 ||*.wasil-se.github.io^$important
 ||*.web2.pancake.run^$important
 ||*.web3wallet-exo-dus.zapier.app^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatrap.vercel.app^$important
 ||*.widexenmexico.com.mx^$important
@@ -723,6 +724,7 @@
 ||*.www.lnk.ink^$important
 ||*.www.medises.co.kr^$important
 ||*.www.metamaskloginu.blogspot.com^$important
+||*.www.minecraft-cheats.com^$important
 ||*.www.myvcart.com^$important
 ||*.www.namuvpn.com^$important
 ||*.www.nccommunication.be^$important
