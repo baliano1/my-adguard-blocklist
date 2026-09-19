@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-19 17:44:09
+! Ultimo aggiornamento automatico: 2026-09-19 19:59:16
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -446,6 +446,7 @@
 ||*.mogimall.com^$important
 ||*.mohan-pramanik.github.io^$important
 ||*.mrtjamsklogin.webflow.io^$important
+||*.msedge.vg^$important
 ||*.mtaskiellgeuin.webflow.io^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
