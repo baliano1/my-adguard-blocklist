@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-19 19:59:16
+! Ultimo aggiornamento automatico: 2026-09-19 22:38:15
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -213,7 +213,6 @@
 ||*.backupso.com^$important
 ||*.bagybagydaddydaddy.github.io^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
-||*.beak.in^$important
 ||*.beautycana.net^$important
 ||*.bemused-growth-tlz9b.shipped.cloud^$important
 ||*.bet83058.com^$important
@@ -259,6 +258,7 @@
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.coconutoficial.com.br^$important
+||*.codeassociates.co.ke^$important
 ||*.compuserviceonline.com.br^$important
 ||*.contididit.conti.pk^$important
 ||*.continentalgroup.net.in^$important
@@ -321,11 +321,11 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
+||*.fotosdepuebla.org^$important
 ||*.foundrysourcings.co.uk^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
@@ -372,7 +372,6 @@
 ||*.imapa.services^$important
 ||*.impectorinternational.com^$important
 ||*.implantdentistrytx.com^$important
-||*.indonesias.me^$important
 ||*.indusenterprises.co^$important
 ||*.invmove.com^$important
 ||*.ioka.adyendrus.com^$important
@@ -424,6 +423,7 @@
 ||*.mail-drive-oj1g.p-2f66mze8.workers.dev^$important
 ||*.mainefiles.s3.us-east-2.amazonaws.com^$important
 ||*.malupieng.com.br^$important
+||*.mandarin.net.au^$important
 ||*.marycar.com.br^$important
 ||*.massgravel.net^$important
 ||*.megainviteoffice.com^$important
@@ -446,7 +446,6 @@
 ||*.mogimall.com^$important
 ||*.mohan-pramanik.github.io^$important
 ||*.mrtjamsklogin.webflow.io^$important
-||*.msedge.vg^$important
 ||*.mtaskiellgeuin.webflow.io^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
@@ -461,9 +460,9 @@
 ||*.noamaddons.com^$important
 ||*.noithaticon.vn^$important
 ||*.nova-client.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.com^$important
-||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
 ||*.onfiltre.com.tr^$important
@@ -594,7 +593,6 @@
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.sylquorin79.pro^$important
-||*.taizi.fdstat.vip^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
