@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-20 15:22:16
+! Ultimo aggiornamento automatico: 2026-09-20 20:16:11
 ||*.0following.com^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -182,13 +182,12 @@
 ||*.9136879.xyz^$important
 ||*.917957.xyz^$important
 ||*.963467.xyz^$important
-||*.Cn.devglobal.biz^$important
 ||*.aakritineupane14.github.io^$important
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acces-opalecenter.countmup.site^$important
-||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.acsfdsa.cfd^$important
 ||*.acsftw.cfd^$important
 ||*.acsgwa.cfd^$important
@@ -230,6 +229,7 @@
 ||*.backoffice.myvibe.co^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
+||*.beak.in^$important
 ||*.becof.org^$important
 ||*.berzuni-mpt-qanfelo-c4x7ka82-a21.pages.dev^$important
 ||*.bito.com.pk^$important
@@ -241,6 +241,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.boujee-sproud.us-east-1.linodeobjects.com^$important
 ||*.br-zim.netlify.app^$important
 ||*.breezeclient.com^$important
@@ -255,7 +256,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cf.780411.xyz^$important
 ||*.channelhub.online^$important
@@ -308,6 +308,7 @@
 ||*.docusign-server.github.io^$important
 ||*.dolana.online^$important
 ||*.donkeytourscroatia.com^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
 ||*.download.caihong.com^$important
@@ -366,7 +367,6 @@
 ||*.get.advancedsystemrepair.com^$important
 ||*.ghostclient.net^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
 ||*.gps-help-fmi.info^$important
 ||*.grandprize35.blogspot.com^$important
@@ -393,6 +393,7 @@
 ||*.impectorinternational.com^$important
 ||*.implantdentistrytx.com^$important
 ||*.imtokex.im^$important
+||*.indonesias.me^$important
 ||*.indusenterprises.co^$important
 ||*.instagram-login-support.vercel.app^$important
 ||*.instagram-ten-blond.vercel.app^$important
@@ -451,14 +452,12 @@
 ||*.main.d3thcdi1mb7dsr.amplifyapp.com^$important
 ||*.malupieng.com.br^$important
 ||*.manav-kappa.vercel.app^$important
-||*.mandarin.net.au^$important
 ||*.massgravel.net^$important
 ||*.meetamassklogaiin.webflow.io^$important
 ||*.melodic-toffee-e5fd99.netlify.app^$important
 ||*.meta-hiir.vercel.app^$important
 ||*.meteorclients.com^$important
 ||*.metoretonoris.vercel.app^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
@@ -483,7 +482,6 @@
 ||*.noithaticon.vn^$important
 ||*.nordinvecrop.github.io^$important
 ||*.nova-client.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.com^$important
 ||*.ojang.pe.kr^$important
@@ -512,6 +510,7 @@
 ||*.prestigeclient.st^$important
 ||*.prod2.dagobertduckstore.de^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
+||*.proveedoradeproyectosysoluciones.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pushkerwebs.github.io^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -537,7 +536,6 @@
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rewardcp.com^$important
-||*.rheddh.com^$important
 ||*.rmm.smartscreen.lifestyle^$important
 ||*.robertrowe.com^$important
 ||*.robinhwood-logn.gitbook.io^$important
@@ -554,12 +552,12 @@
 ||*.samridhiverma10.github.io^$important
 ||*.sandboxle.com.cn^$important
 ||*.sayyedk071-coder.github.io^$important
-||*.scainseto.com.br^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.scotia2026security.click^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -600,7 +598,6 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.streammobs.com^$important
 ||*.studiogioeli.it^$important
 ||*.suhanir7.github.io^$important
 ||*.support.clz.kr^$important
@@ -608,6 +605,7 @@
 ||*.supportmaps-fmi.com.tr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.synel99.github.io^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
@@ -621,6 +619,7 @@
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tezeriosaetrt.gitbook.io^$important
+||*.thehaider.com^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
@@ -660,7 +659,6 @@
 ||*.vanshiigurbani.github.io^$important
 ||*.varsha24-01.github.io^$important
 ||*.vazmelo-mpt-qunrafi-d7p2xe48.pages.dev^$important
-||*.vdsina.vg^$important
 ||*.verifiedbadge-clarisse.vercel.app^$important
 ||*.verifiedbadge-dream11.vercel.app^$important
 ||*.verifiedbadge-lunelle.vercel.app^$important
@@ -718,6 +716,7 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.general-drab-six.vercel.app^$important
 ||*.www.generaldomaniswebs.vercel.app^$important
+||*.www.gestroom.it^$important
 ||*.www.hadiahshopee552.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -764,7 +763,6 @@
 ||*.www.ss-01.com^$important
 ||*.www.starcountry.net^$important
 ||*.www.tdejb.com^$important
-||*.www.tecunonline.com^$important
 ||*.www.telstra23.blogspot.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.undian-shopee-2020.blogspot.com^$important
