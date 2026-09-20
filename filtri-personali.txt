@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-20 03:14:42
+! Ultimo aggiornamento automatico: 2026-09-20 10:34:25
 ||*.0following.com^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -177,7 +177,6 @@
 ||*.597325.xyz^$important
 ||*.679336.xyz^$important
 ||*.694510.xyz^$important
-||*.6ak-tehnik.si^$important
 ||*.749672.xyz^$important
 ||*.8800yogesh.github.io^$important
 ||*.9136879.xyz^$important
@@ -187,10 +186,10 @@
 ||*.aakritineupane14.github.io^$important
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
+||*.accesstelematics.com^$important
 ||*.accoo.fr^$important
 ||*.account-review-snowy.vercel.app^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.acsfdsa.cfd^$important
 ||*.acsftw.cfd^$important
 ||*.acsgwa.cfd^$important
@@ -245,7 +244,6 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bnimail-owa.vercel.app^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.boujee-sproud.us-east-1.linodeobjects.com^$important
 ||*.breezeclient.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -269,7 +267,6 @@
 ||*.chatgpt0005.eu.org^$important
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
-||*.chiptune.com^$important
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
@@ -321,7 +318,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -336,8 +332,6 @@
 ||*.ehay.item.co.uk.login.secures-wr8wsvzt.sutanrajahotelkolaka.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.en.taichuan.com^$important
-||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.epanpano.com^$important
 ||*.epsinf.com^$important
@@ -351,11 +345,11 @@
 ||*.fd.v2downf.shop^$important
 ||*.ff.alwayssecuredhub.net^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
-||*.fotosdepuebla.org^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funnymap.net^$important
@@ -391,7 +385,6 @@
 ||*.imapa.services^$important
 ||*.impectorinternational.com^$important
 ||*.implantdentistrytx.com^$important
-||*.indonesias.me^$important
 ||*.indusenterprises.co^$important
 ||*.instagram-ten-blond.vercel.app^$important
 ||*.instagramusicabrasilinstagram.blogspot.com^$important
@@ -400,6 +393,7 @@
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jh1183.craftum.io^$important
@@ -486,6 +480,7 @@
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.odinclient.com^$important
+||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
 ||*.oluwaburnazip--renushahrawat.replit.app^$important
@@ -511,7 +506,6 @@
 ||*.prestige-client.org^$important
 ||*.prod2.dagobertduckstore.de^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
-||*.protherapycenter.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qiniuyunxz.yxflzs.com^$important
@@ -558,6 +552,7 @@
 ||*.scorpionhairsoc-work.colibriwp.com^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -591,8 +586,10 @@
 ||*.srsorvete.com.br^$important
 ||*.srv.conti.pk^$important
 ||*.star.zcnet.net^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
+||*.stdown.dinju.com^$important
 ||*.steanmcomnnunity.com^$important
 ||*.steep-waterfall-0caf.brentmedranoaqbo15587.workers.dev^$important
 ||*.streammobs.com^$important
@@ -602,7 +599,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sylquorin79.pro^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
@@ -647,6 +643,8 @@
 ||*.twyedward.twyedward123.workers.dev^$important
 ||*.u.to^$important
 ||*.undian-shopee553.blogspot.com^$important
+||*.universami.ge^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.update.googlecert.help^$important
@@ -703,6 +701,7 @@
 ||*.www.facebooknotify-noreply.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.general-drab-six.vercel.app^$important
+||*.www.gestroom.it^$important
 ||*.www.gruporogy.ec^$important
 ||*.www.hadiahshopee552.blogspot.com^$important
 ||*.www.hostingcloud.science^$important
@@ -724,6 +723,7 @@
 ||*.www.nccommunication.be^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.pointtohealth.com^$important
 ||*.www.registromxdigital.com^$important
