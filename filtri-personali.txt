@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-20 20:16:11
+! Ultimo aggiornamento automatico: 2026-09-20 22:56:30
 ||*.0following.com^$important
 ||*.121deo.senes.at^$important
 ||*.123.ywxww.net^$important
@@ -187,7 +187,6 @@
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acces-opalecenter.countmup.site^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.acsfdsa.cfd^$important
 ||*.acsftw.cfd^$important
 ||*.acsgwa.cfd^$important
@@ -214,6 +213,7 @@
 ||*.alternativas.ru^$important
 ||*.amazon-ecommerce-nine.vercel.app^$important
 ||*.amazon-front-me.vercel.app^$important
+||*.anyhoo.testeaza.eu^$important
 ||*.api-relay.cc^$important
 ||*.app-supportecloud.info^$important
 ||*.app.appzcvb.com^$important
@@ -241,7 +241,6 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.boujee-sproud.us-east-1.linodeobjects.com^$important
 ||*.br-zim.netlify.app^$important
 ||*.breezeclient.com^$important
@@ -256,6 +255,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cf.780411.xyz^$important
 ||*.channelhub.online^$important
@@ -281,6 +281,7 @@
 ||*.cpc188.day^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
+||*.ctsfactory.com^$important
 ||*.customercomcastsignon.framer.website^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -311,6 +312,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -351,6 +353,7 @@
 ||*.folio-service.life^$important
 ||*.folioconcepts.top^$important
 ||*.fortgrind.com^$important
+||*.friendsofsclarc.org^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funnymap.net^$important
@@ -452,12 +455,14 @@
 ||*.main.d3thcdi1mb7dsr.amplifyapp.com^$important
 ||*.malupieng.com.br^$important
 ||*.manav-kappa.vercel.app^$important
+||*.mandarin.net.au^$important
 ||*.massgravel.net^$important
 ||*.meetamassklogaiin.webflow.io^$important
 ||*.melodic-toffee-e5fd99.netlify.app^$important
 ||*.meta-hiir.vercel.app^$important
 ||*.meteorclients.com^$important
 ||*.metoretonoris.vercel.app^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
@@ -510,7 +515,6 @@
 ||*.prestigeclient.st^$important
 ||*.prod2.dagobertduckstore.de^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
-||*.proveedoradeproyectosysoluciones.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pushkerwebs.github.io^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -585,7 +589,6 @@
 ||*.skyblock-extras.org^$important
 ||*.skymoders.top^$important
 ||*.smartermail.host^$important
-||*.soft.110route.com^$important
 ||*.sohelrana901sr-ops.github.io^$important
 ||*.solana-pay-dusky.vercel.app^$important
 ||*.soportemaps.click^$important
