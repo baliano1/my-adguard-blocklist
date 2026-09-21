@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-21 17:49:00
+! Ultimo aggiornamento automatico: 2026-09-21 21:40:12
 ||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.1235dkfjxusxkxlolxxisdforxxllp1-endpoint-dph4abeyagf5hmg7.z03.azurefd.net^$important
@@ -179,6 +179,7 @@
 ||*.8qot0mzb8mhrkq2iwbs.vercel.app^$important
 ||*.936578.xyz^$important
 ||*.Cn.devglobal.biz^$important
+||*.MAMABEARCOFFEE.COM^$important
 ||*.abhshek-78.github.io^$important
 ||*.abilityindisabilityindia.org^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -251,7 +252,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.ce907611.tw1.ru^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -259,6 +259,7 @@
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
 ||*.chiroartist.com^$important
+||*.christinadudley.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
@@ -275,6 +276,7 @@
 ||*.contididit.conti.pk^$important
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
+||*.coralasargetia.ro^$important
 ||*.cotacao.simulacaoaqui.com.br^$important
 ||*.cpc188.day^$important
 ||*.cresvin.com^$important
@@ -451,6 +453,7 @@
 ||*.malupieng.com.br^$important
 ||*.manasimore108.github.io^$important
 ||*.meteorclients.com^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mgstyd-rblx.blogspot.com^$important
 ||*.miriamgualda.com.br^$important
 ||*.mirovo-app.vercel.app^$important
@@ -472,6 +475,7 @@
 ||*.noamaddons.com^$important
 ||*.noithaticon.vn^$important
 ||*.norzavo-mpt-belfuni-a5d1ka96.pages.dev^$important
+||*.nova-client.com^$important
 ||*.nowe-19-09-26-pll.rest^$important
 ||*.nusatoyota.co.id^$important
 ||*.nwest.int.tst-cfp.nl^$important
@@ -627,7 +631,6 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.teleconcepts.net^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.thehaider.com^$important
@@ -725,6 +728,7 @@
 ||*.www.kolkata-fix-frant.surge.sh^$important
 ||*.www.konsor.ru^$important
 ||*.www.konto.evergreenfin.ltd^$important
+||*.www.maquinasisensee.com.br^$important
 ||*.www.medises.co.kr^$important
 ||*.www.mgstyd-rblx.blogspot.com^$important
 ||*.www.minecraft-cheats.com^$important
