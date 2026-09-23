@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-23 03:09:21
+! Ultimo aggiornamento automatico: 2026-09-23 10:42:43
 ||*.000111177777--oportunidad-ec.replit.app^$important
 ||*.03teste.com^$important
 ||*.0following.com^$important
@@ -241,12 +241,15 @@
 ||*.bnet.playm8ru.win^$important
 ||*.bocscity.hostel.town^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
+||*.bratarfood.com^$important
 ||*.breezeclient.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
 ||*.bspromax.bs20.sbs^$important
 ||*.bukyfieldschools.com.ng^$important
+||*.cablewireltd.site^$important
 ||*.cambodiatouristservice.com^$important
 ||*.casasmediterraneas.com^$important
 ||*.cat.dashabi.in^$important
@@ -255,6 +258,7 @@
 ||*.catalogplus.com.br^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cdnpainel.sbs^$important
 ||*.celebratingseniors.net^$important
 ||*.cgi.s-ed1.cloud.gcore.lu^$important
@@ -272,11 +276,9 @@
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.cndevine.com^$important
-||*.coconutoficial.com.br^$important
 ||*.codebr.cloud^$important
 ||*.compuserviceonline.com.br^$important
 ||*.conheca.uz4.shop^$important
-||*.contididit.conti.pk^$important
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
 ||*.cooperateict.com.ng^$important
@@ -292,7 +294,6 @@
 ||*.cyberrootltd.com.ng^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
-||*.dailyushistory.com^$important
 ||*.damiancollier.com^$important
 ||*.darafemtrustltd.com.ng^$important
 ||*.data.yhydl.com^$important
@@ -322,6 +323,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.suxiazai.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
 ||*.dynga.pl^$important
@@ -354,6 +356,7 @@
 ||*.fathimaminhazain.github.io^$important
 ||*.fd.v2downf.shop^$important
 ||*.ferroli.com.br^$important
+||*.ficus.in^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
@@ -362,6 +365,7 @@
 ||*.flourishing-vacherin-21c5e5.netlify.app^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
+||*.freeclients.net^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funnymap.net^$important
@@ -380,8 +384,8 @@
 ||*.gestroom.it^$important
 ||*.gfvcd5c12pl-klmqwuhy-4c7d8e-yh511a.pages.dev^$important
 ||*.glbeletronica.com.br^$important
+||*.globalbank.us^$important
 ||*.goo.su^$important
-||*.grandarcbuilders.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.guiashopponline.com.br^$important
@@ -398,6 +402,7 @@
 ||*.hotelvaldecans.com.br^$important
 ||*.hpf360.org^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hunaindevloper.github.io^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -470,15 +475,14 @@
 ||*.mail.robertonavarro.adv.br^$important
 ||*.mail.suporteemergencial.com.br^$important
 ||*.mail.tanamao.club^$important
+||*.makemewin.club^$important
 ||*.malupieng.com.br^$important
-||*.mandarin.net.au^$important
 ||*.manyacodes08.github.io^$important
 ||*.marmorariadabarra.com.br^$important
 ||*.massgravel.net^$important
 ||*.masterplasticpack.com^$important
 ||*.mayurijindal13-afk.github.io^$important
 ||*.meteorclients.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mfakuwait.org^$important
 ||*.mhmehadi.top^$important
 ||*.mhnursinghomes.co.uk^$important
@@ -496,20 +500,19 @@
 ||*.motumsk-logii.godaddysites.com^$important
 ||*.mtvpro.duckdns.org^$important
 ||*.muaklekcoop.com^$important
+||*.muledo.com^$important
 ||*.munihuacho.gob.pe^$important
 ||*.myspectrum-webmail-users.weeblysite.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.nahost.site^$important
 ||*.ncxps.com^$important
-||*.neilshairdressers.co.uk^$important
 ||*.netflix-clone-xi-azure.vercel.app^$important
 ||*.nilux7.github.io^$important
 ||*.nishthadangi.github.io^$important
 ||*.noamaddons.com^$important
 ||*.noithaticon.vn^$important
 ||*.nova-client.com^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.obearo.com^$important
 ||*.odinclient.com^$important
@@ -531,6 +534,7 @@
 ||*.parfumduchateau.com^$important
 ||*.pastee.dev^$important
 ||*.pastorandersonfranco.com.br^$important
+||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pelicanelectric.s3.us-east-2.amazonaws.com^$important
 ||*.pfatrivandrum.org^$important
@@ -542,6 +546,7 @@
 ||*.polarclient.net^$important
 ||*.polinexclient.org^$important
 ||*.poncianoluis.adv.br^$important
+||*.portal.onepansol.site^$important
 ||*.postelnini.mk^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
@@ -608,15 +613,14 @@
 ||*.sg123.net^$important
 ||*.shaiksameera7777.github.io^$important
 ||*.shekharbtech24-28-coder.github.io^$important
+||*.shipminttracking.net^$important
 ||*.shirisha200610.github.io^$important
 ||*.shopee3178.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.sirenasultana.com^$important
 ||*.sk-comtel.com^$important
 ||*.skkot.co.uk^$important
 ||*.skyblock-addons.com^$important
 ||*.skyblock-extras.org^$important
-||*.skymoders.top^$important
 ||*.smartermail.host^$important
 ||*.socilla.vip^$important
 ||*.soft.110route.com^$important
@@ -627,9 +631,7 @@
 ||*.spgint.com^$important
 ||*.squarelineslimited.com^$important
 ||*.srsorvete.com.br^$important
-||*.srv.conti.pk^$important
 ||*.star.zcnet.net^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -644,7 +646,6 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swyftxfinancial.com^$important
 ||*.symanticconsulting.com^$important
-||*.taizi.fdstat.vip^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -658,6 +659,7 @@
 ||*.test.peperoncinochepassione.it^$important
 ||*.testlanigs.blogspot.com^$important
 ||*.thecorpenhagen.com^$important
+||*.thehaider.com^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
@@ -703,7 +705,6 @@
 ||*.verifiedbadge-dream-sand.vercel.app^$important
 ||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
-||*.vgd.vg^$important
 ||*.victoradedokun.com^$important
 ||*.victorinternationalschool.com.ng^$important
 ||*.visam.info^$important
@@ -713,7 +714,6 @@
 ||*.vrproibo.hdboxapps.top^$important
 ||*.wcdwaw.shop^$important
 ||*.wdwecvbrfd.com^$important
-||*.webcstore.pw^$important
 ||*.webpagesite.github.io^$important
 ||*.website.mypetapp.co.za^$important
 ||*.webufexf.com^$important
@@ -770,6 +770,7 @@
 ||*.www.netflix-clone-black-three.vercel.app^$important
 ||*.www.netflix-clone-phi-ruby.vercel.app^$important
 ||*.www.newkey.co.kr^$important
+||*.www.notbak.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.owa.goldensemolina.com.tr^$important
