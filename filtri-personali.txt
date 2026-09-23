@@ -162,9 +162,8 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-23 16:01:47
+! Ultimo aggiornamento automatico: 2026-09-23 21:01:58
 ||*.03teste.com^$important
-||*.0following.com^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
@@ -178,13 +177,12 @@
 ||*.3bkevent.de.cool^$important
 ||*.4eclient.com^$important
 ||*._dc-mx.7555bf59b8dc.harcumenglobal.com^$important
+||*.acc.jiangsujiaxue.com^$important
 ||*.acces-primefamily.com^$important
 ||*.achreif212.github.io^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.activatef.win^$important
 ||*.adcentral.com.mx^$important
-||*.addurltogoogle.com^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
@@ -230,6 +228,7 @@
 ||*.bonuspunktegegenpramien5a.ink^$important
 ||*.bonuspunktegegenpramien8a.ink^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.bratarfood.com^$important
 ||*.breezeclient.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -263,7 +262,6 @@
 ||*.cn.mbx72.net^$important
 ||*.cn.unionlever.com^$important
 ||*.codashops.topup-diamonds.com^$important
-||*.codeassociates.co.ke^$important
 ||*.coinbaseverify.vercel.app^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
@@ -284,12 +282,11 @@
 ||*.dau-ug-koreatyujdjhdjuuej6664746637-chi.vercel.app^$important
 ||*.dc.crsorgi.com.cer-verify.com^$important
 ||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.dear-data-viewer4.vercel.app^$important
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
-||*.delta-canvas.com^$important
+||*.detierra.cl^$important
 ||*.devadharsha-k.github.io^$important
 ||*.dezcom.com^$important
 ||*.dhabi-webdev.github.io^$important
@@ -298,15 +295,17 @@
 ||*.disk.accord1key.cn^$important
 ||*.diverguy.strangled.net^$important
 ||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
+||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
+||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
@@ -387,7 +386,7 @@
 ||*.imiciasesion.github.io^$important
 ||*.impectorinternational.com^$important
 ||*.indonesias.me^$important
-||*.indusenterprises.co^$important
+||*.iniciaonline.com^$important
 ||*.invmove.com^$important
 ||*.ircftp.net^$important
 ||*.irsgovtreasury.dev^$important
@@ -411,6 +410,7 @@
 ||*.konsor.ru^$important
 ||*.krasp-fled-vrug-156-zrel-splantis-vud-324.pages.dev^$important
 ||*.kryptonclient-cracked.com^$important
+||*.kupunasvolpiano.com^$important
 ||*.kurzfunke.click^$important
 ||*.lamarrealestate.co.za^$important
 ||*.landonirwin.com^$important
@@ -441,7 +441,6 @@
 ||*.mehedi-web-dev.github.io^$important
 ||*.meteorclients.com^$important
 ||*.methawmasklogeens.webflow.io^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mhmehadi.top^$important
 ||*.mhnursinghomes.co.uk^$important
 ||*.mibd.org^$important
@@ -468,7 +467,6 @@
 ||*.ny.lshdw.cc^$important
 ||*.obearo.com^$important
 ||*.odinclient.com^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.oke-erereporters.com^$important
 ||*.okhan.net^$important
@@ -508,7 +506,6 @@
 ||*.ptai.in^$important
 ||*.ptshopee-27.blogspot.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
-||*.pvsa.gxfugy.cn^$important
 ||*.qf7.tenant-data-click.com^$important
 ||*.qiniuyunxz.yxflzs.com^$important
 ||*.qkyrvntq.xyz^$important
@@ -524,6 +521,7 @@
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
+||*.rheddh.com^$important
 ||*.rish06880.github.io^$important
 ||*.robertrowe.com^$important
 ||*.robiox.com.py^$important
@@ -550,7 +548,6 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -572,6 +569,7 @@
 ||*.shopeeid79.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.sin1.contabostorage.com^$important
+||*.sirenasultana.com^$important
 ||*.site726580035.fo.team^$important
 ||*.sk-comtel.com^$important
 ||*.skkot.co.uk^$important
@@ -631,7 +629,6 @@
 ||*.top8onlinegame.com^$important
 ||*.toyspace.cn^$important
 ||*.tpp.om-stock.com^$important
-||*.tr.zhzy999.net^$important
 ||*.trabzonmegareklamllc.shop^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.tripleatinytots.co.uk^$important
@@ -640,7 +637,6 @@
 ||*.trzorzlageen.webflow.io^$important
 ||*.turretengineering.com.ng^$important
 ||*.twitch.tj^$important
-||*.twu-hwt.org^$important
 ||*.ultracarehospital.com.ng^$important
 ||*.umairrashid292.github.io^$important
 ||*.unasdg.org.ng^$important
@@ -679,6 +675,7 @@
 ||*.windowsdiagnostics.st^$important
 ||*.wittenhorst.eu^$important
 ||*.workerstats.net^$important
+||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.25fshop77.blogspot.com^$important
 ||*.www.albritishstone.co.uk^$important
 ||*.www.ardguisser.com^$important
