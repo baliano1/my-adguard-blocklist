@@ -162,21 +162,19 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-24 13:59:18
+! Ultimo aggiornamento automatico: 2026-09-24 18:48:39
 ||*.000ek4ploe.weebly.com^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.186463.xyz^$important
 ||*.198-macros.com^$important
 ||*.198348.gl^$important
-||*.198macros.org^$important
 ||*.1url.at^$important
 ||*.22qq-client.com^$important
 ||*.365756zxd.com^$important
 ||*.4eclient.com^$important
 ||*.88fa.cn^$important
 ||*.acc.jiangsujiaxue.com^$important
-||*.accesstelematics.com^$important
 ||*.accessvalidoutlo.netlify.app^$important
 ||*.acms.saleseos.com^$important
 ||*.activegrp.co.za^$important
@@ -222,6 +220,7 @@
 ||*.badge-aqua9420.pages.dev^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.basequill9.com^$important
+||*.beak.in^$important
 ||*.bellwild.pages.dev^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bhd-aqui27d0.yzz.me^$important
@@ -238,7 +237,6 @@
 ||*.brasilengenhariaecom.store^$important
 ||*.bratarfood.com^$important
 ||*.breezeclient.com^$important
-||*.breezeclient.org^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.bright-pebble-809.harvis.page^$important
 ||*.brightworks.cz^$important
@@ -253,7 +251,6 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cdtc74o-h20o.vercel.app^$important
 ||*.cedej.gitbook.io^$important
 ||*.celebratingseniors.net^$important
@@ -262,7 +259,6 @@
 ||*.cheetoclient.com^$important
 ||*.chiroartist.com^$important
 ||*.chmbhcjmbhcjmmmmmmm.weebly.com^$important
-||*.chrome.windows-browser.net^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
@@ -271,7 +267,6 @@
 ||*.clonit.netlify.app^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.comcast-seven.vercel.app^$important
 ||*.comcast2212.weebly.com^$important
 ||*.compuserviceonline.com.br^$important
@@ -311,16 +306,15 @@
 ||*.doc.e-statements.app^$important
 ||*.docs.thelobbyx.info^$important
 ||*.donkeytourscroatia.com^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.download.suxiazai.com^$important
 ||*.dr5438.craftum.io^$important
 ||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
@@ -343,7 +337,6 @@
 ||*.f005.backblazeb2.com^$important
 ||*.fakers.co.jp^$important
 ||*.familyaddons.com^$important
-||*.familyaddons.org^$important
 ||*.faq-us-ledgercom-web.typedream.app^$important
 ||*.farschid.de^$important
 ||*.fastsrunners.com^$important
@@ -357,7 +350,6 @@
 ||*.finupae.sbs^$important
 ||*.first-security-verden.de^$important
 ||*.floppaclient.com^$important
-||*.floppaclient.org^$important
 ||*.fls-91c4e7f2-7b3a-4f0d-9a62-3d8f4b1e8c21-production-yaziq9.laravel.cloud^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
@@ -367,7 +359,6 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funnymap.net^$important
-||*.funnymap.org^$important
 ||*.funrat.co^$important
 ||*.fz.tiansys.cn^$important
 ||*.galerisenimutiara.com^$important
@@ -401,6 +392,7 @@
 ||*.hobobot.net^$important
 ||*.home-ep-trizors.gitbook.io^$important
 ||*.homesdowttups.com^$important
+||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.hwarnersmagens.com^$important
 ||*.icoffeecloud.com^$important
@@ -422,20 +414,17 @@
 ||*.isiore.com.co^$important
 ||*.it-security-rho.vercel.app^$important
 ||*.itssprout.com^$important
-||*.jalebel7abeb.com^$important
 ||*.janrevell.com^$important
 ||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
-||*.jointaxel.online^$important
 ||*.journeylake11.com^$important
 ||*.jt-facebook.blogspot.com^$important
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.khavar.com^$important
 ||*.kimyen.net^$important
-||*.kis.marketing^$important
 ||*.klicksternchen.click^$important
 ||*.konsor.ru^$important
 ||*.korexnode.xyz^$important
@@ -459,10 +448,10 @@
 ||*.loginusagemini.godaddysites.com^$important
 ||*.logon-dp3qrium4uhq.edgeone.dev^$important
 ||*.lomejordesalamanca.es^$important
+||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
 ||*.luminexclient.com^$important
-||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
@@ -478,6 +467,7 @@
 ||*.meridiannationalbank.github.io^$important
 ||*.merrill-edge.vercel.app^$important
 ||*.meteorclients.com^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.metumasckgnn.gitbook.io^$important
 ||*.mfacebooks.com.vn^$important
 ||*.mhmehadi.top^$important
@@ -512,7 +502,6 @@
 ||*.ny.lshdw.cc^$important
 ||*.obearo.com^$important
 ||*.odinclient.com^$important
-||*.odinmod.org^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -526,7 +515,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.palharesinformatica.com.br^$important
 ||*.passport-ie.top^$important
-||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pewnypodpis.space^$important
 ||*.pfatrivandrum.org^$important
@@ -539,7 +527,6 @@
 ||*.polinexclient.org^$important
 ||*.portal.onepansol.site^$important
 ||*.postelnini.mk^$important
-||*.powershell-storage.vg^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.prbb6orzjc99kcl60mq.vercel.app^$important
 ||*.preciosasjoyitas.com.mx^$important
@@ -548,7 +535,6 @@
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.programa-de-practicas-santander.pages.dev^$important
 ||*.proteccion-datos.hstn.me^$important
-||*.proveedoradeproyectosysoluciones.com^$important
 ||*.psyrusec.com^$important
 ||*.public-cnbas-en-us.typedream.app^$important
 ||*.public-trexor.framer.website^$important
@@ -588,7 +574,6 @@
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
 ||*.scsproyectos.cl^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sea-lion-app-vq5fv.ondigitalocean.app^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
@@ -608,7 +593,6 @@
 ||*.shipminttracking.net^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.sigmaclient.net^$important
-||*.sigmaclient.org^$important
 ||*.silly-arithmetic-4a416e.netlify.app^$important
 ||*.sirenasultana.com^$important
 ||*.sites.google.com^$important
@@ -627,7 +611,6 @@
 ||*.spitandmalachite.com^$important
 ||*.srsorvete.com.br^$important
 ||*.star-berry2600.pages.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -642,7 +625,6 @@
 ||*.surun.info^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.t4slc-ml1-0ko6-jkcdi-21-09-2026-hh.pages.dev^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
@@ -670,7 +652,6 @@
 ||*.tokenim-cdn-hk.cyou^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
-||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.trabzonmegareklamllc.shop^$important
 ||*.trade9b.com^$important
@@ -694,6 +675,7 @@
 ||*.usps.avaturefed.net^$important
 ||*.v0-mail-spectrum.vercel.app^$important
 ||*.validar-micuenta-outlook.yzz.me^$important
+||*.vdsina.vg^$important
 ||*.verication-casefb363.vercel.app^$important
 ||*.verifiedbadge-account.vercel.app^$important
 ||*.versaclean.com.br^$important
@@ -712,7 +694,6 @@
 ||*.whatsacpp4.com^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wielixclient.com^$important
-||*.wielixclient.net^$important
 ||*.wildlands.acltci.com^$important
 ||*.windomstatetheater.com^$important
 ||*.windowsdiagnostics.st^$important
