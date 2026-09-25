@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-25 16:27:02
+! Ultimo aggiornamento automatico: 2026-09-25 21:03:26
 ||*.10kinstagramfreefollowers.blogspot.com^$important
 ||*.123.ywxww.net^$important
 ||*.142cee.ralind.at^$important
@@ -179,6 +179,7 @@
 ||*.4eclient.com^$important
 ||*.676970.xyz^$important
 ||*.8s7q0g-3v8m1p9a-mbtz8m9p1k2-fsgc.pages.dev^$important
+||*.Cn.devglobal.biz^$important
 ||*.KONAKONACRICKET.COM^$important
 ||*.a1306096.xsph.ru^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -224,6 +225,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.booking.captcha-message-extranet.com^$important
 ||*.booking.confirmation2409wapp.com^$important
 ||*.brasilengenhariaecom.store^$important
 ||*.bratarfood.com^$important
@@ -284,6 +286,7 @@
 ||*.dinamikakargo.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.dispatch-pro-e12.pages.dev^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc-ledger-uss.pages.dev^$important
@@ -318,6 +321,7 @@
 ||*.escrowbank.co^$important
 ||*.eu-assets.contentstack.com^$important
 ||*.eu2.contabostorage.com^$important
+||*.eventourarte.cl^$important
 ||*.exod-sweb-us-us.pages.dev^$important
 ||*.f005.backblazeb2.com^$important
 ||*.facebologin.blogspot.com^$important
@@ -364,6 +368,7 @@
 ||*.gebyarshopee-2021.blogspot.com^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
+||*.gestroom.it^$important
 ||*.get-livelogn-ledgr.pages.dev^$important
 ||*.gfgxcx.com^$important
 ||*.glamorbenfarenterprise.com^$important
@@ -466,6 +471,7 @@
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.mail-mof-gov-np.netlify.app^$important
+||*.majesticinstruments.ma^$important
 ||*.makemewin.club^$important
 ||*.malupieng.com.br^$important
 ||*.many-pear-827420.framer.app^$important
@@ -521,6 +527,7 @@
 ||*.parkgem.pages.dev^$important
 ||*.paste.page^$important
 ||*.pay.aqiu6.com^$important
+||*.pcupd.com^$important
 ||*.pemenangshopee37.blogspot.com^$important
 ||*.pesta-shopee-22.blogspot.com^$important
 ||*.pesta-shopee-99.blogspot.com^$important
@@ -551,7 +558,6 @@
 ||*.rdm.91yunma.cn^$important
 ||*.reauthenticator.com^$important
 ||*.records.dennisign.se^$important
-||*.refaccionesalma.com.mx^$important
 ||*.reifenquick.de^$important
 ||*.reniko.click^$important
 ||*.reservphotoinstay.one^$important
@@ -629,12 +635,10 @@
 ||*.sso-up-hold-login-faq.square.site^$important
 ||*.staemcommunety.sbs^$important
 ||*.start-ledger-cloud.pages.dev^$important
-||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.straightforward-questions-968963.framer.app^$important
-||*.streammobs.com^$important
 ||*.suiss-sunris-chmail.jimdofree.com^$important
 ||*.suite-en.framer.website^$important
 ||*.sunrise-chmail.jimdofree.com^$important
@@ -672,6 +676,8 @@
 ||*.tokenim-hk-cdn.sbs^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.tpp.om-stock.com^$important
+||*.traderhype.com^$important
 ||*.trak-ot-12.florazen.info^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.treziostark.gitbook.io^$important
@@ -701,7 +707,6 @@
 ||*.vizyonuniversitesi.web.tr^$important
 ||*.vodafone-staging-alt.voltsystems.de^$important
 ||*.vrajras.com^$important
-||*.webcstore.pw^$important
 ||*.webdivindeub.com^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatsappzoeiras.blogspot.com^$important
