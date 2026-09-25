@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-25 03:17:15
+! Ultimo aggiornamento automatico: 2026-09-25 11:03:39
 ||*.009--oportunidad-ec.replit.app^$important
 ||*.123.ywxww.net^$important
 ||*.1243dkfjxusxkxlolxxisdforxxllp1-endpoint-h5g2e3bhh6dnh7fz.z03.azurefd.net^$important
@@ -184,7 +184,6 @@
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accessvalidoutlo.netlify.app^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.activegrp.co.za^$important
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
@@ -248,6 +247,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.check-poczta.vercel.app^$important
@@ -261,14 +261,15 @@
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.cloud743-56a.pages.dev^$important
-||*.cloudnewsfeed.com^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.com-tracking-livelocation.services^$important
+||*.communication-hub.vg^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
 ||*.coralasargetia.ro^$important
+||*.corzclient.net^$important
 ||*.cpc188.day^$important
 ||*.crazypianoswebshop.nl^$important
 ||*.crediecuador--crediecu.replit.app^$important
@@ -295,8 +296,6 @@
 ||*.dhlpost-cyen.us.cc^$important
 ||*.dinamikakargo.com^$important
 ||*.disk.accord1key.cn^$important
-||*.divvanews.com^$important
-||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -305,6 +304,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -376,12 +376,9 @@
 ||*.gef.me^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestionycobranzas.com^$important
-||*.gestroom.it^$important
 ||*.gfgxcx.com^$important
-||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
 ||*.gmxx.online^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.godsonvo-git.github.io^$important
 ||*.goo.su^$important
 ||*.gopal955892-dev.github.io^$important
@@ -397,7 +394,7 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.homesdowttups.com^$important
-||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.httpsnationwideclaimdocument.antonina-korenha.workers.dev^$important
 ||*.i-zh-wanmeiplay.com^$important
 ||*.icoffeecloud.com^$important
@@ -407,7 +404,6 @@
 ||*.im-tok8e1k.info^$important
 ||*.impectorinternational.com^$important
 ||*.indonesias.me^$important
-||*.indusenterprises.co^$important
 ||*.iniakusuhatriyamarisalingkenal.blogspot.com^$important
 ||*.iniakuxin-putrimarisalingkenalya.blogspot.com^$important
 ||*.iniciaonline.com^$important
@@ -422,6 +418,7 @@
 ||*.isiore.com.co^$important
 ||*.itssprout.com^$important
 ||*.jaunty-summit-630.harvis.page^$important
+||*.jawaratekno.com^$important
 ||*.je9588.craftum.io^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
@@ -459,12 +456,12 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.lyningli.com^$important
+||*.m.meta-dm.com^$important
 ||*.m3tamsklgn.gitbook.io^$important
 ||*.maidforyou1985.com^$important
 ||*.mail-xfinitylogin.weebly.com^$important
@@ -475,7 +472,6 @@
 ||*.md3335.craftum.io^$important
 ||*.metapay.checkout-point.shop^$important
 ||*.meteorclients.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mibd.org^$important
 ||*.mikon-dpxugdnfkvpy.edgeone.dev^$important
 ||*.miriamgualda.com.br^$important
@@ -496,6 +492,7 @@
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.ncxps.com^$important
+||*.nebula-client.org^$important
 ||*.network-office-cm51.bolt.host^$important
 ||*.new-himanshu-nu.vercel.app^$important
 ||*.new-interakkkpanel-page.vercel.app^$important
@@ -533,6 +530,7 @@
 ||*.polinexclient.org^$important
 ||*.portal.onepansol.site^$important
 ||*.postelnini.mk^$important
+||*.powershell-storage.vg^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prestigeclient.st^$important
@@ -541,7 +539,6 @@
 ||*.profitable-orange-1cshjo0b.edgeone.dev^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.proteccion-datos.hstn.me^$important
-||*.proveedoradeproyectosysoluciones.com^$important
 ||*.public-cnbas-en-us.typedream.app^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.publicofficeoutlooknotificationscry-dpkjhfszqaa2.edgeone.dev^$important
@@ -605,7 +602,6 @@
 ||*.shopee-id-1010.blogspot.com^$important
 ||*.shopeetbk062.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.sigmaclient.net^$important
 ||*.sigmaclient.org^$important
 ||*.silly-arithmetic-4a416e.netlify.app^$important
@@ -627,10 +623,10 @@
 ||*.srsorvete.com.br^$important
 ||*.staemcommunety.sbs^$important
 ||*.static.ilclock.com^$important
-||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.straightforward-questions-968963.framer.app^$important
+||*.streammobs.com^$important
 ||*.support.clz.kr^$important
 ||*.surl.li^$important
 ||*.sutterpoint.com^$important
@@ -670,8 +666,6 @@
 ||*.tokenim-cdn.xyz^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
-||*.tpp.om-stock.com^$important
-||*.tr.zhzy999.net^$important
 ||*.transcript.strongholpayreviewpolicy.co^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trazer-logen-public.pages.dev^$important
