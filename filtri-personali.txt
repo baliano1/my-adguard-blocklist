@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-26 20:36:31
+! Ultimo aggiornamento automatico: 2026-09-26 23:21:22
 ||*.123.ywxww.net^$important
 ||*.151-242-2-177.cprapid.com^$important
 ||*.1717.1000uc.com^$important
@@ -212,6 +212,7 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bdvenlinea--equipobdv.replit.app^$important
+||*.beak.in^$important
 ||*.bellsouth-verifier-sign-in-02ad5b.webflow.io^$important
 ||*.beoauto.alexion.rs^$important
 ||*.billing-update-account.com^$important
@@ -252,7 +253,6 @@
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
-||*.cn.unionlever.com^$important
 ||*.cobinbaselogin.gitbook.io^$important
 ||*.coin-base-extantion-wellet.pages.dev^$important
 ||*.community-gift.beer^$important
@@ -270,7 +270,6 @@
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.csggroupapp.com^$important
-||*.ctsfactory.com^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
 ||*.dailyushistory.com^$important
@@ -317,6 +316,7 @@
 ||*.elrneba.com^$important
 ||*.en-ndaxx-us.square.site^$important
 ||*.en.taichuan.com^$important
+||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.ep-de-8opj99is6xbu-bzg9eka3bcdqdhaw.z02.azurefd.net^$important
 ||*.epanpano.com^$important
@@ -446,7 +446,6 @@
 ||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
-||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.m.wealth-code.xyz^$important
 ||*.maidforyou1985.com^$important
@@ -462,6 +461,7 @@
 ||*.microsoft.authorised-support.com^$important
 ||*.mikon-dp4bsyzanozx.edgeone.dev^$important
 ||*.miriamgualda.com.br^$important
+||*.missysgym.com^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
 ||*.mnurlogistics.az^$important
@@ -499,7 +499,6 @@
 ||*.outpost.co.ke^$important
 ||*.owacat.vercel.app^$important
 ||*.p3.zbjimg.com^$important
-||*.palharesinformatica.com.br^$important
 ||*.pay-bnb-wallet.vercel.app^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -518,10 +517,12 @@
 ||*.profileone.jo3.org^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.project-live--ledgger.pages.dev^$important
+||*.protherapycenter.com^$important
 ||*.proxy-test-001.pages.dev^$important
 ||*.pub-35d6e5ba87ee48edbe69f9300475902e.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
+||*.qiniuyunxz.yxflzs.com^$important
 ||*.qv.co.ke^$important
 ||*.rabiazahid724.github.io^$important
 ||*.ramirex.ro^$important
@@ -589,7 +590,6 @@
 ||*.smartermail.host^$important
 ||*.soft.110route.com^$important
 ||*.sp31ct-koravi-biz-zulta-rudem.pages.dev^$important
-||*.spgint.com^$important
 ||*.sport-ledger-hub.pages.dev^$important
 ||*.srsorvete.com.br^$important
 ||*.stagesuccess.wpengine.com^$important
@@ -606,7 +606,6 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -642,6 +641,7 @@
 ||*.trezorrgoappup.gitbook.io^$important
 ||*.trezrr-suity.pages.dev^$important
 ||*.trtmyanmar.com^$important
+||*.twu-hwt.org^$important
 ||*.ueya.mx^$important
 ||*.undian-hadiah-shopee1212.blogspot.com^$important
 ||*.undian-pemenang2020.blogspot.com^$important
@@ -705,7 +705,6 @@
 ||*.www.facebookkerls.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.formularioautosias-cardif.com^$important
-||*.www.gestroom.it^$important
 ||*.www.glamour-app-peach.vercel.app^$important
 ||*.www.goo.su^$important
 ||*.www.hostingcloud.science^$important
