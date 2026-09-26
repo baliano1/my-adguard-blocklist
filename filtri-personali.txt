@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-26 15:41:58
+! Ultimo aggiornamento automatico: 2026-09-26 20:36:31
 ||*.123.ywxww.net^$important
 ||*.151-242-2-177.cprapid.com^$important
 ||*.1717.1000uc.com^$important
@@ -183,7 +183,6 @@
 ||*.KONAKONACRICKET.COM^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.activegrp.co.za^$important
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
@@ -213,7 +212,6 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bdvenlinea--equipobdv.replit.app^$important
-||*.beak.in^$important
 ||*.bellsouth-verifier-sign-in-02ad5b.webflow.io^$important
 ||*.beoauto.alexion.rs^$important
 ||*.billing-update-account.com^$important
@@ -226,13 +224,11 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
-||*.booking.captcha-message-extranet.com^$important
 ||*.breezeclient.com^$important
 ||*.breezeclient.org^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.brightworks.cz^$important
 ||*.bserail.com^$important
-||*.c2.mc-live.online^$important
 ||*.cablewireltd.site^$important
 ||*.cambodiatouristservice.com^$important
 ||*.casasmediterraneas.com^$important
@@ -304,10 +300,8 @@
 ||*.doc.e-statements.app^$important
 ||*.dogeunblocker.net^$important
 ||*.donkeytourscroatia.com^$important
-||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -323,7 +317,6 @@
 ||*.elrneba.com^$important
 ||*.en-ndaxx-us.square.site^$important
 ||*.en.taichuan.com^$important
-||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.ep-de-8opj99is6xbu-bzg9eka3bcdqdhaw.z02.azurefd.net^$important
 ||*.epanpano.com^$important
@@ -347,6 +340,7 @@
 ||*.feirao-oficial.com^$important
 ||*.ficus.in^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.findlive-location.com^$important
 ||*.first-security-verden.de^$important
@@ -390,6 +384,7 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.homesdowttups.com^$important
+||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.hwarnersmagens.com^$important
 ||*.icoffeecloud.com^$important
@@ -398,6 +393,7 @@
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
 ||*.independentesuitesterrace.hostel.town^$important
+||*.indonesias.me^$important
 ||*.info-trezorsuite.com^$important
 ||*.iniciaonline.com^$important
 ||*.instagram.muse.ranmeng.org^$important
@@ -460,7 +456,6 @@
 ||*.menuu-aktivaspays.laterd.my.id^$important
 ||*.meta-verified-blueticks-fb8.vercel.app^$important
 ||*.meteorclients.com^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mgarcia33266.github.io^$important
 ||*.mibd.org^$important
 ||*.mickyyk.github.io^$important
@@ -504,6 +499,7 @@
 ||*.outpost.co.ke^$important
 ||*.owacat.vercel.app^$important
 ||*.p3.zbjimg.com^$important
+||*.palharesinformatica.com.br^$important
 ||*.pay-bnb-wallet.vercel.app^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -516,7 +512,6 @@
 ||*.polinexclient.org^$important
 ||*.portal.onepansol.site^$important
 ||*.postelnini.mk^$important
-||*.power.belyxhost.in^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prestigeclient.st^$important
@@ -527,7 +522,6 @@
 ||*.pub-35d6e5ba87ee48edbe69f9300475902e.r2.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
-||*.qiniuyunxz.yxflzs.com^$important
 ||*.qv.co.ke^$important
 ||*.rabiazahid724.github.io^$important
 ||*.ramirex.ro^$important
@@ -568,6 +562,7 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -601,6 +596,7 @@
 ||*.staking2portfolio.blogspot.com^$important
 ||*.start-en-ledgrcom-start.pages.dev^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.streammobs.com^$important
@@ -639,13 +635,13 @@
 ||*.tokenim-hk-cdn.pics^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.tpp.om-stock.com^$important
 ||*.traciamentoitalia.github.io^$important
 ||*.transcorp.webasyst.cloud^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trezorrgoappup.gitbook.io^$important
 ||*.trezrr-suity.pages.dev^$important
 ||*.trtmyanmar.com^$important
-||*.twu-hwt.org^$important
 ||*.ueya.mx^$important
 ||*.undian-hadiah-shopee1212.blogspot.com^$important
 ||*.undian-pemenang2020.blogspot.com^$important
@@ -737,6 +733,7 @@
 ||*.www.netfilx.co^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
+||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.owacat.vercel.app^$important
 ||*.www.p6.frash.org^$important
