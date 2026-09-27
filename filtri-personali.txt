@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-27 16:20:14
+! Ultimo aggiornamento automatico: 2026-09-27 20:49:00
 ||*.0llis-0w2a-kxqkq-3fy-jfpl.pages.dev^$important
 ||*.121z3.ralind.at^$important
 ||*.123.ywxww.net^$important
@@ -195,7 +195,6 @@
 ||*.ademolatoheeb-hub.github.io^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
-||*.adubuildersco.com^$important
 ||*.afraid-brown-sofesy1w-dpnhp556c7v9.edgeone.dev^$important
 ||*.aftelecom.com.br^$important
 ||*.aidlifempowerment.com^$important
@@ -247,6 +246,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -327,7 +327,6 @@
 ||*.familyaddons.com^$important
 ||*.familyaddons.org^$important
 ||*.farschid.de^$important
-||*.fastsrunners.com^$important
 ||*.fbmetamdtj-fbcasefb313035.vercel.app^$important
 ||*.fd.v2downf.shop^$important
 ||*.feirao-oflcial.com^$important
@@ -374,8 +373,8 @@
 ||*.helps-desktop-ledgrer.pages.dev^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.hobobot.net^$important
 ||*.homesdowttups.com^$important
+||*.hseda.com^$important
 ||*.htdentshop.com^$important
 ||*.https--www--roblox.com^$important
 ||*.icoffeecloud.com^$important
@@ -383,7 +382,6 @@
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
 ||*.indonesias.me^$important
-||*.iniciaonline.com^$important
 ||*.instagram-new-version.vercel.app^$important
 ||*.invmove.com^$important
 ||*.io-app-ttrezor.gitbook.io^$important
@@ -393,7 +391,6 @@
 ||*.island-fall.pages.dev^$important
 ||*.it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev^$important
 ||*.itssprout.com^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -472,11 +469,14 @@
 ||*.nordertextil.de^$important
 ||*.not-start-eng-trezr.pages.dev^$important
 ||*.nova-client.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.obearo.com^$important
 ||*.odinclient.com^$important
+||*.odinclient.st^$important
 ||*.odinmod.org^$important
 ||*.officialteamivanaalawi2026.blogspot.com^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -489,7 +489,6 @@
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.pay.aqiu6.com^$important
-||*.pcupd.com^$important
 ||*.pensandoenti--pensandoenti.replit.app^$important
 ||*.pfatrivandrum.org^$important
 ||*.phantom-client.com^$important
@@ -603,6 +602,7 @@
 ||*.supportxfinty.weeblysite.com^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -615,6 +615,7 @@
 ||*.teorio-help.gitbook.io^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tetes-air.pages.dev^$important
+||*.thehaider.com^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
@@ -630,13 +631,13 @@
 ||*.top8onlinegame.com^$important
 ||*.tpp.om-stock.com^$important
 ||*.traciamentofbs.github.io^$important
-||*.traderhype.com^$important
 ||*.transfer-doc-23dec5.netlify.app^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.treuiozuriostart.gitbook.io^$important
 ||*.trezoorr--thego.gitbook.io^$important
 ||*.trtmyanmar.com^$important
 ||*.tryclix.com^$important
+||*.twu-hwt.org^$important
 ||*.u.to^$important
 ||*.ubfy15g-h23g.vercel.app^$important
 ||*.uhg.pages.dev^$important
@@ -691,6 +692,7 @@
 ||*.www.cutting-edge.in^$important
 ||*.www.downtownbrooklynev.com^$important
 ||*.www.drgenov.com^$important
+||*.www.duelvalenza.it^$important
 ||*.www.facebookloginid.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
 ||*.www.flex4net.com^$important
@@ -718,6 +720,7 @@
 ||*.www.namuvpn.com^$important
 ||*.www.newkey.co.kr^$important
 ||*.www.notbak.com^$important
+||*.www.oj44472.com^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
 ||*.www.pointtohealth.com^$important
@@ -735,7 +738,6 @@
 ||*.www.roblox.et^$important
 ||*.www.roblox.ly^$important
 ||*.www.saf-oil.ru^$important
-||*.www.salonmarketing.ca^$important
 ||*.www.sgeseducation.com^$important
 ||*.www.shopee2178.blogspot.com^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
