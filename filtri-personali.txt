@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-27 20:49:00
+! Ultimo aggiornamento automatico: 2026-09-27 23:36:10
 ||*.0llis-0w2a-kxqkq-3fy-jfpl.pages.dev^$important
 ||*.121z3.ralind.at^$important
 ||*.123.ywxww.net^$important
@@ -280,7 +280,6 @@
 ||*.dana-anniversarygift.com^$important
 ||*.dantethebakeryintn.edgeone.dev^$important
 ||*.data.yhydl.com^$important
-||*.dcrun.co.uk^$important
 ||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
@@ -375,7 +374,6 @@
 ||*.hitstation.nl^$important
 ||*.homesdowttups.com^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https--www--roblox.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
@@ -391,6 +389,7 @@
 ||*.island-fall.pages.dev^$important
 ||*.it6j9-vhg-n07n-rni9q-23-09-2026-hh.pages.dev^$important
 ||*.itssprout.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -489,6 +488,7 @@
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.pay.aqiu6.com^$important
+||*.pcupd.com^$important
 ||*.pensandoenti--pensandoenti.replit.app^$important
 ||*.pfatrivandrum.org^$important
 ||*.phantom-client.com^$important
@@ -527,7 +527,6 @@
 ||*.reifenquick.de^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
-||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.ristek.link^$important
 ||*.robertrowe.com^$important
@@ -555,6 +554,7 @@
 ||*.scottjdecker.com^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -615,7 +615,6 @@
 ||*.teorio-help.gitbook.io^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.tetes-air.pages.dev^$important
-||*.thehaider.com^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
