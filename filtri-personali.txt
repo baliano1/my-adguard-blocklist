@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-27 03:29:44
+! Ultimo aggiornamento automatico: 2026-09-27 11:20:10
 ||*.121z3.ralind.at^$important
 ||*.123.ywxww.net^$important
 ||*.151-242-2-177.cprapid.com^$important
@@ -183,6 +183,7 @@
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accessuphildappsso.framer.media^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.activegrp.co.za^$important
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
@@ -251,6 +252,7 @@
 ||*.cl.ssouy.com^$important
 ||*.cloud.pearlpeel.com^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.cobinbaselogin.gitbook.io^$important
 ||*.coinbaseprologinv.gitbook.io^$important
 ||*.community-gift.beer^$important
@@ -293,8 +295,10 @@
 ||*.doc-ledgr-desktop-li-faq.pages.dev^$important
 ||*.doc.e-statements.app^$important
 ||*.donkeytourscroatia.com^$important
+||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -357,8 +361,8 @@
 ||*.gets-ledgrlive-sso.pages.dev^$important
 ||*.giimenixlogin.gitbook.io^$important
 ||*.giimienilogin.gitbook.io^$important
-||*.glbeletronica.com.br^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.gorif-digofs.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
@@ -374,8 +378,6 @@
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.homesdowttups.com^$important
-||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https--www--roblox.com^$important
 ||*.hwarnersmagens.com^$important
 ||*.icoffeecloud.com^$important
@@ -396,6 +398,7 @@
 ||*.isiore.com.co^$important
 ||*.island-fall.pages.dev^$important
 ||*.itssprout.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -437,6 +440,7 @@
 ||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
+||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
 ||*.makemewin.club^$important
@@ -448,12 +452,12 @@
 ||*.meta-verified-blueticks-fb8.vercel.app^$important
 ||*.meteorclients.com^$important
 ||*.metrics.agoxpathbet.one^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mgarcia33266.github.io^$important
 ||*.mibd.org^$important
 ||*.mickyyk.github.io^$important
 ||*.microsoft.authorised-support.com^$important
 ||*.miriamgualda.com.br^$important
-||*.missysgym.com^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
 ||*.mnurlogistics.az^$important
@@ -517,7 +521,6 @@
 ||*.process-details-index-68a6.s235023.workers.dev^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.project-live--ledgger.pages.dev^$important
-||*.protherapycenter.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qiniuyunxz.yxflzs.com^$important
@@ -550,7 +553,6 @@
 ||*.s4w.in^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safeifm.com^$important
-||*.safewatertech.com^$important
 ||*.sail.autolabsouthgate.com^$important
 ||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
@@ -564,7 +566,6 @@
 ||*.scottjdecker.com^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -600,6 +601,7 @@
 ||*.sp20ct-korex-biz-zunik-vadim.pages.dev^$important
 ||*.sp31ct-koravi-biz-zulta-rudem.pages.dev^$important
 ||*.spectrum-webmail-107590.square.site^$important
+||*.spgint.com^$important
 ||*.srsorvete.com.br^$important
 ||*.stagesuccess.wpengine.com^$important
 ||*.staking2portfolio.blogspot.com^$important
@@ -614,12 +616,12 @@
 ||*.support.clz.kr^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.taunahi.st^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tenant-application42395091.help^$important
@@ -707,7 +709,7 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.flex4net.com^$important
 ||*.www.formularioautosias-cardif.com^$important
-||*.www.hostingcloud.science^$important
+||*.www.gestroom.it^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
 ||*.www.idshopee-59.blogspot.com^$important
