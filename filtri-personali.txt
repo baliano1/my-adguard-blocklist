@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-28 12:49:19
+! Ultimo aggiornamento automatico: 2026-09-28 21:02:47
 ||*.123.ywxww.net^$important
 ||*.128283coinbase.com^$important
 ||*.1717.1000uc.com^$important
@@ -179,18 +179,19 @@
 ||*.90661f3e.pinme.dev^$important
 ||*.9832bx486-h27.vercel.app^$important
 ||*.Cn.devglobal.biz^$important
-||*.KONAKONACRICKET.COM^$important
 ||*.a.hbweb.icu^$important
 ||*.aapsuite.pages.dev^$important
 ||*.abrir.link^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accounverify.github.io^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
 ||*.agenciachilebrasil.com.br^$important
+||*.ahsniper.org^$important
 ||*.aidlifempowerment.com^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -202,6 +203,7 @@
 ||*.aniketverma1403-sudo.github.io^$important
 ||*.app.appzcvb.com^$important
 ||*.areyouready.co.za^$important
+||*.astraluxclient.com^$important
 ||*.atasapka.com.tr^$important
 ||*.atlasking.pages.dev^$important
 ||*.audicontadores.com^$important
@@ -212,16 +214,17 @@
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bankofamerica-uscom.vercel.app^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bet-facebook.blogspot.com^$important
 ||*.bitly.cx^$important
+||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
 ||*.blockwavewallets.com^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
+||*.book.rollingvideogames.com^$important
 ||*.booking.confirmation2409wapp.com^$important
 ||*.booking.safeid.icu^$important
 ||*.breezeclient.com^$important
@@ -235,6 +238,7 @@
 ||*.cambodiatouristservice.com^$important
 ||*.capricecapitalpartners.com^$important
 ||*.casasmediterraneas.com^$important
+||*.castroycontadores.com^$important
 ||*.cat.dashabi.in^$important
 ||*.cat.xiaojiji.nl^$important
 ||*.cat.xiaoshabi.nl^$important
@@ -267,6 +271,7 @@
 ||*.cpc188.day^$important
 ||*.crazypianoswebshop.nl^$important
 ||*.creditecuador--eccrece.replit.app^$important
+||*.crystalbranchtw.blog^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.cupomdeofertastododia.com^$important
@@ -289,6 +294,7 @@
 ||*.dinamikakargo.com^$important
 ||*.disk.accord1key.cn^$important
 ||*.dj-facebook.blogspot.com^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.doc.e-statements.app^$important
@@ -296,6 +302,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -328,6 +335,7 @@
 ||*.fern24-radar.pages.dev^$important
 ||*.fil-eggen-dpvjc5c11bs7.edgeone.dev^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filmistanstudios.com^$important
 ||*.first-security-verden.de^$important
@@ -335,6 +343,7 @@
 ||*.floppaclient.org^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
+||*.forsalenear.me^$important
 ||*.frghgjhjjhhj--aumento20.replit.app^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
@@ -365,6 +374,7 @@
 ||*.hobobot.net^$important
 ||*.home-s-uite.pages.dev^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.html-preview-0725ab.previewship.net^$important
 ||*.https-wwwv-roblox.co^$important
 ||*.icoffeecloud.com^$important
@@ -438,14 +448,17 @@
 ||*.mesa-zenith.pages.dev^$important
 ||*.meteorclients.com^$important
 ||*.metrics.agoxpathbet.one^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.mibd.org^$important
 ||*.miriamgualda.com.br^$important
 ||*.mist6630.pages.dev^$important
 ||*.mitgliedschaftbeiderkrankenkasse6.ink^$important
 ||*.mitreart.com^$important
 ||*.mkconstructions.net^$important
+||*.mm-mvshahacademy.ac.ke^$important
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
+||*.moniquejhingon.com^$important
 ||*.mrhacker-1110.github.io^$important
 ||*.mtaasloginorblockhainwalletapp1.godaddysites.com^$important
 ||*.muaklekcoop.com^$important
@@ -462,6 +475,7 @@
 ||*.noithaticon.vn^$important
 ||*.notavailable.goneo.de^$important
 ||*.nova-client.com^$important
+||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.obearo.com^$important
 ||*.odinclient.com^$important
@@ -481,6 +495,7 @@
 ||*.p3.zbjimg.com^$important
 ||*.paket-zustelldiensta.ink^$important
 ||*.pay.aqiu6.com^$important
+||*.pcupd.com^$important
 ||*.pfatrivandrum.org^$important
 ||*.phantom-client.com^$important
 ||*.photolivebook.pro^$important
@@ -555,7 +570,6 @@
 ||*.shivkushwaha04.github.io^$important
 ||*.shopee-indonesia33.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.shreesaiseva.org^$important
 ||*.sigmaclient.net^$important
 ||*.sigmaclient.org^$important
 ||*.sirenasultana.com^$important
@@ -649,7 +663,6 @@
 ||*.vrajras.com^$important
 ||*.vwwv-roblox.co^$important
 ||*.w99.site^$important
-||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wegiveyouinstagramfollowers.blogspot.com^$important
 ||*.whatsapp.bluecheck-verify.cfd^$important
@@ -697,7 +710,6 @@
 ||*.www.first-security-verden.de^$important
 ||*.www.gaimini_usaloge.godaddysites.com^$important
 ||*.www.gamiiinlogio.godaddysites.com^$important
-||*.www.gestroom.it^$important
 ||*.www.goo.su^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
@@ -771,6 +783,7 @@
 ||*.www.zhikey.com^$important
 ||*.xatho5vqsukenlxz7pr.vercel.app^$important
 ||*.xenon.studio^$important
+||*.xenonclient.com^$important
 ||*.xfinity-mail-id.weebly.com^$important
 ||*.xfinity-mail-id.weeblysite.com^$important
 ||*.xfinitytomy.weebly.com^$important
