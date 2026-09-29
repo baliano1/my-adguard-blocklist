@@ -162,8 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-09-29 04:03:20
-||*.123.ywxww.net^$important
+! Ultimo aggiornamento automatico: 2026-09-29 12:03:42
 ||*.1717.1000uc.com^$important
 ||*.198-macros.com^$important
 ||*.198348.gl^$important
@@ -178,6 +177,7 @@
 ||*.4bpe7g3lmmgf.roxa.org^$important
 ||*.4eclient.com^$important
 ||*.4flng-filedrive.sbs^$important
+||*.6ak-tehnik.si^$important
 ||*.7b5fwjs29n06.mywire.org^$important
 ||*.7zwn8l6oe20p.loseyourip.com^$important
 ||*.8i0t3zp6hzq8.ddnsfree.com^$important
@@ -200,7 +200,6 @@
 ||*.alie.kr^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
-||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.anshgupta2906.github.io^$important
 ||*.antoniocolae-rgb.github.io^$important
@@ -247,6 +246,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.ced3gf5spw-0q46q5nu-euahf0akb5hngwbz.z02.azurefd.net^$important
 ||*.celebratingseniors.net^$important
 ||*.channelhub.online^$important
@@ -309,7 +309,9 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
+||*.download.youlovemybiba.com^$important
 ||*.dptb9fa0qpwr.casacam.net^$important
+||*.dreamwatchevent.com^$important
 ||*.duct-master.com^$important
 ||*.dune-paper82.pages.dev^$important
 ||*.electri.billregulator.com^$important
@@ -326,6 +328,7 @@
 ||*.epsinf.com^$important
 ||*.escrowbank.co^$important
 ||*.eu2.contabostorage.com^$important
+||*.evacompltd.site^$important
 ||*.exod-sweb-io.pages.dev^$important
 ||*.ezezw3.pages.dev^$important
 ||*.facebookcomfacebook.blogspot.com^$important
@@ -335,6 +338,7 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.finan-231-cer--jj8137638.replit.app^$important
 ||*.first-security-verden.de^$important
@@ -356,10 +360,12 @@
 ||*.gateway-staging.evergreenfin.ltd^$important
 ||*.gboutros.howto.rocks^$important
 ||*.geoxsecurity.ro^$important
+||*.gestroom.it^$important
 ||*.globalbank.us^$important
 ||*.gls-groupptt.cfd^$important
 ||*.go-zedelivery24.shop^$important
 ||*.goo.su^$important
+||*.grandarcbuilders.com^$important
 ||*.greenf.alexion.rs^$important
 ||*.grupomcperu.com^$important
 ||*.harmeetmotors.com^$important
@@ -371,10 +377,12 @@
 ||*.hgicresax.terpay.web.id^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.hotrovnpay.com^$important
 ||*.hpauto.pl^$important
 ||*.hseaz.top^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.https-roblox.com^$important
 ||*.huangchiwen1980-alt.github.io^$important
 ||*.hub-official-ledgre-eng.pages.dev^$important
@@ -385,11 +393,12 @@
 ||*.igra123.com^$important
 ||*.iif62syvswhm.bumbleshrimp.com^$important
 ||*.impectorinternational.com^$important
-||*.indonesias.me^$important
+||*.iniciaonline.com^$important
 ||*.internetbanking.caixa.suporte-oficial.com^$important
 ||*.invmove.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
+||*.itco.pe^$important
 ||*.itssprout.com^$important
 ||*.jawaratekno.com^$important
 ||*.jccgur.cfd^$important
@@ -417,7 +426,6 @@
 ||*.local-update.com^$important
 ||*.loginservice.cloud^$important
 ||*.lomejordesalamanca.es^$important
-||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
 ||*.luminexclient.com^$important
@@ -444,7 +452,6 @@
 ||*.mitreart.com^$important
 ||*.mjddjdksjd.blogspot.com^$important
 ||*.mkconstructions.net^$important
-||*.mm-mvshahacademy.ac.ke^$important
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.mohamedukkas.github.io^$important
@@ -455,7 +462,6 @@
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.munihuacho.gob.pe^$important
-||*.myayurvedashoppe.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.n4w993bgxgrf.freeddns.org^$important
@@ -466,7 +472,6 @@
 ||*.noithaticon.vn^$important
 ||*.nova-client.com^$important
 ||*.nusatoyota.co.id^$important
-||*.nutrisc.com.br^$important
 ||*.ny.lshdw.cc^$important
 ||*.oa60xstk6ano.kozow.com^$important
 ||*.obearo.com^$important
@@ -482,7 +487,6 @@
 ||*.omandrai.github.io^$important
 ||*.onfiltre.com.tr^$important
 ||*.opal-flight53.pages.dev^$important
-||*.opalcraftsmp.com^$important
 ||*.opsecmod.st^$important
 ||*.outpost.co.ke^$important
 ||*.ow4821.craftum.io^$important
@@ -522,6 +526,7 @@
 ||*.records.dennisign.se^$important
 ||*.rehmandev1.github.io^$important
 ||*.reifenquick.de^$important
+||*.reinigung-kosanke.de^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
@@ -548,7 +553,6 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -590,7 +594,8 @@
 ||*.spgint.com^$important
 ||*.spruce-cove-wind.pages.dev^$important
 ||*.srsorvete.com.br^$important
-||*.static.topxgun.com^$important
+||*.star.zcnet.net^$important
+||*.static.ilclock.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.steep-cloud-8d8e.yuarias.workers.dev^$important
@@ -605,7 +610,6 @@
 ||*.swiftfusion.tech^$important
 ||*.systemdergesundheitsversorgung23.ink^$important
 ||*.systemdergesundheitsversorgung28.ink^$important
-||*.taizi.fdstat.vip^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -639,6 +643,7 @@
 ||*.trust-soft.cc^$important
 ||*.tvenwuie7ww1.bumbleshrimp.com^$important
 ||*.tvnc0-dyj-r8xq-ibzor-24-09-2026-hh.pages.dev^$important
+||*.twu-hwt.org^$important
 ||*.ueiuekekeke.sac-id.my.id^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
