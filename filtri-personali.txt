@@ -162,12 +162,11 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-01 12:22:13
+! Ultimo aggiornamento automatico: 2026-10-01 20:04:49
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198-macros.com^$important
 ||*.198348.gl^$important
-||*.198macros.org^$important
 ||*.1jizf-ntq-v350-x6tnx-ev7e2u.pages.dev^$important
 ||*.1url.at^$important
 ||*.21wqsaxzvcfdre3454trgfbv.vercel.app^$important
@@ -239,7 +238,6 @@
 ||*.book.rollingvideogames.com^$important
 ||*.booking.safeid.icu^$important
 ||*.boxercourier.com^$important
-||*.breezeclient.org^$important
 ||*.bridge-trezrus.pages.dev^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.bronze-oasis-9945.hosted.pageshare.ai^$important
@@ -247,6 +245,7 @@
 ||*.bserail.com^$important
 ||*.bumcoinc.site^$important
 ||*.burfuro-mpt-qelmeni-p9x5me38.pages.dev^$important
+||*.c2.teamzeroday.net^$important
 ||*.cambodiatouristservice.com^$important
 ||*.carladelcastillo.com^$important
 ||*.casasmediterraneas.com^$important
@@ -261,9 +260,7 @@
 ||*.channelhub.online^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
-||*.cheetoclient.com^$important
 ||*.chiroartist.com^$important
-||*.chrome.windows-browser.net^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
@@ -298,6 +295,7 @@
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
 ||*.delphiaonline.top^$important
+||*.delta-canvas.com^$important
 ||*.dezcom.com^$important
 ||*.dinamikakargo.com^$important
 ||*.disk.accord1key.cn^$important
@@ -311,6 +309,7 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -319,13 +318,13 @@
 ||*.download.pdf00.com^$important
 ||*.download.youlovemybiba.com^$important
 ||*.dpd-aupostgz.cam^$important
+||*.dreamwatchevent.com^$important
 ||*.drummondcolegio.com.br^$important
 ||*.dsfwxz.com^$important
 ||*.ebaymclaren-austin.eventshouse.app^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.eloquent-fenglisu-517598.netlify.app^$important
-||*.elrneba.com^$important
 ||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.endeveteasetsxmimgqiye.vercel.app^$important
@@ -344,7 +343,6 @@
 ||*.facebook-fields-validation-card-expand-logic.vercel.app^$important
 ||*.facebook-login-login.blogspot.com^$important
 ||*.fakers.co.jp^$important
-||*.familyaddons.com^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.ficus.in^$important
@@ -362,7 +360,6 @@
 ||*.fujeigroup.com^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
-||*.funnymap.net^$important
 ||*.fussionmd.com^$important
 ||*.fz.tiansys.cn^$important
 ||*.galerisenimutiara.com^$important
@@ -371,7 +368,6 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestroom.it^$important
 ||*.globalbank.us^$important
-||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
@@ -379,6 +375,7 @@
 ||*.grupocaprem.com^$important
 ||*.grupomcperu.com^$important
 ||*.guides-live-ledgrr-com.pages.dev^$important
+||*.gutando.com^$important
 ||*.harmeetmotors.com^$important
 ||*.hasalltalent.com^$important
 ||*.hedsdc.nnhwm.com^$important
@@ -400,8 +397,8 @@
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
 ||*.imtokeu.com.cn^$important
-||*.indonesias.me^$important
 ||*.info-ldgr-llogin.wasmer.app^$important
+||*.iniciaonline.com^$important
 ||*.inquisitive-medovik-5c87ae.netlify.app^$important
 ||*.insight-information-digest.s2498700.workers.dev^$important
 ||*.instagram-clone-self-seven.vercel.app^$important
@@ -409,7 +406,6 @@
 ||*.invmove.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.itco.pe^$important
 ||*.itssprout.com^$important
 ||*.ivory60-valley.pages.dev^$important
 ||*.jawaratekno.com^$important
@@ -427,7 +423,6 @@
 ||*.kombijdhl.be^$important
 ||*.konsor.ru^$important
 ||*.kq7k-7qio-s3e8-dojw-whh-3pa.pages.dev^$important
-||*.kryptonclient-cracked.com^$important
 ||*.kshravyab.github.io^$important
 ||*.kua.lat^$important
 ||*.landonirwin.com^$important
@@ -442,19 +437,18 @@
 ||*.live-ldgr-login-sumi.wasmer.app^$important
 ||*.liveoutlook365.dothome.co.kr^$important
 ||*.local-update.com^$important
+||*.localfiles.live^$important
 ||*.login-kleinanzeigen.de^$important
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.lucky-acceleratewin.click^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
-||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
 ||*.m.meta-dm.com^$important
 ||*.maidforyou1985.com^$important
-||*.main.lahoreshoes.com^$important
 ||*.makemewin.club^$important
 ||*.malupieng.com.br^$important
 ||*.maple30.com^$important
@@ -478,6 +472,7 @@
 ||*.muledo.com^$important
 ||*.munihuacho.gob.pe^$important
 ||*.muriaspetin.es^$important
+||*.mx9x.com^$important
 ||*.my-site-108235-106333.weeblysite.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
@@ -490,16 +485,13 @@
 ||*.noamaddons.com^$important
 ||*.noithaticon.vn^$important
 ||*.nota-fical-online.lat^$important
-||*.nova-client.com^$important
 ||*.noxxclient.org^$important
 ||*.nsci.space^$important
 ||*.nth-jrn4-6w68-0ucd-9tvr-zc8nfn.pages.dev^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.obearo.com^$important
 ||*.odinclient.com^$important
 ||*.odinclient.st^$important
-||*.odinmod.org^$important
 ||*.odufps-fudyfuy.com^$important
 ||*.office.infiniteuaeqwerty.sbs^$important
 ||*.ogpgjscfjjzp4lytbvz.vercel.app^$important
@@ -533,12 +525,12 @@
 ||*.polinexclient.org^$important
 ||*.poodpted.com^$important
 ||*.porterneuman.mx^$important
-||*.pos.nittosupport.ca^$important
 ||*.postelnini.mk^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prestigeclient.st^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
+||*.protherapycenter.com^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
 ||*.qelano-vurista526903.vercel.app^$important
@@ -575,10 +567,8 @@
 ||*.roy-sumon.github.io^$important
 ||*.royalcuts.co.uk^$important
 ||*.royalindiancurryclub.com^$important
-||*.rxquickpay.com^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safeifm.com^$important
-||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.sanawarhussain.github.io^$important
 ||*.scainseto.com.br^$important
@@ -586,6 +576,7 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -607,8 +598,6 @@
 ||*.shopee-848.blogspot.com^$important
 ||*.shopee-indonesia1212.blogspot.com^$important
 ||*.shqdown.ggzuhao.com^$important
-||*.sigmaclient.net^$important
-||*.sigmaclient.org^$important
 ||*.similar-stick-596123.framer.app^$important
 ||*.simple-security-page--akhterbrothersr.replit.app^$important
 ||*.simplecheck.online^$important
@@ -649,6 +638,7 @@
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.streammobs.com^$important
 ||*.strutsupportsystems.com^$important
 ||*.sufydoa.com^$important
 ||*.sunrise-mail-ch02.jimdofree.com^$important
@@ -709,7 +699,6 @@
 ||*.usd223org.s3.us-east-2.amazonaws.com^$important
 ||*.venumadhav66.github.io^$important
 ||*.verificar122026.zya.me^$important
-||*.versaclean.com.br^$important
 ||*.veryboys.com^$important
 ||*.vhxm.stargazer.rest^$important
 ||*.visam.info^$important
@@ -720,7 +709,6 @@
 ||*.vmi3623046.contaboserver.net^$important
 ||*.vrajras.com^$important
 ||*.vrin-fraz-skok-682-blip-krostez-znup-249.pages.dev^$important
-||*.webcstore.pw^$important
 ||*.webmail-ionos-auth-app-suite-didactic-carnival-production.up.railway.app^$important
 ||*.webmail-owa-auth-sesssion-path-ideal-octo-fortnight-production.up.railway.app^$important
 ||*.webmail-service-xfinity.vercel.app^$important
