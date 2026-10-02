@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-02 00:29:39
+! Ultimo aggiornamento automatico: 2026-10-02 09:18:38
 ||*.00008moj.github.io^$important
 ||*.11fng-6up-9sha-n70m0-25-09-2026-hh.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -187,13 +187,13 @@
 ||*.account-restriction-1000967754.web.app^$important
 ||*.acessapp.vercel.app^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.activar-cuenta-bhd-inicio.unaux.com^$important
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
 ||*.ahsniper.org^$important
-||*.aidlifempowerment.com^$important
 ||*.aksiyononline.best^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -232,8 +232,6 @@
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
 ||*.bmdcompany.com^$important
-||*.bnet-api.playm8ru.win^$important
-||*.bnet.playm8ru.win^$important
 ||*.bnk-of-merica.lovable.app^$important
 ||*.book.rollingvideogames.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
@@ -249,19 +247,20 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cccomccasttinffity.weebly.com^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
 ||*.cherrybroing.github.io^$important
 ||*.cherryshinde99-hash.github.io^$important
 ||*.chiroartist.com^$important
+||*.chrome.browserdownloads.ru^$important
 ||*.chrome.windows-browser.net^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
 ||*.clubdenut.club^$important
 ||*.clubdetiroelpicarcho.com^$important
+||*.cn.unionlever.com^$important
 ||*.codatopup.game-en.com^$important
 ||*.coguy-p5ge-lbrgbc-s20hc-ca71o.pages.dev^$important
 ||*.coinbase-starter-guide.pages.dev^$important
@@ -302,7 +301,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -353,12 +351,12 @@
 ||*.fussionmd.com^$important
 ||*.fz.tiansys.cn^$important
 ||*.galerisenimutiara.com^$important
-||*.garogradba.mk^$important
 ||*.gboutros.howto.rocks^$important
 ||*.geoxsecurity.ro^$important
 ||*.gestroom.it^$important
 ||*.gett-ing-live-app.pages.dev^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
@@ -377,13 +375,13 @@
 ||*.home-square.zapier.app^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https-wwwv-roblox.co^$important
 ||*.hub-coiin-square.zapier.app^$important
 ||*.i8t43-hle-ijre-1e039-25-09-2026-hh.pages.dev^$important
 ||*.iblb6-loi-6vpx-qwsvf-25-09-2026-hh.pages.dev^$important
 ||*.icloud.auth5.my^$important
 ||*.icoffeecloud.com^$important
+||*.icupsa.com.mx^$important
 ||*.ie.gdmaoka.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
@@ -394,6 +392,7 @@
 ||*.invmove.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
+||*.itco.pe^$important
 ||*.itssprout.com^$important
 ||*.j2jbr-ep4-vwi3-ppuoq-25-09-2026-hh.pages.dev^$important
 ||*.jawaratekno.com^$important
@@ -478,6 +477,7 @@
 ||*.metaxask-login.gitbook.io^$important
 ||*.meteorclients.com^$important
 ||*.meteorrejects.net^$important
+||*.metrics.gocloudmaps.com^$important
 ||*.metrmskloggn.gitbook.io^$important
 ||*.mettamasklofun.gitbook.io^$important
 ||*.mibd.org^$important
@@ -488,6 +488,7 @@
 ||*.mogimall.com^$important
 ||*.moniquejhingon.com^$important
 ||*.mrsweaterltd.com^$important
+||*.msedge.vg^$important
 ||*.msoff-connect-subv-com.us-east-1.linodeobjects.com^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
@@ -499,7 +500,6 @@
 ||*.ncxps.com^$important
 ||*.netflix-clone-two-tau-79.vercel.app^$important
 ||*.newgovtjobs.in.net^$important
-||*.noamaddons.com^$important
 ||*.noithaticon.vn^$important
 ||*.nota-fical-online.lat^$important
 ||*.notifications.center^$important
@@ -507,7 +507,6 @@
 ||*.nsci.space^$important
 ||*.nth-jrn4-6w68-0ucd-9tvr-zc8nfn.pages.dev^$important
 ||*.nubanksaldo2.vercel.app^$important
-||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
 ||*.oauth.eurconsulting.com^$important
 ||*.obearo.com^$important
@@ -541,6 +540,7 @@
 ||*.pqced-w4l-fhb4-xc5h9-06-10-2026-aa.pages.dev^$important
 ||*.practisingcertificateprotection.com^$important
 ||*.preciosasjoyitas.com.mx^$important
+||*.prestige-client.live^$important
 ||*.prestigeclient.st^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.pub-731901ea8ffd4440bc49fcb68ed93be0.r2.dev^$important
@@ -591,6 +591,7 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
+||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -636,6 +637,7 @@
 ||*.star.zcnet.net^$important
 ||*.started-coinsquarr.zapier.app^$important
 ||*.statecoinsquare.zapier.app^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
@@ -685,10 +687,11 @@
 ||*.trtmyanmar.com^$important
 ||*.tutpaste.com^$important
 ||*.twitch.tj^$important
+||*.twu-hwt.org^$important
 ||*.u.gy^$important
 ||*.u500w-7w3-kuwy-qjb69-27-09-2026-hh.pages.dev^$important
 ||*.ufys-9374.weebly.com^$important
-||*.upaicdn.xinmei365.com^$important
+||*.universami.ge^$important
 ||*.upchemicals.co.in^$important
 ||*.update-acrobatdc.shop^$important
 ||*.update.cg100iii.com^$important
