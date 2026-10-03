@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-03 20:34:45
+! Ultimo aggiornamento automatico: 2026-10-03 23:29:48
 ||*.1124coinbase.com^$important
 ||*.123.ywxww.net^$important
 ||*.127002.bitbucket.io^$important
@@ -324,6 +324,7 @@
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.emoticonesfb2014.blogspot.com^$important
+||*.en.taichuan.com^$important
 ||*.endpoint.project0.cc^$important
 ||*.envs.sh^$important
 ||*.ep-il-9yju54m13kk7-htcpc7bfbrheauda.z01.azurefd.net^$important
@@ -373,6 +374,7 @@
 ||*.get-ledger-livee.pages.dev^$important
 ||*.gleaming-duckanoo-612317.netlify.app^$important
 ||*.globalbank.us^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.goo.su^$important
 ||*.grantexx.com^$important
 ||*.greenf.alexion.rs^$important
@@ -407,6 +409,7 @@
 ||*.invmove.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
+||*.ita-airwaysva.com^$important
 ||*.itco.pe^$important
 ||*.itssprout.com^$important
 ||*.iukp08wjbu-h01u.vercel.app^$important
@@ -515,7 +518,6 @@
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
-||*.onfiltre.com.tr^$important
 ||*.online-facebook-privacy.blogspot.com^$important
 ||*.opsecmod.st^$important
 ||*.orca-app-yv5cu.ondigitalocean.app^$important
@@ -595,8 +597,6 @@
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
-||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -653,7 +653,6 @@
 ||*.sushiandpoke.pt^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.sync-vault-2dau.p-2f66mze8.workers.dev^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
