@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-03 03:39:43
+! Ultimo aggiornamento automatico: 2026-10-03 11:02:51
 ||*.123.ywxww.net^$important
 ||*.142cee.ralind.at^$important
 ||*.1717.1000uc.com^$important
@@ -170,7 +170,6 @@
 ||*.198348.gl^$important
 ||*.1url.at^$important
 ||*.22qq-client.com^$important
-||*.4eclient.com^$important
 ||*.997553.xyz^$important
 ||*.Cn.devglobal.biz^$important
 ||*.acc.jiangsujiaxue.com^$important
@@ -207,10 +206,12 @@
 ||*.autenti-ema-what.vercel.app^$important
 ||*.auth.properties^$important
 ||*.authva-session.github.io^$important
+||*.autoflotte-vergabe.de^$important
 ||*.awarenessexhibition.com^$important
 ||*.ayomide202005.github.io^$important
 ||*.ayushi-jain878.github.io^$important
 ||*.b70190238-bb41-4deb-9ca3-0c18cb3cf303.edgeone.dev^$important
+||*.baainbw-vergabe.de^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bankofamericamailcompte.blogspot.com^$important
@@ -258,14 +259,17 @@
 ||*.claimusername-r0buxx-here.blogspot.com^$important
 ||*.clck.ru^$important
 ||*.cloud-ld-soporte.com^$important
+||*.clownguard.us^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.colemanpinotnoir.com^$important
+||*.communication-hub.vg^$important
 ||*.compuserviceonline.com.br^$important
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
 ||*.coralasargetia.ro^$important
 ||*.cpc188.day^$important
+||*.cpofficial.com^$important
 ||*.crazypianoswebshop.nl^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -292,7 +296,6 @@
 ||*.down.54nb.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -342,6 +345,7 @@
 ||*.facebookbigeronline.blogspot.com^$important
 ||*.facebookfakepage.blogspot.com^$important
 ||*.facebooklivepage.blogspot.com^$important
+||*.fahrzeugvergabe.de^$important
 ||*.fakebooklogin.blogspot.com^$important
 ||*.fakers.co.jp^$important
 ||*.fareedhulfarzana17.github.io^$important
@@ -359,6 +363,7 @@
 ||*.fmrio.com^$important
 ||*.form-bnicredit.myvnc.com^$important
 ||*.free-5555167.webadorsite.com^$important
+||*.friendsofsclarc.org^$important
 ||*.fucktermedfir.st^$important
 ||*.fujeigroup.com^$important
 ||*.fukt.link^$important
@@ -366,9 +371,11 @@
 ||*.fussionmd.com^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
+||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.geoxsecurity.ro^$important
+||*.gestroom.it^$important
 ||*.gidzz.vercel.app^$important
 ||*.gilbertominczuk-bot.github.io^$important
 ||*.globalbank.us^$important
@@ -389,11 +396,13 @@
 ||*.hobobot.net^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igor99monteiro.github.io^$important
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
+||*.indonesias.me^$important
 ||*.iniciaonline.com^$important
 ||*.instagram-com-ig.github.io^$important
 ||*.instagram-instagram.blogspot.com^$important
@@ -449,7 +458,6 @@
 ||*.maidforyou1985.com^$important
 ||*.mainease.com^$important
 ||*.makemewin.club^$important
-||*.malupieng.com.br^$important
 ||*.maple30.com^$important
 ||*.mawnepuredoc-dp5t08io8zv9.edgeone.cool^$important
 ||*.melhoresofertasz.com^$important
@@ -511,6 +519,7 @@
 ||*.muaklekcoop.com^$important
 ||*.muddy-dew-3d38.jenniferjones145a3c.workers.dev^$important
 ||*.muledo.com^$important
+||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.muriaspetin.es^$important
 ||*.my-ledger-ems.pages.dev^$important
@@ -522,6 +531,7 @@
 ||*.nfadealer.top^$important
 ||*.nhengenharia.com^$important
 ||*.noithaticon.vn^$important
+||*.nordmann-automobilgruppe.de^$important
 ||*.nsci.space^$important
 ||*.nus.nbt.mybluehost.me^$important
 ||*.nusatoyota.co.id^$important
@@ -530,7 +540,6 @@
 ||*.obearo.com^$important
 ||*.odinclient.com^$important
 ||*.odinclient.st^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -541,9 +550,9 @@
 ||*.outpost.co.ke^$important
 ||*.overview-guide-desktop-llegr.pages.dev^$important
 ||*.p3.zbjimg.com^$important
-||*.palharesinformatica.com.br^$important
 ||*.palloab01.github.io^$important
 ||*.pay.aqiu6.com^$important
+||*.pcupd.com^$important
 ||*.petalsun.pages.dev^$important
 ||*.pfatrivandrum.org^$important
 ||*.phantom-client.com^$important
@@ -562,7 +571,6 @@
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prestige-client.live^$important
 ||*.prestigeclient.st^$important
-||*.prodimetal.com^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.psiconeuroacupuntura.info^$important
 ||*.public.demo.securecloudsandbox.com^$important
@@ -588,6 +596,7 @@
 ||*.reservphotoinstaynow.shop^$important
 ||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
+||*.riderspin.com^$important
 ||*.robertrowe.com^$important
 ||*.roblox-rot.xyz^$important
 ||*.robloxc.com.es^$important
@@ -677,11 +686,11 @@
 ||*.tradingengineers.in^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
+||*.truswallet.foundation^$important
 ||*.tutpaste.com^$important
 ||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
 ||*.u.to^$important
-||*.universami.ge^$important
 ||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
@@ -717,6 +726,7 @@
 ||*.www.accountfacebook.blogspot.com^$important
 ||*.www.acessapp.vercel.app^$important
 ||*.www.amfelen.cl^$important
+||*.www.ardguisser.com^$important
 ||*.www.arizona99.co^$important
 ||*.www.astenterprises.com.pk^$important
 ||*.www.automobile-bk.de^$important
@@ -814,6 +824,7 @@
 ||*.www.ufys-9374.weebly.com^$important
 ||*.www.vuelaviajero.com^$important
 ||*.www.website.mypetapp.co.za^$important
+||*.www.wuming0.tech^$important
 ||*.www.wurenzhizuqiuchang.asiawww.xm.okrate.click^$important
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.xn--sparkassen-berweisung-jic.com^$important
