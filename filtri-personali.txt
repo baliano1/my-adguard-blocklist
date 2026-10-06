@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-06 12:41:41
+! Ultimo aggiornamento automatico: 2026-10-06 19:57:24
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
 ||*.198-macros.com^$important
@@ -170,10 +170,11 @@
 ||*.22qq-client.com^$important
 ||*.4eclient.com^$important
 ||*.Cn.devglobal.biz^$important
+||*.abitcoinbull.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.accesosaqui.solicitudesclientesonline.com^$important
+||*.accesstelematics.com^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
@@ -188,7 +189,6 @@
 ||*.amarhinbodtuvs-dpph6xbe5k41.edgeone.cool^$important
 ||*.amerisao.s3.eu-central-1.amazonaws.com^$important
 ||*.anjalinetflic.netlify.app^$important
-||*.aolgepacklng.com^$important
 ||*.api.darkside.cy^$important
 ||*.api.wipmania.net^$important
 ||*.app.appzcvb.com^$important
@@ -207,7 +207,6 @@
 ||*.auth.properties^$important
 ||*.authentication.ms^$important
 ||*.autumn-hall-3491.mtjoaqbyx.workers.dev^$important
-||*.b2b.jewmailer.net^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.beak.in^$important
@@ -242,7 +241,6 @@
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
-||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
 ||*.clone-facebook-ui.vercel.app^$important
 ||*.clubdetiroelpicarcho.com^$important
@@ -276,6 +274,7 @@
 ||*.dezcom.com^$important
 ||*.dinamikakargo.com^$important
 ||*.disk.accord1key.cn^$important
+||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.don.uvjnie.com^$important
@@ -285,7 +284,6 @@
 ||*.donutsmpdupe.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -296,6 +294,8 @@
 ||*.dreamwatchevent.com^$important
 ||*.drum6772.pages.dev^$important
 ||*.dynga.pl^$important
+||*.easycryptos.org^$important
+||*.ebullientlife.in^$important
 ||*.eeg.xdizh.com^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
@@ -326,19 +326,20 @@
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.foggysummit90.pages.dev^$important
+||*.foundationforwomenshealth.com^$important
 ||*.free-fire-offer-free.blogspot.com^$important
 ||*.fucktermedfir.st^$important
 ||*.fujeigroup.com^$important
 ||*.fukt.link^$important
 ||*.fullhouse.ae^$important
 ||*.fullstacknir.com^$important
-||*.fussionmd.com^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.geoeco-consult.com^$important
 ||*.geoxsecurity.ro^$important
+||*.gestroom.it^$important
 ||*.gim-uernoa.biz^$important
 ||*.gitrm.cfd^$important
 ||*.gk5440.craftum.io^$important
@@ -351,25 +352,26 @@
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.hand.genddos.st^$important
-||*.harmeetmotors.com^$important
 ||*.harry-codes19.github.io^$important
 ||*.hasalltalent.com^$important
 ||*.helpdesk09-26.com^$important
 ||*.hensonracingengines.com^$important
+||*.hewadexchange.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
 ||*.hotelhungry.com^$important
 ||*.how-to-guide-topic-overview-151a.jisorvzbh.workers.dev^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.hxfvuiyoiug.b-cdn.net^$important
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.ikovrsps.com^$important
 ||*.impectorinternational.com^$important
 ||*.imtokein-cdn.lat^$important
 ||*.imtokein-cdn.lol^$important
-||*.indonesias.me^$important
 ||*.info-facebook.blogspot.com^$important
 ||*.iniciaonline.com^$important
 ||*.insha-ali2704.github.io^$important
@@ -388,7 +390,6 @@
 ||*.itssprout.com^$important
 ||*.iwhm04lnca-h02a.vercel.app^$important
 ||*.jade-hill.pages.dev^$important
-||*.jawaratekno.com^$important
 ||*.jb.fblmgay.com^$important
 ||*.jeisonflores532-glitch.github.io^$important
 ||*.jenniferloeffler.com^$important
@@ -419,6 +420,7 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.jkoa.co.kr^$important
@@ -427,6 +429,7 @@
 ||*.mail.connexionscotiaclient.com^$important
 ||*.mail.scotiadevicesecurelogin.com^$important
 ||*.mailservicesgroup.org^$important
+||*.main.lahoreshoes.com^$important
 ||*.makemewin.club^$important
 ||*.malupieng.com.br^$important
 ||*.manmenduster.online^$important
@@ -475,6 +478,7 @@
 ||*.nmtp49wkoa-h05a.vercel.app^$important
 ||*.nodadaobgyn.github.io^$important
 ||*.noithaticon.vn^$important
+||*.northernvirginiaeyeassociates.com^$important
 ||*.np7gesfzfdeq4j705h275wfucp309y.vaultsde.de^$important
 ||*.nusatoyota.co.id^$important
 ||*.ny.lshdw.cc^$important
@@ -482,12 +486,12 @@
 ||*.odinclient.com^$important
 ||*.odinclient.st^$important
 ||*.ofbrasil.com.br^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
 ||*.olazamani.github.io^$important
 ||*.olivepier.pages.dev^$important
+||*.omskin.org^$important
 ||*.onfiltre.com.tr^$important
 ||*.opsecmod.st^$important
 ||*.orchid-leaf.pages.dev^$important
@@ -503,6 +507,7 @@
 ||*.pfatrivandrum.org^$important
 ||*.phantom-client.com^$important
 ||*.photolivebook.pro^$important
+||*.physicsbyfiziks.org^$important
 ||*.piresebarboza.adv.br^$important
 ||*.pistgoat.github.io^$important
 ||*.pj7152.craftum.io^$important
@@ -594,6 +599,7 @@
 ||*.sesdigitalsolutions.com^$important
 ||*.sg123.net^$important
 ||*.shacheemishra.github.io^$important
+||*.shivsoftwaresolutions.com^$important
 ||*.shqdown.ggzuhao.com^$important
 ||*.sia.inicioseguro.com^$important
 ||*.signinattcomdynamicilriaploginyzmjulyags.qwldomainpdate.workers.dev^$important
@@ -632,7 +638,7 @@
 ||*.surl.li^$important
 ||*.sushiandpoke.pt^$important
 ||*.sutterpoint.com^$important
-||*.svirtual.sanviatorperu.edu.pe^$important
+||*.tabak.hr^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
@@ -659,11 +665,9 @@
 ||*.top8onlinegame.com^$important
 ||*.tpp.om-stock.com^$important
 ||*.trail809.pages.dev^$important
-||*.transparenciacanaa.com.br^$important
 ||*.trtmyanmar.com^$important
 ||*.trustwalletindia-beta.vercel.app^$important
 ||*.trzori-suite-usa-uus.typedream.app^$important
-||*.tttkkkssww.com^$important
 ||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
 ||*.u.gy^$important
