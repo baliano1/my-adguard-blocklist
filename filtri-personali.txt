@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-09 00:56:46
+! Ultimo aggiornamento automatico: 2026-10-09 09:58:57
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.158-158-74-244.cprapid.com^$important
@@ -173,12 +173,15 @@
 ||*.26hs9v0rj3l8in9pf2cd.s3.amazonaws.com^$important
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
+||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.4eclient.com^$important
 ||*.766457284248.edgeone.dev^$important
 ||*.947386453.edgeone.dev^$important
 ||*.9rnax.tenant-bio90427981.com^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
+||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aetherius.live^$important
@@ -245,7 +248,6 @@
 ||*.cdaonline.com.ar^$important
 ||*.celebratingseniors.net^$important
 ||*.centre-dentaire-bat.com^$important
-||*.cepde.org^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.chctgpt.net^$important
 ||*.checkfivem.com^$important
@@ -254,6 +256,7 @@
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
+||*.clownguard.us^$important
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.come-to-products.pages.dev^$important
@@ -263,6 +266,7 @@
 ||*.coolairesgroup.com^$important
 ||*.cp359049.tw1.ru^$important
 ||*.cpc188.day^$important
+||*.cpofficial.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
 ||*.d.14yaa.com^$important
@@ -283,7 +287,6 @@
 ||*.dfd.zhzy999.net^$important
 ||*.dhlquotedeskza.com^$important
 ||*.dinamikakargo.com^$important
-||*.disk.accord1key.cn^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
@@ -296,12 +299,12 @@
 ||*.donutsmpclient.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
-||*.download.pdf00.com^$important
 ||*.dreamwatchevent.com^$important
 ||*.dynga.pl^$important
 ||*.ebqprupn.biogeen.sbs^$important
@@ -326,7 +329,6 @@
 ||*.fibernetperu.pe^$important
 ||*.fil-eggen-dpt6n0jn28p0.edgeone.dev^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filebashupload.pages.dev^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
@@ -371,11 +373,11 @@
 ||*.hmnbsdbsd.art^$important
 ||*.hobobot.net^$important
 ||*.home-cry-com.square.site^$important
-||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hsdgmfsodg.art^$important
 ||*.hse-ie.top^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.icoffeecloud.com^$important
 ||*.icsgencat-office-portal.vercel.app^$important
 ||*.ignetwork.us^$important
@@ -384,6 +386,7 @@
 ||*.impectorinternational.com^$important
 ||*.incometaxindia.govs.xin^$important
 ||*.indexx-dpvqzajhefsh.edgeone.dev^$important
+||*.indonesias.me^$important
 ||*.inffgr.duckdns.org^$important
 ||*.info-eng-ledgerlive-learn.typedream.app^$important
 ||*.info-pemenangmidyear88.blogspot.com^$important
@@ -391,6 +394,7 @@
 ||*.instagram-login-support.vercel.app^$important
 ||*.instaram-clone-green.vercel.app^$important
 ||*.instasklad.com^$important
+||*.intelli-sys.co.zw^$important
 ||*.invmove.com^$important
 ||*.io-ledger-starts.pages.dev^$important
 ||*.io-trezrn-eng.pages.dev^$important
@@ -447,6 +451,7 @@
 ||*.meduskin.vn^$important
 ||*.melodic-toffee-e5fd99.netlify.app^$important
 ||*.metasss-ten.vercel.app^$important
+||*.meteorclients.com^$important
 ||*.meteorrejects.net^$important
 ||*.metrics.gocloudmaps.com^$important
 ||*.mfopasdm.pages.dev^$important
@@ -465,9 +470,9 @@
 ||*.mrsweaterltd.com^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
+||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.mysura.it^$important
-||*.n.vs108.com^$important
 ||*.ncxps.com^$important
 ||*.nd.tdpqnf.com^$important
 ||*.nepsoninfotech.com^$important
@@ -483,6 +488,7 @@
 ||*.obearo.com^$important
 ||*.odinclient.st^$important
 ||*.office.biogeen.sbs^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -525,6 +531,7 @@
 ||*.qndt63osah-h07h.vercel.app^$important
 ||*.quillchant14.com^$important
 ||*.qv.co.ke^$important
+||*.qwfwhg4.lol^$important
 ||*.rabbids.cc^$important
 ||*.ramirex.ro^$important
 ||*.razao.pt^$important
@@ -599,7 +606,6 @@
 ||*.sqpengg.com^$important
 ||*.srsorvete.com.br^$important
 ||*.stanarcservice.com^$important
-||*.star.zcnet.net^$important
 ||*.starts-trezo-eng.pages.dev^$important
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
@@ -616,6 +622,7 @@
 ||*.sushiandpoke.pt^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
+||*.swiftfusion.tech^$important
 ||*.swissposttracking.74-248-34-218.cpanel.site^$important
 ||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
@@ -627,7 +634,6 @@
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.telstra243.blogspot.com^$important
-||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
 ||*.thegrillbible.com^$important
@@ -647,6 +653,7 @@
 ||*.top8onlinegame.com^$important
 ||*.torpedototo1.store^$important
 ||*.tpp.om-stock.com^$important
+||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.transportdienstleistungw.ink^$important
 ||*.trtmyanmar.com^$important
@@ -655,7 +662,6 @@
 ||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
 ||*.ultimategrillhub.com^$important
-||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.ur-exods.pages.dev^$important
@@ -675,6 +681,8 @@
 ||*.vwcwgeurqqzdip18zto.vercel.app^$important
 ||*.vy6815.craftum.io^$important
 ||*.w-xhsap.us.cc^$important
+||*.w.zhzy999.net^$important
+||*.w5q.eu^$important
 ||*.waperk.com^$important
 ||*.wbsunrise.jimdofree.com^$important
 ||*.webcstore.pw^$important
@@ -727,12 +735,10 @@
 ||*.www.info-facebook.blogspot.com^$important
 ||*.www.info-pemenangmidyear88.blogspot.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
-||*.www.jozefinskiatelje.si^$important
 ||*.www.kalverino-zudam58132764.vercel.app^$important
 ||*.www.kenwillzltd.com^$important
 ||*.www.khavar.com^$important
 ||*.www.konsor.ru^$important
-||*.www.lasmelosas.cl^$important
 ||*.www.login.tipinfodownload-soft2.com^$important
 ||*.www.mailbox000-validateonline632100.weebly.com^$important
 ||*.www.masterchefnotes.com^$important
