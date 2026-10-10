@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-10 04:10:46
+! Ultimo aggiornamento automatico: 2026-10-10 11:51:07
 ||*.123.ywxww.net^$important
 ||*.123pdfonline.com^$important
 ||*.135461223.site^$important
@@ -180,6 +180,7 @@
 ||*.4eclient.com^$important
 ||*.5paalgxwvcd3wzsglg2k6nwi.vercel.app^$important
 ||*.666coin.top^$important
+||*.6ak-tehnik.si^$important
 ||*.77723jmsite99.shop^$important
 ||*.7eb8kel0jgwdd37n114.vercel.app^$important
 ||*._wildcard_.gwsindia.in^$important
@@ -189,7 +190,6 @@
 ||*.account.webwindos-whatsapp.com.cn^$important
 ||*.accountsverifypro1790922476758.1990065.misitiohostgator.com^$important
 ||*.acms.saleseos.com^$important
-||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
@@ -263,6 +263,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cdn.web86-whatsapp.com.cn^$important
 ||*.celebratingseniors.net^$important
 ||*.centre-dentaire-bat.com^$important
@@ -285,7 +286,6 @@
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
 ||*.cpc188.day^$important
-||*.cpofficial.com^$important
 ||*.cq515559.tw1.ru^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
@@ -367,6 +367,7 @@
 ||*.feybnjuezzdd.jimdofree.com^$important
 ||*.ficus.in^$important
 ||*.file.blackint3.com^$important
+||*.file.uhsea.com^$important
 ||*.file.web86-whatsapp.com.cn^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
@@ -413,7 +414,7 @@
 ||*.history.webwindos-whatsapp.com.cn^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
-||*.horno-rafelet.es^$important
+||*.hobobot.net^$important
 ||*.hotelhungry.com^$important
 ||*.howto.web86-whatsapp.com.cn^$important
 ||*.hseda.com^$important
@@ -439,12 +440,11 @@
 ||*.ipgrussia.run^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
-||*.itco.pe^$important
 ||*.itssprout.com^$important
 ||*.jaishroff-org.myfreshworks.com^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
-||*.jlwz.cn^$important
 ||*.kavacanada.ca^$important
 ||*.kenwillzltd.com^$important
 ||*.keych.org^$important
@@ -503,9 +503,9 @@
 ||*.mogimall.com^$important
 ||*.mrsweaterltd.com^$important
 ||*.muaklekcoop.com^$important
+||*.muledo.com^$important
 ||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
-||*.mx9x.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.naimishgupta86.github.io^$important
@@ -517,7 +517,6 @@
 ||*.noithaticon.vn^$important
 ||*.noka1001.lakemall.de^$important
 ||*.notifyhubss.net^$important
-||*.nusatoyota.co.id^$important
 ||*.obearo.com^$important
 ||*.odinclient.st^$important
 ||*.ojang.pe.kr^$important
@@ -653,7 +652,6 @@
 ||*.staytruthnomilowe.lol^$important
 ||*.stdown.dinju.com^$important
 ||*.stellaspicy.org^$important
-||*.streammobs.com^$important
 ||*.sugarfreedcup.co.za^$important
 ||*.sunrise-ch-cjeuadd.jimdofree.com^$important
 ||*.support.clz.kr^$important
@@ -669,7 +667,6 @@
 ||*.tapestryoftruth.com^$important
 ||*.tartaklegnica.pl^$important
 ||*.taunahi.st^$important
-||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
@@ -679,6 +676,7 @@
 ||*.testra.pages.dev^$important
 ||*.tetes-air.pages.dev^$important
 ||*.thara-user.github.io^$important
+||*.thehaider.com^$important
 ||*.theholidayroads.com^$important
 ||*.themaintechnician.us^$important
 ||*.thementordirectory.com^$important
@@ -759,7 +757,6 @@
 ||*.www.epibenie.dz^$important
 ||*.www.facebook-profile-login.blogspot.com^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
