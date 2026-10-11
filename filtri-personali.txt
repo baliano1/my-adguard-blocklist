@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-11 03:48:09
+! Ultimo aggiornamento automatico: 2026-10-11 12:02:48
 ||*.0121z3.ralind.at^$important
 ||*.035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc^$important
 ||*.0807.st^$important
@@ -196,7 +196,6 @@
 ||*.adobeinstaller-virid.vercel.app^$important
 ||*.advitgoel.github.io^$important
 ||*.aftelecom.com.br^$important
-||*.aidlifempowerment.com^$important
 ||*.ajcustomhomes.au^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -231,6 +230,7 @@
 ||*.bnet-api.playm8ru.win^$important
 ||*.bnet.playm8ru.win^$important
 ||*.book.rollingvideogames.com^$important
+||*.breezeclient.com^$important
 ||*.briannacorporation.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.browardcountypdf-viewer.vercel.app^$important
@@ -253,6 +253,7 @@
 ||*.cepde.org^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
+||*.cheetoclient.com^$important
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
@@ -312,7 +313,6 @@
 ||*.dynga.pl^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
-||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.ensuite-trexor.square.site^$important
 ||*.epanpano.com^$important
@@ -321,15 +321,16 @@
 ||*.exec-roblox.com^$important
 ||*.exoduswalletcc.pages.dev^$important
 ||*.f003.backblazeb2.com^$important
+||*.fable-shine.com^$important
 ||*.facebocks.com.vn^$important
 ||*.faecbook.vn^$important
 ||*.fakers.co.jp^$important
+||*.familyaddons.com^$important
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.ficofacil.com^$important
 ||*.ficus.in^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.fisimup.hopto.org^$important
@@ -376,7 +377,6 @@
 ||*.hotelhungry.com^$important
 ||*.hp9316.craftum.io^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.hub-trezrsuiteapp--in.gitbook.io^$important
 ||*.hulobag.servehalflife.com^$important
 ||*.icoffeecloud.com^$important
@@ -406,6 +406,7 @@
 ||*.konsor.ru^$important
 ||*.kp2dhlbthocs4k54oaijdta4twjbglazw5duuwrxllc7zqzeqfmq.ar-io.dev^$important
 ||*.kraekanzloginu.gitbook.io^$important
+||*.kryptonclient-cracked.com^$important
 ||*.kubanehus.hopto.org^$important
 ||*.kunalshinde2008.github.io^$important
 ||*.kuvofu.ddns.net^$important
@@ -422,6 +423,7 @@
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumacrea.com^$important
+||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
 ||*.m-facebooks.vn^$important
@@ -457,12 +459,13 @@
 ||*.mnurlogistics.az^$important
 ||*.mobiletoolapp.com^$important
 ||*.mogimall.com^$important
+||*.mothertouch.ac.zw^$important
 ||*.mrsweaterltd.com^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
+||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.mysura.it^$important
-||*.n.vs108.com^$important
 ||*.nadaku.onthewifi.com^$important
 ||*.naridojew.3utilities.com^$important
 ||*.natashamohan.com^$important
@@ -475,6 +478,7 @@
 ||*.noithaticon.vn^$important
 ||*.not-enought-feeding-animals.vercel.app^$important
 ||*.notifyhubss.net^$important
+||*.nova-client.com^$important
 ||*.nshshhshs223.weebly.com^$important
 ||*.nusatoyota.co.id^$important
 ||*.obearo.com^$important
@@ -559,7 +563,6 @@
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safe-trezor-io-start.typedream.app^$important
 ||*.safeifm.com^$important
-||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.scanbot.me^$important
 ||*.schooltec.net^$important
@@ -579,6 +582,7 @@
 ||*.seputartuban.com^$important
 ||*.sg123.net^$important
 ||*.shqdown.ggzuhao.com^$important
+||*.sigmaclient.net^$important
 ||*.signin-adobe-x4ou12j0f7c-3d031dfa-9ygwqx748489-4a60f031a-b62a.vercel.app^$important
 ||*.singhsudhanshu-bit.github.io^$important
 ||*.site888-d4gfdcdhfbh5gqh3central.com^$important
@@ -624,6 +628,7 @@
 ||*.tart-faq-en--trezr.typedream.app^$important
 ||*.tartaklegnica.pl^$important
 ||*.taunahi.st^$important
+||*.techbud.ro^$important
 ||*.tecunonline.com^$important
 ||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
@@ -646,7 +651,6 @@
 ||*.tmcksa.com^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
-||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.transparenciacanaa.com.br^$important
 ||*.treazur-suit.pages.dev^$important
@@ -771,7 +775,6 @@
 ||*.www.roblox.rw^$important
 ||*.www.saf-oil.ru^$important
 ||*.www.secure-verifynfonline.com^$important
-||*.www.sgeseducation.com^$important
 ||*.www.silver-hubdachwohnwagen.de^$important
 ||*.www.spotify-clone-eta-nine.vercel.app^$important
 ||*.www.ss-01.com^$important
