@@ -162,8 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-13 02:23:42
-||*.123.ywxww.net^$important
+! Ultimo aggiornamento automatico: 2026-10-13 10:03:24
 ||*.1231dkfjxusxkxlolxxisdforxxllp1-endpoint-hvdhghefc5fjhrfh.z03.azurefd.net^$important
 ||*.142cee.ralind.at^$important
 ||*.1717.1000uc.com^$important
@@ -177,10 +176,11 @@
 ||*.4eclient.com^$important
 ||*.4k4iard.tupek.store^$important
 ||*.65512.cfd^$important
+||*.OSMB.net^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.activegrp.co.za^$important
-||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.adobe-viewer-v3.s3.us-east-1.amazonaws.com^$important
@@ -195,7 +195,6 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allegrolokalnie.pl-9607227.cfd^$important
 ||*.allendostmen.com^$important
-||*.altamoorgoods.com^$important
 ||*.altavvkilat.com^$important
 ||*.alternativas.ru^$important
 ||*.aok.dls.mybluehost.me^$important
@@ -217,14 +216,15 @@
 ||*.bbva-app-1-c6c6bqhhg7dqh0a9.mexicocentral-01.azurewebsites.net^$important
 ||*.bd-jh-ledger-laern.typedream.app^$important
 ||*.beak.in^$important
+||*.beamtechmacros.com^$important
 ||*.bejevurali.cloud-ip.cc^$important
 ||*.belingham.pages.dev^$important
+||*.benzinclick.live^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bid-anhaf-project-606.vercel.app^$important
 ||*.bidepig.abrdns.com^$important
 ||*.bill.you-track.cloud^$important
 ||*.bit-mart-hub.zapier.app^$important
-||*.blankeyeo.com^$important
 ||*.blaze-x.com^$important
 ||*.blessdayservices.org^$important
 ||*.blogs.sokun.jp^$important
@@ -244,6 +244,7 @@
 ||*.bugasisos.ddnss.de^$important
 ||*.bumcoinc.site^$important
 ||*.bururoha.duckdns.org^$important
+||*.bvmatqnam.com.vn^$important
 ||*.bybitvn.co^$important
 ||*.c--617b5f35-a107-4800-9047-a429934c0483-prod.lovable.cloud^$important
 ||*.c2.teamzeroday.net^$important
@@ -256,9 +257,9 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cefeluzeme.dyn-ip24.de^$important
 ||*.celebratingseniors.net^$important
+||*.cepde.org^$important
 ||*.cesuho.dynv6.net^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -285,8 +286,10 @@
 ||*.covozogoca.duckdns.org^$important
 ||*.cpc188.day^$important
 ||*.cpcontacts.52-153-141-124.cprapid.com^$important
+||*.cpofficial.com^$important
 ||*.crystalpvp.ru^$important
 ||*.cs.go.kg^$important
+||*.csgroup.host^$important
 ||*.cugamiz.dyndns1.de^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
@@ -294,6 +297,7 @@
 ||*.data.yhydl.com^$important
 ||*.daydreamsonpaper.com^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
@@ -417,7 +421,6 @@
 ||*.hobobot.net^$important
 ||*.hojazef.dyndns1.de^$important
 ||*.homugef.cloud-ip.cc^$important
-||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hozorinew.ooguy.com^$important
 ||*.hseda.com^$important
@@ -428,6 +431,7 @@
 ||*.icoffeecloud.com^$important
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
+||*.ikovrsps.com^$important
 ||*.immortales.fun^$important
 ||*.impectorinternational.com^$important
 ||*.innstagrram.netlify.app^$important
@@ -531,7 +535,6 @@
 ||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.mv2shjyl1atund1954v3.s3.amazonaws.com^$important
-||*.mx9x.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.nadedacaho.dynv6.net^$important
@@ -577,6 +580,7 @@
 ||*.pinkmanxs.netlify.app^$important
 ||*.pirocemes.myhome-server.de^$important
 ||*.polarclient.net^$important
+||*.polinex.org^$important
 ||*.polinexclient.org^$important
 ||*.poosta.vercel.app^$important
 ||*.portal-ndax-cdn-auth.weebly.com^$important
@@ -586,7 +590,6 @@
 ||*.post-ogpakkeservicecenterv.ink^$important
 ||*.postelnini.mk^$important
 ||*.pousadaparaisodocarmo.com.br^$important
-||*.preciosasjoyitas.com.mx^$important
 ||*.prestigeclient.st^$important
 ||*.products.rmidlandco.com^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
@@ -667,6 +670,7 @@
 ||*.skynetwork.lat^$important
 ||*.smartermail.host^$important
 ||*.smithandsmith.co.za^$important
+||*.soft.110route.com^$important
 ||*.sp.negrrwe.info^$important
 ||*.spgint.com^$important
 ||*.sqpengg.com^$important
@@ -674,15 +678,16 @@
 ||*.stanarcservice.com^$important
 ||*.star.zcnet.net^$important
 ||*.start-io-trezo.b12sites.com^$important
+||*.stat.bestcompliance.net^$important
 ||*.static.ilclock.com^$important
+||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
+||*.stellaspicy.org^$important
 ||*.store.workshopcommunityawardvotes.com^$important
-||*.streammobs.com^$important
 ||*.sugarfreedcup.co.za^$important
 ||*.summitcapitalpatners.ink^$important
 ||*.support.clz.kr^$important
-||*.sushiandpoke.pt^$important
 ||*.sutewudaf.dynv6.net^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
@@ -737,10 +742,8 @@
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.uspss.pages.dev^$important
-||*.uu.v2raynapps.com.cn^$important
 ||*.v-sso----robinhood-comm--auth.webflow.io^$important
 ||*.vapade.home-webserver.de^$important
-||*.vedantawisdom.org^$important
 ||*.vemihu.abrdns.com^$important
 ||*.very-check-thday.vercel.app^$important
 ||*.veryboys.com^$important
@@ -756,6 +759,7 @@
 ||*.wall.casajuanchos.com^$important
 ||*.wd4220.craftum.io^$important
 ||*.web3-checkout.com^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wh-appcb.com^$important
 ||*.whatsappgroup.vercel.app^$important
@@ -826,6 +830,7 @@
 ||*.www.oferta-do-dia-magalu.vercel.app^$important
 ||*.www.ojang.pe.kr^$important
 ||*.www.okhan.net^$important
+||*.www.osmb.net^$important
 ||*.www.pointtohealth.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.rejekishopee23.blogspot.com^$important
@@ -846,6 +851,7 @@
 ||*.www.tecunonline.com^$important
 ||*.www.test.peperoncinochepassione.it^$important
 ||*.www.tmcksa.com^$important
+||*.www.tribot.co.uk^$important
 ||*.www.tupharma365es.vercel.app^$important
 ||*.www.uadolid-nvloigin.godaddysites.com^$important
 ||*.www.very-check-thday.vercel.app^$important
