@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-14 00:06:29
+! Ultimo aggiornamento automatico: 2026-10-14 08:20:54
 ||*.0365-microsoft.gitbook.io^$important
 ||*.1.verificadobr.lat^$important
 ||*.123.ywxww.net^$important
@@ -180,6 +180,7 @@
 ||*.4eclient.com^$important
 ||*.5e4gu-tbr-nwzw-5orrm-28-09-2026-hh.pages.dev^$important
 ||*.65512.cfd^$important
+||*.6sim.vip^$important
 ||*.7pbcg-g6s-30ah6n-aa7inv-36q4.pages.dev^$important
 ||*.98q7s-jg9-9ioi-4f0zw-12-10-2026-aa.pages.dev^$important
 ||*.OSMB.net^$important
@@ -196,6 +197,7 @@
 ||*.aftelecom.com.br^$important
 ||*.ahsniper.org^$important
 ||*.aidlifempowerment.com^$important
+||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.alternativas.ru^$important
@@ -210,7 +212,6 @@
 ||*.applecard.limitoffer-b.com^$important
 ||*.appliesdl.com^$important
 ||*.ar9u0a-hume-7e6lb3-t9plv.pages.dev^$important
-||*.areyouready.co.za^$important
 ||*.argon-client.com^$important
 ||*.as5-r7u0mz-pbx-ctw-mtef-ir5c0g.pages.dev^$important
 ||*.atasapka.com.tr^$important
@@ -222,7 +223,6 @@
 ||*.bagidimofu.duckdns.org^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bbkh-gy63r-gyt7-i0pb0-0t0mgk.pages.dev^$important
-||*.beak.in^$important
 ||*.beamtechmacros.com^$important
 ||*.bellsouth-att-sign-in-f80170.webflow.io^$important
 ||*.benzinclick.live^$important
@@ -262,6 +262,7 @@
 ||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cepde.org^$important
+||*.chantcompass9.com^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
@@ -281,7 +282,6 @@
 ||*.coreprotector.org^$important
 ||*.cp188.xyz^$important
 ||*.cpc188.day^$important
-||*.cpofficial.com^$important
 ||*.crackedclients.com^$important
 ||*.crediplus--credi0.replit.app^$important
 ||*.credito-prestamos--victorvicenso12.replit.app^$important
@@ -295,9 +295,9 @@
 ||*.damiancollier.com^$important
 ||*.daqmuri-mpt-zelqavo-r9d5ka42.pages.dev^$important
 ||*.daqzelo-mpt-vurqeni-r8x6me53.pages.dev^$important
+||*.dasdase13.icu^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
@@ -306,7 +306,6 @@
 ||*.dfd.zhzy999.net^$important
 ||*.diecasthobby.com^$important
 ||*.dinamikakargo.com^$important
-||*.disk.accord1key.cn^$important
 ||*.dj0g2-jgr-s8vp-nbdws-28-09-2026-hh.pages.dev^$important
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
@@ -318,7 +317,6 @@
 ||*.donutsmpclient.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -362,9 +360,9 @@
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.fz.tiansys.cn^$important
-||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.geoxsecurity.ro^$important
+||*.gestroom.it^$important
 ||*.get-acrobat-adobe.pages.dev^$important
 ||*.getoutofthebackseat.com^$important
 ||*.globalbank.us^$important
@@ -384,6 +382,7 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
+||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
@@ -479,6 +478,7 @@
 ||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
 ||*.musical-potato-yntvoz9l-torqueelectricsllc-boop.4everland.app^$important
+||*.mx9x.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.namantiwari285.github.io^$important
@@ -527,7 +527,7 @@
 ||*.polite-tulumba-704e1b.netlify.app^$important
 ||*.porterneuman.mx^$important
 ||*.postelnini.mk^$important
-||*.powershell-storage.vg^$important
+||*.preciosasjoyitas.com.mx^$important
 ||*.prestigeclient.st^$important
 ||*.professionellerkurier-paketservicex.ink^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
@@ -577,7 +577,6 @@
 ||*.s1w21.comen.store^$important
 ||*.sablayan.seasonshotelmindoro.com^$important
 ||*.safeifm.com^$important
-||*.sales.ifree.page^$important
 ||*.samiksha.com.sg^$important
 ||*.sammygeemints082.github.io^$important
 ||*.samul.elblag.pl^$important
@@ -586,7 +585,6 @@
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
-||*.sdufkghdfshds.cfd^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -601,6 +599,7 @@
 ||*.servicioenlineadeayuda--solucionesec.replit.app^$important
 ||*.sg123.net^$important
 ||*.shifatsb.github.io^$important
+||*.shqdown.ggzuhao.com^$important
 ||*.sigma-loop-vault-7voqn3al1t.s3.eu-central-1.amazonaws.com^$important
 ||*.sigmaclient.net^$important
 ||*.signinattcomdynamicilriaploginy8to7krdlu.updateconfigdelta.workers.dev^$important
@@ -832,6 +831,7 @@
 ||*.www.okhan.net^$important
 ||*.www.osmb.net^$important
 ||*.www.pointtohealth.com^$important
+||*.www.porvootransitioncare.com^$important
 ||*.www.reifenquick.de^$important
 ||*.www.robiox.com.py^$important
 ||*.www.roblox.com.am^$important
