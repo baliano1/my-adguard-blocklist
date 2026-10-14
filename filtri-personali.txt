@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-14 14:18:17
+! Ultimo aggiornamento automatico: 2026-10-14 19:08:53
 ||*.0m8u6-af8-h3hs-3hph8-13-10-2026-aa.pages.dev^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -216,13 +216,13 @@
 ||*.argon-client.com^$important
 ||*.arjeetsingh01.github.io^$important
 ||*.atasapka.com.tr^$important
+||*.audicontadores.com^$important
 ||*.ayanansari35679.github.io^$important
 ||*.ayush-mamgai6.github.io^$important
 ||*.b2mlv-7nt-crlh-v5ub1-30-09-2026-hh.pages.dev^$important
 ||*.b9teq-xpo-whvn-rn9vh-13-10-2026-aa.pages.dev^$important
 ||*.backupso.com^$important
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
-||*.beak.in^$important
 ||*.beamtechmacros.com^$important
 ||*.belleange0988-arch.github.io^$important
 ||*.benzinclick.live^$important
@@ -256,8 +256,8 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
+||*.cepde.org^$important
 ||*.chantcompass9.com^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -281,6 +281,7 @@
 ||*.coolairesgroup.com^$important
 ||*.coreprotector.org^$important
 ||*.cpc188.day^$important
+||*.cpofficial.com^$important
 ||*.cpsgift.com^$important
 ||*.crackedclients.com^$important
 ||*.crystalpvp.ru^$important
@@ -294,6 +295,7 @@
 ||*.dapper-malasada-d73c5c.netlify.app^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
+||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
@@ -346,7 +348,6 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.filezilla.cc^$important
 ||*.first-security-verden.de^$important
@@ -385,11 +386,9 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hobobot.net^$important
-||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hpacs-0vm-jn71-vsdv4-13-10-2026-aa.pages.dev^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.https--www--roblox.com^$important
 ||*.ibidasjohnnraplc.com^$important
 ||*.icoffeecloud.com^$important
@@ -409,6 +408,8 @@
 ||*.itssprout.com^$important
 ||*.iv2677.craftum.io^$important
 ||*.j7kh7-bd0-nhwz-20yr5-30-09-2026-hh.pages.dev^$important
+||*.javb.omsules.life^$important
+||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
@@ -710,6 +711,7 @@
 ||*.sp33ct-vuleni-biz-famero-pudaki.pages.dev^$important
 ||*.sp33ct-vunaki-biz-melaro-zarevo.pages.dev^$important
 ||*.sp33ct-vunaro-biz-kemeli-zudaro.pages.dev^$important
+||*.spaceware.cc^$important
 ||*.spectacular-frangipane-d36e5f.netlify.app^$important
 ||*.spgint.com^$important
 ||*.splendid-mandazi-5cacbf.netlify.app^$important
@@ -724,6 +726,7 @@
 ||*.statuesque-dragon-151da0.netlify.app^$important
 ||*.stdown.dinju.com^$important
 ||*.stellaspicy.org^$important
+||*.streammobs.com^$important
 ||*.sub-ordinate.github.io^$important
 ||*.sugarfreedcup.co.za^$important
 ||*.sultoneff.id^$important
