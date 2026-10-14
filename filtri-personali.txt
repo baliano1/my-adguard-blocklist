@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-14 19:08:53
+! Ultimo aggiornamento automatico: 2026-10-14 23:38:20
 ||*.0m8u6-af8-h3hs-3hph8-13-10-2026-aa.pages.dev^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -256,6 +256,7 @@
 ||*.cat.xiaoshabi.nl^$important
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
+||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.cepde.org^$important
 ||*.chantcompass9.com^$important
@@ -299,6 +300,7 @@
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
+||*.delta-canvas.com^$important
 ||*.destiny3-testdomain6x9-com.dak.onh.mybluehost.me^$important
 ||*.devs.kantales.life^$important
 ||*.dezcom.com^$important
@@ -337,7 +339,6 @@
 ||*.epanpano.com^$important
 ||*.eq4-njjh-0wj3r4-xut-5ec2.pages.dev^$important
 ||*.escrowbank.co^$important
-||*.explorer.vg^$important
 ||*.exxodusweb-en-us.pages.dev^$important
 ||*.f005.backblazeb2.com^$important
 ||*.f2bshgrrwj.vercel.app^$important
@@ -367,7 +368,6 @@
 ||*.geoxsecurity.ro^$important
 ||*.gestroom.it^$important
 ||*.getoutofthebackseat.com^$important
-||*.ghost-new-live.ink^$important
 ||*.globalbank.us^$important
 ||*.gloryhaven.org^$important
 ||*.grantexx.com^$important
@@ -448,6 +448,7 @@
 ||*.main--visionary-fudge-6d276c.netlify.app^$important
 ||*.makemewin.club^$important
 ||*.malupieng.com.br^$important
+||*.mandarin.net.au^$important
 ||*.maple30.com^$important
 ||*.marlowclient.com^$important
 ||*.marnufi-mpt-zelqavo-h8d3ka65.pages.dev^$important
@@ -569,7 +570,6 @@
 ||*.roblox.com.ml^$important
 ||*.roblox.com.mu^$important
 ||*.robuxx-cgl.pages.dev^$important
-||*.romeopirlanta.com^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rs74ed.s.gy^$important
 ||*.s1w21.comen.store^$important
@@ -721,6 +721,7 @@
 ||*.star.zcnet.net^$important
 ||*.stat.bestcompliance.net^$important
 ||*.static-website-environment--docu-sign-auth.replit.app^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.statuesque-dragon-151da0.netlify.app^$important
@@ -793,7 +794,6 @@
 ||*.vrajras.com^$important
 ||*.w.zhzy999.net^$important
 ||*.wall.casajuanchos.com^$important
-||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wielixclient.com^$important
@@ -822,7 +822,6 @@
 ||*.www.elitecheatsx.live^$important
 ||*.www.facebook-sage-tau.vercel.app^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
