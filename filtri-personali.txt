@@ -162,17 +162,15 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-15 03:02:41
+! Ultimo aggiornamento automatico: 2026-10-15 10:48:17
 ||*.123.ywxww.net^$important
 ||*.154p-adk-yg8k-xl14x3-gllncd.pages.dev^$important
 ||*.1717.1000uc.com^$important
-||*.22qq-client.com^$important
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
 ||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
 ||*.32x32x32.pages.dev^$important
 ||*.34998-zc7-a67t-h50gm-03-10-2026-aa.pages.dev^$important
-||*.4eclient.com^$important
 ||*.51jx-q.vercel.app^$important
 ||*.60q5i-c6f-j22t-4ryap-13-10-2026-aa.pages.dev^$important
 ||*.6mi8p-ewe-ai1x-cosn7-13-10-2026-aa.pages.dev^$important
@@ -180,16 +178,13 @@
 ||*.9ixb7-yxw-3bzg-aui5j-30-09-2026-hh.pages.dev^$important
 ||*.OSMB.net^$important
 ||*.aafesorder.com^$important
-||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
-||*.acrilicoporto.pt^$important
 ||*.act-connxion.co^$important
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
 ||*.ag8r8-iko-evzr-v1ndg-13-10-2026-aa.pages.dev^$important
-||*.ahsniper.org^$important
 ||*.aidlifempowerment.com^$important
 ||*.alarmline.com.br^$important
 ||*.alineeleuterio.com.br^$important
@@ -202,7 +197,6 @@
 ||*.app.mimisa.xyz^$important
 ||*.aragowahik.loseyourip.com^$important
 ||*.areyouready.co.za^$important
-||*.argon-client.com^$important
 ||*.atasapka.com.tr^$important
 ||*.audicontadores.com^$important
 ||*.autumn-sunset-301e.cloudrix.workers.dev^$important
@@ -225,19 +219,16 @@
 ||*.bluesoftsdocrks.com^$important
 ||*.bmdcompany.com^$important
 ||*.bnet-api.playm8ru.win^$important
-||*.bnet.playm8ru.win^$important
 ||*.bomobazi.abrdns.com^$important
 ||*.book.rollingvideogames.com^$important
 ||*.br3.whmonf.top^$important
 ||*.br3.workonea.top^$important
-||*.breezeclient.com^$important
 ||*.briannacorporation.com^$important
 ||*.bridgeroad.maverickpreviews.com^$important
 ||*.bserail.com^$important
 ||*.bumcoinc.site^$important
 ||*.burqani-mpt-zafqelo-p7d5ka83.pages.dev^$important
 ||*.bvmatqnam.com.vn^$important
-||*.c2.teamzeroday.net^$important
 ||*.cambodiatouristservice.com^$important
 ||*.cap-learn-livlgr-logn.pages.dev^$important
 ||*.casasmediterraneas.com^$important
@@ -250,16 +241,12 @@
 ||*.cdaonline.com.ar^$important
 ||*.cdd.omsules.life^$important
 ||*.cde.omsules.life^$important
-||*.cdn.file6.goodid.com^$important
 ||*.celebratingseniors.net^$important
 ||*.center-feature-update-hu658.vercel.app^$important
-||*.cepde.org^$important
 ||*.cfznt-2ny-gxkm-68thqs-57ry.pages.dev^$important
 ||*.chantcompass9.com^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.check.checkandbalancefirm.top^$important
-||*.checkfivem.com^$important
-||*.cheetoclient.com^$important
 ||*.cheminees-philippe45.com^$important
 ||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
@@ -362,15 +349,12 @@
 ||*.filerit.com^$important
 ||*.filezilla.cc^$important
 ||*.first-security-verden.de^$important
-||*.floppaclient.com^$important
-||*.floppaclient.org^$important
 ||*.flybuysmember.netlify.app^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.folepipor.giize.com^$important
 ||*.forge-ridge.com^$important
 ||*.ftp.vietnam852.com^$important
-||*.fucktermedfir.st^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.furniture-guru.sunriselawgroups.com^$important
@@ -382,6 +366,7 @@
 ||*.gedivan.duckdns.org^$important
 ||*.geoperilfestbercktyilo.s3.us-central-1.ionoscloud.com^$important
 ||*.geoxsecurity.ro^$important
+||*.gestroom.it^$important
 ||*.getoutofthebackseat.com^$important
 ||*.gfvsa-9y2-ntxb-xik1p-30-09-2026-hh.pages.dev^$important
 ||*.ghost-new-live.ink^$important
@@ -411,6 +396,7 @@
 ||*.hoo-8zn-0b4k-nes-ixwq-7yfyeh.pages.dev^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.https--www--roblox.com^$important
 ||*.humectaseis.com.tr^$important
 ||*.ibidasjohnnraplc.com^$important
@@ -424,7 +410,6 @@
 ||*.incredible-sopapillas-00794b.netlify.app^$important
 ||*.inova-lab.com^$important
 ||*.instalgram.vercel.app^$important
-||*.invmove.com^$important
 ||*.ip7gs-njt-zwea-0re7c-30-09-2026-hh.pages.dev^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
@@ -432,7 +417,6 @@
 ||*.itssprout.com^$important
 ||*.java.omsules.life^$important
 ||*.javb.omsules.life^$important
-||*.jawaratekno.com^$important
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jijipiju.onthewifi.com^$important
@@ -467,7 +451,6 @@
 ||*.lomejordesalamanca.es^$important
 ||*.loop-lumen.com^$important
 ||*.luizmatoso.com.br^$important
-||*.luminexclient.com^$important
 ||*.luminouspower.com.pk^$important
 ||*.m.dtwyiqnl9ods.com^$important
 ||*.m.jkoa.co.kr^$important
@@ -475,7 +458,6 @@
 ||*.maidforyou1985.com^$important
 ||*.makemewin.club^$important
 ||*.malupieng.com.br^$important
-||*.mandarin.net.au^$important
 ||*.maple30.com^$important
 ||*.marzaro-mpt-vufqeni-k8x4pe83.pages.dev^$important
 ||*.mastersheetmetalinc.sunriselawgroups.com^$important
@@ -484,7 +466,6 @@
 ||*.metamask-docs-ldkp21iks-consensys-ddffed67.vercel.app^$important
 ||*.meteorclients.com^$important
 ||*.meteorrejects.net^$important
-||*.metrics.gocloudmaps.com^$important
 ||*.mibd.org^$important
 ||*.mihiso.ipv64.de^$important
 ||*.miriamgualda.com.br^$important
@@ -500,7 +481,6 @@
 ||*.munihuacho.gob.pe^$important
 ||*.mvdcy4158lk-sxfzkpli-8eg51d-mvd92c.pages.dev^$important
 ||*.mvrql29ybf-kxztp51wjs-6c4d1e-zd814b.pages.dev^$important
-||*.mx9x.com^$important
 ||*.mysura.it^$important
 ||*.n.vs108.com^$important
 ||*.nbsde-21j-ikt9-z8p92-02-10-2026-aa.pages.dev^$important
@@ -513,10 +493,8 @@
 ||*.noithaticon.vn^$important
 ||*.nooruzzeyan-creator.github.io^$important
 ||*.novagames.cc^$important
-||*.nusatoyota.co.id^$important
 ||*.obearo.com^$important
 ||*.ocadecanoj.cloud-ip.cc^$important
-||*.odinclient.st^$important
 ||*.offer-rfp.sunriselawgroups.com^$important
 ||*.ohigum.abrdns.com^$important
 ||*.ojang.pe.kr^$important
@@ -527,12 +505,10 @@
 ||*.onl1ne-whatsapp.pages.dev^$important
 ||*.onlocity.com^$important
 ||*.opaguves.dyn-ip24.de^$important
-||*.opsecmod.st^$important
 ||*.oruvisese.ipv64.net^$important
 ||*.oslih-n9q-ej5s-5xbam-29-09-2026-hh.pages.dev^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
-||*.palharesinformatica.com.br^$important
 ||*.pay-pal-omega.vercel.app^$important
 ||*.pay.aqiu6.com^$important
 ||*.paziduc.duckdns.org^$important
@@ -541,13 +517,11 @@
 ||*.pfatrivandrum.org^$important
 ||*.photolivebook.pro^$important
 ||*.playful-bluetebeneficia.netlify.app^$important
-||*.polarclient.net^$important
 ||*.polinex.org^$important
 ||*.portalonlinedaweb.com^$important
 ||*.porterneuman.mx^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
-||*.prestigeclient.st^$important
 ||*.pro-help-suite-cdn.typedream.app^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.project0.cc^$important
@@ -564,7 +538,6 @@
 ||*.qs0c7-03k-zgl5-ev3g7-23-09-2026-aa.pages.dev^$important
 ||*.quillchant14.com^$important
 ||*.quosqzrvex.cfd^$important
-||*.rabbids.cc^$important
 ||*.ramirex.ro^$important
 ||*.razao.pt^$important
 ||*.rcf.co.mz^$important
@@ -627,7 +600,6 @@
 ||*.soft.110route.com^$important
 ||*.software.security-analyze.ltd^$important
 ||*.solicita-ya.vercel.app^$important
-||*.somautomotivorj.com.br^$important
 ||*.sonycash.com^$important
 ||*.soydanielc.github.io^$important
 ||*.sp.negrrwe.info^$important
@@ -686,10 +658,10 @@
 ||*.star.zcnet.net^$important
 ||*.start-en-ledger-e-n.typedream.app^$important
 ||*.stat.bestcompliance.net^$important
+||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
-||*.stellaspicy.org^$important
 ||*.stickersapp.vercel.app^$important
 ||*.streammobs.com^$important
 ||*.strong-crisp-e17e60.netlify.app^$important
@@ -709,7 +681,6 @@
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
 ||*.tartaklegnica.pl^$important
-||*.taunahi.st^$important
 ||*.tavqula-kxt-melravi-c9t5hp34.pages.dev^$important
 ||*.tchhnxn.com^$important
 ||*.tecunonline.com^$important
@@ -752,7 +723,6 @@
 ||*.us07-web-zoom.us^$important
 ||*.uu.v2raynapps.com.cn^$important
 ||*.vapedragonsquad.co.za^$important
-||*.vdsina.vg^$important
 ||*.venqelo-mpt-zurvani-h5d8ka63.pages.dev^$important
 ||*.veryboys.com^$important
 ||*.visam.info^$important
@@ -767,6 +737,7 @@
 ||*.vurnazi-mpt-felqaro-p7d4ka83.pages.dev^$important
 ||*.w.zhzy999.net^$important
 ||*.w5ueh-6cz-3lbk-xg9ow-13-10-2026-aa.pages.dev^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.whatdom.icu^$important
 ||*.whimsical-licorice-17cae4.netlify.app^$important
@@ -800,7 +771,6 @@
 ||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
-||*.www.hseda.com^$important
 ||*.www.intelligradeeducation.vicentecisnerospub.com^$important
 ||*.www.jozefinskiatelje.si^$important
 ||*.www.kenwillzltd.com^$important
@@ -844,6 +814,7 @@
 ||*.www.xn--on3b15m2lco2u.com^$important
 ||*.www.xxxffinittycccommmccast.weebly.com^$important
 ||*.www.zamilgroups.com^$important
+||*.www.zhikey.com^$important
 ||*.wxrp.vercel.app^$important
 ||*.x49ap-xrg-v1zg-18txy-30-09-2026-hh.pages.dev^$important
 ||*.xelfuro-mpt-zunqani-k8x5pe76.pages.dev^$important
