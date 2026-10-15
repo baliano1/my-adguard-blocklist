@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-15 20:53:32
+! Ultimo aggiornamento automatico: 2026-10-15 23:31:08
 ||*.0643412b.pinit.eth.limo^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -234,7 +234,6 @@
 ||*.burfaro-mpt-zunqeli-p4d7ka82.pages.dev^$important
 ||*.burmelo-mpt-vazqaro-p6d4ka83.pages.dev^$important
 ||*.burqani-mpt-felzavo-p5d9ka84.pages.dev^$important
-||*.buruujtech.com^$important
 ||*.burzuri-mpt-qafleni-k5x8pe97.pages.dev^$important
 ||*.buzqari-mpt-felvuno-p4d9ka86.pages.dev^$important
 ||*.bvmatqnam.com.vn^$important
@@ -472,6 +471,7 @@
 ||*.mkconstructions.net^$important
 ||*.mnurlogistics.az^$important
 ||*.mobiletoolapp.com^$important
+||*.mockupcorporation.com^$important
 ||*.mogimall.com^$important
 ||*.moonlit-horse-8b9a8d.netlify.app^$important
 ||*.morlavi-kxt-belfeta-c8x1fc95.pages.dev^$important
@@ -510,12 +510,12 @@
 ||*.oknoplastik.sk^$important
 ||*.okns29-hbk14.vercel.app^$important
 ||*.oluwadarasimi128.github.io^$important
+||*.onfiltre.com.tr^$important
 ||*.onlocity.com^$important
 ||*.opsecmod.st^$important
 ||*.ornate-alfajores-8b7080.netlify.app^$important
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
-||*.paidinsunshine.com^$important
 ||*.paket-packchen.pages.dev^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -530,7 +530,6 @@
 ||*.polinex.org^$important
 ||*.polinexclient.org^$important
 ||*.porterneuman.mx^$important
-||*.pos.nittosupport.ca^$important
 ||*.postelnini.mk^$important
 ||*.preciosasjoyitas.com.mx^$important
 ||*.prestigeclient.st^$important
@@ -551,7 +550,6 @@
 ||*.qorzami-kxt-zelquro-p6t5hq393.pages.dev^$important
 ||*.qs4l-380o-rec8-xdh-ayj-szs3du.pages.dev^$important
 ||*.quillchant14.com^$important
-||*.ramirex.ro^$important
 ||*.raqmnh.com^$important
 ||*.rcf.co.mz^$important
 ||*.rdm.91yunma.cn^$important
@@ -590,7 +588,6 @@
 ||*.seputartuban.com^$important
 ||*.sfg87-mut-uewb-z6e29-01-10-2026-hh.pages.dev^$important
 ||*.sg123.net^$important
-||*.sgskolkata.com^$important
 ||*.sharemyhtml.com^$important
 ||*.shopee8268.blogspot.com^$important
 ||*.shopeetbk979.blogspot.com^$important
@@ -677,6 +674,7 @@
 ||*.srimanth999.github.io^$important
 ||*.srrealestate.techzonecam.com^$important
 ||*.srsorvete.com.br^$important
+||*.stanarcservice.com^$important
 ||*.star.zcnet.net^$important
 ||*.stat.bestcompliance.net^$important
 ||*.static.ilclock.com^$important
@@ -799,6 +797,7 @@
 ||*.www.khavar.com^$important
 ||*.www.konsor.ru^$important
 ||*.www.ktg.carollinaromer.com^$important
+||*.www.laborpartyjo.com^$important
 ||*.www.medises.co.kr^$important
 ||*.www.mjddjdksjd.blogspot.com^$important
 ||*.www.myvcart.com^$important
