@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-16 13:43:16
+! Ultimo aggiornamento automatico: 2026-10-16 18:35:30
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
@@ -212,7 +212,6 @@
 ||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bexzuri-mpt-falqeno-k6x8pe21.pages.dev^$important
-||*.bigs.bikershop.biz^$important
 ||*.bitmmaertlogin.webflow.io^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
@@ -243,10 +242,12 @@
 ||*.cdaonline.com.ar^$important
 ||*.cdd.omsules.life^$important
 ||*.cde.omsules.life^$important
+||*.cdn.file6.goodid.com^$important
 ||*.cdt.omsules.life^$important
 ||*.cdw.omsules.life^$important
 ||*.cedih.com^$important
 ||*.celebratingseniors.net^$important
+||*.cepde.org^$important
 ||*.chantcompass9.com^$important
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
@@ -260,7 +261,6 @@
 ||*.clubdetiroelpicarcho.com^$important
 ||*.cn.unionlever.com^$important
 ||*.come.ac^$important
-||*.community.firm.in^$important
 ||*.compiled-knowledge-notes.268220008.workers.dev^$important
 ||*.compuserviceonline.com.br^$important
 ||*.cont17ct-davari-biz-kelor-vemna.pages.dev^$important
@@ -303,8 +303,8 @@
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
 ||*.delp-heizungsbau.de^$important
+||*.delta-canvas.com^$important
 ||*.dezcom.com^$important
-||*.dfd.zhzy999.net^$important
 ||*.dinamikakargo.com^$important
 ||*.dir.sonikjp.org^$important
 ||*.disk.accord1key.cn^$important
@@ -319,7 +319,6 @@
 ||*.donutsmpclient.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
-||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -328,15 +327,18 @@
 ||*.download.pdf00.com^$important
 ||*.dravelo-mpt-felzuni-c5d1me84.pages.dev^$important
 ||*.dravemi-kxt-farqela-c5x1dw76.pages.dev^$important
+||*.dreambot.info^$important
 ||*.dynga.pl^$important
 ||*.educacom.com.br^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.elmejorlocal.com.co^$important
 ||*.en-home-trezore.pages.dev^$important
 ||*.en-trezors-io-login.typedream.app^$important
 ||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
 ||*.escrowbank.co^$important
+||*.exec-roblox.info^$important
 ||*.f005.backblazeb2.com^$important
 ||*.fable-shine.com^$important
 ||*.fabrics.lahoreshoes.com^$important
@@ -350,7 +352,6 @@
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.floppaclient.com^$important
-||*.fluidfilm.bg^$important
 ||*.flyingmutts.com^$important
 ||*.fmrio.com^$important
 ||*.forge-ridge.com^$important
@@ -371,7 +372,6 @@
 ||*.ghost-new-live.ink^$important
 ||*.giftcode-10fest.iienquan-garena.com^$important
 ||*.globalbank.us^$important
-||*.gloryhaven.org^$important
 ||*.gnnkz-9yi-l2sl-0lwd3-01-10-2026-hh.pages.dev^$important
 ||*.gooeyspooon.co.uk^$important
 ||*.greatwhite.me^$important
@@ -381,6 +381,7 @@
 ||*.grupomcperu.com^$important
 ||*.gutando.com^$important
 ||*.gvb-n4omi1-q8mrj-ed3p-n2m.pages.dev^$important
+||*.harmeetmotors.com^$important
 ||*.hasalltalent.com^$important
 ||*.haven-post.com^$important
 ||*.help-contact-757643.vercel.app^$important
@@ -392,7 +393,6 @@
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
-||*.humasjatim.id^$important
 ||*.hwcps72jwr-mtvlj61rel-6j0i2g-zlk91w.pages.dev^$important
 ||*.hzx-rbx.blogspot.com^$important
 ||*.ibidasjohnnraplc.com^$important
@@ -401,7 +401,6 @@
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
 ||*.info-resmiid.blogspot.com^$important
-||*.intelli-sys.co.zw^$important
 ||*.internetmissouri.com^$important
 ||*.invmove.com^$important
 ||*.iostart-trezrioapps.framer.website^$important
@@ -425,7 +424,6 @@
 ||*.krause-fahrzeuge.de^$important
 ||*.kryptonclient-cracked.com^$important
 ||*.kucoinlognz.gitbook.io^$important
-||*.lahoreshoes.com^$important
 ||*.lalitjan13.github.io^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
@@ -462,6 +460,7 @@
 ||*.mavqelo-mpt-furzani-r6x9me82.pages.dev^$important
 ||*.mdborhanulislam8-af.github.io^$important
 ||*.medica-me.com^$important
+||*.medlinelab.com^$important
 ||*.melonandworld.top^$important
 ||*.melvingoodman7507.github.io^$important
 ||*.metamask-docs-4q672pqsp-consensys-ddffed67.vercel.app^$important
@@ -512,7 +511,6 @@
 ||*.norqumi-kxt-belfora-p2t6dc84.pages.dev^$important
 ||*.norzelo-mpt-felqavo-a1d9ka65.pages.dev^$important
 ||*.nova-client.com^$important
-||*.nusatoyota.co.id^$important
 ||*.obearo.com^$important
 ||*.odinclient.st^$important
 ||*.oim.doganltd.com.tr^$important
@@ -526,6 +524,7 @@
 ||*.outpost.co.ke^$important
 ||*.own5q-2he-19e5-d8bmi-01-10-2026-hh.pages.dev^$important
 ||*.p3.zbjimg.com^$important
+||*.palharesinformatica.com.br^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pesta-undian-shopee2023.blogspot.com^$important
@@ -675,7 +674,6 @@
 ||*.sp31ct-mureku-biz-zopli-danem.pages.dev^$important
 ||*.spaceware.cc^$important
 ||*.spotiy-clone.netlify.app^$important
-||*.srrealestate.techzonecam.com^$important
 ||*.srsorvete.com.br^$important
 ||*.stanarcservice.com^$important
 ||*.star.zcnet.net^$important
@@ -685,7 +683,6 @@
 ||*.stdown.dinju.com^$important
 ||*.steelstanleystaystrong.top^$important
 ||*.streammobs.com^$important
-||*.studiogioeli.it^$important
 ||*.sudariocontabilidade.com.br^$important
 ||*.sudo.uae-nesma.com^$important
 ||*.sugarfreedcup.co.za^$important
@@ -704,6 +701,7 @@
 ||*.tartaklegnica.pl^$important
 ||*.taunahi.st^$important
 ||*.tecunonline.com^$important
+||*.tehnomag.rs^$important
 ||*.tengfeidn.cn^$important
 ||*.tenis-team-km.com^$important
 ||*.test.peperoncinochepassione.it^$important
@@ -731,6 +729,7 @@
 ||*.transparenciacanaa.com.br^$important
 ||*.trezor-wallet-login.typedream.app^$important
 ||*.tribot.co.uk^$important
+||*.trtmyanmar.com^$important
 ||*.ttyfsdt.jimdofree.com^$important
 ||*.twitch.tj^$important
 ||*.twu-hwt.org^$important
@@ -759,9 +758,9 @@
 ||*.vormora-kxt-felrani-p6t4hq81.pages.dev^$important
 ||*.vormqelo-mpt-farzavo-c7x3me91.pages.dev^$important
 ||*.vrajras.com^$important
-||*.vtivision-fi.com^$important
 ||*.vwwv-roblox.co^$important
 ||*.w.zhzy999.net^$important
+||*.webcstore.pw^$important
 ||*.webmaillllll.weebly.com^$important
 ||*.website.mypetapp.co.za^$important
 ||*.wh-appvin.com^$important
@@ -798,7 +797,6 @@
 ||*.www.duelvalenza.it^$important
 ||*.www.elitecheatsx.live^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
