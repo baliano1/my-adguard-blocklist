@@ -162,12 +162,13 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-17 20:02:49
+! Ultimo aggiornamento automatico: 2026-10-17 22:51:29
 ||*.123.ywxww.net^$important
 ||*.146a2.casmex.at^$important
 ||*.155aes.senes.at^$important
 ||*.1717.1000uc.com^$important
 ||*.198-macros.com^$important
+||*.198macros.org^$important
 ||*.22qq-client.com^$important
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
@@ -305,6 +306,7 @@
 ||*.donutsmpclient.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -319,6 +321,7 @@
 ||*.ecuador-apple.help^$important
 ||*.eday.item.com.login.secured.karapapati.com^$important
 ||*.efkb69a-h16a.vercel.app^$important
+||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
 ||*.embedone.com^$important
 ||*.en-ledger-io-live.typedream.app^$important
@@ -327,6 +330,7 @@
 ||*.epstexsecutor.com^$important
 ||*.escrowbank.co^$important
 ||*.exec-roblox.info^$important
+||*.exo-api.tf^$important
 ||*.fable-shine.com^$important
 ||*.fakers.co.jp^$important
 ||*.familyaddons.com^$important
@@ -723,6 +727,7 @@
 ||*.wittenhorst.eu^$important
 ||*.ww.menara5d.net^$important
 ||*.www-applid-cloud-buscar.us^$important
+||*.www-connect-secure-wellcfargo.sekolahkejarpaket.com^$important
 ||*.www.2goelectricity.cloud^$important
 ||*.www.ardguisser.com^$important
 ||*.www.astenterprises.com.pk^$important
