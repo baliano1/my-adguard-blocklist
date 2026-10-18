@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-18 17:46:47
+! Ultimo aggiornamento automatico: 2026-10-18 20:02:31
 ||*.0aj-23x92-ovp6-32k4-9fn5c.pages.dev^$important
 ||*.0bzy48-d2wkgv-ol8-2ou6p6.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -337,6 +337,7 @@
 ||*.e3ardi-pv1w-k82-8f4v-3bepm.pages.dev^$important
 ||*.electri.billregulator.com^$important
 ||*.elisans.novayonetim.com^$important
+||*.embedone.com^$important
 ||*.en.taichuan.com^$important
 ||*.epanpano.com^$important
 ||*.epstexsecutor.com^$important
@@ -400,6 +401,7 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hmvgx7-drab-oa9z-j0b-trwtwi.pages.dev^$important
+||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
@@ -860,6 +862,7 @@
 ||*.youtransfer.net^$important
 ||*.z000000000000910827839474939737353282r36374538252737hee537g3720.882028364740474749474749474.com^$important
 ||*.zaltiel.com.do^$important
+||*.zamatours.net^$important
 ||*.zamilgroups.com^$important
 ||*.zavmelo-kxt-lenqumi-r8t2fw65.pages.dev^$important
 ||*.zbc.zfs.mybluehost.me^$important
