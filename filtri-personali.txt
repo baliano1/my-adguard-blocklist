@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-18 02:53:35
+! Ultimo aggiornamento automatico: 2026-10-18 07:44:20
 ||*.07znq-cs0-vli5-33rlr-14-10-2026-aa.pages.dev^$important
 ||*.123.ywxww.net^$important
 ||*.1717.1000uc.com^$important
@@ -198,6 +198,7 @@
 ||*.alternativas.ru^$important
 ||*.animated-dieffenbachia-121da5.netlify.app^$important
 ||*.aog777.agency^$important
+||*.api.recapcha.fun^$important
 ||*.app-mhra-ctsam-prod-uks-fe.azurewebsites.net^$important
 ||*.app.appzcvb.com^$important
 ||*.appl-specialist-ios.us^$important
@@ -249,6 +250,7 @@
 ||*.cde.monther.life^$important
 ||*.cdn.file6.goodid.com^$important
 ||*.cdn.monther.life^$important
+||*.cdn.wovplaying.help^$important
 ||*.celebratingseniors.net^$important
 ||*.chantcompass9.com^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -307,6 +309,7 @@
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
 ||*.donkeytourscroatia.com^$important
+||*.donutbasefinder.com^$important
 ||*.donutclients.st^$important
 ||*.donutdupe.com^$important
 ||*.donutsmpclient.com^$important
@@ -346,7 +349,6 @@
 ||*.fcid-findmy-phonelost.us^$important
 ||*.fcid-loginfindmy-phone.us^$important
 ||*.fd.v2downf.shop^$important
-||*.fdstat.vip^$important
 ||*.file.blackint3.com^$important
 ||*.file.uhsea.com^$important
 ||*.filerit.com^$important
@@ -363,6 +365,7 @@
 ||*.fucktermedfir.st^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
+||*.funnymap.net^$important
 ||*.fz.tiansys.cn^$important
 ||*.g5.lu^$important
 ||*.g6zte-13s-jeen-7ox4o-15-10-2026-aa.pages.dev^$important
@@ -392,8 +395,10 @@
 ||*.helpdesk09-26.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.ibidasjohnnraplc.com^$important
 ||*.icloud-lphone-localizado.us^$important
 ||*.icoffeecloud.com^$important
@@ -402,6 +407,7 @@
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
 ||*.imtokeniee.com^$important
+||*.intelli-sys.co.zw^$important
 ||*.intokken.com^$important
 ||*.invmove.com^$important
 ||*.iphone-localizable-off.us^$important
@@ -420,7 +426,6 @@
 ||*.kcinnloggn.webflow.io^$important
 ||*.khavar.com^$important
 ||*.kimyen.net^$important
-||*.kis.marketing^$important
 ||*.klickperle.click^$important
 ||*.konsor.ru^$important
 ||*.krause-fahrzeuge.de^$important
@@ -440,6 +445,7 @@
 ||*.londonairportstransfer.co.uk^$important
 ||*.lple-findy-ios.us^$important
 ||*.luizmatoso.com.br^$important
+||*.lumacrea.com^$important
 ||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
@@ -449,7 +455,6 @@
 ||*.maidforyou1985.com^$important
 ||*.makemewin.club^$important
 ||*.malupieng.com.br^$important
-||*.mandarin.net.au^$important
 ||*.maple30.com^$important
 ||*.marlowclient.com^$important
 ||*.marneta-zxt-morqumi-p4t9hq52.pages.dev^$important
@@ -517,6 +522,7 @@
 ||*.oopz.app^$important
 ||*.opsecmod.st^$important
 ||*.outpost.co.ke^$important
+||*.p-i-s-e.fr^$important
 ||*.p3.zbjimg.com^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -583,6 +589,7 @@
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
+||*.scrroeder.com^$important
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
@@ -592,7 +599,6 @@
 ||*.semencepourlavie.org^$important
 ||*.sendusdt-usd.vercel.app^$important
 ||*.sep.dailytechinsight.com^$important
-||*.seputartuban.com^$important
 ||*.sg123.net^$important
 ||*.shiny-frangipane-8e8943.netlify.app^$important
 ||*.shopee5289.blogspot.com^$important
@@ -752,6 +758,7 @@
 ||*.vrajras.com^$important
 ||*.vtivision-fi.com^$important
 ||*.w.zhzy999.net^$important
+||*.webcstore.pw^$important
 ||*.website.mypetapp.co.za^$important
 ||*.widexenmexico.com.mx^$important
 ||*.wielixclient.com^$important
