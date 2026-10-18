@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-18 20:02:31
+! Ultimo aggiornamento automatico: 2026-10-18 22:43:47
 ||*.0aj-23x92-ovp6-32k4-9fn5c.pages.dev^$important
 ||*.0bzy48-d2wkgv-ol8-2ou6p6.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -589,7 +589,6 @@
 ||*.sec.dashabi.in^$important
 ||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
-||*.security-analyze.ltd^$important
 ||*.seismophonic.com^$important
 ||*.semencepourlavie.org^$important
 ||*.sep.dailytechinsight.com^$important
