@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-18 12:57:14
+! Ultimo aggiornamento automatico: 2026-10-18 17:46:47
 ||*.0aj-23x92-ovp6-32k4-9fn5c.pages.dev^$important
 ||*.0bzy48-d2wkgv-ol8-2ou6p6.pages.dev^$important
 ||*.123.ywxww.net^$important
@@ -175,6 +175,7 @@
 ||*.3.zhzy999.net^$important
 ||*.3.zhzy999.net3.zhzy999.net^$important
 ||*.31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net^$important
+||*.3brosstore.com^$important
 ||*.3f03c-1g65-z74yv-dd49-cksfsd.pages.dev^$important
 ||*.4eclient.com^$important
 ||*.5bte-5n6-t81h0-23xm0k-4b5rwy.pages.dev^$important
@@ -257,6 +258,7 @@
 ||*.cdn.file6.goodid.com^$important
 ||*.cdn.monther.life^$important
 ||*.celebratingseniors.net^$important
+||*.cepde.org^$important
 ||*.cerropai.click^$important
 ||*.chantcompass9.com^$important
 ||*.chat-server.maverickpreviews.com^$important
@@ -398,7 +400,6 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hmvgx7-drab-oa9z-j0b-trwtwi.pages.dev^$important
-||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
@@ -504,7 +505,6 @@
 ||*.norquni-kxt-belorun-a4x5hq79.pages.dev^$important
 ||*.nova-75.com^$important
 ||*.nova-client.com^$important
-||*.nusatoyota.co.id^$important
 ||*.nyh-d6o-lnws-mhqj79-xf8nh.pages.dev^$important
 ||*.obearo.com^$important
 ||*.odinclient.st^$important
@@ -518,6 +518,7 @@
 ||*.outpost.co.ke^$important
 ||*.p-i-s-e.fr^$important
 ||*.p3.zbjimg.com^$important
+||*.palharesinformatica.com.br^$important
 ||*.panel.6836501.com^$important
 ||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
@@ -691,6 +692,7 @@
 ||*.static.youdm.cn^$important
 ||*.stdown.dinju.com^$important
 ||*.stone15-nest.pages.dev^$important
+||*.streammobs.com^$important
 ||*.sugarfreedcup.co.za^$important
 ||*.suite-app-docs-trezr.typedream.app^$important
 ||*.support-paypul.top^$important
