@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-19 03:06:44
+! Ultimo aggiornamento automatico: 2026-10-19 12:00:55
 ||*.0ylfud-1m3p-gdsjt-cm6yw-fmd.pages.dev^$important
 ||*.123.ywxww.net^$important
 ||*.145yz-8wbb-fly6n4-jvh8-0kuk.pages.dev^$important
@@ -227,6 +227,7 @@
 ||*.beak.in^$important
 ||*.belzavi-mpt-qorfelo-a8x5me37.pages.dev^$important
 ||*.beoauto.alexion.rs^$important
+||*.betmagik.com^$important
 ||*.bhaveshg89.github.io^$important
 ||*.blankeyeo.com^$important
 ||*.blessdayservices.org^$important
@@ -260,7 +261,6 @@
 ||*.chat-server.maverickpreviews.com^$important
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
-||*.chiroartist.com^$important
 ||*.chuguadventures.co.tz^$important
 ||*.cid.gov.so^$important
 ||*.cl.ssouy.com^$important
@@ -273,7 +273,6 @@
 ||*.continentalgroup.net.in^$important
 ||*.coolairesgroup.com^$important
 ||*.cpc188.day^$important
-||*.cpxlt.cn^$important
 ||*.creditonacionaldeecuador--credinacionalec.replit.app^$important
 ||*.cru5m-u9ma26-4dq-ik3o3k-jovf.pages.dev^$important
 ||*.cryptoo--web-logg.gitbook.io^$important
@@ -318,7 +317,7 @@
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
 ||*.download.pdf00.com^$important
-||*.dreambot.info^$important
+||*.download.vertex-software.digital^$important
 ||*.dt3525.craftum.io^$important
 ||*.dynga.pl^$important
 ||*.e0olev-f9ts48-9nf8qj-iz4yj.pages.dev^$important
@@ -360,6 +359,7 @@
 ||*.fz.tiansys.cn^$important
 ||*.g4sjm-49p-jyss45-xyk5l-hnn.pages.dev^$important
 ||*.g5.lu^$important
+||*.gabyagozetim.com^$important
 ||*.galerisenimutiara.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.gentle-cat-8faf10.netlify.app^$important
@@ -393,7 +393,6 @@
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
 ||*.hmvgx7-drab-oa9z-j0b-trwtwi.pages.dev^$important
-||*.horno-rafelet.es^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
 ||*.htdentshop.com^$important
@@ -418,6 +417,7 @@
 ||*.jenniferloeffler.com^$important
 ||*.jessespridecharters.com^$important
 ||*.jlwz.cn^$important
+||*.jumalputty.com^$important
 ||*.k4unf1-g6xqs-68a2vw-88i-6d6.pages.dev^$important
 ||*.kavacanada.ca^$important
 ||*.kemalkucukmail2-sudo.github.io^$important
@@ -431,6 +431,7 @@
 ||*.lagerhaus-freising.de^$important
 ||*.landonirwin.com^$important
 ||*.lawfirm.paperbirdtech.com^$important
+||*.leafdraft18.com^$important
 ||*.learn-ledgerlive-es-en.pages.dev^$important
 ||*.learn-tressorsuitee.gitbook.io^$important
 ||*.ledgerlive-ask.pages.dev^$important
@@ -447,7 +448,6 @@
 ||*.lorzema-kxt-zemveta-r9t2hk41.pages.dev^$important
 ||*.ltv0-debg47-bcisxi-j8yg-6syn.pages.dev^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
@@ -500,6 +500,7 @@
 ||*.nd.tdpqnf.com^$important
 ||*.nlink.at^$important
 ||*.noithaticon.vn^$important
+||*.northernvirginiaeyeassociates.com^$important
 ||*.nova-75.com^$important
 ||*.nova-client.com^$important
 ||*.nyh-d6o-lnws-mhqj79-xf8nh.pages.dev^$important
@@ -527,10 +528,12 @@
 ||*.polinexclient.org^$important
 ||*.porterneuman.mx^$important
 ||*.postelnini.mk^$important
+||*.power-shell.cc^$important
 ||*.pqv3-sab2-terztv-5v5-uff.pages.dev^$important
 ||*.prestigeclient.st^$important
 ||*.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^$important
 ||*.project0.cc^$important
+||*.ps-ps.cc^$important
 ||*.ptm-6tyn-3r4qf-ranm-yqzp.pages.dev^$important
 ||*.public.demo.securecloudsandbox.com^$important
 ||*.pvsa.gxfugy.cn^$important
@@ -565,6 +568,7 @@
 ||*.robloxc.com.es^$important
 ||*.royalindiancurryclub.com^$important
 ||*.rss2.sayler.at^$important
+||*.runelight.net^$important
 ||*.runelite.cc^$important
 ||*.s43vik-kxby-gq0-o7qth6-pevv3.pages.dev^$important
 ||*.s4w.in^$important
@@ -682,7 +686,6 @@
 ||*.svirtual.sanviatorperu.edu.pe^$important
 ||*.swiftfusion.tech^$important
 ||*.sys-odbt-p0n-jtb3-uut6-7h1.pages.dev^$important
-||*.talkandtypeapp.com^$important
 ||*.tangentwaves.com^$important
 ||*.tanscarattorneys.co.tz^$important
 ||*.tapestryoftruth.com^$important
@@ -734,6 +737,7 @@
 ||*.veryboys.com^$important
 ||*.viewgit.sbs^$important
 ||*.vigya-29.github.io^$important
+||*.vine-linen.com^$important
 ||*.visam.info^$important
 ||*.vizyonuniversitesi.com.tr^$important
 ||*.vizyonuniversitesi.web.tr^$important
@@ -771,7 +775,6 @@
 ||*.www.drgenov.com^$important
 ||*.www.duelvalenza.it^$important
 ||*.www.first-security-verden.de^$important
-||*.www.gestroom.it^$important
 ||*.www.hostingcloud.science^$important
 ||*.www.hqsblog.com^$important
 ||*.www.hseda.com^$important
@@ -842,7 +845,6 @@
 ||*.yhaeastbourne.hostel.town^$important
 ||*.yhk2-scuy4-a6owg1-lfx4ni.pages.dev^$important
 ||*.yn2g3-yw9kr-12x6p7-4c1z6n.pages.dev^$important
-||*.yokobd.com^$important
 ||*.youtransfer.net^$important
 ||*.zafqani-mpt-vulxero-r7d3ka95.pages.dev^$important
 ||*.zamatours.net^$important
@@ -852,6 +854,7 @@
 ||*.zenin.cc^$important
 ||*.zermani-kxt-borquro-a7x4fc18.pages.dev^$important
 ||*.zhigao5191.com^$important
+||*.zimzar.site^$important
 ||*.zo0-go8cf-a1v-hfjqnq-hxtf02.pages.dev^$important
 ||*.zormexa-kxt-borqumi-a5x9hk71.pages.dev^$important
 ||*.zycdjz.com^$important
