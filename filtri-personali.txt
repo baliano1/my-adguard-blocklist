@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-20 18:52:42
+! Ultimo aggiornamento automatico: 2026-10-20 23:36:03
 ||*.1-x-bet-india.com^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -186,8 +186,10 @@
 ||*.ab05o.tenant-data.help^$important
 ||*.acc.jiangsujiaxue.com^$important
 ||*.acms.saleseos.com^$important
+||*.acrilicoporto.pt^$important
 ||*.adbpdfnewdocsfilesxsyomnarsmzx.pages.dev^$important
 ||*.adcentral.com.mx^$important
+||*.adiyamancamkornis.com.tr^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
 ||*.aftelecom.com.br^$important
@@ -196,7 +198,6 @@
 ||*.alie.kr^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
-||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amex.thisisjustasite.club^$important
 ||*.anubisclient.co.uk^$important
@@ -217,7 +218,6 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bankruptcyrhodeisland.com^$important
 ||*.bcfxs8821l-dzkpmplx-6k3k0g-rt925p.pages.dev^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.berzora-kxt-farveta-r1t7hk68-erl.pages.dev^$important
 ||*.bet63yyy.com^$important
@@ -250,7 +250,6 @@
 ||*.catbaparadisehotel.com.vn^$important
 ||*.cdaonline.com.ar^$important
 ||*.cdk.monther.life^$important
-||*.cdn.file6.goodid.com^$important
 ||*.cdn.wovplaying.help^$important
 ||*.celebratingseniors.net^$important
 ||*.celoechaore.pages.dev^$important
@@ -316,7 +315,6 @@
 ||*.domainmob.com^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donutbasefinder.com^$important
-||*.donutclients.top^$important
 ||*.donutsmpclient.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
@@ -346,7 +344,6 @@
 ||*.facebook-2025.blogspot.com^$important
 ||*.facebook-verification-system5.blogspot.com^$important
 ||*.facebook.arogyayogshala.com^$important
-||*.faceit.syncacc.pro^$important
 ||*.fakers.co.jp^$important
 ||*.familyaddons.com^$important
 ||*.familyaddons.org^$important
@@ -358,12 +355,10 @@
 ||*.fatima-hanif-2108.github.io^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.first-security-verden.de^$important
 ||*.floppaclient.com^$important
 ||*.flyingmutts.com^$important
-||*.fmrio.com^$important
 ||*.frame-kite.com^$important
 ||*.frame97.com^$important
 ||*.frinvoiceadsmanager.vercel.app^$important
@@ -387,6 +382,7 @@
 ||*.glittering-moxie-783c0b.netlify.app^$important
 ||*.globalbank.us^$important
 ||*.gnb50-xv3-nbe4-fnl3z-24-09-2026-hh.pages.dev^$important
+||*.gobiotechpestcontrol.com^$important
 ||*.greatwhite.me^$important
 ||*.greenf.alexion.rs^$important
 ||*.griffcar.com.br^$important
@@ -409,6 +405,7 @@
 ||*.hotelhautbuyeg.click^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
+||*.htdentshop.com^$important
 ||*.ibidasjohnnraplc.com^$important
 ||*.ibt.dhlevripremium.com^$important
 ||*.icoffeecloud.com^$important
@@ -416,7 +413,6 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
-||*.innovspora.co.zw^$important
 ||*.instagram-clone-kappa-eosin.vercel.app^$important
 ||*.instagramincreasefollowers.blogspot.com^$important
 ||*.insurancewave.in^$important
@@ -462,7 +458,6 @@
 ||*.login.my.gov.au-taxpayer2026.de5.net^$important
 ||*.loginnorang.vercel.app^$important
 ||*.lomejordesalamanca.es^$important
-||*.londonairportstransfer.co.uk^$important
 ||*.lpg-ledger.pages.dev^$important
 ||*.luizmatoso.com.br^$important
 ||*.lumanescence.github.io^$important
@@ -475,8 +470,6 @@
 ||*.mail.goldserving-incorporation.us^$important
 ||*.mailosite.flazio.online^$important
 ||*.makemewin.club^$important
-||*.malupieng.com.br^$important
-||*.mandarin.net.au^$important
 ||*.manvi-webdev15.github.io^$important
 ||*.maple30.com^$important
 ||*.marlowclient.com^$important
@@ -502,6 +495,7 @@
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
 ||*.monj577.github.io^$important
+||*.msedge.vg^$important
 ||*.msolutionbd.com^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
@@ -529,6 +523,7 @@
 ||*.nusatoyota.co.id^$important
 ||*.obearo.com^$important
 ||*.odinclient.st^$important
+||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -538,7 +533,7 @@
 ||*.outpost.co.ke^$important
 ||*.p3.zbjimg.com^$important
 ||*.page-status-help.vercel.app^$important
-||*.palharesinformatica.com.br^$important
+||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pdfonline.authofflog.com^$important
 ||*.pee-files.nl^$important
@@ -569,7 +564,6 @@
 ||*.qelvora-kxt-farqumi-p1t8dw43.pages.dev^$important
 ||*.qernavi-kxt-belmora-p5t9fc84.pages.dev^$important
 ||*.qiniuyunxz.yxflzs.com^$important
-||*.quillchant14.com^$important
 ||*.qwbrm08qtw-sxfzk117nx-3d5e7e-th621a.pages.dev^$important
 ||*.qwbrm64x-mvdcy29zfn-4g1b-thk63k.pages.dev^$important
 ||*.r.oblox.com.et^$important
@@ -613,7 +607,6 @@
 ||*.screenconnect.pro^$important
 ||*.scrroeder.com^$important
 ||*.sec.dashabi.in^$important
-||*.sec.xiaojiji.nl^$important
 ||*.sec.xiaoshabi.nl^$important
 ||*.secure-ledger-livedownload.pages.dev^$important
 ||*.security-server-landing-page--koko4work71.replit.app^$important
@@ -642,7 +635,6 @@
 ||*.sk-comtel.com^$important
 ||*.sky.money.irish^$important
 ||*.skyblock-addons.com^$important
-||*.skyvault.help^$important
 ||*.smartermail.host^$important
 ||*.soft.110route.com^$important
 ||*.sp10ct-vurem-biz8-falek-dozin.pages.dev^$important
