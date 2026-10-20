@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-20 14:04:05
+! Ultimo aggiornamento automatico: 2026-10-20 18:52:42
 ||*.1-x-bet-india.com^$important
 ||*.123.ywxww.net^$important
 ||*.135461223.site^$important
@@ -190,13 +190,13 @@
 ||*.adcentral.com.mx^$important
 ||*.admin.byte.in.ua^$important
 ||*.admin.gestroom.it^$important
-||*.adubuildersco.com^$important
 ||*.aftelecom.com.br^$important
 ||*.aidlifempowerment.com^$important
 ||*.alarmline.com.br^$important
 ||*.alie.kr^$important
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
+||*.altamoorgoods.com^$important
 ||*.alternativas.ru^$important
 ||*.amex.thisisjustasite.club^$important
 ||*.anubisclient.co.uk^$important
@@ -261,7 +261,6 @@
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
 ||*.chuguadventures.co.tz^$important
-||*.cid.gov.so^$important
 ||*.cj333471.tw1.ru^$important
 ||*.cl.ssouy.com^$important
 ||*.clinicadeolhosuchoa.com.br^$important
@@ -317,9 +316,11 @@
 ||*.domainmob.com^$important
 ||*.donkeytourscroatia.com^$important
 ||*.donutbasefinder.com^$important
+||*.donutclients.top^$important
 ||*.donutsmpclient.com^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
 ||*.download.haozip.com^$important
@@ -345,6 +346,7 @@
 ||*.facebook-2025.blogspot.com^$important
 ||*.facebook-verification-system5.blogspot.com^$important
 ||*.facebook.arogyayogshala.com^$important
+||*.faceit.syncacc.pro^$important
 ||*.fakers.co.jp^$important
 ||*.familyaddons.com^$important
 ||*.familyaddons.org^$important
@@ -367,6 +369,7 @@
 ||*.frinvoiceadsmanager.vercel.app^$important
 ||*.ftp.vietnam852.com^$important
 ||*.ftsdrci.ca^$important
+||*.fucktermedfir.st^$important
 ||*.fukt.link^$important
 ||*.fullstacknir.com^$important
 ||*.funnymap.net^$important
@@ -401,12 +404,11 @@
 ||*.hernunspnc.github.io^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.hobobot.net^$important
 ||*.home.fedexsuppoter.org^$important
-||*.horno-rafelet.es^$important
 ||*.hotelhautbuyeg.click^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
-||*.htdentshop.com^$important
 ||*.ibidasjohnnraplc.com^$important
 ||*.ibt.dhlevripremium.com^$important
 ||*.icoffeecloud.com^$important
@@ -414,9 +416,11 @@
 ||*.ignetwork.us^$important
 ||*.igra123.com^$important
 ||*.impectorinternational.com^$important
+||*.innovspora.co.zw^$important
 ||*.instagram-clone-kappa-eosin.vercel.app^$important
 ||*.instagramincreasefollowers.blogspot.com^$important
 ||*.insurancewave.in^$important
+||*.intelli-sys.co.zw^$important
 ||*.invmove.com^$important
 ||*.ircftp.net^$important
 ||*.isiore.com.co^$important
@@ -535,7 +539,6 @@
 ||*.p3.zbjimg.com^$important
 ||*.page-status-help.vercel.app^$important
 ||*.palharesinformatica.com.br^$important
-||*.pay.aqiu6.com^$important
 ||*.pcupd.com^$important
 ||*.pdfonline.authofflog.com^$important
 ||*.pee-files.nl^$important
@@ -729,6 +732,7 @@
 ||*.tolu-15.github.io^$important
 ||*.toolshare.com.tr^$important
 ||*.top8onlinegame.com^$important
+||*.tpp.om-stock.com^$important
 ||*.tr.zhzy999.net^$important
 ||*.transcript.cantonpolicyreview.network^$important
 ||*.transparenciacanaa.com.br^$important
