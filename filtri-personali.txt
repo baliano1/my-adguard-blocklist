@@ -162,8 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-20 00:04:55
-||*.123.ywxww.net^$important
+! Ultimo aggiornamento automatico: 2026-10-20 08:08:48
 ||*.135461223.site^$important
 ||*.1717.1000uc.com^$important
 ||*.198-macros.com^$important
@@ -177,7 +176,6 @@
 ||*.360010.cc^$important
 ||*.4eclient.com^$important
 ||*.6145-002.pages.dev^$important
-||*.6ak-tehnik.si^$important
 ||*.6sim.vip^$important
 ||*.7937591907436652.2903619204708293180779359237393uqwge3603.workers.dev^$important
 ||*.7w1y-jc4-n2f-8oz-nmun-hhw.pages.dev^$important
@@ -196,7 +194,10 @@
 ||*.alineeleuterio.com.br^$important
 ||*.allendostmen.com^$important
 ||*.alternativas.ru^$important
+||*.anubisclient.co.uk^$important
 ||*.api.recapcha.fun^$important
+||*.api.xyz-code.biz^$important
+||*.app.app-river.icu^$important
 ||*.app.appzcvb.com^$important
 ||*.areyouready.co.za^$important
 ||*.argon-client.com^$important
@@ -209,7 +210,6 @@
 ||*.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^$important
 ||*.bankruptcyrhodeisland.com^$important
 ||*.bcfxs8821l-dzkpmplx-6k3k0g-rt925p.pages.dev^$important
-||*.beak.in^$important
 ||*.beoauto.alexion.rs^$important
 ||*.bermora-kxt-zenrani-p9t3hk47.pages.dev^$important
 ||*.bermora-kxt-zerveta-p1t6hc28.pages.dev^$important
@@ -253,9 +253,9 @@
 ||*.cdn.wovplaying.help^$important
 ||*.celebratingseniors.net^$important
 ||*.celoechaore.pages.dev^$important
-||*.cepde.org^$important
 ||*.chantcompass9.com^$important
 ||*.chat-server.maverickpreviews.com^$important
+||*.check.okx3.io^$important
 ||*.checkfivem.com^$important
 ||*.cheetoclient.com^$important
 ||*.chuguadventures.co.tz^$important
@@ -291,9 +291,9 @@
 ||*.curated-document-insights.s2503932.workers.dev^$important
 ||*.d.14yaa.com^$important
 ||*.d.wanyouxi7.com^$important
+||*.damiancollier.com^$important
 ||*.data.yhydl.com^$important
 ||*.dcrun.co.uk^$important
-||*.dcwblida.dz^$important
 ||*.deagroup-ks.com^$important
 ||*.debugify.net^$important
 ||*.deepikakalikota14.github.io^$important
@@ -307,6 +307,7 @@
 ||*.dl.1003b.56a.com^$important
 ||*.dl.dzqzd.com^$important
 ||*.dl.natgo.cn^$important
+||*.do.opinionvip.club^$important
 ||*.doc-us-desktop-ledgre.pages.dev^$important
 ||*.docs--trezor---login--io-cdn.typedream.app^$important
 ||*.doctorpizzaband.com^$important
@@ -317,8 +318,10 @@
 ||*.dow-nload-ledger-live--doc.typedream.app^$important
 ||*.down.fwqlt.com^$important
 ||*.down.pcclear.com^$important
+||*.down.qqfarmer.com.cn^$important
 ||*.download.caihong.com^$important
 ||*.download.doumaibiji.cn^$important
+||*.download.foden.site^$important
 ||*.download.haozip.com^$important
 ||*.download.kaobeitu.com^$important
 ||*.download.pdf00.cn^$important
@@ -348,7 +351,6 @@
 ||*.farschid.de^$important
 ||*.fd.v2downf.shop^$important
 ||*.file.blackint3.com^$important
-||*.file.uhsea.com^$important
 ||*.filerit.com^$important
 ||*.files-h5-document-folder-38748.b-cdn.net^$important
 ||*.find-soporte-gps.us^$important
@@ -374,6 +376,7 @@
 ||*.garenafreefire589.blogspot.com^$important
 ||*.gboutros.howto.rocks^$important
 ||*.geoxsecurity.ro^$important
+||*.gestroom.it^$important
 ||*.gitrm.sbs^$important
 ||*.gitsl.xyz^$important
 ||*.gitview.sbs^$important
@@ -397,6 +400,7 @@
 ||*.helpdesk09-26.com^$important
 ||*.hitman-pro.ru^$important
 ||*.hitstation.nl^$important
+||*.horno-rafelet.es^$important
 ||*.hotelhautbuyeg.click^$important
 ||*.hotelhungry.com^$important
 ||*.hseda.com^$important
@@ -447,11 +451,11 @@
 ||*.localizar-appl-apagado.us^$important
 ||*.login-swisspass-verifizierungdeskontos.aureolehome.ae^$important
 ||*.lomejordesalamanca.es^$important
+||*.londonairportstransfer.co.uk^$important
 ||*.losmaterilles0542045.vercel.app^$important
 ||*.lp5286.craftum.io^$important
 ||*.lphone-localizar-apagado.us^$important
 ||*.luizmatoso.com.br^$important
-||*.lumacrea.com^$important
 ||*.luminexclient.com^$important
 ||*.luminexclient.net^$important
 ||*.luminouspower.com.pk^$important
@@ -486,11 +490,11 @@
 ||*.mkconstructions.net^$important
 ||*.mnurlogistics.az^$important
 ||*.mogimall.com^$important
-||*.msedge.vg^$important
 ||*.muaklekcoop.com^$important
 ||*.muledo.com^$important
 ||*.multiplay.at^$important
 ||*.munihuacho.gob.pe^$important
+||*.mx9x.com^$important
 ||*.myktr41dzk-nlgjh84rtv-7n0i1g-bcf17p.pages.dev^$important
 ||*.myktr52lkww-nlgjhwur-4l7l0b-myk44p.pages.dev^$important
 ||*.mysura.it^$important
@@ -505,14 +509,12 @@
 ||*.nova-75.com^$important
 ||*.nova-client.com^$important
 ||*.novidadedasemana.com^$important
-||*.nusatoyota.co.id^$important
 ||*.o77.0a1.mytemp.website^$important
 ||*.obearo.com^$important
 ||*.obterrdescontoss-app.com^$important
 ||*.ocablueconbeneficios.netlify.app^$important
 ||*.odinclient.st^$important
 ||*.office.landeskrankenhaus.sbs^$important
-||*.oim.doganltd.com.tr^$important
 ||*.ojang.pe.kr^$important
 ||*.okhan.net^$important
 ||*.oknoplastik.sk^$important
@@ -534,6 +536,7 @@
 ||*.pee-files.nl^$important
 ||*.pfatrivandrum.org^$important
 ||*.photolivebook.pro^$important
+||*.pictureurl.com^$important
 ||*.polarclient.net^$important
 ||*.polinexclient.org^$important
 ||*.porterneuman.mx^$important
@@ -575,7 +578,6 @@
 ||*.reifenquick.de^$important
 ||*.reservphotoinstay.one^$important
 ||*.reservphotoinstaynow.shop^$important
-||*.reutilizemais.co.mz^$important
 ||*.rheddh.com^$important
 ||*.riderspin.com^$important
 ||*.ritikcoder0017-dev.github.io^$important
@@ -595,9 +597,9 @@
 ||*.sales.ifree.page^$important
 ||*.salesforce-security-verification.com^$important
 ||*.samiksha.com.sg^$important
-||*.samul.elblag.pl^$important
 ||*.santra-biju.github.io^$important
 ||*.sauv.info^$important
+||*.sbmods.top^$important
 ||*.scanbot.me^$important
 ||*.scoala1gherla.ro^$important
 ||*.screenconnect.pro^$important
@@ -628,6 +630,7 @@
 ||*.sk-comtel.com^$important
 ||*.sky.money.irish^$important
 ||*.skyblock-addons.com^$important
+||*.skyvault.help^$important
 ||*.smartermail.host^$important
 ||*.soft.110route.com^$important
 ||*.sorrisokidsfamily.com.br^$important
@@ -673,6 +676,7 @@
 ||*.static.ilclock.com^$important
 ||*.static.topxgun.com^$important
 ||*.static.youdm.cn^$important
+||*.stdown.dinju.com^$important
 ||*.streammobs.com^$important
 ||*.sugarfreedcup.co.za^$important
 ||*.suite-apps-trez-help.netlify.app^$important
@@ -683,7 +687,6 @@
 ||*.sushiandpoke.pt^$important
 ||*.sutterpoint.com^$important
 ||*.svirtual.sanviatorperu.edu.pe^$important
-||*.swiftfusion.tech^$important
 ||*.swscripts.com^$important
 ||*.t3q1.my^$important
 ||*.tangentwaves.com^$important
@@ -722,6 +725,7 @@
 ||*.txorliva-kot648291573.vercel.app^$important
 ||*.tycons.com^$important
 ||*.ug4648.craftum.io^$important
+||*.upaicdn.xinmei365.com^$important
 ||*.upchemicals.co.in^$important
 ||*.update.cg100iii.com^$important
 ||*.us05webzoom.vtcyntrax.us^$important
@@ -842,6 +846,7 @@
 ||*.xunqelo-mpt-favzari-h4d8me63.pages.dev^$important
 ||*.yakult-hk.com^$important
 ||*.yourdesires.shop^$important
+||*.youreonlymassive.com^$important
 ||*.yourspotify-dphxihpbw9kk.edgeone.dev^$important
 ||*.youtransfer.net^$important
 ||*.zamilgroups.com^$important
