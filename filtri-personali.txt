@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-22 16:34:34
+! Ultimo aggiornamento automatico: 2026-10-22 21:09:19
 ||*.022222222z222234.vercel.app^$important
 ||*.12z2zas.pages.dev^$important
 ||*.3658993.cc^$important
