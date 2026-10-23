@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-23 16:23:55
+! Ultimo aggiornamento automatico: 2026-10-23 20:56:11
 ||*.0fd1053acefe1aa5.pwd-whatapp.hl.cn^$important
 ||*.135461223.site^$important
 ||*.1aba1hjb1a.pages.dev^$important
