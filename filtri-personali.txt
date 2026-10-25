@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-25 03:03:23
+! Ultimo aggiornamento automatico: 2026-10-25 10:38:39
 ||*.11sw8-t7r-820c-sjdzr-30-09-2026-hh.pages.dev^$important
 ||*.1581-g1gx-h9a-xsfi-tq8w5f.pages.dev^$important
 ||*.1url.at^$important
