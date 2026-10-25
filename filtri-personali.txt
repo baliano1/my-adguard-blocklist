@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-25 15:29:35
+! Ultimo aggiornamento automatico: 2026-10-25 20:20:21
 ||*.121z2.ralind.at^$important
 ||*.1url.at^$important
 ||*.1xlite-78173.com^$important
