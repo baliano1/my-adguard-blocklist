@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-10-29 17:58:40
+! Ultimo aggiornamento automatico: 2026-10-29 22:38:09
 ||*.198-58-114-217.cprapid.com^$important
 ||*.1p8m9k-8r5p6e-8x1p9z-qw177a82f.pages.dev^$important
 ||*.1r8p9e-qw444a-8k9z1p2m4s-2m8p1s.pages.dev^$important
