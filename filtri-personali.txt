@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-03 13:33:44
+! Ultimo aggiornamento automatico: 2026-11-03 20:45:13
 ||*.1u8m9c-qw111c44y-mbtz1k9p8m2-qwxk.pages.dev^$important
 ||*.3473537194642642.724212131104899351000350572257rpan4tyzzi.workers.dev^$important
 ||*.3r2p8e-qw333agreg-mbtz8p1m9k2-1s9m.pages.dev^$important
