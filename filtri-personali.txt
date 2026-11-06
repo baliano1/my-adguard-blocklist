@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-06 01:20:23
+! Ultimo aggiornamento automatico: 2026-11-06 10:20:23
 ||*.105749816543418403527092576899.roomcaronmoons.sbs^$important
 ||*.121jio.senes.at^$important
 ||*.21a1a1s2.pages.dev^$important
