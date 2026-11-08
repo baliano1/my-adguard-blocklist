@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-08 12:42:13
+! Ultimo aggiornamento automatico: 2026-11-08 19:18:23
 ||*.088wk-ete-fhrc-8tho6-10-09-2026-hh.pages.dev^$important
 ||*.121z2.ralind.at^$important
 ||*.16654422.com^$important
