@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-11 13:29:37
+! Ultimo aggiornamento automatico: 2026-11-11 21:42:39
 ||*.1011fr3-6z19umsj.4everland.app^$important
 ||*.1318841.us23.myftpupload.com^$important
 ||*.1sqwn-1zz-7vmg-4l21y-13-09-2026-hh.pages.dev^$important
