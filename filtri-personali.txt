@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-18 02:42:35
+! Ultimo aggiornamento automatico: 2026-11-18 11:03:10
 ||*.146a3.clatex.at^$important
 ||*.1lasverify-robux-reward-s.blogspot.com^$important
 ||*.44266.eu.cc^$important
