@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-19 02:13:40
+! Ultimo aggiornamento automatico: 2026-11-19 11:04:40
 ||*.0121z3.ralind.at^$important
 ||*.0528173946-kx9m2q-7v1p.pages.dev^$important
 ||*.0vsc7-lfu-eek6-hj6ut-20-09-2026-aa.pages.dev^$important
