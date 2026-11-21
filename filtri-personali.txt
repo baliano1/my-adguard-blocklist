@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-21 01:57:09
+! Ultimo aggiornamento automatico: 2026-11-21 10:36:52
 ||*.0385719264-jwq8m2-x4n7p9ht.pages.dev^$important
 ||*.1qf6n-6h8-yvw0-f8ijf-16-10-2026-aa.pages.dev^$important
 ||*.2023-charter-communications-all-rights-reserved.square.site^$important
