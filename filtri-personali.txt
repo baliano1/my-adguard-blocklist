@@ -162,7 +162,7 @@
 ||*.threemanshop.com^$important
 
 ! --- START OF AUTOMATED FEED ---
-! Ultimo aggiornamento automatico: 2026-11-23 01:22:19
+! Ultimo aggiornamento automatico: 2026-11-23 11:44:36
 ||*.129-121-165-148.cprapid.com^$important
 ||*.1avpc1-intelligence-agentic-models.vercel.app^$important
 ||*.1dumwbbed7.m7-event.com^$important
